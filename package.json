@@ -1,0 +1,17 @@
+{
+  "name": "notion-githubchart",
+  "version": "1.0.0",
+  "description": "GitHub-style chart for Notion data",
+  "scripts": {
+    "fetch-notion-data": "node fetch-notion-data.js",
+    "serve": "npx http-server -p 8080"
+  },
+  "dependencies": {
+    "@google-cloud/local-auth": "^3.0.1",
+    "googleapis": "^144.0.0",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}

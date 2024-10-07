@@ -1,0 +1,82 @@
+[
+  {
+    "date": "2024-09-17T16:00:00Z",
+    "start": "2024-09-17T16:00:00Z",
+    "end": "2024-09-17T19:00:00Z",
+    "value": 1,
+    "summary": "Mindstone Amsterdam AI Meetup",
+    "calendar": "Home"
+  },
+  {
+    "date": "2024-09-21T10:30:00Z",
+    "start": "2024-09-21T10:30:00Z",
+    "end": "2024-09-21T11:30:00Z",
+    "value": 1,
+    "summary": "kosilo",
+    "calendar": "Home"
+  },
+  {
+    "date": "2024-09-22T09:30:00Z",
+    "start": "2024-09-22T09:30:00Z",
+    "end": "2024-09-22T10:30:00Z",
+    "value": 1,
+    "summary": "kosilo",
+    "calendar": "Home"
+  },
+  {
+    "date": "2024-09-22T17:00:00Z",
+    "start": "2024-09-22T17:00:00Z",
+    "end": "2024-09-22T19:00:00Z",
+    "value": 1,
+    "summary": "hanc",
+    "calendar": "Home"
+  },
+  {
+    "date": "2024-09-23T17:00:00Z",
+    "start": "2024-09-23T17:00:00Z",
+    "end": "2024-09-23T19:00:00Z",
+    "value": 1,
+    "summary": "hanc",
+    "calendar": "Home"
+  },
+  {
+    "date": "2024-09-24",
+    "start": "2024-09-24",
+    "end": "2024-09-25",
+    "value": 1,
+    "summary": "Hanci\u2764\ufe0f",
+    "calendar": "Home"
+  },
+  {
+    "date": "2024-09-24T17:30:00Z",
+    "start": "2024-09-24T17:30:00Z",
+    "end": "2024-09-24T19:30:00Z",
+    "value": 1,
+    "summary": "hanc",
+    "calendar": "Home"
+  },
+  {
+    "date": "2024-10-02T13:00:00Z",
+    "start": "2024-10-02T13:00:00Z",
+    "end": "2024-10-02T13:15:00Z",
+    "value": 1,
+    "summary": "New Event",
+    "calendar": "Home"
+  },
+  {
+    "date": "2024-10-03T15:50:00Z",
+    "start": "2024-10-03T15:50:00Z",
+    "end": "2024-10-03T18:23:00Z",
+    "value": 1,
+    "summary": "Joker: Folie \u00e0 Deux",
+    "calendar": "Home"
+  },
+  {
+    "date": "2024-10-05T09:00:00Z",
+    "start": "2024-10-05T09:00:00Z",
+    "end": "2024-10-05T09:50:00Z",
+    "value": 1,
+    "summary": "The ImoveAmsterdam Reformer Pilates Experience @ ImoveAmsterdam Boutique - Reformer Pilates",
+    "calendar": "Home"
+  }
+]

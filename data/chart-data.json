@@ -1,0 +1,626 @@
+[
+  {
+    "date": "2024-09-10T12:30:00+02:00",
+    "value": 1,
+    "summary": "project",
+    "calendar": "Projects"
+  },
+  {
+    "date": "2024-09-10T18:00:00+02:00",
+    "value": 1,
+    "summary": "project",
+    "calendar": "Projects"
+  },
+  {
+    "date": "2024-09-11T14:00:00+02:00",
+    "value": 1,
+    "summary": "project",
+    "calendar": "Projects"
+  },
+  {
+    "date": "2024-09-13T14:00:00+02:00",
+    "value": 1,
+    "summary": "project",
+    "calendar": "Projects"
+  },
+  {
+    "date": "2024-09-21T08:30:00+02:00",
+    "value": 1,
+    "summary": "Proect website ui focus",
+    "calendar": "Projects"
+  },
+  {
+    "date": "2024-09-21T14:30:00+02:00",
+    "value": 1,
+    "summary": "Proect website ui focus",
+    "calendar": "Projects"
+  },
+  {
+    "date": "2024-09-21T18:15:00+02:00",
+    "value": 1,
+    "summary": "Proect website ui focus",
+    "calendar": "Projects"
+  },
+  {
+    "date": "2024-09-21T21:00:00+02:00",
+    "value": 1,
+    "summary": "Proect website ui focus",
+    "calendar": "Projects"
+  },
+  {
+    "date": "2024-09-22T15:00:00+02:00",
+    "value": 1,
+    "summary": "Proect website ui focus",
+    "calendar": "Projects"
+  },
+  {
+    "date": "2024-09-23T08:30:00+02:00",
+    "value": 1,
+    "summary": "Twitter strategy + start",
+    "calendar": "Projects"
+  },
+  {
+    "date": "2024-09-23T14:30:00+02:00",
+    "value": 1,
+    "summary": "Life plan",
+    "calendar": "Projects"
+  },
+  {
+    "date": "2024-09-23T16:00:00+02:00",
+    "value": 1,
+    "summary": "Learning plan",
+    "calendar": "Projects"
+  },
+  {
+    "date": "2024-09-24T18:00:00+02:00",
+    "value": 1,
+    "summary": "Project",
+    "calendar": "Projects"
+  },
+  {
+    "date": "2024-09-07T15:45:00+02:00",
+    "value": 1,
+    "summary": "basket",
+    "calendar": "jonkuhar11@gmail.com"
+  },
+  {
+    "date": "2024-09-07T17:30:00+02:00",
+    "value": 1,
+    "summary": "start posting on x about progress",
+    "calendar": "jonkuhar11@gmail.com"
+  },
+  {
+    "date": "2024-09-10T22:30:00+02:00",
+    "value": 1,
+    "summary": "read",
+    "calendar": "jonkuhar11@gmail.com"
+  },
+  {
+    "date": "2024-09-11T22:30:00+02:00",
+    "value": 1,
+    "summary": "read",
+    "calendar": "jonkuhar11@gmail.com"
+  },
+  {
+    "date": "2024-09-12T22:30:00+02:00",
+    "value": 1,
+    "summary": "read",
+    "calendar": "jonkuhar11@gmail.com"
+  },
+  {
+    "date": "2024-09-13T22:30:00+02:00",
+    "value": 1,
+    "summary": "read",
+    "calendar": "jonkuhar11@gmail.com"
+  },
+  {
+    "date": "2024-09-14T22:30:00+02:00",
+    "value": 1,
+    "summary": "read",
+    "calendar": "jonkuhar11@gmail.com"
+  },
+  {
+    "date": "2024-09-20T08:00:00+02:00",
+    "value": 1,
+    "summary": "work",
+    "calendar": "jonkuhar11@gmail.com"
+  },
+  {
+    "date": "2024-09-21T14:00:00+02:00",
+    "value": 1,
+    "summary": "creative clicks check if there is all data",
+    "calendar": "jonkuhar11@gmail.com"
+  },
+  {
+    "date": "2024-09-21T22:30:00+02:00",
+    "value": 1,
+    "summary": "read",
+    "calendar": "jonkuhar11@gmail.com"
+  },
+  {
+    "date": "2024-09-22T22:30:00+02:00",
+    "value": 1,
+    "summary": "read",
+    "calendar": "jonkuhar11@gmail.com"
+  },
+  {
+    "date": "2024-09-23T22:30:00+02:00",
+    "value": 1,
+    "summary": "read",
+    "calendar": "jonkuhar11@gmail.com"
+  },
+  {
+    "date": "2024-09-24T22:30:00+02:00",
+    "value": 1,
+    "summary": "read",
+    "calendar": "jonkuhar11@gmail.com"
+  },
+  {
+    "date": "2024-09-25T22:30:00+02:00",
+    "value": 1,
+    "summary": "read",
+    "calendar": "jonkuhar11@gmail.com"
+  },
+  {
+    "date": "2024-09-26T08:00:00+02:00",
+    "value": 1,
+    "summary": "work",
+    "calendar": "jonkuhar11@gmail.com"
+  },
+  {
+    "date": "2024-09-26T22:30:00+02:00",
+    "value": 1,
+    "summary": "read",
+    "calendar": "jonkuhar11@gmail.com"
+  },
+  {
+    "date": "2024-09-27T09:00:00+02:00",
+    "value": 1,
+    "summary": "Flight to Amsterdam (HV 6820)",
+    "calendar": "jonkuhar11@gmail.com"
+  },
+  {
+    "date": "2024-09-27T22:30:00+02:00",
+    "value": 1,
+    "summary": "read",
+    "calendar": "jonkuhar11@gmail.com"
+  },
+  {
+    "date": "2024-09-28T22:30:00+02:00",
+    "value": 1,
+    "summary": "read",
+    "calendar": "jonkuhar11@gmail.com"
+  },
+  {
+    "date": "2024-09-29T22:30:00+02:00",
+    "value": 1,
+    "summary": "read",
+    "calendar": "jonkuhar11@gmail.com"
+  },
+  {
+    "date": "2024-09-30T22:30:00+02:00",
+    "value": 1,
+    "summary": "read",
+    "calendar": "jonkuhar11@gmail.com"
+  },
+  {
+    "date": "2024-10-01T22:30:00+02:00",
+    "value": 1,
+    "summary": "read",
+    "calendar": "jonkuhar11@gmail.com"
+  },
+  {
+    "date": "2024-10-02T22:30:00+02:00",
+    "value": 1,
+    "summary": "read",
+    "calendar": "jonkuhar11@gmail.com"
+  },
+  {
+    "date": "2024-10-03T22:30:00+02:00",
+    "value": 1,
+    "summary": "read",
+    "calendar": "jonkuhar11@gmail.com"
+  },
+  {
+    "date": "2024-10-04T08:00:00+02:00",
+    "value": 1,
+    "summary": "work",
+    "calendar": "jonkuhar11@gmail.com"
+  },
+  {
+    "date": "2024-10-04T22:30:00+02:00",
+    "value": 1,
+    "summary": "read",
+    "calendar": "jonkuhar11@gmail.com"
+  },
+  {
+    "date": "2024-10-05T22:30:00+02:00",
+    "value": 1,
+    "summary": "read",
+    "calendar": "jonkuhar11@gmail.com"
+  },
+  {
+    "date": "2024-10-06T06:40:00+02:00",
+    "value": 1,
+    "summary": "Flight to Ljubljana (HV 6819)",
+    "calendar": "jonkuhar11@gmail.com"
+  },
+  {
+    "date": "2024-10-06T22:30:00+02:00",
+    "value": 1,
+    "summary": "read",
+    "calendar": "jonkuhar11@gmail.com"
+  },
+  {
+    "date": "2024-10-07T06:00:00+02:00",
+    "value": 1,
+    "summary": "wake up",
+    "calendar": "jonkuhar11@gmail.com"
+  },
+  {
+    "date": "2024-10-07T14:00:00+02:00",
+    "value": 1,
+    "summary": "lunch",
+    "calendar": "jonkuhar11@gmail.com"
+  },
+  {
+    "date": "2024-09-17T16:00:00Z",
+    "value": 1,
+    "summary": "Mindstone Amsterdam AI Meetup",
+    "calendar": "Home"
+  },
+  {
+    "date": "2024-09-21T10:30:00Z",
+    "value": 1,
+    "summary": "kosilo",
+    "calendar": "Home"
+  },
+  {
+    "date": "2024-09-22T09:30:00Z",
+    "value": 1,
+    "summary": "kosilo",
+    "calendar": "Home"
+  },
+  {
+    "date": "2024-09-22T17:00:00Z",
+    "value": 1,
+    "summary": "hanc",
+    "calendar": "Home"
+  },
+  {
+    "date": "2024-09-23T17:00:00Z",
+    "value": 1,
+    "summary": "hanc",
+    "calendar": "Home"
+  },
+  {
+    "date": "2024-09-24",
+    "value": 1,
+    "summary": "Hanci\u2764\ufe0f",
+    "calendar": "Home"
+  },
+  {
+    "date": "2024-09-24T17:30:00Z",
+    "value": 1,
+    "summary": "hanc",
+    "calendar": "Home"
+  },
+  {
+    "date": "2024-10-02T13:00:00Z",
+    "value": 1,
+    "summary": "New Event",
+    "calendar": "Home"
+  },
+  {
+    "date": "2024-10-03T15:50:00Z",
+    "value": 1,
+    "summary": "Joker: Folie \u00e0 Deux",
+    "calendar": "Home"
+  },
+  {
+    "date": "2024-10-05T09:00:00Z",
+    "value": 1,
+    "summary": "The ImoveAmsterdam Reformer Pilates Experience @ ImoveAmsterdam Boutique - Reformer Pilates",
+    "calendar": "Home"
+  },
+  {
+    "date": "2024-09-17T08:00:00+02:00",
+    "value": 1,
+    "summary": "work",
+    "calendar": "Work creative clicks"
+  },
+  {
+    "date": "2024-09-24T08:00:00+02:00",
+    "value": 1,
+    "summary": "work",
+    "calendar": "Work creative clicks"
+  },
+  {
+    "date": "2024-10-01T08:00:00+02:00",
+    "value": 1,
+    "summary": "work",
+    "calendar": "Work creative clicks"
+  },
+  {
+    "date": "2024-09-10T08:30:00+02:00",
+    "value": 1,
+    "summary": "legs",
+    "calendar": "Fitness"
+  },
+  {
+    "date": "2024-09-10T17:30:00+02:00",
+    "value": 1,
+    "summary": "short workout",
+    "calendar": "Fitness"
+  },
+  {
+    "date": "2024-09-11T07:30:00+02:00",
+    "value": 1,
+    "summary": "push",
+    "calendar": "Fitness"
+  },
+  {
+    "date": "2024-09-11T16:00:00+02:00",
+    "value": 1,
+    "summary": "short workout",
+    "calendar": "Fitness"
+  },
+  {
+    "date": "2024-09-13T07:30:00+02:00",
+    "value": 1,
+    "summary": "pull",
+    "calendar": "Fitness"
+  },
+  {
+    "date": "2024-09-14T07:30:00+02:00",
+    "value": 1,
+    "summary": "legs",
+    "calendar": "Fitness"
+  },
+  {
+    "date": "2024-09-15T13:00:00+02:00",
+    "value": 1,
+    "summary": "football",
+    "calendar": "Fitness"
+  },
+  {
+    "date": "2024-09-21T07:00:00+02:00",
+    "value": 1,
+    "summary": "pull",
+    "calendar": "Fitness"
+  },
+  {
+    "date": "2024-09-21T17:30:00+02:00",
+    "value": 1,
+    "summary": "basket",
+    "calendar": "Fitness"
+  },
+  {
+    "date": "2024-09-22T07:00:00+02:00",
+    "value": 1,
+    "summary": "push",
+    "calendar": "Fitness"
+  },
+  {
+    "date": "2024-09-22T13:00:00+02:00",
+    "value": 1,
+    "summary": "football",
+    "calendar": "Fitness"
+  },
+  {
+    "date": "2024-09-23T07:00:00+02:00",
+    "value": 1,
+    "summary": "legs",
+    "calendar": "Fitness"
+  },
+  {
+    "date": "2024-09-25T07:00:00+02:00",
+    "value": 1,
+    "summary": "push",
+    "calendar": "Fitness"
+  },
+  {
+    "date": "2024-09-26T07:00:00+02:00",
+    "value": 1,
+    "summary": "push",
+    "calendar": "Fitness"
+  },
+  {
+    "date": "2024-09-27T07:00:00+02:00",
+    "value": 1,
+    "summary": "push",
+    "calendar": "Fitness"
+  },
+  {
+    "date": "2024-09-28T07:00:00+02:00",
+    "value": 1,
+    "summary": "push",
+    "calendar": "Fitness"
+  },
+  {
+    "date": "2024-09-29T13:00:00+02:00",
+    "value": 1,
+    "summary": "football",
+    "calendar": "Fitness"
+  },
+  {
+    "date": "2024-10-02T07:00:00+02:00",
+    "value": 1,
+    "summary": "pull",
+    "calendar": "Fitness"
+  },
+  {
+    "date": "2024-10-03T06:45:00+02:00",
+    "value": 1,
+    "summary": "push",
+    "calendar": "Fitness"
+  },
+  {
+    "date": "2024-10-06T13:00:00+02:00",
+    "value": 1,
+    "summary": "football",
+    "calendar": "Fitness"
+  },
+  {
+    "date": "2024-10-07T06:30:00+02:00",
+    "value": 1,
+    "summary": "gym push",
+    "calendar": "Fitness"
+  },
+  {
+    "date": "2024-09-11T09:00:00+02:00",
+    "value": 1,
+    "summary": "uni papers read",
+    "calendar": "University studying"
+  },
+  {
+    "date": "2024-09-12T09:00:00+02:00",
+    "value": 1,
+    "summary": "uni papers read",
+    "calendar": "University studying"
+  },
+  {
+    "date": "2024-09-12T13:00:00+02:00",
+    "value": 1,
+    "summary": "individual reflection assi",
+    "calendar": "University studying"
+  },
+  {
+    "date": "2024-09-12T13:30:00+02:00",
+    "value": 1,
+    "summary": "uni papers next week + quac",
+    "calendar": "University studying"
+  },
+  {
+    "date": "2024-09-13T10:00:00+02:00",
+    "value": 1,
+    "summary": "assignemnt",
+    "calendar": "University studying"
+  },
+  {
+    "date": "2024-09-16T13:30:00+02:00",
+    "value": 1,
+    "summary": "Assignemnt",
+    "calendar": "University studying"
+  },
+  {
+    "date": "2024-09-21T06:30:00+02:00",
+    "value": 1,
+    "summary": "wake up + strech",
+    "calendar": "University studying"
+  },
+  {
+    "date": "2024-09-22T06:30:00+02:00",
+    "value": 1,
+    "summary": "wake up + strech",
+    "calendar": "University studying"
+  },
+  {
+    "date": "2024-09-22T08:30:00+02:00",
+    "value": 1,
+    "summary": "faks ",
+    "calendar": "University studying"
+  },
+  {
+    "date": "2024-09-23T06:30:00+02:00",
+    "value": 1,
+    "summary": "wake up + strech",
+    "calendar": "University studying"
+  },
+  {
+    "date": "2024-09-24T06:30:00+02:00",
+    "value": 1,
+    "summary": "wake up + strech",
+    "calendar": "University studying"
+  },
+  {
+    "date": "2024-09-25T06:30:00+02:00",
+    "value": 1,
+    "summary": "wake up + strech",
+    "calendar": "University studying"
+  },
+  {
+    "date": "2024-09-26T06:30:00+02:00",
+    "value": 1,
+    "summary": "wake up + strech",
+    "calendar": "University studying"
+  },
+  {
+    "date": "2024-09-27T06:30:00+02:00",
+    "value": 1,
+    "summary": "wake up + strech",
+    "calendar": "University studying"
+  },
+  {
+    "date": "2024-09-28T06:30:00+02:00",
+    "value": 1,
+    "summary": "wake up + strech",
+    "calendar": "University studying"
+  },
+  {
+    "date": "2024-09-29T06:30:00+02:00",
+    "value": 1,
+    "summary": "wake up + strech",
+    "calendar": "University studying"
+  },
+  {
+    "date": "2024-09-30T06:30:00+02:00",
+    "value": 1,
+    "summary": "wake up + strech",
+    "calendar": "University studying"
+  },
+  {
+    "date": "2024-10-01T06:30:00+02:00",
+    "value": 1,
+    "summary": "wake up + strech",
+    "calendar": "University studying"
+  },
+  {
+    "date": "2024-10-02T06:30:00+02:00",
+    "value": 1,
+    "summary": "wake up + strech",
+    "calendar": "University studying"
+  },
+  {
+    "date": "2024-10-03T06:30:00+02:00",
+    "value": 1,
+    "summary": "wake up + strech",
+    "calendar": "University studying"
+  },
+  {
+    "date": "2024-10-04T17:30:00+02:00",
+    "value": 1,
+    "summary": "wake up + strech",
+    "calendar": "University studying"
+  },
+  {
+    "date": "2024-10-05T06:30:00+02:00",
+    "value": 1,
+    "summary": "wake up + strech",
+    "calendar": "University studying"
+  },
+  {
+    "date": "2024-10-06T06:30:00+02:00",
+    "value": 1,
+    "summary": "wake up + strech",
+    "calendar": "University studying"
+  },
+  {
+    "date": "2024-10-07T08:00:00+02:00",
+    "value": 1,
+    "summary": "Mojo mate, research for marketing",
+    "calendar": "University studying"
+  },
+  {
+    "date": "2024-10-07T13:00:00+02:00",
+    "value": 1,
+    "summary": "mojo mate meeting",
+    "calendar": "University studying"
+  },
+  {
+    "date": "2024-10-07T15:00:00+02:00",
+    "value": 1,
+    "summary": "Assignment Cas",
+    "calendar": "University studying"
+  }
+]
