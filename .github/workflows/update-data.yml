@@ -20,8 +20,6 @@ jobs:
           pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
       - name: Fetch Google Calendar data
         run: python fetch_google_calendar_data.py
-        env:
-          GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
       - name: Commit and push if changed
         run: |
           git config --global user.name 'GitHub Action'
