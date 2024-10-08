@@ -288,14 +288,6 @@
     "calendar": "jonkuhar11@gmail.com"
   },
   {
-    "date": "2024-10-06T22:30:00+02:00",
-    "start": "2024-10-06T22:30:00+02:00",
-    "end": "2024-10-06T23:00:00+02:00",
-    "value": 1,
-    "summary": "read",
-    "calendar": "jonkuhar11@gmail.com"
-  },
-  {
     "date": "2024-10-07T06:00:00+02:00",
     "start": "2024-10-07T06:00:00+02:00",
     "end": "2024-10-07T06:30:00+02:00",
@@ -317,6 +309,14 @@
     "end": "2024-10-07T19:00:00+02:00",
     "value": 1,
     "summary": "dinner",
+    "calendar": "jonkuhar11@gmail.com"
+  },
+  {
+    "date": "2024-10-07T19:45:00+02:00",
+    "start": "2024-10-07T19:45:00+02:00",
+    "end": "2024-10-07T21:15:00+02:00",
+    "value": 1,
+    "summary": "Hanc",
     "calendar": "jonkuhar11@gmail.com"
   }
 ]
