@@ -30,6 +30,17 @@
             padding: 1rem;
             overflow: hidden;
             margin-bottom: 20px;
+            position: relative; /* Add this */
+            padding-bottom: 40px; /* Increase padding to accommodate buttons and legend */
+        }
+        .button-legend-container {
+            position: absolute;
+            bottom: 10px;
+            left: 10px;
+            right: 10px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
         }
         .button {
             display: inline-block;
@@ -42,14 +53,42 @@
             margin-top: 10px;
         }
         .legend-container {
-            float: right;
+            position: static; /* Change from absolute to static */
             font-size: 12px;
-        }
-        .legend-label {
-            color: #768390;
         }
         .ch-subdomain-bg {
             fill: #2d333b;
+        }
+        .half-width {
+            width: 48%;
+            display: inline-block;
+            vertical-align: top;
+        }
+        @media (max-width: 768px) {
+            .half-width {
+                width: 100%;
+                display: block;
+            }
+        }
+        .calendar-row {
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            margin: 0 -10px; /* Negative margin to counteract padding on children */
+        }
+        .calendar-container.half-width {
+            width: calc(50% - 20px); /* 50% width minus padding */
+            margin: 0 10px 20px; /* Add horizontal margin and bottom margin */
+            box-sizing: border-box; /* Include padding in width calculation */
+        }
+        @media (max-width: 768px) {
+            .calendar-container.half-width {
+                width: 100%;
+                margin: 0 0 20px; /* Remove horizontal margin on mobile */
+            }
+        }
+        .button-container {
+            /* Remove margin-top if it exists */
         }
     </style>
 </head>
@@ -57,24 +96,66 @@
     <div class="calendar-container">
         <h2>Fitness Calendar</h2>
         <div id="fitness-calendar" class="margin-bottom--md"></div>
-        <a href="#" class="button" id="fitness-prev-button">← Previous</a>
-        <a href="#" class="button" id="fitness-next-button">Next →</a>
-        <div class="legend-container">
-            <span class="legend-label">Less</span>
-            <div id="fitness-legend" style="display: inline-block; margin: 0 4px;"></div>
-            <span class="legend-label">More</span>
+        <div class="button-legend-container">
+            <div class="button-container">
+                <a href="#" class="button" id="fitness-prev-button">← Previous</a>
+                <a href="#" class="button" id="fitness-next-button">Next →</a>
+            </div>
+            <div class="legend-container">
+                <span class="legend-label">Less</span>
+                <div id="fitness-legend" style="display: inline-block; margin: 0 4px;"></div>
+                <span class="legend-label">More</span>
+            </div>
         </div>
     </div>
 
     <div class="calendar-container">
         <h2>Projects Calendar</h2>
         <div id="projects-calendar" class="margin-bottom--md"></div>
-        <a href="#" class="button" id="projects-prev-button">← Previous</a>
-        <a href="#" class="button" id="projects-next-button">Next →</a>
-        <div class="legend-container">
-            <span class="legend-label">Less</span>
-            <div id="projects-legend" style="display: inline-block; margin: 0 4px;"></div>
-            <span class="legend-label">More</span>
+        <div class="button-legend-container">
+            <div class="button-container">
+                <a href="#" class="button" id="projects-prev-button">← Previous</a>
+                <a href="#" class="button" id="projects-next-button">Next →</a>
+            </div>
+            <div class="legend-container">
+                <span class="legend-label">Less</span>
+                <div id="projects-legend" style="display: inline-block; margin: 0 4px;"></div>
+                <span class="legend-label">More</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="calendar-row">
+        <div class="calendar-container half-width">
+            <h2>Morning Routine Calendar</h2>
+            <div id="morning-routine-calendar" class="margin-bottom--md"></div>
+            <div class="button-legend-container">
+                <div class="button-container">
+                    <a href="#" class="button" id="morning-routine-prev-button">← Previous</a>
+                    <a href="#" class="button" id="morning-routine-next-button">Next →</a>
+                </div>
+                <div class="legend-container">
+                    <span class="legend-label">Less</span>
+                    <div id="morning-routine-legend" style="display: inline-block; margin: 0 4px;"></div>
+                    <span class="legend-label">More</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="calendar-container half-width">
+            <h2>Short Workout Calendar</h2>
+            <div id="short-workout-calendar" class="margin-bottom--md"></div>
+            <div class="button-legend-container">
+                <div class="button-container">
+                    <a href="#" class="button" id="short-workout-prev-button">← Previous</a>
+                    <a href="#" class="button" id="short-workout-next-button">Next →</a>
+                </div>
+                <div class="legend-container">
+                    <span class="legend-label">Less</span>
+                    <div id="short-workout-legend" style="display: inline-block; margin: 0 4px;"></div>
+                    <span class="legend-label">More</span>
+                </div>
+            </div>
         </div>
     </div>
 

@@ -1444,7 +1444,8 @@
     "end": "2024-10-09T07:30:00+02:00",
     "value": 1,
     "summary": "gym pull",
-    "calendar": "Fitness"
+    "calendar": "Fitness",
+    "deleted": true
   },
   {
     "date": "2024-10-09T15:30:00+02:00",

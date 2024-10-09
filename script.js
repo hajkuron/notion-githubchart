@@ -1,5 +1,7 @@
 const fitnessCalendar = new CalHeatmap();
 const projectsCalendar = new CalHeatmap();
+const morningRoutineCalendar = new CalHeatmap();
+const shortWorkoutCalendar = new CalHeatmap();
 
 async function fetchChartData(calendarName) {
     try {
@@ -16,7 +18,20 @@ async function fetchChartData(calendarName) {
     }
 }
 
-async function initializeCalendar(cal, data, containerId, legendId, colorScheme) {
+function processRoutinesData(data, isMorningRoutine) {
+    return data.filter(item => {
+        const summary = item.summary.toLowerCase();
+        return isMorningRoutine ? 
+            summary === "morning routine" : 
+            summary === "short workout";
+    }).map(item => ({
+        date: item.date,
+        value: item.description.includes("Completed") ? 1 : 
+               item.description.includes("Partially") ? 0.5 : 0
+    }));
+}
+
+async function initializeCalendar(cal, data, containerId, legendId, colorScheme, routineType) {
     console.log(`Initializing calendar for ${containerId} with data:`, data);
     try {
         cal.paint(
@@ -26,7 +41,7 @@ async function initializeCalendar(cal, data, containerId, legendId, colorScheme)
                     x: 'date',
                     y: 'value',
                 },
-                date: { start: new Date('2024-01-01') },
+                date: { start: new Date('2024-09-01') },  // Changed to September 1, 2024
                 range: 12,
                 scale: {
                     color: {
@@ -55,11 +70,9 @@ async function initializeCalendar(cal, data, containerId, legendId, colorScheme)
                     Tooltip,
                     {
                         text: function (date, value, dayjsDate) {
-                            return (
-                                (value !== null ? value : 'No') +
-                                ' contributions on ' +
-                                dayjs(dayjsDate).format('dddd, MMMM D, YYYY')
-                            );
+                            return value !== null ?
+                                `${value} ${routineType} on ${dayjs(dayjsDate).format('dddd, MMMM D, YYYY')}` :
+                                `No ${routineType} data on ${dayjs(dayjsDate).format('dddd, MMMM D, YYYY')}`;
                         },
                     },
                 ],
@@ -95,20 +108,33 @@ async function initializeCalendars() {
     try {
         const fitnessData = await fetchChartData('Fitness');
         const projectsData = await fetchChartData('Projects');
+        const routinesData = await fetchChartData('Routines');
         
         const greenColorScheme = ['#0e4429', '#006d32', '#26a641', '#39d353'];
         const blueColorScheme = ['#0a3069', '#0d4a6e', '#0969da', '#54aeff'];
+        const orangeColorScheme = ['#3d1e00', '#7a2e00', '#bd4b00', '#fb8f44'];
+        const purpleColorScheme = ['#3c1e79', '#5e35b1', '#7e57c2', '#b39ddb'];
         
         if (fitnessData.length === 0) {
             console.error('No data available for Fitness calendar');
         } else {
-            await initializeCalendar(fitnessCalendar, fitnessData, 'fitness-calendar', 'fitness-legend', greenColorScheme);
+            await initializeCalendar(fitnessCalendar, fitnessData, 'fitness-calendar', 'fitness-legend', greenColorScheme, 'Fitness');
         }
         
         if (projectsData.length === 0) {
             console.error('No data available for Projects calendar');
         } else {
-            await initializeCalendar(projectsCalendar, projectsData, 'projects-calendar', 'projects-legend', blueColorScheme);
+            await initializeCalendar(projectsCalendar, projectsData, 'projects-calendar', 'projects-legend', blueColorScheme, 'Projects');
+        }
+
+        if (routinesData.length === 0) {
+            console.error('No data available for Routines calendar');
+        } else {
+            const morningRoutineData = processRoutinesData(routinesData, true);
+            const shortWorkoutData = processRoutinesData(routinesData, false);
+            
+            await initializeCalendar(morningRoutineCalendar, morningRoutineData, 'morning-routine-calendar', 'morning-routine-legend', orangeColorScheme, 'Morning Routine');
+            await initializeCalendar(shortWorkoutCalendar, shortWorkoutData, 'short-workout-calendar', 'short-workout-legend', purpleColorScheme, 'Short Workout');
         }
     } catch (error) {
         console.error('Error initializing calendars:', error);
@@ -135,6 +161,14 @@ projectsCalendar.on('error', (error) => {
     console.error('Projects Calendar error:', error);
 });
 
+morningRoutineCalendar.on('error', (error) => {
+    console.error('Morning Routine Calendar error:', error);
+});
+
+shortWorkoutCalendar.on('error', (error) => {
+    console.error('Short Workout Calendar error:', error);
+});
+
 document.getElementById('fitness-prev-button').addEventListener('click', (e) => {
     e.preventDefault();
     fitnessCalendar.previous();
@@ -153,4 +187,24 @@ document.getElementById('projects-prev-button').addEventListener('click', (e) =>
 document.getElementById('projects-next-button').addEventListener('click', (e) => {
     e.preventDefault();
     projectsCalendar.next();
+});
+
+document.getElementById('morning-routine-prev-button').addEventListener('click', (e) => {
+    e.preventDefault();
+    morningRoutineCalendar.previous();
+});
+
+document.getElementById('morning-routine-next-button').addEventListener('click', (e) => {
+    e.preventDefault();
+    morningRoutineCalendar.next();
+});
+
+document.getElementById('short-workout-prev-button').addEventListener('click', (e) => {
+    e.preventDefault();
+    shortWorkoutCalendar.previous();
+});
+
+document.getElementById('short-workout-next-button').addEventListener('click', (e) => {
+    e.preventDefault();
+    shortWorkoutCalendar.next();
 });
