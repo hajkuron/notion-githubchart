@@ -22,5 +22,13 @@
     "value": 1,
     "summary": "work",
     "calendar": "Work creative clicks"
+  },
+  {
+    "date": "2024-10-08T08:00:00+02:00",
+    "start": "2024-10-08T08:00:00+02:00",
+    "end": "2024-10-08T15:00:00+02:00",
+    "value": 1,
+    "summary": "work",
+    "calendar": "Work creative clicks"
   }
 ]

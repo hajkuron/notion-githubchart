@@ -166,5 +166,13 @@
     "value": 1,
     "summary": "gym push",
     "calendar": "Fitness"
+  },
+  {
+    "date": "2024-10-08T06:30:00+02:00",
+    "start": "2024-10-08T06:30:00+02:00",
+    "end": "2024-10-08T06:45:00+02:00",
+    "value": 0.5,
+    "summary": "rest day",
+    "calendar": "Fitness"
   }
 ]
