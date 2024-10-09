@@ -348,7 +348,7 @@
     "value": 1,
     "summary": "lunch",
     "calendar": "jonkuhar11@gmail.com",
-    "deleted": false
+    "deleted": true
   },
   {
     "date": "2024-09-17T16:00:00Z",
@@ -1381,5 +1381,101 @@
     "value": 1,
     "summary": "assignment cas",
     "calendar": "University studying"
+  },
+  {
+    "date": "2024-10-07T07:45:00+02:00",
+    "start": "2024-10-07T07:45:00+02:00",
+    "end": "2024-10-07T08:45:00+02:00",
+    "value": 1,
+    "summary": "New Event",
+    "calendar": "jonkuhar11@gmail.com"
+  },
+  {
+    "date": "2024-10-09T06:00:00+02:00",
+    "start": "2024-10-09T06:00:00+02:00",
+    "end": "2024-10-09T06:30:00+02:00",
+    "value": 1,
+    "summary": "wake up",
+    "calendar": "jonkuhar11@gmail.com"
+  },
+  {
+    "date": "2024-10-09T14:00:00+02:00",
+    "start": "2024-10-09T14:00:00+02:00",
+    "end": "2024-10-09T14:30:00+02:00",
+    "value": 1,
+    "summary": "lunch",
+    "calendar": "jonkuhar11@gmail.com"
+  },
+  {
+    "date": "2024-10-09T18:30:00+02:00",
+    "start": "2024-10-09T18:30:00+02:00",
+    "end": "2024-10-09T19:00:00+02:00",
+    "value": 1,
+    "summary": "dinner",
+    "calendar": "jonkuhar11@gmail.com"
+  },
+  {
+    "date": "2024-10-09T19:00:00+02:00",
+    "start": "2024-10-09T19:00:00+02:00",
+    "end": "2024-10-09T21:00:00+02:00",
+    "value": 1,
+    "summary": "Hanc",
+    "calendar": "jonkuhar11@gmail.com"
+  },
+  {
+    "date": "2024-10-09T21:31:00+02:00",
+    "start": "2024-10-09T21:31:00+02:00",
+    "end": "2024-10-09T22:16:00+02:00",
+    "value": 1,
+    "summary": "New Event",
+    "calendar": "jonkuhar11@gmail.com"
+  },
+  {
+    "date": "2024-10-09T08:00:00+02:00",
+    "start": "2024-10-09T08:00:00+02:00",
+    "end": "2024-10-09T15:00:00+02:00",
+    "value": 1,
+    "summary": "work from home",
+    "calendar": "Work creative clicks"
+  },
+  {
+    "date": "2024-10-09T06:30:00+02:00",
+    "start": "2024-10-09T06:30:00+02:00",
+    "end": "2024-10-09T07:30:00+02:00",
+    "value": 1,
+    "summary": "gym pull",
+    "calendar": "Fitness"
+  },
+  {
+    "date": "2024-10-09T15:30:00+02:00",
+    "start": "2024-10-09T15:30:00+02:00",
+    "end": "2024-10-09T18:30:00+02:00",
+    "value": 1,
+    "summary": "Full stack app, finish",
+    "calendar": "Projects"
+  },
+  {
+    "date": "2024-10-09T18:00:00+02:00",
+    "start": "2024-10-09T18:00:00+02:00",
+    "end": "2024-10-09T19:00:00+02:00",
+    "value": 1,
+    "summary": "AI Engineering Bootcamp -  First Class Free",
+    "calendar": "Projects"
+  },
+  {
+    "date": "2024-10-08T08:00:00+02:00",
+    "start": "2024-10-08T08:00:00+02:00",
+    "end": "2024-10-08T08:15:00+02:00",
+    "value": 1,
+    "summary": "Daily 60*60*3",
+    "calendar": "Routines"
+  },
+  {
+    "date": "2024-10-09T08:00:00+02:00",
+    "start": "2024-10-09T08:00:00+02:00",
+    "end": "2024-10-09T08:15:00+02:00",
+    "value": 1,
+    "summary": "Daily 60*60*3",
+    "calendar": "Routines"
   }
 ]

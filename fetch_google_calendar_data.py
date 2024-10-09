@@ -41,6 +41,8 @@ def get_calendar_events(service, calendar_id='primary', time_min=None, time_max=
             event['calendar_name'] = calendar_name
             if 'summary' not in event:
                 event['summary'] = '(No title)'
+            # Add description to the event, or '(No description)' if it's missing
+            event['description'] = event.get('description', '(No description)')
             filtered_events.append(event)
     
     return filtered_events
@@ -94,25 +96,30 @@ def process_and_save_data():
         calendars_to_exclude = [
             "jonkuhar11@gmail.com",
             "University of Amsterdam - Personal timetable: 13597698@uva.nl",
-            "VU Amsterdam - Personal timetable: Kuhar, J. (Jon)"
+            "VU Amsterdam - Personal timetable: Kuhar, J. (Jon)",
+            "3eqkug64cc9rpbi0srd8mdoin01vl9l8@import.calendar.google.com",
+            "24apf9qtnt0m4o0d0rsph9qibap9rfrm@import.calendar.google.com"
         ]
 
         # Dictionary to store events for each calendar
         calendar_events = {}
 
         for calendar_id in calendar_ids:
-            events = get_calendar_events(service, calendar_id, time_min, time_max, calendars_to_exclude)
+            # Get the calendar name before fetching events
+            calendar = service.calendars().get(calendarId=calendar_id).execute()
+            calendar_name = calendar['summary']
+            
+            # Skip calendars in the exclusion list
+            if calendar_name in calendars_to_exclude or calendar_id in calendars_to_exclude:
+                print(f"Skipping excluded calendar: {calendar_name}")
+                continue
+
+            events = get_calendar_events(service, calendar_id, time_min, time_max)
             if events:
-                calendar_name = events[0]['calendar_name']
                 calendar_events[calendar_name] = events
                 print(f"Fetched {len(events)} events from calendar: {calendar_name}")
             else:
-                # Print debug information for calendars with no events
-                calendar = service.calendars().get(calendarId=calendar_id).execute()
-                calendar_name = calendar['summary']
                 print(f"No events fetched from calendar: {calendar_name}")
-                if calendar_name in calendars_to_exclude:
-                    print(f"  Note: This calendar is in the exclusion list.")
 
         print(f"Fetched events from {len(calendar_events)} calendars.")
 
@@ -128,6 +135,7 @@ def process_and_save_data():
                     "end": event['end'].get('dateTime', event['end'].get('date')),
                     "value": 0.5 if calendar_name == "Fitness" and "rest" in event['summary'].lower() else 1,
                     "summary": event['summary'],
+                    "description": event['description'],
                     "calendar": event['calendar_name']
                 }
                 for event in events
