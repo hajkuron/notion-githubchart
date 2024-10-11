@@ -196,5 +196,23 @@
     "summary": "rest day",
     "description": "(No description)",
     "calendar": "Fitness"
+  },
+  {
+    "date": "2024-10-09T06:30:00+02:00",
+    "start": "2024-10-09T06:30:00+02:00",
+    "end": "2024-10-09T07:30:00+02:00",
+    "value": 1,
+    "summary": "gym legs",
+    "description": "(No description)",
+    "calendar": "Fitness"
+  },
+  {
+    "date": "2024-10-10T06:30:00+02:00",
+    "start": "2024-10-10T06:30:00+02:00",
+    "end": "2024-10-10T07:30:00+02:00",
+    "value": 1,
+    "summary": "gym legs",
+    "description": "(No description)",
+    "calendar": "Fitness"
   }
 ]

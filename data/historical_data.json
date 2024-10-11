@@ -1443,9 +1443,9 @@
     "start": "2024-10-09T06:30:00+02:00",
     "end": "2024-10-09T07:30:00+02:00",
     "value": 1,
-    "summary": "gym pull",
-    "calendar": "Fitness",
-    "deleted": true
+    "summary": "gym legs",
+    "description": "(No description)",
+    "calendar": "Fitness"
   },
   {
     "date": "2024-10-09T15:30:00+02:00",
@@ -1487,5 +1487,59 @@
     "summary": "mm",
     "description": "(No description)",
     "calendar": "Home"
+  },
+  {
+    "date": "2024-10-10T06:30:00+02:00",
+    "start": "2024-10-10T06:30:00+02:00",
+    "end": "2024-10-10T07:30:00+02:00",
+    "value": 1,
+    "summary": "gym legs",
+    "description": "(No description)",
+    "calendar": "Fitness"
+  },
+  {
+    "date": "2024-10-10T13:00:00+02:00",
+    "start": "2024-10-10T13:00:00+02:00",
+    "end": "2024-10-10T15:00:00+02:00",
+    "value": 1,
+    "summary": "assignment Cas",
+    "description": "(No description)",
+    "calendar": "University studying"
+  },
+  {
+    "date": "2024-10-10T15:00:00+02:00",
+    "start": "2024-10-10T15:00:00+02:00",
+    "end": "2024-10-10T15:30:00+02:00",
+    "value": 1,
+    "summary": "coaching VU",
+    "description": "(No description)",
+    "calendar": "University studying"
+  },
+  {
+    "date": "2024-10-10T08:00:00+02:00",
+    "start": "2024-10-10T08:00:00+02:00",
+    "end": "2024-10-10T10:15:00+02:00",
+    "value": 1,
+    "summary": "New Event",
+    "description": "(No description)",
+    "calendar": "Projects"
+  },
+  {
+    "date": "2024-10-10T16:00:00+02:00",
+    "start": "2024-10-10T16:00:00+02:00",
+    "end": "2024-10-10T18:30:00+02:00",
+    "value": 1,
+    "summary": "New Event",
+    "description": "(No description)",
+    "calendar": "Projects"
+  },
+  {
+    "date": "2024-10-10T08:00:00+02:00",
+    "start": "2024-10-10T08:00:00+02:00",
+    "end": "2024-10-10T08:15:00+02:00",
+    "value": 1,
+    "summary": "Daily 60*60*3",
+    "description": "\n\n\u2014\u2014\u2014\n(Reminder ID \u2022 Keep for sync \u25e6\u25e6 09/10/2024, 20:21:57 CEST \u25e6\u25e6 )",
+    "calendar": "Routines"
   }
 ]
