@@ -223,5 +223,23 @@
     "summary": "gym push",
     "description": "(No description)",
     "calendar": "Fitness"
+  },
+  {
+    "date": "2024-10-13T10:00:00+02:00",
+    "start": "2024-10-13T10:00:00+02:00",
+    "end": "2024-10-13T11:00:00+02:00",
+    "value": 1,
+    "summary": "gym push",
+    "description": "(No description)",
+    "calendar": "Fitness"
+  },
+  {
+    "date": "2024-10-13T13:00:00+02:00",
+    "start": "2024-10-13T13:00:00+02:00",
+    "end": "2024-10-13T15:00:00+02:00",
+    "value": 1,
+    "summary": "football",
+    "description": "(No description)",
+    "calendar": "Fitness"
   }
 ]
