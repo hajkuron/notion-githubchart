@@ -115,5 +115,14 @@
     "summary": "Weekly check up of goals NOTION",
     "description": "Go through all the goals set in notion, write some \n\n\u2014\u2014\u2014\n(Reminder ID \u2022 Keep for sync \u25e6\u25e6 31. 12. 23, 23:44:03 CET \u25e6\u25e6 )",
     "calendar": "Home"
+  },
+  {
+    "date": "2024-10-14T11:15:00Z",
+    "start": "2024-10-14T11:15:00Z",
+    "end": "2024-10-14T11:30:00Z",
+    "value": 1,
+    "summary": "belastingdients",
+    "description": "(No description)",
+    "calendar": "Home"
   }
 ]

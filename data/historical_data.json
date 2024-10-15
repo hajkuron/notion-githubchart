@@ -1671,5 +1671,86 @@
     "summary": "Daily 60*60*3",
     "description": "(No description)",
     "calendar": "Routines"
+  },
+  {
+    "date": "2024-09-20T08:00:00+02:00",
+    "start": "2024-09-20T08:00:00+02:00",
+    "end": "2024-09-20T16:00:00+02:00",
+    "value": 1,
+    "summary": "work",
+    "description": "(No description)",
+    "calendar": "Work creative clicks"
+  },
+  {
+    "date": "2024-09-26T08:00:00+02:00",
+    "start": "2024-09-26T08:00:00+02:00",
+    "end": "2024-09-26T16:00:00+02:00",
+    "value": 1,
+    "summary": "work",
+    "description": "(No description)",
+    "calendar": "Work creative clicks"
+  },
+  {
+    "date": "2024-10-04T08:00:00+02:00",
+    "start": "2024-10-04T08:00:00+02:00",
+    "end": "2024-10-04T16:00:00+02:00",
+    "value": 1,
+    "summary": "work",
+    "description": "(No description)",
+    "calendar": "Work creative clicks"
+  },
+  {
+    "date": "2024-10-14T09:00:00+02:00",
+    "start": "2024-10-14T09:00:00+02:00",
+    "end": "2024-10-14T10:00:00+02:00",
+    "value": 1,
+    "summary": "pull",
+    "description": "(No description)",
+    "calendar": "Fitness"
+  },
+  {
+    "date": "2024-10-14T11:00:00+02:00",
+    "start": "2024-10-14T11:00:00+02:00",
+    "end": "2024-10-14T13:00:00+02:00",
+    "value": 1,
+    "summary": "Lecture exam",
+    "description": "(No description)",
+    "calendar": "University studying"
+  },
+  {
+    "date": "2024-10-14T06:30:00+02:00",
+    "start": "2024-10-14T06:30:00+02:00",
+    "end": "2024-10-14T09:00:00+02:00",
+    "value": 1,
+    "summary": "marketing",
+    "description": "(No description)",
+    "calendar": "Projects"
+  },
+  {
+    "date": "2024-10-14T14:00:00+02:00",
+    "start": "2024-10-14T14:00:00+02:00",
+    "end": "2024-10-14T19:00:00+02:00",
+    "value": 1,
+    "summary": "courses",
+    "description": "(No description)",
+    "calendar": "Projects"
+  },
+  {
+    "date": "2024-10-14T11:15:00Z",
+    "start": "2024-10-14T11:15:00Z",
+    "end": "2024-10-14T11:30:00Z",
+    "value": 1,
+    "summary": "belastingdients",
+    "description": "(No description)",
+    "calendar": "Home"
+  },
+  {
+    "date": "2024-10-15T04:00:00+02:00",
+    "start": "2024-10-15T04:00:00+02:00",
+    "end": "2024-10-15T04:15:00+02:00",
+    "value": 1,
+    "summary": "Daily 60*60*3",
+    "description": "(No description)",
+    "calendar": "Routines"
   }
 ]
