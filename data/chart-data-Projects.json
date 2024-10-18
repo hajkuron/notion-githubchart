@@ -205,5 +205,14 @@
     "summary": "research",
     "description": "(No description)",
     "calendar": "Projects"
+  },
+  {
+    "date": "2024-10-17T16:00:00+02:00",
+    "start": "2024-10-17T16:00:00+02:00",
+    "end": "2024-10-17T20:30:00+02:00",
+    "value": 1,
+    "summary": "New Event",
+    "description": "(No description)",
+    "calendar": "Projects"
   }
 ]
