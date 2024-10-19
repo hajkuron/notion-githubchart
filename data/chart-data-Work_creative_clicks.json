@@ -88,5 +88,14 @@
     "summary": "New Event",
     "description": "(No description)",
     "calendar": "Work creative clicks"
+  },
+  {
+    "date": "2024-10-18T08:00:00+02:00",
+    "start": "2024-10-18T08:00:00+02:00",
+    "end": "2024-10-18T13:00:00+02:00",
+    "value": 1,
+    "summary": "work",
+    "description": "(No description)",
+    "calendar": "Work creative clicks"
   }
 ]
