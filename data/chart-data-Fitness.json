@@ -277,5 +277,23 @@
     "summary": "push",
     "description": "(No description)",
     "calendar": "Fitness"
+  },
+  {
+    "date": "2024-10-18T06:45:00+02:00",
+    "start": "2024-10-18T06:45:00+02:00",
+    "end": "2024-10-18T07:00:00+02:00",
+    "value": 0.5,
+    "summary": "rest",
+    "description": "(No description)",
+    "calendar": "Fitness"
+  },
+  {
+    "date": "2024-10-19T10:00:00+02:00",
+    "start": "2024-10-19T10:00:00+02:00",
+    "end": "2024-10-19T11:00:00+02:00",
+    "value": 1,
+    "summary": "legs",
+    "description": "(No description)",
+    "calendar": "Fitness"
   }
 ]

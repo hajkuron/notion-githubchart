@@ -304,5 +304,14 @@
     "summary": "week 2, 3 individual",
     "description": "(No description)",
     "calendar": "University studying"
+  },
+  {
+    "date": "2024-10-19T06:30:00+02:00",
+    "start": "2024-10-19T06:30:00+02:00",
+    "end": "2024-10-19T09:00:00+02:00",
+    "value": 1,
+    "summary": "week 4,5 individual",
+    "description": "(No description)",
+    "calendar": "University studying"
   }
 ]
