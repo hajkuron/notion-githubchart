@@ -79,5 +79,14 @@
     "summary": "Weekly check up of goals NOTION",
     "description": "(No description)",
     "calendar": "Routines"
+  },
+  {
+    "date": "2024-10-21T04:00:00+02:00",
+    "start": "2024-10-21T04:00:00+02:00",
+    "end": "2024-10-21T04:15:00+02:00",
+    "value": 1,
+    "summary": "Daily 60*60*3",
+    "description": "(No description)",
+    "calendar": "Routines"
   }
 ]
