@@ -304,5 +304,14 @@
     "summary": "cardio pull ups, rows 2km",
     "description": "(No description)",
     "calendar": "Fitness"
+  },
+  {
+    "date": "2024-10-21T13:15:00+02:00",
+    "start": "2024-10-21T13:15:00+02:00",
+    "end": "2024-10-21T14:15:00+02:00",
+    "value": 1,
+    "summary": "push",
+    "description": "(No description)",
+    "calendar": "Fitness"
   }
 ]
