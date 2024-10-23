@@ -232,5 +232,23 @@
     "summary": "Planning",
     "description": "1. create a detailed plan how you think it should go in steps\n2. write out what you are going to do that day, create smaller tasks and \nstart doing them\n\nDONT GET LOST",
     "calendar": "Projects"
+  },
+  {
+    "date": "2024-10-22T15:00:00+02:00",
+    "start": "2024-10-22T15:00:00+02:00",
+    "end": "2024-10-22T18:00:00+02:00",
+    "value": 1,
+    "summary": "Business",
+    "description": "(No description)",
+    "calendar": "Projects"
+  },
+  {
+    "date": "2024-10-22T18:00:00+02:00",
+    "start": "2024-10-22T18:00:00+02:00",
+    "end": "2024-10-22T19:00:00+02:00",
+    "value": 1,
+    "summary": "Educational video + notes",
+    "description": "(No description)",
+    "calendar": "Projects"
   }
 ]
