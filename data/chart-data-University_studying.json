@@ -358,5 +358,14 @@
     "summary": "venture week 4,5",
     "description": "(No description)",
     "calendar": "University studying"
+  },
+  {
+    "date": "2024-10-23T06:30:00+02:00",
+    "start": "2024-10-23T06:30:00+02:00",
+    "end": "2024-10-23T10:00:00+02:00",
+    "value": 1,
+    "summary": "venture week 6, ponovi use",
+    "description": "(No description)",
+    "calendar": "University studying"
   }
 ]
