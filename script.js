@@ -18,16 +18,15 @@ async function fetchChartData(calendarName) {
     }
 }
 
-function processRoutinesData(data, isMorningRoutine) {
+function processRoutinesData(data, eventType) {
     return data.filter(item => {
         const summary = item.summary.toLowerCase();
-        return isMorningRoutine ? 
-            summary === "morning routine" : 
-            summary === "short workout";
+        return eventType === 'read' ? 
+            summary === "read" : 
+            summary.includes("daily 60*60*3");
     }).map(item => ({
-        date: item.date,
-        value: item.description.includes("Completed") ? 1 : 
-               item.description.includes("Partially") ? 0.5 : 0
+        date: item.date.split('T')[0], // Extract just the date part
+        value: 1 // Assuming all events are completed
     }));
 }
 
@@ -41,7 +40,7 @@ async function initializeCalendar(cal, data, containerId, legendId, colorScheme,
                     x: 'date',
                     y: 'value',
                 },
-                date: { start: new Date('2024-09-01') },  // Changed to September 1, 2024
+                date: { start: new Date('2024-09-15') },  // Changed to September 1, 2024
                 range: 12,
                 scale: {
                     color: {
@@ -108,7 +107,7 @@ async function initializeCalendars() {
     try {
         const fitnessData = await fetchChartData('Fitness');
         const projectsData = await fetchChartData('Projects');
-        const routinesData = await fetchChartData('Routines');
+        const routinesData = await fetchChartData('jonkuhar11_gmail.com');
         
         const greenColorScheme = ['#0e4429', '#006d32', '#26a641', '#39d353'];
         const blueColorScheme = ['#0a3069', '#0d4a6e', '#0969da', '#54aeff'];
@@ -130,11 +129,11 @@ async function initializeCalendars() {
         if (routinesData.length === 0) {
             console.error('No data available for Routines calendar');
         } else {
-            const morningRoutineData = processRoutinesData(routinesData, true);
-            const shortWorkoutData = processRoutinesData(routinesData, false);
+            const readData = processRoutinesData(routinesData, 'read');
+            const gymData = processRoutinesData(routinesData, 'Daily 60*60*3');
             
-            await initializeCalendar(morningRoutineCalendar, morningRoutineData, 'morning-routine-calendar', 'morning-routine-legend', orangeColorScheme, 'Morning Routine');
-            await initializeCalendar(shortWorkoutCalendar, shortWorkoutData, 'short-workout-calendar', 'short-workout-legend', purpleColorScheme, 'Short Workout');
+            await initializeCalendar(morningRoutineCalendar, readData, 'morning-routine-calendar', 'morning-routine-legend', orangeColorScheme, 'Read');
+            await initializeCalendar(shortWorkoutCalendar, gymData, 'short-workout-calendar', 'short-workout-legend', purpleColorScheme, 'Daily 60*60*3');
         }
     } catch (error) {
         console.error('Error initializing calendars:', error);

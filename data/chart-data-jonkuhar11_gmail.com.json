@@ -6,7 +6,8 @@
     "value": 1,
     "summary": "Flight to Rome (AZ 1356)",
     "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DOwkOKa2WqMWt4N_GGkvBuY26eHp9vDk6I\n",
-    "calendar": "jonkuhar11@gmail.com"
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "2aff61fb601f3985a4a22a169ea7f37e"
   },
   {
     "date": "2024-09-01T08:30:00+02:00",
@@ -15,7 +16,8 @@
     "value": 1,
     "summary": "Flight to Amsterdam (AZ 108)",
     "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DOG7ypiAFcd0QI9WZCDkd1mM4Fp4tPtS6A\n",
-    "calendar": "jonkuhar11@gmail.com"
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "b81099a31be27dffe2a6e485b4ec0772"
   },
   {
     "date": "2024-09-03T08:00:00+02:00",
@@ -24,7 +26,8 @@
     "value": 1,
     "summary": "gym pull",
     "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "0cd4fbef03c9338962cc61129bb7615b"
   },
   {
     "date": "2024-09-05T08:00:00+02:00",
@@ -33,7 +36,8 @@
     "value": 1,
     "summary": "gym legs",
     "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "49a7afdc0594726d1bc2204f41478a32"
   },
   {
     "date": "2024-09-06",
@@ -42,7 +46,8 @@
     "value": 1,
     "summary": "assignment",
     "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "e4ee24f00ae10b89977492690218f02f"
   },
   {
     "date": "2024-09-07T08:30:00+02:00",
@@ -51,7 +56,8 @@
     "value": 1,
     "summary": "gym push",
     "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "d7f3b3cb0e6283cc5aa00b219dc827e7"
   },
   {
     "date": "2024-09-07T10:00:00+02:00",
@@ -60,7 +66,8 @@
     "value": 1,
     "summary": "Assignments",
     "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "0d7b7fccd80ae5c593a3d64e42f8a5d2"
   },
   {
     "date": "2024-09-07T13:00:00+02:00",
@@ -69,7 +76,8 @@
     "value": 1,
     "summary": "Chrome extension youtube",
     "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "e1aff352d100df04a6371a3abb3616a2"
   },
   {
     "date": "2024-09-07T15:45:00+02:00",
@@ -78,7 +86,8 @@
     "value": 1,
     "summary": "basket",
     "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "a2382759745be767ea47f2d562f4e264"
   },
   {
     "date": "2024-09-07T17:30:00+02:00",
@@ -87,7 +96,8 @@
     "value": 1,
     "summary": "start posting on x about progress",
     "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "4da3ace7e5ce674174e6164c92bc594d"
   },
   {
     "date": "2024-09-10T22:30:00+02:00",
@@ -96,52 +106,8 @@
     "value": 1,
     "summary": "read",
     "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
-  },
-  {
-    "date": "2024-09-11T22:30:00+02:00",
-    "start": "2024-09-11T22:30:00+02:00",
-    "end": "2024-09-11T23:00:00+02:00",
-    "value": 1,
-    "summary": "read",
-    "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
-  },
-  {
-    "date": "2024-09-12T22:30:00+02:00",
-    "start": "2024-09-12T22:30:00+02:00",
-    "end": "2024-09-12T23:00:00+02:00",
-    "value": 1,
-    "summary": "read",
-    "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
-  },
-  {
-    "date": "2024-09-13T22:30:00+02:00",
-    "start": "2024-09-13T22:30:00+02:00",
-    "end": "2024-09-13T23:00:00+02:00",
-    "value": 1,
-    "summary": "read",
-    "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
-  },
-  {
-    "date": "2024-09-14T22:30:00+02:00",
-    "start": "2024-09-14T22:30:00+02:00",
-    "end": "2024-09-14T23:00:00+02:00",
-    "value": 1,
-    "summary": "read",
-    "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
-  },
-  {
-    "date": "2024-09-20T08:00:00+02:00",
-    "start": "2024-09-20T08:00:00+02:00",
-    "end": "2024-09-20T16:00:00+02:00",
-    "value": 1,
-    "summary": "work",
-    "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "17a9d53f119392f3e06e464c87f784bd"
   },
   {
     "date": "2024-09-21T14:00:00+02:00",
@@ -150,70 +116,8 @@
     "value": 1,
     "summary": "creative clicks check if there is all data",
     "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
-  },
-  {
-    "date": "2024-09-21T22:30:00+02:00",
-    "start": "2024-09-21T22:30:00+02:00",
-    "end": "2024-09-21T23:00:00+02:00",
-    "value": 1,
-    "summary": "read",
-    "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
-  },
-  {
-    "date": "2024-09-22T22:30:00+02:00",
-    "start": "2024-09-22T22:30:00+02:00",
-    "end": "2024-09-22T23:00:00+02:00",
-    "value": 1,
-    "summary": "read",
-    "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
-  },
-  {
-    "date": "2024-09-23T22:30:00+02:00",
-    "start": "2024-09-23T22:30:00+02:00",
-    "end": "2024-09-23T23:00:00+02:00",
-    "value": 1,
-    "summary": "read",
-    "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
-  },
-  {
-    "date": "2024-09-24T22:30:00+02:00",
-    "start": "2024-09-24T22:30:00+02:00",
-    "end": "2024-09-24T23:00:00+02:00",
-    "value": 1,
-    "summary": "read",
-    "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
-  },
-  {
-    "date": "2024-09-25T22:30:00+02:00",
-    "start": "2024-09-25T22:30:00+02:00",
-    "end": "2024-09-25T23:00:00+02:00",
-    "value": 1,
-    "summary": "read",
-    "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
-  },
-  {
-    "date": "2024-09-26T08:00:00+02:00",
-    "start": "2024-09-26T08:00:00+02:00",
-    "end": "2024-09-26T16:00:00+02:00",
-    "value": 1,
-    "summary": "work",
-    "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
-  },
-  {
-    "date": "2024-09-26T22:30:00+02:00",
-    "start": "2024-09-26T22:30:00+02:00",
-    "end": "2024-09-26T23:00:00+02:00",
-    "value": 1,
-    "summary": "read",
-    "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "64e96aab9e68ea1cade409f4762aa68a"
   },
   {
     "date": "2024-09-27T09:00:00+02:00",
@@ -222,97 +126,8 @@
     "value": 1,
     "summary": "Flight to Amsterdam (HV 6820)",
     "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DOfDUUYe-cwfFGaprdIZlR2VYUBWoh0qSo\n",
-    "calendar": "jonkuhar11@gmail.com"
-  },
-  {
-    "date": "2024-09-27T22:30:00+02:00",
-    "start": "2024-09-27T22:30:00+02:00",
-    "end": "2024-09-27T23:00:00+02:00",
-    "value": 1,
-    "summary": "read",
-    "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
-  },
-  {
-    "date": "2024-09-28T22:30:00+02:00",
-    "start": "2024-09-28T22:30:00+02:00",
-    "end": "2024-09-28T23:00:00+02:00",
-    "value": 1,
-    "summary": "read",
-    "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
-  },
-  {
-    "date": "2024-09-29T22:30:00+02:00",
-    "start": "2024-09-29T22:30:00+02:00",
-    "end": "2024-09-29T23:00:00+02:00",
-    "value": 1,
-    "summary": "read",
-    "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
-  },
-  {
-    "date": "2024-09-30T22:30:00+02:00",
-    "start": "2024-09-30T22:30:00+02:00",
-    "end": "2024-09-30T23:00:00+02:00",
-    "value": 1,
-    "summary": "read",
-    "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
-  },
-  {
-    "date": "2024-10-01T22:30:00+02:00",
-    "start": "2024-10-01T22:30:00+02:00",
-    "end": "2024-10-01T23:00:00+02:00",
-    "value": 1,
-    "summary": "read",
-    "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
-  },
-  {
-    "date": "2024-10-02T22:30:00+02:00",
-    "start": "2024-10-02T22:30:00+02:00",
-    "end": "2024-10-02T23:00:00+02:00",
-    "value": 1,
-    "summary": "read",
-    "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
-  },
-  {
-    "date": "2024-10-03T22:30:00+02:00",
-    "start": "2024-10-03T22:30:00+02:00",
-    "end": "2024-10-03T23:00:00+02:00",
-    "value": 1,
-    "summary": "read",
-    "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
-  },
-  {
-    "date": "2024-10-04T08:00:00+02:00",
-    "start": "2024-10-04T08:00:00+02:00",
-    "end": "2024-10-04T16:00:00+02:00",
-    "value": 1,
-    "summary": "work",
-    "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
-  },
-  {
-    "date": "2024-10-04T22:30:00+02:00",
-    "start": "2024-10-04T22:30:00+02:00",
-    "end": "2024-10-04T23:00:00+02:00",
-    "value": 1,
-    "summary": "read",
-    "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
-  },
-  {
-    "date": "2024-10-05T22:30:00+02:00",
-    "start": "2024-10-05T22:30:00+02:00",
-    "end": "2024-10-05T23:00:00+02:00",
-    "value": 1,
-    "summary": "read",
-    "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "d45aa78b4ed060402e78f28b9b8ada3b"
   },
   {
     "date": "2024-10-06T06:40:00+02:00",
@@ -321,7 +136,8 @@
     "value": 1,
     "summary": "Flight to Ljubljana (HV 6819)",
     "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DOfDUUYe-cwfFGaprdIZlR2VYUBWoh0qSo\n",
-    "calendar": "jonkuhar11@gmail.com"
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "8046df423535d05a598482f383d89d9c"
   },
   {
     "date": "2024-10-07T06:00:00+02:00",
@@ -330,7 +146,8 @@
     "value": 1,
     "summary": "wake up",
     "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "1c84517a6487a99f84589961a54eb8ba"
   },
   {
     "date": "2024-10-07T07:45:00+02:00",
@@ -339,7 +156,8 @@
     "value": 1,
     "summary": "New Event",
     "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "a3550c046dd0919ff3574ca2a8a8ab5a"
   },
   {
     "date": "2024-10-07T18:30:00+02:00",
@@ -348,7 +166,8 @@
     "value": 1,
     "summary": "dinner",
     "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "c111e1aa9caa16da686828c597030296"
   },
   {
     "date": "2024-10-07T19:45:00+02:00",
@@ -357,7 +176,8 @@
     "value": 1,
     "summary": "Hanc",
     "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "8d0671c5bb28b82956765aeca0eb237a"
   },
   {
     "date": "2024-10-08T06:00:00+02:00",
@@ -366,7 +186,8 @@
     "value": 1,
     "summary": "wake up",
     "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "a68ff83f92046d27e526ce1e130a4104"
   },
   {
     "date": "2024-10-08T18:30:00+02:00",
@@ -375,7 +196,8 @@
     "value": 1,
     "summary": "dinner",
     "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "be4495c2c45fe7741b6842d97e3479bb"
   },
   {
     "date": "2024-10-08T19:00:00+02:00",
@@ -384,16 +206,8 @@
     "value": 1,
     "summary": "Hanc",
     "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
-  },
-  {
-    "date": "2024-10-08T22:15:00+02:00",
-    "start": "2024-10-08T22:15:00+02:00",
-    "end": "2024-10-08T22:45:00+02:00",
-    "value": 1,
-    "summary": "read",
-    "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "358d5ff7b97e9c0be8760ceb379ef2dc"
   },
   {
     "date": "2024-10-09T06:00:00+02:00",
@@ -402,7 +216,8 @@
     "value": 1,
     "summary": "wake up",
     "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "505c6abbe928506839f038af8257d8af"
   },
   {
     "date": "2024-10-09T14:00:00+02:00",
@@ -411,7 +226,8 @@
     "value": 1,
     "summary": "lunch",
     "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "330ace9974a3519fea346bbf791d5341"
   },
   {
     "date": "2024-10-09T18:30:00+02:00",
@@ -420,7 +236,8 @@
     "value": 1,
     "summary": "dinner",
     "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "4fbd335ddb449b3f8f643e1bc9deb193"
   },
   {
     "date": "2024-10-09T19:00:00+02:00",
@@ -429,7 +246,8 @@
     "value": 1,
     "summary": "Hanc",
     "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "5e896e07cafd6c162b3c2820bfdaa5cb"
   },
   {
     "date": "2024-10-09T21:31:00+02:00",
@@ -438,6 +256,567 @@
     "value": 1,
     "summary": "New Event",
     "description": "(No description)",
-    "calendar": "jonkuhar11@gmail.com"
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "3badbc56ff5edbc371fde86311c52256"
+  },
+  {
+    "date": "2024-10-10T06:00:00+02:00",
+    "start": "2024-10-10T06:00:00+02:00",
+    "end": "2024-10-10T06:30:00+02:00",
+    "value": 1,
+    "summary": "wake up",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "269f0a327af1945d240de43a0797be7a"
+  },
+  {
+    "date": "2024-10-10T18:30:00+02:00",
+    "start": "2024-10-10T18:30:00+02:00",
+    "end": "2024-10-10T19:00:00+02:00",
+    "value": 1,
+    "summary": "dinner",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "4541a0f066b094a6604fa9a110b51a95"
+  },
+  {
+    "date": "2024-10-10T19:00:00+02:00",
+    "start": "2024-10-10T19:00:00+02:00",
+    "end": "2024-10-10T21:00:00+02:00",
+    "value": 1,
+    "summary": "Hanc",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "301955614bd85179c7d4293d2e0f4e01"
+  },
+  {
+    "date": "2024-10-11T06:00:00+02:00",
+    "start": "2024-10-11T06:00:00+02:00",
+    "end": "2024-10-11T06:30:00+02:00",
+    "value": 1,
+    "summary": "wake up",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "55b76dec36754ec5f09ce5f21f64dc71"
+  },
+  {
+    "date": "2024-10-11T13:30:00+02:00",
+    "start": "2024-10-11T13:30:00+02:00",
+    "end": "2024-10-11T14:00:00+02:00",
+    "value": 1,
+    "summary": "lunch",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "51a7f95e0a6ef99102983667d3e0e55a"
+  },
+  {
+    "date": "2024-10-11T18:30:00+02:00",
+    "start": "2024-10-11T18:30:00+02:00",
+    "end": "2024-10-11T19:00:00+02:00",
+    "value": 1,
+    "summary": "dinner",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "fb09f33f97a00a93b121dbbf0264b16d"
+  },
+  {
+    "date": "2024-10-11T19:00:00+02:00",
+    "start": "2024-10-11T19:00:00+02:00",
+    "end": "2024-10-11T21:00:00+02:00",
+    "value": 1,
+    "summary": "Hanc",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "8ca8fc99e2e73b4f496327c04eefb927"
+  },
+  {
+    "date": "2024-10-12T06:00:00+02:00",
+    "start": "2024-10-12T06:00:00+02:00",
+    "end": "2024-10-12T06:30:00+02:00",
+    "value": 1,
+    "summary": "wake up",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "6c5403742ce940eac69e847d9abe89ab"
+  },
+  {
+    "date": "2024-10-12T18:30:00+02:00",
+    "start": "2024-10-12T18:30:00+02:00",
+    "end": "2024-10-12T19:00:00+02:00",
+    "value": 1,
+    "summary": "dinner",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "500bb314dd17f06745ebe9184621981a"
+  },
+  {
+    "date": "2024-10-12T19:00:00+02:00",
+    "start": "2024-10-12T19:00:00+02:00",
+    "end": "2024-10-12T21:00:00+02:00",
+    "value": 1,
+    "summary": "Hanc",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "71c00532c374d0f5b942dd54b506148e"
+  },
+  {
+    "date": "2024-10-12T22:15:00+02:00",
+    "start": "2024-10-12T22:15:00+02:00",
+    "end": "2024-10-12T22:45:00+02:00",
+    "value": 1,
+    "summary": "read",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "e6de76b059da17068d691a7defe1d81a"
+  },
+  {
+    "date": "2024-10-13T04:00:00+02:00",
+    "start": "2024-10-13T04:00:00+02:00",
+    "end": "2024-10-13T04:15:00+02:00",
+    "value": 1,
+    "summary": "Daily 60*60*3",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "e5513fa4f0091a79a6578e34fabe84d2"
+  },
+  {
+    "date": "2024-10-13T04:30:00+02:00",
+    "start": "2024-10-13T04:30:00+02:00",
+    "end": "2024-10-13T04:45:00+02:00",
+    "value": 1,
+    "summary": "Weekly check up of goals NOTION",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "eb815accdc40159acdff0466f7a77647"
+  },
+  {
+    "date": "2024-10-13T06:45:00+02:00",
+    "start": "2024-10-13T06:45:00+02:00",
+    "end": "2024-10-13T07:15:00+02:00",
+    "value": 1,
+    "summary": "wake up",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "af669b61a844b02217d4fdff526a3baf"
+  },
+  {
+    "date": "2024-10-13T18:30:00+02:00",
+    "start": "2024-10-13T18:30:00+02:00",
+    "end": "2024-10-13T19:00:00+02:00",
+    "value": 1,
+    "summary": "dinner",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "b3ed24b697d7d4fe3f46c3244eb1238e"
+  },
+  {
+    "date": "2024-10-13T19:00:00+02:00",
+    "start": "2024-10-13T19:00:00+02:00",
+    "end": "2024-10-13T21:00:00+02:00",
+    "value": 1,
+    "summary": "Hanc",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "5513787f0548e70148b4ef1753ce2e8e"
+  },
+  {
+    "date": "2024-10-14T04:00:00+02:00",
+    "start": "2024-10-14T04:00:00+02:00",
+    "end": "2024-10-14T04:15:00+02:00",
+    "value": 1,
+    "summary": "Daily 60*60*3",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "9cc130608b7f0a425b5bf1d3c7de7ed5"
+  },
+  {
+    "date": "2024-10-14T06:00:00+02:00",
+    "start": "2024-10-14T06:00:00+02:00",
+    "end": "2024-10-14T06:30:00+02:00",
+    "value": 1,
+    "summary": "wake up",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "071e7ce6e56273d96187c37bdc10bfac"
+  },
+  {
+    "date": "2024-10-14T10:15:00+02:00",
+    "start": "2024-10-14T10:15:00+02:00",
+    "end": "2024-10-14T10:30:00+02:00",
+    "value": 1,
+    "summary": "shop",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "30d735a3b7132c680e7ab1d7ca120e58"
+  },
+  {
+    "date": "2024-10-14T19:00:00+02:00",
+    "start": "2024-10-14T19:00:00+02:00",
+    "end": "2024-10-14T20:30:00+02:00",
+    "value": 1,
+    "summary": "hanc",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "9e854954fb1dfae903549c6476cd5b26"
+  },
+  {
+    "date": "2024-10-15T04:00:00+02:00",
+    "start": "2024-10-15T04:00:00+02:00",
+    "end": "2024-10-15T04:15:00+02:00",
+    "value": 1,
+    "summary": "Daily 60*60*3",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "364c91ee4136ffe281090e12c2774ccf"
+  },
+  {
+    "date": "2024-10-15T06:00:00+02:00",
+    "start": "2024-10-15T06:00:00+02:00",
+    "end": "2024-10-15T06:30:00+02:00",
+    "value": 1,
+    "summary": "wake up",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "d639654807688ad4edff96b8f11249c2"
+  },
+  {
+    "date": "2024-10-15T19:00:00+02:00",
+    "start": "2024-10-15T19:00:00+02:00",
+    "end": "2024-10-15T20:30:00+02:00",
+    "value": 1,
+    "summary": "hanc",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "8111b53d1567d058f234d4843e04e63b"
+  },
+  {
+    "date": "2024-10-16T06:00:00+02:00",
+    "start": "2024-10-16T06:00:00+02:00",
+    "end": "2024-10-16T06:30:00+02:00",
+    "value": 1,
+    "summary": "wake up",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "5e9bcdac9b20ff04fa40c9400b2527db"
+  },
+  {
+    "date": "2024-10-16T19:00:00+02:00",
+    "start": "2024-10-16T19:00:00+02:00",
+    "end": "2024-10-16T20:30:00+02:00",
+    "value": 1,
+    "summary": "hanc",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "7e02f86f2c3aa9afca5c5096299a9cfe"
+  },
+  {
+    "date": "2024-10-17T04:00:00+02:00",
+    "start": "2024-10-17T04:00:00+02:00",
+    "end": "2024-10-17T04:15:00+02:00",
+    "value": 1,
+    "summary": "Daily 60*60*3",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "0687e20a53b38adfe09d3f61c9246b22"
+  },
+  {
+    "date": "2024-10-17T06:00:00+02:00",
+    "start": "2024-10-17T06:00:00+02:00",
+    "end": "2024-10-17T06:30:00+02:00",
+    "value": 1,
+    "summary": "wake up",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "a4b1eacc3617fe6c1b0c3015c19d6f4a"
+  },
+  {
+    "date": "2024-10-17T21:30:00+02:00",
+    "start": "2024-10-17T21:30:00+02:00",
+    "end": "2024-10-17T22:30:00+02:00",
+    "value": 1,
+    "summary": "read",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "1ff33a22aff74b78624e8c2cfdda36df"
+  },
+  {
+    "date": "2024-10-18T06:00:00+02:00",
+    "start": "2024-10-18T06:00:00+02:00",
+    "end": "2024-10-18T06:30:00+02:00",
+    "value": 1,
+    "summary": "wake up",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "cb2dac68567db36897d592f9c2bf09db"
+  },
+  {
+    "date": "2024-10-18T19:00:00+02:00",
+    "start": "2024-10-18T19:00:00+02:00",
+    "end": "2024-10-18T20:30:00+02:00",
+    "value": 1,
+    "summary": "hanc",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "3a64ec42572067b15726a6b2cd33b668"
+  },
+  {
+    "date": "2024-10-18T21:30:00+02:00",
+    "start": "2024-10-18T21:30:00+02:00",
+    "end": "2024-10-18T22:30:00+02:00",
+    "value": 1,
+    "summary": "read",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "3b9434caa10ee0c4eb437ff8b6c29786"
+  },
+  {
+    "date": "2024-10-19T04:00:00+02:00",
+    "start": "2024-10-19T04:00:00+02:00",
+    "end": "2024-10-19T04:15:00+02:00",
+    "value": 1,
+    "summary": "Daily 60*60*3",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "617280711049557e3bb0bb703f545383"
+  },
+  {
+    "date": "2024-10-19T06:00:00+02:00",
+    "start": "2024-10-19T06:00:00+02:00",
+    "end": "2024-10-19T06:30:00+02:00",
+    "value": 1,
+    "summary": "wake up",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "432ca61850f278c2a856c50d342f961e"
+  },
+  {
+    "date": "2024-10-19T19:00:00+02:00",
+    "start": "2024-10-19T19:00:00+02:00",
+    "end": "2024-10-19T20:30:00+02:00",
+    "value": 1,
+    "summary": "hanc",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "a155e8c13c005b36b80fb41dc10e7a58"
+  },
+  {
+    "date": "2024-10-19T21:30:00+02:00",
+    "start": "2024-10-19T21:30:00+02:00",
+    "end": "2024-10-19T22:30:00+02:00",
+    "value": 1,
+    "summary": "read",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "308332439247fc472c5ade460cc7bf04"
+  },
+  {
+    "date": "2024-10-20T04:00:00+02:00",
+    "start": "2024-10-20T04:00:00+02:00",
+    "end": "2024-10-20T04:15:00+02:00",
+    "value": 1,
+    "summary": "Daily 60*60*3",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "505a1f6c4abe0a85e24dc4239efa31b4"
+  },
+  {
+    "date": "2024-10-20T04:30:00+02:00",
+    "start": "2024-10-20T04:30:00+02:00",
+    "end": "2024-10-20T04:45:00+02:00",
+    "value": 1,
+    "summary": "Weekly check up of goals NOTION",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "a4e84a0dcdffe863ca4212d47f449fca"
+  },
+  {
+    "date": "2024-10-20T06:00:00+02:00",
+    "start": "2024-10-20T06:00:00+02:00",
+    "end": "2024-10-20T06:30:00+02:00",
+    "value": 1,
+    "summary": "wake up",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "456fd50e9aad9083e456ae925bbe7cd4"
+  },
+  {
+    "date": "2024-10-20T17:45:00+02:00",
+    "start": "2024-10-20T17:45:00+02:00",
+    "end": "2024-10-20T18:15:00+02:00",
+    "value": 1,
+    "summary": "graduation form for quote...",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "f7ad44ca798be2900ecc5fe4b7427cd3"
+  },
+  {
+    "date": "2024-10-20T19:45:00+02:00",
+    "start": "2024-10-20T19:45:00+02:00",
+    "end": "2024-10-20T21:15:00+02:00",
+    "value": 1,
+    "summary": "hanc",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "79aa47aba79a62c9fe4cbb354ff8d22a"
+  },
+  {
+    "date": "2024-10-21T04:00:00+02:00",
+    "start": "2024-10-21T04:00:00+02:00",
+    "end": "2024-10-21T04:15:00+02:00",
+    "value": 1,
+    "summary": "Daily 60*60*3",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "8391fcaaaef9260946bfef3be3616074"
+  },
+  {
+    "date": "2024-10-21T06:00:00+02:00",
+    "start": "2024-10-21T06:00:00+02:00",
+    "end": "2024-10-21T06:30:00+02:00",
+    "value": 1,
+    "summary": "wake up",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "f32d5ee634aa31d4d560a6d840f42e27"
+  },
+  {
+    "date": "2024-10-21T08:45:00+02:00",
+    "start": "2024-10-21T08:45:00+02:00",
+    "end": "2024-10-21T09:00:00+02:00",
+    "value": 1,
+    "summary": "Second breakfast",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "70ca4f0efef989f6a929e392746b232a"
+  },
+  {
+    "date": "2024-10-21T15:00:00+02:00",
+    "start": "2024-10-21T15:00:00+02:00",
+    "end": "2024-10-21T16:00:00+02:00",
+    "value": 1,
+    "summary": "lunch",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "54d1fad951909c5524ce91ca1091407e"
+  },
+  {
+    "date": "2024-10-21T20:00:00+02:00",
+    "start": "2024-10-21T20:00:00+02:00",
+    "end": "2024-10-21T21:30:00+02:00",
+    "value": 1,
+    "summary": "hanc",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "3c44d9af22145e5a1f9e43fa332c33a1"
+  },
+  {
+    "date": "2024-10-22T04:00:00+02:00",
+    "start": "2024-10-22T04:00:00+02:00",
+    "end": "2024-10-22T04:15:00+02:00",
+    "value": 1,
+    "summary": "Daily 60*60*3",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "1707c4e5a50acc0a9d1e6b1b8d744910"
+  },
+  {
+    "date": "2024-10-22T06:00:00+02:00",
+    "start": "2024-10-22T06:00:00+02:00",
+    "end": "2024-10-22T06:30:00+02:00",
+    "value": 1,
+    "summary": "wake up",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "e62d945e1a175f2c05f8cb59458f230b"
+  },
+  {
+    "date": "2024-10-22T20:00:00+02:00",
+    "start": "2024-10-22T20:00:00+02:00",
+    "end": "2024-10-22T21:30:00+02:00",
+    "value": 1,
+    "summary": "hanc",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "ed6035e7a48088a8e232adfa7508f9e7"
+  },
+  {
+    "date": "2024-10-23T06:00:00+02:00",
+    "start": "2024-10-23T06:00:00+02:00",
+    "end": "2024-10-23T06:30:00+02:00",
+    "value": 1,
+    "summary": "wake up",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "d5ba070df818dff30889d12756c79f71"
+  },
+  {
+    "date": "2024-10-23T20:00:00+02:00",
+    "start": "2024-10-23T20:00:00+02:00",
+    "end": "2024-10-23T21:30:00+02:00",
+    "value": 1,
+    "summary": "hanc",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "bb428a5d290f80c5f10d2117773d76f8"
+  },
+  {
+    "date": "2024-10-24T04:00:00+02:00",
+    "start": "2024-10-24T04:00:00+02:00",
+    "end": "2024-10-24T04:15:00+02:00",
+    "value": 1,
+    "summary": "Daily 60*60*3",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "2792131e2400f05ebc148271495bc1db"
+  },
+  {
+    "date": "2024-10-24T07:00:00+02:00",
+    "start": "2024-10-24T07:00:00+02:00",
+    "end": "2024-10-24T07:30:00+02:00",
+    "value": 1,
+    "summary": "wake up",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "f4f8768d9794328b9f69c1a2311b92c4"
+  },
+  {
+    "date": "2024-10-24T20:00:00+02:00",
+    "start": "2024-10-24T20:00:00+02:00",
+    "end": "2024-10-24T21:30:00+02:00",
+    "value": 1,
+    "summary": "hanc",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "9a847bf6405ffc0c60614ae4d1eeb405"
+  },
+  {
+    "date": "2024-10-24T21:30:00+02:00",
+    "start": "2024-10-24T21:30:00+02:00",
+    "end": "2024-10-24T22:30:00+02:00",
+    "value": 1,
+    "summary": "read",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "dfbee9c129c82a84961fd32d53a5d6b6"
+  },
+  {
+    "date": "2024-10-25T04:00:00+02:00",
+    "start": "2024-10-25T04:00:00+02:00",
+    "end": "2024-10-25T04:15:00+02:00",
+    "value": 1,
+    "summary": "Daily 60*60*3",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "299e9a8f4cc6a6673e69f6c0e5f69c42"
+  },
+  {
+    "date": "2024-10-25T06:00:00+02:00",
+    "start": "2024-10-25T06:00:00+02:00",
+    "end": "2024-10-25T06:30:00+02:00",
+    "value": 1,
+    "summary": "wake up",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "930fe025e74e3a0a8ea1cfb4b13dd74a"
   }
 ]

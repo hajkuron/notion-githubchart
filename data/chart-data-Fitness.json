@@ -6,7 +6,8 @@
     "value": 1,
     "summary": "legs",
     "description": "(No description)",
-    "calendar": "Fitness"
+    "calendar_name": "Fitness",
+    "id": "dd4bb06bdd2b918237f8ea9a08e8855d"
   },
   {
     "date": "2024-09-10T17:30:00+02:00",
@@ -15,7 +16,8 @@
     "value": 1,
     "summary": "short workout",
     "description": "(No description)",
-    "calendar": "Fitness"
+    "calendar_name": "Fitness",
+    "id": "dc5879feb68950989d10d772fa918bdd"
   },
   {
     "date": "2024-09-11T07:30:00+02:00",
@@ -24,7 +26,8 @@
     "value": 1,
     "summary": "push",
     "description": "(No description)",
-    "calendar": "Fitness"
+    "calendar_name": "Fitness",
+    "id": "0b30bf624bf26cc1b113103dd80a0720"
   },
   {
     "date": "2024-09-11T16:00:00+02:00",
@@ -33,7 +36,8 @@
     "value": 1,
     "summary": "short workout",
     "description": "(No description)",
-    "calendar": "Fitness"
+    "calendar_name": "Fitness",
+    "id": "3e90f502c0499900384069a17fe6b533"
   },
   {
     "date": "2024-09-13T07:30:00+02:00",
@@ -42,7 +46,8 @@
     "value": 1,
     "summary": "pull",
     "description": "(No description)",
-    "calendar": "Fitness"
+    "calendar_name": "Fitness",
+    "id": "52a9c035beb87b0dbb446c19c3f4a230"
   },
   {
     "date": "2024-09-14T07:30:00+02:00",
@@ -51,7 +56,8 @@
     "value": 1,
     "summary": "legs",
     "description": "(No description)",
-    "calendar": "Fitness"
+    "calendar_name": "Fitness",
+    "id": "3e41cb9565278ae858ceec8e767880f3"
   },
   {
     "date": "2024-09-15T13:00:00+02:00",
@@ -60,7 +66,8 @@
     "value": 1,
     "summary": "football",
     "description": "(No description)",
-    "calendar": "Fitness"
+    "calendar_name": "Fitness",
+    "id": "aa3da33876382e48114722d1e4f535de"
   },
   {
     "date": "2024-09-21T07:00:00+02:00",
@@ -69,7 +76,8 @@
     "value": 1,
     "summary": "pull",
     "description": "(No description)",
-    "calendar": "Fitness"
+    "calendar_name": "Fitness",
+    "id": "ae76fb24adaccd28be06e29d673c9fc5"
   },
   {
     "date": "2024-09-21T17:30:00+02:00",
@@ -78,7 +86,8 @@
     "value": 1,
     "summary": "basket",
     "description": "(No description)",
-    "calendar": "Fitness"
+    "calendar_name": "Fitness",
+    "id": "4d76dba44c85ba58899b5cc638701993"
   },
   {
     "date": "2024-09-22T07:00:00+02:00",
@@ -87,7 +96,8 @@
     "value": 1,
     "summary": "push",
     "description": "(No description)",
-    "calendar": "Fitness"
+    "calendar_name": "Fitness",
+    "id": "2ea403803f376a76f1fdbc6fcf49a3ab"
   },
   {
     "date": "2024-09-22T13:00:00+02:00",
@@ -96,7 +106,8 @@
     "value": 1,
     "summary": "football",
     "description": "(No description)",
-    "calendar": "Fitness"
+    "calendar_name": "Fitness",
+    "id": "35953569f44d8440c579adfe3e1edb9f"
   },
   {
     "date": "2024-09-23T07:00:00+02:00",
@@ -105,7 +116,8 @@
     "value": 1,
     "summary": "legs",
     "description": "(No description)",
-    "calendar": "Fitness"
+    "calendar_name": "Fitness",
+    "id": "1c919c6e485348a0e87dd9d41499a2d9"
   },
   {
     "date": "2024-09-25T07:00:00+02:00",
@@ -114,7 +126,8 @@
     "value": 1,
     "summary": "push",
     "description": "(No description)",
-    "calendar": "Fitness"
+    "calendar_name": "Fitness",
+    "id": "2daea0c4fff8c0b232d9ecaef6c717e9"
   },
   {
     "date": "2024-09-26T07:00:00+02:00",
@@ -123,7 +136,8 @@
     "value": 1,
     "summary": "push",
     "description": "(No description)",
-    "calendar": "Fitness"
+    "calendar_name": "Fitness",
+    "id": "4126fa3ff92758b46f51d9bbc0ecb25b"
   },
   {
     "date": "2024-09-27T07:00:00+02:00",
@@ -132,7 +146,8 @@
     "value": 1,
     "summary": "push",
     "description": "(No description)",
-    "calendar": "Fitness"
+    "calendar_name": "Fitness",
+    "id": "6892940c88931f0b3237601a0593e01f"
   },
   {
     "date": "2024-09-28T07:00:00+02:00",
@@ -141,7 +156,8 @@
     "value": 1,
     "summary": "push",
     "description": "(No description)",
-    "calendar": "Fitness"
+    "calendar_name": "Fitness",
+    "id": "4fe6206ace8dd71bafc5771a98dd071e"
   },
   {
     "date": "2024-09-29T13:00:00+02:00",
@@ -150,7 +166,8 @@
     "value": 1,
     "summary": "football",
     "description": "(No description)",
-    "calendar": "Fitness"
+    "calendar_name": "Fitness",
+    "id": "a20db46c7154df68d2fea8740035dd1e"
   },
   {
     "date": "2024-10-02T07:00:00+02:00",
@@ -159,7 +176,8 @@
     "value": 1,
     "summary": "pull",
     "description": "(No description)",
-    "calendar": "Fitness"
+    "calendar_name": "Fitness",
+    "id": "31516e4876a28809859bdac978ba3a2c"
   },
   {
     "date": "2024-10-03T06:45:00+02:00",
@@ -168,7 +186,8 @@
     "value": 1,
     "summary": "push",
     "description": "(No description)",
-    "calendar": "Fitness"
+    "calendar_name": "Fitness",
+    "id": "5cec7fb643f76ec5745dd1f285652d34"
   },
   {
     "date": "2024-10-06T13:00:00+02:00",
@@ -177,7 +196,8 @@
     "value": 1,
     "summary": "football",
     "description": "(No description)",
-    "calendar": "Fitness"
+    "calendar_name": "Fitness",
+    "id": "448ce8a2e67f13bb16b4064ac48d893c"
   },
   {
     "date": "2024-10-07T06:30:00+02:00",
@@ -186,7 +206,8 @@
     "value": 1,
     "summary": "gym push",
     "description": "(No description)",
-    "calendar": "Fitness"
+    "calendar_name": "Fitness",
+    "id": "40a67c5f13f5140d846f269eca6a2bc7"
   },
   {
     "date": "2024-10-08T06:30:00+02:00",
@@ -195,7 +216,8 @@
     "value": 0.5,
     "summary": "rest day",
     "description": "(No description)",
-    "calendar": "Fitness"
+    "calendar_name": "Fitness",
+    "id": "3961a21a79f2dc03e491a6c1c5c26646"
   },
   {
     "date": "2024-10-09T06:30:00+02:00",
@@ -204,7 +226,8 @@
     "value": 1,
     "summary": "gym legs",
     "description": "(No description)",
-    "calendar": "Fitness"
+    "calendar_name": "Fitness",
+    "id": "a57d6699906781d618ce201807bed9a6"
   },
   {
     "date": "2024-10-10T06:30:00+02:00",
@@ -213,7 +236,8 @@
     "value": 1,
     "summary": "gym legs",
     "description": "(No description)",
-    "calendar": "Fitness"
+    "calendar_name": "Fitness",
+    "id": "09143d3503e074eb514ada8653a6ab49"
   },
   {
     "date": "2024-10-12T06:30:00+02:00",
@@ -222,7 +246,8 @@
     "value": 1,
     "summary": "gym push",
     "description": "(No description)",
-    "calendar": "Fitness"
+    "calendar_name": "Fitness",
+    "id": "37d75c43b5e64e6aaf134a2c23a784de"
   },
   {
     "date": "2024-10-13T10:00:00+02:00",
@@ -231,7 +256,8 @@
     "value": 1,
     "summary": "gym push",
     "description": "(No description)",
-    "calendar": "Fitness"
+    "calendar_name": "Fitness",
+    "id": "2a9ef55480ee1151b5c2fe316979a968"
   },
   {
     "date": "2024-10-13T13:00:00+02:00",
@@ -240,7 +266,8 @@
     "value": 1,
     "summary": "football",
     "description": "(No description)",
-    "calendar": "Fitness"
+    "calendar_name": "Fitness",
+    "id": "832338717b3f6642e60579517c3bf483"
   },
   {
     "date": "2024-10-14T09:00:00+02:00",
@@ -249,7 +276,8 @@
     "value": 1,
     "summary": "pull",
     "description": "(No description)",
-    "calendar": "Fitness"
+    "calendar_name": "Fitness",
+    "id": "92b9ed5b051250f574e9cde9a5e44a69"
   },
   {
     "date": "2024-10-15T06:30:00+02:00",
@@ -258,7 +286,8 @@
     "value": 0.5,
     "summary": "rest",
     "description": "(No description)",
-    "calendar": "Fitness"
+    "calendar_name": "Fitness",
+    "id": "7470a560bff73b44f7f89843d9d522c1"
   },
   {
     "date": "2024-10-16T15:30:00+02:00",
@@ -267,7 +296,8 @@
     "value": 1,
     "summary": "legs",
     "description": "(No description)",
-    "calendar": "Fitness"
+    "calendar_name": "Fitness",
+    "id": "d8cd3bd095563693359ca8906233faaa"
   },
   {
     "date": "2024-10-17T12:30:00+02:00",
@@ -276,7 +306,8 @@
     "value": 1,
     "summary": "push",
     "description": "(No description)",
-    "calendar": "Fitness"
+    "calendar_name": "Fitness",
+    "id": "20b087b82f55fd2912154f353784dce8"
   },
   {
     "date": "2024-10-18T06:45:00+02:00",
@@ -285,7 +316,8 @@
     "value": 0.5,
     "summary": "rest",
     "description": "(No description)",
-    "calendar": "Fitness"
+    "calendar_name": "Fitness",
+    "id": "de5224526d07e9b9890603b0987d142e"
   },
   {
     "date": "2024-10-19T10:00:00+02:00",
@@ -294,7 +326,8 @@
     "value": 1,
     "summary": "legs",
     "description": "(No description)",
-    "calendar": "Fitness"
+    "calendar_name": "Fitness",
+    "id": "08709bb552351ea914324ff88d2c663f"
   },
   {
     "date": "2024-10-20T10:30:00+02:00",
@@ -303,7 +336,8 @@
     "value": 1,
     "summary": "cardio pull ups, rows 2km",
     "description": "(No description)",
-    "calendar": "Fitness"
+    "calendar_name": "Fitness",
+    "id": "0e48eed82fac9ffc9ade669a8cd6ce20"
   },
   {
     "date": "2024-10-21T13:15:00+02:00",
@@ -312,7 +346,8 @@
     "value": 1,
     "summary": "push",
     "description": "(No description)",
-    "calendar": "Fitness"
+    "calendar_name": "Fitness",
+    "id": "d422009d66a988b3fbb56d7c862cd7f3"
   },
   {
     "date": "2024-10-22T05:30:00+02:00",
@@ -321,6 +356,27 @@
     "value": 0.5,
     "summary": "rest",
     "description": "(No description)",
-    "calendar": "Fitness"
+    "calendar_name": "Fitness",
+    "id": "52f3e34acf40975a15fd8de91eca3058"
+  },
+  {
+    "date": "2024-10-24T14:30:00+02:00",
+    "start": "2024-10-24T14:30:00+02:00",
+    "end": "2024-10-24T15:30:00+02:00",
+    "value": 1,
+    "summary": "pull",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "id": "c6dcde3b15617905ad3287b9b4ce5cf5"
+  },
+  {
+    "date": "2024-10-25T06:30:00+02:00",
+    "start": "2024-10-25T06:30:00+02:00",
+    "end": "2024-10-25T07:30:00+02:00",
+    "value": 1,
+    "summary": "push",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "id": "bea3af16382b5121ef3d80c40e108cc5"
   }
 ]

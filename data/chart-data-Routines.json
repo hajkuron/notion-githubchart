@@ -1,110 +1,12 @@
 [
   {
-    "date": "2024-10-13T04:00:00+02:00",
-    "start": "2024-10-13T04:00:00+02:00",
-    "end": "2024-10-13T04:15:00+02:00",
-    "value": 1,
-    "summary": "Daily 60*60*3",
-    "description": "(No description)",
-    "calendar": "Routines"
-  },
-  {
-    "date": "2024-10-13T04:30:00+02:00",
-    "start": "2024-10-13T04:30:00+02:00",
-    "end": "2024-10-13T04:45:00+02:00",
-    "value": 1,
-    "summary": "Weekly check up of goals NOTION",
-    "description": "(No description)",
-    "calendar": "Routines"
-  },
-  {
     "date": "2024-10-13T20:00:00+02:00",
     "start": "2024-10-13T20:00:00+02:00",
     "end": "2024-10-13T20:15:00+02:00",
     "value": 1,
     "summary": "Weekly check up of goals NOTION",
     "description": "Go through all the goals set in notion, write some \n\n\u2014\u2014\u2014\n(Reminder ID \u2022 Keep for sync \u25e6\u25e6 31/12/2023, 23:44:03 CET \u25e6\u25e6 )",
-    "calendar": "Routines"
-  },
-  {
-    "date": "2024-10-14T04:00:00+02:00",
-    "start": "2024-10-14T04:00:00+02:00",
-    "end": "2024-10-14T04:15:00+02:00",
-    "value": 1,
-    "summary": "Daily 60*60*3",
-    "description": "(No description)",
-    "calendar": "Routines"
-  },
-  {
-    "date": "2024-10-15T04:00:00+02:00",
-    "start": "2024-10-15T04:00:00+02:00",
-    "end": "2024-10-15T04:15:00+02:00",
-    "value": 1,
-    "summary": "Daily 60*60*3",
-    "description": "(No description)",
-    "calendar": "Routines"
-  },
-  {
-    "date": "2024-10-17T04:00:00+02:00",
-    "start": "2024-10-17T04:00:00+02:00",
-    "end": "2024-10-17T04:15:00+02:00",
-    "value": 1,
-    "summary": "Daily 60*60*3",
-    "description": "(No description)",
-    "calendar": "Routines"
-  },
-  {
-    "date": "2024-10-19T04:00:00+02:00",
-    "start": "2024-10-19T04:00:00+02:00",
-    "end": "2024-10-19T04:15:00+02:00",
-    "value": 1,
-    "summary": "Daily 60*60*3",
-    "description": "(No description)",
-    "calendar": "Routines"
-  },
-  {
-    "date": "2024-10-20T04:00:00+02:00",
-    "start": "2024-10-20T04:00:00+02:00",
-    "end": "2024-10-20T04:15:00+02:00",
-    "value": 1,
-    "summary": "Daily 60*60*3",
-    "description": "(No description)",
-    "calendar": "Routines"
-  },
-  {
-    "date": "2024-10-20T04:30:00+02:00",
-    "start": "2024-10-20T04:30:00+02:00",
-    "end": "2024-10-20T04:45:00+02:00",
-    "value": 1,
-    "summary": "Weekly check up of goals NOTION",
-    "description": "(No description)",
-    "calendar": "Routines"
-  },
-  {
-    "date": "2024-10-21T04:00:00+02:00",
-    "start": "2024-10-21T04:00:00+02:00",
-    "end": "2024-10-21T04:15:00+02:00",
-    "value": 1,
-    "summary": "Daily 60*60*3",
-    "description": "(No description)",
-    "calendar": "Routines"
-  },
-  {
-    "date": "2024-10-22T04:00:00+02:00",
-    "start": "2024-10-22T04:00:00+02:00",
-    "end": "2024-10-22T04:15:00+02:00",
-    "value": 1,
-    "summary": "Daily 60*60*3",
-    "description": "(No description)",
-    "calendar": "Routines"
-  },
-  {
-    "date": "2024-10-24T04:00:00+02:00",
-    "start": "2024-10-24T04:00:00+02:00",
-    "end": "2024-10-24T04:15:00+02:00",
-    "value": 1,
-    "summary": "Daily 60*60*3",
-    "description": "(No description)",
-    "calendar": "Routines"
+    "calendar_name": "Routines",
+    "id": "a826423c560e29544da6f4d33c99f664"
   }
 ]

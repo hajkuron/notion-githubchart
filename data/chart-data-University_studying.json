@@ -6,7 +6,8 @@
     "value": 1,
     "summary": "uni papers read",
     "description": "(No description)",
-    "calendar": "University studying"
+    "calendar_name": "University studying",
+    "id": "c95c045b678c34eeb4e365cb17aa0b5d"
   },
   {
     "date": "2024-09-12T09:00:00+02:00",
@@ -15,7 +16,8 @@
     "value": 1,
     "summary": "uni papers read",
     "description": "(No description)",
-    "calendar": "University studying"
+    "calendar_name": "University studying",
+    "id": "6e719aed87ba5b722b0df853cbf627ac"
   },
   {
     "date": "2024-09-12T13:00:00+02:00",
@@ -24,7 +26,8 @@
     "value": 1,
     "summary": "individual reflection assi",
     "description": "(No description)",
-    "calendar": "University studying"
+    "calendar_name": "University studying",
+    "id": "0ca162aff5a8c4a43803d67e4f628903"
   },
   {
     "date": "2024-09-12T13:30:00+02:00",
@@ -33,7 +36,8 @@
     "value": 1,
     "summary": "uni papers next week + quac",
     "description": "(No description)",
-    "calendar": "University studying"
+    "calendar_name": "University studying",
+    "id": "bda8bf7f8df5a7a0d5bc33bccb6fab7f"
   },
   {
     "date": "2024-09-13T10:00:00+02:00",
@@ -42,7 +46,8 @@
     "value": 1,
     "summary": "assignemnt",
     "description": "(No description)",
-    "calendar": "University studying"
+    "calendar_name": "University studying",
+    "id": "8bbbadd6792b916b2111f7be40f2f55c"
   },
   {
     "date": "2024-09-16T13:30:00+02:00",
@@ -51,7 +56,8 @@
     "value": 1,
     "summary": "Assignemnt",
     "description": "(No description)",
-    "calendar": "University studying"
+    "calendar_name": "University studying",
+    "id": "2d7782380ba38b825fc168a47afca1b2"
   },
   {
     "date": "2024-09-21T06:30:00+02:00",
@@ -60,7 +66,8 @@
     "value": 1,
     "summary": "wake up + strech",
     "description": "(No description)",
-    "calendar": "University studying"
+    "calendar_name": "University studying",
+    "id": "99ce249c2ef755661f885edce66c08ad"
   },
   {
     "date": "2024-09-22T06:30:00+02:00",
@@ -69,7 +76,8 @@
     "value": 1,
     "summary": "wake up + strech",
     "description": "(No description)",
-    "calendar": "University studying"
+    "calendar_name": "University studying",
+    "id": "3a1af2f1d7cbb7aaa65a5f72addb569e"
   },
   {
     "date": "2024-09-22T08:30:00+02:00",
@@ -78,7 +86,8 @@
     "value": 1,
     "summary": "faks ",
     "description": "(No description)",
-    "calendar": "University studying"
+    "calendar_name": "University studying",
+    "id": "8616a25bcde78f6df5402556191ae096"
   },
   {
     "date": "2024-09-23T06:30:00+02:00",
@@ -87,7 +96,8 @@
     "value": 1,
     "summary": "wake up + strech",
     "description": "(No description)",
-    "calendar": "University studying"
+    "calendar_name": "University studying",
+    "id": "b3bfe0cc76f0c0a7fd7139f6a361e7c8"
   },
   {
     "date": "2024-09-24T06:30:00+02:00",
@@ -96,7 +106,8 @@
     "value": 1,
     "summary": "wake up + strech",
     "description": "(No description)",
-    "calendar": "University studying"
+    "calendar_name": "University studying",
+    "id": "ee06990016e102e1ff482841a8cfade0"
   },
   {
     "date": "2024-09-25T06:30:00+02:00",
@@ -105,7 +116,8 @@
     "value": 1,
     "summary": "wake up + strech",
     "description": "(No description)",
-    "calendar": "University studying"
+    "calendar_name": "University studying",
+    "id": "5d565daed9d533849dafb9f943ed1bea"
   },
   {
     "date": "2024-09-26T06:30:00+02:00",
@@ -114,7 +126,8 @@
     "value": 1,
     "summary": "wake up + strech",
     "description": "(No description)",
-    "calendar": "University studying"
+    "calendar_name": "University studying",
+    "id": "9d4f986749f8dbc2efb0efee36038936"
   },
   {
     "date": "2024-09-27T06:30:00+02:00",
@@ -123,7 +136,8 @@
     "value": 1,
     "summary": "wake up + strech",
     "description": "(No description)",
-    "calendar": "University studying"
+    "calendar_name": "University studying",
+    "id": "f2d5fdc15d4cc3906dbf0919c37091c2"
   },
   {
     "date": "2024-09-28T06:30:00+02:00",
@@ -132,7 +146,8 @@
     "value": 1,
     "summary": "wake up + strech",
     "description": "(No description)",
-    "calendar": "University studying"
+    "calendar_name": "University studying",
+    "id": "dc351eb6b0d8f31bf7f77ebdb06c0864"
   },
   {
     "date": "2024-09-29T06:30:00+02:00",
@@ -141,7 +156,8 @@
     "value": 1,
     "summary": "wake up + strech",
     "description": "(No description)",
-    "calendar": "University studying"
+    "calendar_name": "University studying",
+    "id": "c1b9edc5ad13a196febbdead28120f81"
   },
   {
     "date": "2024-09-30T06:30:00+02:00",
@@ -150,7 +166,8 @@
     "value": 1,
     "summary": "wake up + strech",
     "description": "(No description)",
-    "calendar": "University studying"
+    "calendar_name": "University studying",
+    "id": "e9a1fcb9a57983c54f63768f62ba5d40"
   },
   {
     "date": "2024-10-01T06:30:00+02:00",
@@ -159,7 +176,8 @@
     "value": 1,
     "summary": "wake up + strech",
     "description": "(No description)",
-    "calendar": "University studying"
+    "calendar_name": "University studying",
+    "id": "bce0edce1e76853bfbb06d2e4177382e"
   },
   {
     "date": "2024-10-02T06:30:00+02:00",
@@ -168,7 +186,8 @@
     "value": 1,
     "summary": "wake up + strech",
     "description": "(No description)",
-    "calendar": "University studying"
+    "calendar_name": "University studying",
+    "id": "f34c57eba5137bf5d3d46f381631bf69"
   },
   {
     "date": "2024-10-03T06:30:00+02:00",
@@ -177,7 +196,8 @@
     "value": 1,
     "summary": "wake up + strech",
     "description": "(No description)",
-    "calendar": "University studying"
+    "calendar_name": "University studying",
+    "id": "c5015305ec88de2bbb13a0684bf8982a"
   },
   {
     "date": "2024-10-04T17:30:00+02:00",
@@ -186,7 +206,8 @@
     "value": 1,
     "summary": "wake up + strech",
     "description": "(No description)",
-    "calendar": "University studying"
+    "calendar_name": "University studying",
+    "id": "9d72d02e1d83dafe5c845a9e131e42bd"
   },
   {
     "date": "2024-10-05T06:30:00+02:00",
@@ -195,7 +216,8 @@
     "value": 1,
     "summary": "wake up + strech",
     "description": "(No description)",
-    "calendar": "University studying"
+    "calendar_name": "University studying",
+    "id": "3ee413e1b62f4d0e3bdaeaf0764026b8"
   },
   {
     "date": "2024-10-06T06:30:00+02:00",
@@ -204,7 +226,8 @@
     "value": 1,
     "summary": "wake up + strech",
     "description": "(No description)",
-    "calendar": "University studying"
+    "calendar_name": "University studying",
+    "id": "f23684f81d844a046cf928ec14efa61c"
   },
   {
     "date": "2024-10-07T08:00:00+02:00",
@@ -213,7 +236,8 @@
     "value": 1,
     "summary": "Mojo mate, research for marketing",
     "description": "(No description)",
-    "calendar": "University studying"
+    "calendar_name": "University studying",
+    "id": "5e96d36dab09856abc0f127bbb463160"
   },
   {
     "date": "2024-10-07T13:00:00+02:00",
@@ -222,7 +246,8 @@
     "value": 1,
     "summary": "mojo mate meeting",
     "description": "(No description)",
-    "calendar": "University studying"
+    "calendar_name": "University studying",
+    "id": "06734091bfddf58c55fbb96e4867cb1b"
   },
   {
     "date": "2024-10-07T21:00:00+02:00",
@@ -231,7 +256,8 @@
     "value": 1,
     "summary": "meeting Starup",
     "description": "(No description)",
-    "calendar": "University studying"
+    "calendar_name": "University studying",
+    "id": "c7c529eb22d9ce1cf2f05fc57f8feddd"
   },
   {
     "date": "2024-10-08T08:45:00+02:00",
@@ -240,7 +266,8 @@
     "value": 1,
     "summary": "assignment cas",
     "description": "(No description)",
-    "calendar": "University studying"
+    "calendar_name": "University studying",
+    "id": "29de16cb32cec446c3bc8da64038ebf5"
   },
   {
     "date": "2024-10-10T13:00:00+02:00",
@@ -249,7 +276,8 @@
     "value": 1,
     "summary": "assignment Cas",
     "description": "(No description)",
-    "calendar": "University studying"
+    "calendar_name": "University studying",
+    "id": "51187ad579fcd4cd614dc4235011e03d"
   },
   {
     "date": "2024-10-10T15:00:00+02:00",
@@ -258,7 +286,8 @@
     "value": 1,
     "summary": "coaching VU",
     "description": "(No description)",
-    "calendar": "University studying"
+    "calendar_name": "University studying",
+    "id": "c8f168dfbb12eda1ee06890e97b6efa0"
   },
   {
     "date": "2024-10-11T09:00:00+02:00",
@@ -267,7 +296,8 @@
     "value": 1,
     "summary": "mojo mate",
     "description": "(No description)",
-    "calendar": "University studying"
+    "calendar_name": "University studying",
+    "id": "b779d6e6674ed4f0497979d324c7dee8"
   },
   {
     "date": "2024-10-14T11:00:00+02:00",
@@ -276,7 +306,8 @@
     "value": 1,
     "summary": "Lecture exam",
     "description": "(No description)",
-    "calendar": "University studying"
+    "calendar_name": "University studying",
+    "id": "44acdfbfb6d967d4d3161e3a63d8e566"
   },
   {
     "date": "2024-10-17T06:30:00+02:00",
@@ -285,7 +316,8 @@
     "value": 1,
     "summary": "Uni study",
     "description": "(No description)",
-    "calendar": "University studying"
+    "calendar_name": "University studying",
+    "id": "a1b609a895be362c1e484818850b4d12"
   },
   {
     "date": "2024-10-17T11:30:00+02:00",
@@ -294,7 +326,8 @@
     "value": 1,
     "summary": "week 1",
     "description": "(No description)",
-    "calendar": "University studying"
+    "calendar_name": "University studying",
+    "id": "7b3c7cdacf5bca518041c8dc67d567c4"
   },
   {
     "date": "2024-10-18T14:00:00+02:00",
@@ -303,7 +336,8 @@
     "value": 1,
     "summary": "week 2, 3 individual",
     "description": "(No description)",
-    "calendar": "University studying"
+    "calendar_name": "University studying",
+    "id": "9310987cb6634b0348ca5ae522019383"
   },
   {
     "date": "2024-10-19T06:30:00+02:00",
@@ -312,7 +346,8 @@
     "value": 1,
     "summary": "week 4,5 individual",
     "description": "(No description)",
-    "calendar": "University studying"
+    "calendar_name": "University studying",
+    "id": "ae556f033bcb7bf44bdbf819ed8d824a"
   },
   {
     "date": "2024-10-20T06:30:00+02:00",
@@ -321,7 +356,8 @@
     "value": 1,
     "summary": "week 6 individual + organize everything",
     "description": "(No description)",
-    "calendar": "University studying"
+    "calendar_name": "University studying",
+    "id": "ffc87332381b0b66ac535ec2081c16b5"
   },
   {
     "date": "2024-10-21T06:30:00+02:00",
@@ -330,7 +366,8 @@
     "value": 1,
     "summary": "Entre. individual ALL",
     "description": "Do it in very details:\n- go through your notes and than through the notes of docs, really understand and remember concepts\n- go through the test quesitions, open your mind to answer them",
-    "calendar": "University studying"
+    "calendar_name": "University studying",
+    "id": "e174fff8726eaf3c2dee71ba2c058a34"
   },
   {
     "date": "2024-10-21T19:00:00+02:00",
@@ -339,7 +376,8 @@
     "value": 1,
     "summary": "Ponovi individual use",
     "description": "Go through the weeks of venture\n- create the notes and understand what they are about it is very easy just you need to want to understand it\n",
-    "calendar": "University studying"
+    "calendar_name": "University studying",
+    "id": "2cc6ba89ff51ac6c6f7dd1be3d1ba77a"
   },
   {
     "date": "2024-10-22T06:30:00+02:00",
@@ -348,16 +386,8 @@
     "value": 1,
     "summary": "Ponovi",
     "description": "(No description)",
-    "calendar": "University studying"
-  },
-  {
-    "date": "2024-10-22T13:00:00+02:00",
-    "start": "2024-10-22T13:00:00+02:00",
-    "end": "2024-10-22T16:00:00+02:00",
-    "value": 1,
-    "summary": "venture week 4,5",
-    "description": "(No description)",
-    "calendar": "University studying"
+    "calendar_name": "University studying",
+    "id": "70d052dfb8abcf07eb9e649b36e47b7f"
   },
   {
     "date": "2024-10-23T06:30:00+02:00",
@@ -366,6 +396,17 @@
     "value": 1,
     "summary": "venture week 6, ponovi use",
     "description": "(No description)",
-    "calendar": "University studying"
+    "calendar_name": "University studying",
+    "id": "95296dbda9321d68128dbfccbeb3e96c"
+  },
+  {
+    "date": "2024-10-24T07:30:00+02:00",
+    "start": "2024-10-24T07:30:00+02:00",
+    "end": "2024-10-24T08:30:00+02:00",
+    "value": 1,
+    "summary": "prepare a bit",
+    "description": "(No description)",
+    "calendar_name": "University studying",
+    "id": "fd39ee295e2cf60e678f3aa160578459"
   }
 ]
