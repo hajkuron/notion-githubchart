@@ -1898,9 +1898,14 @@
     "value": 1,
     "summary": "Daily 60*60*3",
     "description": "(No description)",
+<<<<<<< HEAD
     "calendar_name": "Routines",
     "deleted": true,
     "id": "64e83bf19864d175a9c0e320680d3222"
+=======
+    "calendar": "Routines",
+    "deleted": true
+>>>>>>> 8cf7f98ab64ddd2fb9b5ef5bb631cde98d6ddda3
   },
   {
     "date": "2024-10-13T04:30:00+02:00",
@@ -1909,9 +1914,14 @@
     "value": 1,
     "summary": "Weekly check up of goals NOTION",
     "description": "(No description)",
+<<<<<<< HEAD
     "calendar_name": "Routines",
     "deleted": true,
     "id": "b8d31d364fe150e2e1d67b8ecc056518"
+=======
+    "calendar": "Routines",
+    "deleted": true
+>>>>>>> 8cf7f98ab64ddd2fb9b5ef5bb631cde98d6ddda3
   },
   {
     "date": "2024-10-13T10:00:00+02:00",
@@ -1970,9 +1980,14 @@
     "value": 1,
     "summary": "Daily 60*60*3",
     "description": "(No description)",
+<<<<<<< HEAD
     "calendar_name": "Routines",
     "deleted": true,
     "id": "e291992b11f1acdbe772d907a5572174"
+=======
+    "calendar": "Routines",
+    "deleted": true
+>>>>>>> 8cf7f98ab64ddd2fb9b5ef5bb631cde98d6ddda3
   },
   {
     "date": "2024-09-20T08:00:00+02:00",
@@ -2061,9 +2076,14 @@
     "value": 1,
     "summary": "Daily 60*60*3",
     "description": "(No description)",
+<<<<<<< HEAD
     "calendar_name": "Routines",
     "deleted": true,
     "id": "875bf0ed71b6b130351fa3a760c548b6"
+=======
+    "calendar": "Routines",
+    "deleted": true
+>>>>>>> 8cf7f98ab64ddd2fb9b5ef5bb631cde98d6ddda3
   },
   {
     "date": "2024-10-15T08:00:00+02:00",
@@ -2143,9 +2163,14 @@
     "value": 1,
     "summary": "Daily 60*60*3",
     "description": "(No description)",
+<<<<<<< HEAD
     "calendar_name": "Routines",
     "deleted": true,
     "id": "f61adf2d09976440212a7e4933824402"
+=======
+    "calendar": "Routines",
+    "deleted": true
+>>>>>>> 8cf7f98ab64ddd2fb9b5ef5bb631cde98d6ddda3
   },
   {
     "date": "2024-10-17T12:30:00+02:00",
@@ -2225,9 +2250,14 @@
     "value": 1,
     "summary": "Daily 60*60*3",
     "description": "(No description)",
+<<<<<<< HEAD
     "calendar_name": "Routines",
     "deleted": true,
     "id": "9617c7d7478758d9acacf34c9e3f0f1c"
+=======
+    "calendar": "Routines",
+    "deleted": true
+>>>>>>> 8cf7f98ab64ddd2fb9b5ef5bb631cde98d6ddda3
   },
   {
     "date": "2024-10-18T06:45:00+02:00",
@@ -2266,9 +2296,14 @@
     "value": 1,
     "summary": "find services to offer",
     "description": "(No description)",
+<<<<<<< HEAD
     "calendar_name": "Projects",
     "deleted": true,
     "id": "a92f6183c292c09bb623947198c3eff6"
+=======
+    "calendar": "Projects",
+    "deleted": true
+>>>>>>> 8cf7f98ab64ddd2fb9b5ef5bb631cde98d6ddda3
   },
   {
     "date": "2024-10-20T04:00:00+02:00",
@@ -2277,9 +2312,14 @@
     "value": 1,
     "summary": "Daily 60*60*3",
     "description": "(No description)",
+<<<<<<< HEAD
     "calendar_name": "Routines",
     "deleted": true,
     "id": "3aa5dbb5c60ae4a1608a2372e3a9c77e"
+=======
+    "calendar": "Routines",
+    "deleted": true
+>>>>>>> 8cf7f98ab64ddd2fb9b5ef5bb631cde98d6ddda3
   },
   {
     "date": "2024-10-20T04:30:00+02:00",
@@ -2288,9 +2328,14 @@
     "value": 1,
     "summary": "Weekly check up of goals NOTION",
     "description": "(No description)",
+<<<<<<< HEAD
     "calendar_name": "Routines",
     "deleted": true,
     "id": "e823b40b15ce900b9f8b7ab6fb6dd450"
+=======
+    "calendar": "Routines",
+    "deleted": true
+>>>>>>> 8cf7f98ab64ddd2fb9b5ef5bb631cde98d6ddda3
   },
   {
     "date": "2024-10-20T10:30:00+02:00",
@@ -2329,9 +2374,14 @@
     "value": 1,
     "summary": "Daily 60*60*3",
     "description": "(No description)",
+<<<<<<< HEAD
     "calendar_name": "Routines",
     "deleted": true,
     "id": "b33c848d073d41896ad7f4128e72773a"
+=======
+    "calendar": "Routines",
+    "deleted": true
+>>>>>>> 8cf7f98ab64ddd2fb9b5ef5bb631cde98d6ddda3
   },
   {
     "date": "2024-10-21T13:15:00+02:00",
@@ -2370,9 +2420,14 @@
     "value": 1,
     "summary": "Planning",
     "description": "1. create a detailed plan how you think it should go in steps\n2. write out what you are going to do that day, create smaller tasks and \nstart doing them\n\nDONT GET LOST",
+<<<<<<< HEAD
     "calendar_name": "Projects",
     "deleted": true,
     "id": "797b49251f0921688f33a0515871618a"
+=======
+    "calendar": "Projects",
+    "deleted": true
+>>>>>>> 8cf7f98ab64ddd2fb9b5ef5bb631cde98d6ddda3
   },
   {
     "date": "2024-10-22T04:00:00+02:00",
@@ -2381,9 +2436,14 @@
     "value": 1,
     "summary": "Daily 60*60*3",
     "description": "(No description)",
+<<<<<<< HEAD
     "calendar_name": "Routines",
     "deleted": true,
     "id": "8256dc133d0ceec31721182db0606d4f"
+=======
+    "calendar": "Routines",
+    "deleted": true
+>>>>>>> 8cf7f98ab64ddd2fb9b5ef5bb631cde98d6ddda3
   },
   {
     "date": "2024-10-22T05:30:00+02:00",
@@ -2412,9 +2472,14 @@
     "value": 1,
     "summary": "venture week 4,5",
     "description": "(No description)",
+<<<<<<< HEAD
     "calendar_name": "University studying",
     "deleted": true,
     "id": "667ac42093d1f5415b4341fb4e76a0d9"
+=======
+    "calendar": "University studying",
+    "deleted": true
+>>>>>>> 8cf7f98ab64ddd2fb9b5ef5bb631cde98d6ddda3
   },
   {
     "date": "2024-10-22T15:00:00+02:00",
@@ -2423,9 +2488,14 @@
     "value": 1,
     "summary": "Business",
     "description": "(No description)",
+<<<<<<< HEAD
     "calendar_name": "Projects",
     "deleted": true,
     "id": "0c56fda97ad3665900509127bfdf2efd"
+=======
+    "calendar": "Projects",
+    "deleted": true
+>>>>>>> 8cf7f98ab64ddd2fb9b5ef5bb631cde98d6ddda3
   },
   {
     "date": "2024-10-22T18:00:00+02:00",
@@ -2485,9 +2555,14 @@
     "value": 1,
     "summary": "Daily 60*60*3",
     "description": "(No description)",
+<<<<<<< HEAD
     "calendar_name": "Routines",
     "deleted": true,
     "id": "8b702dbb400d0b5d4457c536b3b57455"
+=======
+    "calendar": "Routines",
+    "deleted": true
+>>>>>>> 8cf7f98ab64ddd2fb9b5ef5bb631cde98d6ddda3
   },
   {
     "date": "2024-10-24T11:15:00+02:00",
@@ -2496,8 +2571,12 @@
     "value": 1,
     "summary": "CC",
     "description": "Try to finish thequery with new dataabse in place, changed file names to add agreement number, changes data factory to pull that number and name",
+<<<<<<< HEAD
     "calendar_name": "Work creative clicks",
     "id": "ecec46bee5e858124e8bfdd205dbc0a8"
+=======
+    "calendar": "Work creative clicks"
+>>>>>>> 8cf7f98ab64ddd2fb9b5ef5bb631cde98d6ddda3
   },
   {
     "date": "2024-10-24T14:30:00+02:00",
@@ -2506,8 +2585,12 @@
     "value": 1,
     "summary": "pull",
     "description": "(No description)",
+<<<<<<< HEAD
     "calendar_name": "Fitness",
     "id": "a2cd8a245d2b636764a7be9eb9526c68"
+=======
+    "calendar": "Fitness"
+>>>>>>> 8cf7f98ab64ddd2fb9b5ef5bb631cde98d6ddda3
   },
   {
     "date": "2024-10-24T07:30:00+02:00",
@@ -2516,8 +2599,12 @@
     "value": 1,
     "summary": "prepare a bit",
     "description": "(No description)",
+<<<<<<< HEAD
     "calendar_name": "University studying",
     "id": "0ba20d97df6c9463d2dfb7dc4b9f8064"
+=======
+    "calendar": "University studying"
+>>>>>>> 8cf7f98ab64ddd2fb9b5ef5bb631cde98d6ddda3
   },
   {
     "date": "2024-10-19T12:00:00+02:00",
@@ -2526,8 +2613,12 @@
     "value": 1,
     "summary": "find services to offer",
     "description": "(No description)",
+<<<<<<< HEAD
     "calendar_name": "Projects",
     "id": "b4976f9be063c4c3f87ffdf01898decf"
+=======
+    "calendar": "Projects"
+>>>>>>> 8cf7f98ab64ddd2fb9b5ef5bb631cde98d6ddda3
   },
   {
     "date": "2024-10-21T17:15:00+02:00",
@@ -2536,8 +2627,12 @@
     "value": 1,
     "summary": "Planning",
     "description": "1. create a detailed plan how you think it should go in steps\n2. write out what you are going to do that day, create smaller tasks and \nstart doing them\n\nDONT GET LOST",
+<<<<<<< HEAD
     "calendar_name": "Projects",
     "id": "c9ef97891a84e5c82dd5ecab9199bc50"
+=======
+    "calendar": "Projects"
+>>>>>>> 8cf7f98ab64ddd2fb9b5ef5bb631cde98d6ddda3
   },
   {
     "date": "2024-10-22T16:15:00+02:00",
@@ -2546,6 +2641,7 @@
     "value": 1,
     "summary": "Business",
     "description": "(No description)",
+<<<<<<< HEAD
     "calendar_name": "Projects",
     "id": "854383ea099c55e3ea84c242b094597a"
   },
@@ -5321,5 +5417,8 @@
     "description": "Go through all the goals set in notion, write some \n\n\u2014\u2014\u2014\n(Reminder ID \u2022 Keep for sync \u25e6\u25e6 31/12/2023, 23:44:03 CET \u25e6\u25e6 )",
     "calendar_name": "Routines",
     "id": "a826423c560e29544da6f4d33c99f664"
+=======
+    "calendar": "Projects"
+>>>>>>> 8cf7f98ab64ddd2fb9b5ef5bb631cde98d6ddda3
   }
 ]

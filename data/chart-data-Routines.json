@@ -6,7 +6,11 @@
     "value": 1,
     "summary": "Weekly check up of goals NOTION",
     "description": "Go through all the goals set in notion, write some \n\n\u2014\u2014\u2014\n(Reminder ID \u2022 Keep for sync \u25e6\u25e6 31/12/2023, 23:44:03 CET \u25e6\u25e6 )",
+<<<<<<< HEAD
     "calendar_name": "Routines",
     "id": "a826423c560e29544da6f4d33c99f664"
+=======
+    "calendar": "Routines"
+>>>>>>> 8cf7f98ab64ddd2fb9b5ef5bb631cde98d6ddda3
   }
 ]

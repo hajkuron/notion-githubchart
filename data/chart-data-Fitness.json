@@ -356,8 +356,12 @@
     "value": 0.5,
     "summary": "rest",
     "description": "(No description)",
+<<<<<<< HEAD
     "calendar_name": "Fitness",
     "id": "52f3e34acf40975a15fd8de91eca3058"
+=======
+    "calendar": "Fitness"
+>>>>>>> 8cf7f98ab64ddd2fb9b5ef5bb631cde98d6ddda3
   },
   {
     "date": "2024-10-24T14:30:00+02:00",
@@ -366,6 +370,7 @@
     "value": 1,
     "summary": "pull",
     "description": "(No description)",
+<<<<<<< HEAD
     "calendar_name": "Fitness",
     "id": "c6dcde3b15617905ad3287b9b4ce5cf5"
   },
@@ -378,5 +383,8 @@
     "description": "(No description)",
     "calendar_name": "Fitness",
     "id": "bea3af16382b5121ef3d80c40e108cc5"
+=======
+    "calendar": "Fitness"
+>>>>>>> 8cf7f98ab64ddd2fb9b5ef5bb631cde98d6ddda3
   }
 ]

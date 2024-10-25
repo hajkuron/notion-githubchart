@@ -106,8 +106,12 @@
     "value": 1,
     "summary": "work",
     "description": "(No description)",
+<<<<<<< HEAD
     "calendar_name": "Work creative clicks",
     "id": "1d8e78dbe08703fcf680670781a5b8d0"
+=======
+    "calendar": "Work creative clicks"
+>>>>>>> 8cf7f98ab64ddd2fb9b5ef5bb631cde98d6ddda3
   },
   {
     "date": "2024-10-24T11:15:00+02:00",
@@ -116,6 +120,7 @@
     "value": 1,
     "summary": "CC",
     "description": "Try to finish thequery with new dataabse in place, changed file names to add agreement number, changes data factory to pull that number and name",
+<<<<<<< HEAD
     "calendar_name": "Work creative clicks",
     "id": "7e4656d43a5c3d3c228b52c0c1cf66d9"
   },
@@ -128,5 +133,8 @@
     "description": "(No description)",
     "calendar_name": "Work creative clicks",
     "id": "8b646db646eedac71fa52b20ab10b6a4"
+=======
+    "calendar": "Work creative clicks"
+>>>>>>> 8cf7f98ab64ddd2fb9b5ef5bb631cde98d6ddda3
   }
 ]
