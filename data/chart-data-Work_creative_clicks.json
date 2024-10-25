@@ -97,5 +97,14 @@
     "summary": "work",
     "description": "(No description)",
     "calendar": "Work creative clicks"
+  },
+  {
+    "date": "2024-10-24T11:15:00+02:00",
+    "start": "2024-10-24T11:15:00+02:00",
+    "end": "2024-10-24T14:00:00+02:00",
+    "value": 1,
+    "summary": "CC",
+    "description": "Try to finish thequery with new dataabse in place, changed file names to add agreement number, changes data factory to pull that number and name",
+    "calendar": "Work creative clicks"
   }
 ]

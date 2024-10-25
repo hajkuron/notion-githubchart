@@ -1607,7 +1607,8 @@
     "value": 1,
     "summary": "Daily 60*60*3",
     "description": "(No description)",
-    "calendar": "Routines"
+    "calendar": "Routines",
+    "deleted": true
   },
   {
     "date": "2024-10-13T04:30:00+02:00",
@@ -1616,7 +1617,8 @@
     "value": 1,
     "summary": "Weekly check up of goals NOTION",
     "description": "(No description)",
-    "calendar": "Routines"
+    "calendar": "Routines",
+    "deleted": true
   },
   {
     "date": "2024-10-13T10:00:00+02:00",
@@ -1670,7 +1672,8 @@
     "value": 1,
     "summary": "Daily 60*60*3",
     "description": "(No description)",
-    "calendar": "Routines"
+    "calendar": "Routines",
+    "deleted": true
   },
   {
     "date": "2024-09-20T08:00:00+02:00",
@@ -1751,7 +1754,8 @@
     "value": 1,
     "summary": "Daily 60*60*3",
     "description": "(No description)",
-    "calendar": "Routines"
+    "calendar": "Routines",
+    "deleted": true
   },
   {
     "date": "2024-10-15T08:00:00+02:00",
@@ -1824,7 +1828,8 @@
     "value": 1,
     "summary": "Daily 60*60*3",
     "description": "(No description)",
-    "calendar": "Routines"
+    "calendar": "Routines",
+    "deleted": true
   },
   {
     "date": "2024-10-17T12:30:00+02:00",
@@ -1897,7 +1902,8 @@
     "value": 1,
     "summary": "Daily 60*60*3",
     "description": "(No description)",
-    "calendar": "Routines"
+    "calendar": "Routines",
+    "deleted": true
   },
   {
     "date": "2024-10-18T06:45:00+02:00",
@@ -1933,7 +1939,8 @@
     "value": 1,
     "summary": "find services to offer",
     "description": "(No description)",
-    "calendar": "Projects"
+    "calendar": "Projects",
+    "deleted": true
   },
   {
     "date": "2024-10-20T04:00:00+02:00",
@@ -1942,7 +1949,8 @@
     "value": 1,
     "summary": "Daily 60*60*3",
     "description": "(No description)",
-    "calendar": "Routines"
+    "calendar": "Routines",
+    "deleted": true
   },
   {
     "date": "2024-10-20T04:30:00+02:00",
@@ -1951,7 +1959,8 @@
     "value": 1,
     "summary": "Weekly check up of goals NOTION",
     "description": "(No description)",
-    "calendar": "Routines"
+    "calendar": "Routines",
+    "deleted": true
   },
   {
     "date": "2024-10-20T10:30:00+02:00",
@@ -1987,7 +1996,8 @@
     "value": 1,
     "summary": "Daily 60*60*3",
     "description": "(No description)",
-    "calendar": "Routines"
+    "calendar": "Routines",
+    "deleted": true
   },
   {
     "date": "2024-10-21T13:15:00+02:00",
@@ -2023,7 +2033,8 @@
     "value": 1,
     "summary": "Planning",
     "description": "1. create a detailed plan how you think it should go in steps\n2. write out what you are going to do that day, create smaller tasks and \nstart doing them\n\nDONT GET LOST",
-    "calendar": "Projects"
+    "calendar": "Projects",
+    "deleted": true
   },
   {
     "date": "2024-10-22T04:00:00+02:00",
@@ -2032,7 +2043,8 @@
     "value": 1,
     "summary": "Daily 60*60*3",
     "description": "(No description)",
-    "calendar": "Routines"
+    "calendar": "Routines",
+    "deleted": true
   },
   {
     "date": "2024-10-22T05:30:00+02:00",
@@ -2059,7 +2071,8 @@
     "value": 1,
     "summary": "venture week 4,5",
     "description": "(No description)",
-    "calendar": "University studying"
+    "calendar": "University studying",
+    "deleted": true
   },
   {
     "date": "2024-10-22T15:00:00+02:00",
@@ -2068,7 +2081,8 @@
     "value": 1,
     "summary": "Business",
     "description": "(No description)",
-    "calendar": "Projects"
+    "calendar": "Projects",
+    "deleted": true
   },
   {
     "date": "2024-10-22T18:00:00+02:00",
@@ -2123,6 +2137,61 @@
     "value": 1,
     "summary": "Daily 60*60*3",
     "description": "(No description)",
-    "calendar": "Routines"
+    "calendar": "Routines",
+    "deleted": true
+  },
+  {
+    "date": "2024-10-24T11:15:00+02:00",
+    "start": "2024-10-24T11:15:00+02:00",
+    "end": "2024-10-24T14:00:00+02:00",
+    "value": 1,
+    "summary": "CC",
+    "description": "Try to finish thequery with new dataabse in place, changed file names to add agreement number, changes data factory to pull that number and name",
+    "calendar": "Work creative clicks"
+  },
+  {
+    "date": "2024-10-24T14:30:00+02:00",
+    "start": "2024-10-24T14:30:00+02:00",
+    "end": "2024-10-24T15:30:00+02:00",
+    "value": 1,
+    "summary": "pull",
+    "description": "(No description)",
+    "calendar": "Fitness"
+  },
+  {
+    "date": "2024-10-24T07:30:00+02:00",
+    "start": "2024-10-24T07:30:00+02:00",
+    "end": "2024-10-24T08:30:00+02:00",
+    "value": 1,
+    "summary": "prepare a bit",
+    "description": "(No description)",
+    "calendar": "University studying"
+  },
+  {
+    "date": "2024-10-19T12:00:00+02:00",
+    "start": "2024-10-19T12:00:00+02:00",
+    "end": "2024-10-19T15:45:00+02:00",
+    "value": 1,
+    "summary": "find services to offer",
+    "description": "(No description)",
+    "calendar": "Projects"
+  },
+  {
+    "date": "2024-10-21T17:15:00+02:00",
+    "start": "2024-10-21T17:15:00+02:00",
+    "end": "2024-10-21T19:00:00+02:00",
+    "value": 1,
+    "summary": "Planning",
+    "description": "1. create a detailed plan how you think it should go in steps\n2. write out what you are going to do that day, create smaller tasks and \nstart doing them\n\nDONT GET LOST",
+    "calendar": "Projects"
+  },
+  {
+    "date": "2024-10-22T16:15:00+02:00",
+    "start": "2024-10-22T16:15:00+02:00",
+    "end": "2024-10-22T18:00:00+02:00",
+    "value": 1,
+    "summary": "Business",
+    "description": "(No description)",
+    "calendar": "Projects"
   }
 ]
