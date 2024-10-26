@@ -52,10 +52,7 @@ if __name__ == "__main__":
     prepared_df = prepare_data_for_supabase(historical_data)
     save_prepared_data(prepared_df)
     print("Data prepared and saved successfully.")
-#%%
-historical_data = load_historical_data()
-prepared_df = prepare_data_for_supabase(historical_data)
-    
+
 
 # %%
 
