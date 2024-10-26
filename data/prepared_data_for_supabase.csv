@@ -1,23 +1,23 @@
 date,start,end,value,summary,calendar_name,deleted,id,description,duration
 2024-09-02 11:00:00+02:00,2024-09-02 11:00:00+02:00,2024-09-02 13:00:00+02:00,1.0,The Entrepreneurial Individual,University of Amsterdam - Personal timetable: 13597698@uva.nl,False,fbf70186b614c7a335028578340cf2e2,,120.0
 2024-09-04 11:00:00+02:00,2024-09-04 11:00:00+02:00,2024-09-04 13:00:00+02:00,1.0,The Entrepreneurial Individual,University of Amsterdam - Personal timetable: 13597698@uva.nl,False,c0d4aac769003d184c9dde7346ded20e,,120.0
-2024-09-08 00:00:00,2024-09-08 00:00:00,2024-09-09 00:00:00,1.0,Individual Reflection (Post-Lecture) Week 1 [6314MA046Y],University of Amsterdam - Personal timetable: 13597698@uva.nl,True,e6b892a46eb39cbf6cdf85bf141e7553,,1440.0
+2024-09-08 02:00:00+02:00,2024-09-08 02:00:00+02:00,2024-09-09 02:00:00+02:00,1.0,Individual Reflection (Post-Lecture) Week 1 [6314MA046Y],University of Amsterdam - Personal timetable: 13597698@uva.nl,True,e6b892a46eb39cbf6cdf85bf141e7553,,1440.0
 2024-09-09 11:00:00+02:00,2024-09-09 11:00:00+02:00,2024-09-09 13:00:00+02:00,1.0,The Entrepreneurial Individual,University of Amsterdam - Personal timetable: 13597698@uva.nl,False,33cf4cfcc5ffe819e8ca1f3677f5e68c,,120.0
 2024-09-11 11:00:00+02:00,2024-09-11 11:00:00+02:00,2024-09-11 13:00:00+02:00,1.0,The Entrepreneurial Individual,University of Amsterdam - Personal timetable: 13597698@uva.nl,False,3f7e1d4c411de0555352ae8618060f11,,120.0
-2024-09-13 00:00:00,2024-09-13 00:00:00,2024-09-14 00:00:00,1.0,QAQC Week 3 [6314MA046Y],University of Amsterdam - Personal timetable: 13597698@uva.nl,False,00efb6238cc225cc3932866abd2f6993,,1440.0
-2024-09-15 00:00:00,2024-09-15 00:00:00,2024-09-16 00:00:00,1.0,Individual Reflection (Post-Lecture) Week 2 [6314MA046Y],University of Amsterdam - Personal timetable: 13597698@uva.nl,False,2a0d47e1770cce5ecc9bcaf2635caca8,,1440.0
+2024-09-13 02:00:00+02:00,2024-09-13 02:00:00+02:00,2024-09-14 02:00:00+02:00,1.0,QAQC Week 3 [6314MA046Y],University of Amsterdam - Personal timetable: 13597698@uva.nl,False,00efb6238cc225cc3932866abd2f6993,,1440.0
+2024-09-15 02:00:00+02:00,2024-09-15 02:00:00+02:00,2024-09-16 02:00:00+02:00,1.0,Individual Reflection (Post-Lecture) Week 2 [6314MA046Y],University of Amsterdam - Personal timetable: 13597698@uva.nl,False,2a0d47e1770cce5ecc9bcaf2635caca8,,1440.0
 2024-09-16 11:00:00+02:00,2024-09-16 11:00:00+02:00,2024-09-16 13:00:00+02:00,1.0,The Entrepreneurial Individual,University of Amsterdam - Personal timetable: 13597698@uva.nl,False,ba99660db2f4cc7c0f528c39c750536c,,120.0
 2024-09-18 11:00:00+02:00,2024-09-18 11:00:00+02:00,2024-09-18 13:00:00+02:00,1.0,The Entrepreneurial Individual,University of Amsterdam - Personal timetable: 13597698@uva.nl,False,45ad0564673c2b78b6c3d98cf4ac30e1,,120.0
-2024-09-20 00:00:00,2024-09-20 00:00:00,2024-09-21 00:00:00,1.0,QAQC Week 4 [6314MA046Y],University of Amsterdam - Personal timetable: 13597698@uva.nl,False,2c48615a293bd81b288ea6c679670c2e,,1440.0
-2024-09-22 00:00:00,2024-09-22 00:00:00,2024-09-23 00:00:00,1.0,Individual Reflection (Post-Lecture) Week 3 [6314MA046Y],University of Amsterdam - Personal timetable: 13597698@uva.nl,False,e9a54326a6f101eaa97b5b95abfd10f0,,1440.0
+2024-09-20 02:00:00+02:00,2024-09-20 02:00:00+02:00,2024-09-21 02:00:00+02:00,1.0,QAQC Week 4 [6314MA046Y],University of Amsterdam - Personal timetable: 13597698@uva.nl,False,2c48615a293bd81b288ea6c679670c2e,,1440.0
+2024-09-22 02:00:00+02:00,2024-09-22 02:00:00+02:00,2024-09-23 02:00:00+02:00,1.0,Individual Reflection (Post-Lecture) Week 3 [6314MA046Y],University of Amsterdam - Personal timetable: 13597698@uva.nl,False,e9a54326a6f101eaa97b5b95abfd10f0,,1440.0
 2024-09-23 11:00:00+02:00,2024-09-23 11:00:00+02:00,2024-09-23 13:00:00+02:00,1.0,The Entrepreneurial Individual,University of Amsterdam - Personal timetable: 13597698@uva.nl,False,b19a276ff0d87982a7f322dad0939d94,,120.0
 2024-09-25 11:00:00+02:00,2024-09-25 11:00:00+02:00,2024-09-25 13:00:00+02:00,1.0,The Entrepreneurial Individual,University of Amsterdam - Personal timetable: 13597698@uva.nl,False,5bf896e3dceae07fb1c2f992a72b7fef,,120.0
-2024-09-27 00:00:00,2024-09-27 00:00:00,2024-09-28 00:00:00,1.0,QAQC Week 5 [6314MA046Y],University of Amsterdam - Personal timetable: 13597698@uva.nl,False,b9c3de0f19a3bef0ebf1a6d24eba892b,,1440.0
-2024-09-29 00:00:00,2024-09-29 00:00:00,2024-09-30 00:00:00,1.0,Individual Reflection (Post-Lecture) Week 4 [6314MA046Y],University of Amsterdam - Personal timetable: 13597698@uva.nl,False,0fede9d1a07e87cf649bddb5e6a284d7,,1440.0
+2024-09-27 02:00:00+02:00,2024-09-27 02:00:00+02:00,2024-09-28 02:00:00+02:00,1.0,QAQC Week 5 [6314MA046Y],University of Amsterdam - Personal timetable: 13597698@uva.nl,False,b9c3de0f19a3bef0ebf1a6d24eba892b,,1440.0
+2024-09-29 02:00:00+02:00,2024-09-29 02:00:00+02:00,2024-09-30 02:00:00+02:00,1.0,Individual Reflection (Post-Lecture) Week 4 [6314MA046Y],University of Amsterdam - Personal timetable: 13597698@uva.nl,False,0fede9d1a07e87cf649bddb5e6a284d7,,1440.0
 2024-09-30 11:00:00+02:00,2024-09-30 11:00:00+02:00,2024-09-30 13:00:00+02:00,1.0,The Entrepreneurial Individual,University of Amsterdam - Personal timetable: 13597698@uva.nl,False,45c02aca4c0b8fe46255c4e28232541f,,120.0
 2024-10-02 11:00:00+02:00,2024-10-02 11:00:00+02:00,2024-10-02 13:00:00+02:00,1.0,The Entrepreneurial Individual,University of Amsterdam - Personal timetable: 13597698@uva.nl,False,0f31b6fbdd7aba4bbdbbf8a0c77f056a,,120.0
-2024-10-04 00:00:00,2024-10-04 00:00:00,2024-10-05 00:00:00,1.0,QAQC Week 6 [6314MA046Y],University of Amsterdam - Personal timetable: 13597698@uva.nl,False,4a0cc6c38dd75685f0ffe4bb195732a5,,1440.0
-2024-10-06 00:00:00,2024-10-06 00:00:00,2024-10-07 00:00:00,1.0,Individual Reflection (Post-Lecture) Week 5 [6314MA046Y],University of Amsterdam - Personal timetable: 13597698@uva.nl,False,0d69da90401c30075ca77caee4c808a4,,1440.0
+2024-10-04 02:00:00+02:00,2024-10-04 02:00:00+02:00,2024-10-05 02:00:00+02:00,1.0,QAQC Week 6 [6314MA046Y],University of Amsterdam - Personal timetable: 13597698@uva.nl,False,4a0cc6c38dd75685f0ffe4bb195732a5,,1440.0
+2024-10-06 02:00:00+02:00,2024-10-06 02:00:00+02:00,2024-10-07 02:00:00+02:00,1.0,Individual Reflection (Post-Lecture) Week 5 [6314MA046Y],University of Amsterdam - Personal timetable: 13597698@uva.nl,False,0d69da90401c30075ca77caee4c808a4,,1440.0
 2024-10-07 11:00:00+02:00,2024-10-07 11:00:00+02:00,2024-10-07 13:00:00+02:00,1.0,The Entrepreneurial Individual,University of Amsterdam - Personal timetable: 13597698@uva.nl,False,39a523a039122bfe643771701f79d131,,120.0
 2024-09-03 15:30:00+02:00,2024-09-03 15:30:00+02:00,2024-09-03 17:15:00+02:00,1.0,The Entrepreneurial Venture (HC),"VU Amsterdam - Personal timetable: Kuhar, J. (Jon)",False,908b16e9b7a3a24564e5a7014c1b7198,,105.0
 2024-09-05 11:00:00+02:00,2024-09-05 11:00:00+02:00,2024-09-05 12:45:00+02:00,1.0,The Entrepreneurial Venture (HC),"VU Amsterdam - Personal timetable: Kuhar, J. (Jon)",False,214fc63217e28975154233ae3d6d421b,,105.0
@@ -40,7 +40,7 @@ This event was created from an email you received in Gmail. https://mail.google.
 ",150.0
 2024-09-03 08:00:00+02:00,2024-09-03 08:00:00+02:00,2024-09-03 09:00:00+02:00,1.0,gym pull,jonkuhar11@gmail.com,True,882d23b1a2e202d116957db47691f9bb,(No description),60.0
 2024-09-05 08:00:00+02:00,2024-09-05 08:00:00+02:00,2024-09-05 09:00:00+02:00,1.0,gym legs,jonkuhar11@gmail.com,True,cfdd8b5d8bfd8287aa36777a52367647,(No description),60.0
-2024-09-06 00:00:00,2024-09-06 00:00:00,2024-09-07 00:00:00,1.0,assignment,jonkuhar11@gmail.com,True,0907a85792b67d81fbeafc03376894f4,(No description),1440.0
+2024-09-06 02:00:00+02:00,2024-09-06 02:00:00+02:00,2024-09-07 02:00:00+02:00,1.0,assignment,jonkuhar11@gmail.com,True,0907a85792b67d81fbeafc03376894f4,(No description),1440.0
 2024-09-07 08:30:00+02:00,2024-09-07 08:30:00+02:00,2024-09-07 09:30:00+02:00,1.0,gym push,jonkuhar11@gmail.com,True,fc76a40d54ffb051e7f6a51e3f506f70,(No description),60.0
 2024-09-07 10:00:00+02:00,2024-09-07 10:00:00+02:00,2024-09-07 12:00:00+02:00,1.0,Assignments,jonkuhar11@gmail.com,True,4da3c7c7044636ecf2383dc4cc1c812d,(No description),120.0
 2024-09-07 13:00:00+02:00,2024-09-07 13:00:00+02:00,2024-09-07 15:00:00+02:00,1.0,Chrome extension youtube,jonkuhar11@gmail.com,True,84e072e1d4fd94a8935d642a28e56ed8,(No description),120.0
@@ -158,7 +158,7 @@ This event was created from an email you received in Gmail. https://mail.google.
 ",150.0
 2024-09-03 08:00:00+02:00,2024-09-03 08:00:00+02:00,2024-09-03 09:00:00+02:00,1.0,gym pull,jonkuhar11@gmail.com,False,0cd4fbef03c9338962cc61129bb7615b,(No description),60.0
 2024-09-05 08:00:00+02:00,2024-09-05 08:00:00+02:00,2024-09-05 09:00:00+02:00,1.0,gym legs,jonkuhar11@gmail.com,False,49a7afdc0594726d1bc2204f41478a32,(No description),60.0
-2024-09-06 00:00:00,2024-09-06 00:00:00,2024-09-07 00:00:00,1.0,assignment,jonkuhar11@gmail.com,False,e4ee24f00ae10b89977492690218f02f,(No description),1440.0
+2024-09-06 02:00:00+02:00,2024-09-06 02:00:00+02:00,2024-09-07 02:00:00+02:00,1.0,assignment,jonkuhar11@gmail.com,False,e4ee24f00ae10b89977492690218f02f,(No description),1440.0
 2024-09-07 08:30:00+02:00,2024-09-07 08:30:00+02:00,2024-09-07 09:30:00+02:00,1.0,gym push,jonkuhar11@gmail.com,False,d7f3b3cb0e6283cc5aa00b219dc827e7,(No description),60.0
 2024-09-07 10:00:00+02:00,2024-09-07 10:00:00+02:00,2024-09-07 12:00:00+02:00,1.0,Assignments,jonkuhar11@gmail.com,False,0d7b7fccd80ae5c593a3d64e42f8a5d2,(No description),120.0
 2024-09-07 13:00:00+02:00,2024-09-07 13:00:00+02:00,2024-09-07 15:00:00+02:00,1.0,Chrome extension youtube,jonkuhar11@gmail.com,False,e1aff352d100df04a6371a3abb3616a2,(No description),120.0
@@ -532,19 +532,19 @@ DONT GET LOST",105.0
 2024-10-23 16:15:00+02:00,2024-10-23 16:15:00+02:00,2024-10-23 18:00:00+02:00,1.0,Business,Projects,False,766c286a3ea4625419d326a898bf5372,planning will be done on monday,105.0
 2024-10-25 17:00:00+02:00,2024-10-25 17:00:00+02:00,2024-10-25 19:00:00+02:00,1.0,educational videos,Projects,False,7dafe89483ca68fa27f92b617d3e2b33,(No description),120.0
 2024-10-26 06:30:00+02:00,2024-10-26 06:30:00+02:00,2024-10-26 10:30:00+02:00,1.0,New Event,Projects,False,8d64116a4e55749e96726fbfffa4cc36,(No description),240.0
-2024-09-17 16:00:00+00:00,2024-09-17 16:00:00+00:00,2024-09-17 19:00:00+00:00,1.0,Mindstone Amsterdam AI Meetup,Home,True,32cac77b2bb08e2e533f12954b389eab,View in app: meetup://mindstone-amsterdam-ai-meetup/events/301614752,180.0
-2024-09-21 10:30:00+00:00,2024-09-21 10:30:00+00:00,2024-09-21 11:30:00+00:00,1.0,kosilo,Home,True,622d72498c927346cc958726722c019b,(No description),60.0
-2024-09-22 09:30:00+00:00,2024-09-22 09:30:00+00:00,2024-09-22 10:30:00+00:00,1.0,kosilo,Home,True,9854215a508956d960cbcd13e3fa6a30,(No description),60.0
-2024-09-22 17:00:00+00:00,2024-09-22 17:00:00+00:00,2024-09-22 19:00:00+00:00,1.0,hanc,Home,True,873ef5fbb23466abd4d93465100e5c78,(No description),120.0
-2024-09-23 17:00:00+00:00,2024-09-23 17:00:00+00:00,2024-09-23 19:00:00+00:00,1.0,hanc,Home,True,784f8087808e2d151a094f0d34e11837,(No description),120.0
-2024-09-24 00:00:00,2024-09-24 00:00:00,2024-09-25 00:00:00,1.0,Hanci❤️,Home,True,6d93f72040a3ed893874c039602d9041,(No description),1440.0
-2024-09-24 17:30:00+00:00,2024-09-24 17:30:00+00:00,2024-09-24 19:30:00+00:00,1.0,hanc,Home,True,7038f41e5af6e8475e6bd757389a5b61,(No description),120.0
-2024-10-02 13:00:00+00:00,2024-10-02 13:00:00+00:00,2024-10-02 13:15:00+00:00,1.0,New Event,Home,True,4505bc863e4253eff5bcca3799b107fa,(No description),15.0
-2024-10-03 15:50:00+00:00,2024-10-03 15:50:00+00:00,2024-10-03 18:23:00+00:00,1.0,Joker: Folie à Deux,Home,True,015303d4ec8079a63e95e3f714cce586,"Film: Joker: Folie à Deux
+2024-09-17 18:00:00+02:00,2024-09-17 18:00:00+02:00,2024-09-17 21:00:00+02:00,1.0,Mindstone Amsterdam AI Meetup,Home,True,32cac77b2bb08e2e533f12954b389eab,View in app: meetup://mindstone-amsterdam-ai-meetup/events/301614752,180.0
+2024-09-21 12:30:00+02:00,2024-09-21 12:30:00+02:00,2024-09-21 13:30:00+02:00,1.0,kosilo,Home,True,622d72498c927346cc958726722c019b,(No description),60.0
+2024-09-22 11:30:00+02:00,2024-09-22 11:30:00+02:00,2024-09-22 12:30:00+02:00,1.0,kosilo,Home,True,9854215a508956d960cbcd13e3fa6a30,(No description),60.0
+2024-09-22 19:00:00+02:00,2024-09-22 19:00:00+02:00,2024-09-22 21:00:00+02:00,1.0,hanc,Home,True,873ef5fbb23466abd4d93465100e5c78,(No description),120.0
+2024-09-23 19:00:00+02:00,2024-09-23 19:00:00+02:00,2024-09-23 21:00:00+02:00,1.0,hanc,Home,True,784f8087808e2d151a094f0d34e11837,(No description),120.0
+2024-09-24 02:00:00+02:00,2024-09-24 02:00:00+02:00,2024-09-25 02:00:00+02:00,1.0,Hanci❤️,Home,True,6d93f72040a3ed893874c039602d9041,(No description),1440.0
+2024-09-24 19:30:00+02:00,2024-09-24 19:30:00+02:00,2024-09-24 21:30:00+02:00,1.0,hanc,Home,True,7038f41e5af6e8475e6bd757389a5b61,(No description),120.0
+2024-10-02 15:00:00+02:00,2024-10-02 15:00:00+02:00,2024-10-02 15:15:00+02:00,1.0,New Event,Home,True,4505bc863e4253eff5bcca3799b107fa,(No description),15.0
+2024-10-03 17:50:00+02:00,2024-10-03 17:50:00+02:00,2024-10-03 20:23:00+02:00,1.0,Joker: Folie à Deux,Home,True,015303d4ec8079a63e95e3f714cce586,"Film: Joker: Folie à Deux
 Bioscoop: Pathé De Munt
 Zaal: Zaal 13
 Barcode: WXTT8M4",153.0
-2024-10-05 09:00:00+00:00,2024-10-05 09:00:00+00:00,2024-10-05 09:50:00+00:00,1.0,The ImoveAmsterdam Reformer Pilates Experience @ ImoveAmsterdam Boutique - Reformer Pilates,Home,True,c5de6c1caffd7db2b4e59b90ee4b881d,"How to get there: imoveAmsterdam - Reformer Pilates is located at Houthavenweg 105, Amsterdam, 1013 ZV.
+2024-10-05 11:00:00+02:00,2024-10-05 11:00:00+02:00,2024-10-05 11:50:00+02:00,1.0,The ImoveAmsterdam Reformer Pilates Experience @ ImoveAmsterdam Boutique - Reformer Pilates,Home,True,c5de6c1caffd7db2b4e59b90ee4b881d,"How to get there: imoveAmsterdam - Reformer Pilates is located at Houthavenweg 105, Amsterdam, 1013 ZV.
 
 Amenities: Lockers, Showers
 
@@ -557,33 +557,33 @@ About this class: Our 50-minute Pilates Reformer group class. Elevate your fitne
 About this studio: Let's Elevate Together! At ImoveAmsterdam Boutique Reformer Pilates Studio we are on a mission to Elevate your fitness experience. Offering  mind&body boosting Reformer Pilates Classes. Lets make some magic happen together.  
 
 ",50.0
-2024-10-07 13:15:00+00:00,2024-10-07 13:15:00+00:00,2024-10-07 15:15:00+00:00,1.0,mm,Home,True,30ba094daa7a7c383bf577cbda4ea38b,(No description),120.0
-2024-10-12 08:30:00+00:00,2024-10-12 08:30:00+00:00,2024-10-12 08:45:00+00:00,1.0,New Event,Home,True,493428ecfc3a2376361c6f5957a671a2,(No description),15.0
-2024-10-13 18:00:00+00:00,2024-10-13 18:00:00+00:00,2024-10-13 18:15:00+00:00,1.0,Weekly check up of goals NOTION,Home,True,02d50383ce4061438a45c6513abbeb21,"Go through all the goals set in notion, write some 
+2024-10-07 15:15:00+02:00,2024-10-07 15:15:00+02:00,2024-10-07 17:15:00+02:00,1.0,mm,Home,True,30ba094daa7a7c383bf577cbda4ea38b,(No description),120.0
+2024-10-12 10:30:00+02:00,2024-10-12 10:30:00+02:00,2024-10-12 10:45:00+02:00,1.0,New Event,Home,True,493428ecfc3a2376361c6f5957a671a2,(No description),15.0
+2024-10-13 20:00:00+02:00,2024-10-13 20:00:00+02:00,2024-10-13 20:15:00+02:00,1.0,Weekly check up of goals NOTION,Home,True,02d50383ce4061438a45c6513abbeb21,"Go through all the goals set in notion, write some 
 
 ———
 (Reminder ID • Keep for sync ◦◦ 31. 12. 23, 23:44:03 CET ◦◦ )",15.0
-2024-10-14 11:15:00+00:00,2024-10-14 11:15:00+00:00,2024-10-14 11:30:00+00:00,1.0,belastingdients,Home,True,ceb30c4322ed2560f92cebfd48287dfa,(No description),15.0
-2024-10-14 08:00:00+00:00,2024-10-14 08:00:00+00:00,2024-10-14 09:00:00+00:00,1.0,New Event,Home,True,01c676ff82a9c49a61832d3d79a60338,(No description),60.0
-2024-10-20 16:15:00+00:00,2024-10-20 16:15:00+00:00,2024-10-20 17:45:00+00:00,1.0,notion goals ,Home,True,95d61f9e4f99571fc01410631b6073b4,"go through the goals for this week
+2024-10-14 13:15:00+02:00,2024-10-14 13:15:00+02:00,2024-10-14 13:30:00+02:00,1.0,belastingdients,Home,True,ceb30c4322ed2560f92cebfd48287dfa,(No description),15.0
+2024-10-14 10:00:00+02:00,2024-10-14 10:00:00+02:00,2024-10-14 11:00:00+02:00,1.0,New Event,Home,True,01c676ff82a9c49a61832d3d79a60338,(No description),60.0
+2024-10-20 18:15:00+02:00,2024-10-20 18:15:00+02:00,2024-10-20 19:45:00+02:00,1.0,notion goals ,Home,True,95d61f9e4f99571fc01410631b6073b4,"go through the goals for this week
 write some feedback on yourself in notebook
 create the goals for next week
 plan your next week fully
 ",90.0
-2024-10-24 00:00:00,2024-10-24 00:00:00,2024-10-25 00:00:00,1.0,Hanci❤️,Home,True,3a994b5836ee5b082b4370bf0bd64b5f,(No description),1440.0
-2024-09-17 16:00:00+00:00,2024-09-17 16:00:00+00:00,2024-09-17 19:00:00+00:00,1.0,Mindstone Amsterdam AI Meetup,Home,False,6f460ee9eb1107d53eaf0fa04fcc1ac4,View in app: meetup://mindstone-amsterdam-ai-meetup/events/301614752,180.0
-2024-09-21 10:30:00+00:00,2024-09-21 10:30:00+00:00,2024-09-21 11:30:00+00:00,1.0,kosilo,Home,False,799791ecbd7673334727443fdfb5440b,(No description),60.0
-2024-09-22 09:30:00+00:00,2024-09-22 09:30:00+00:00,2024-09-22 10:30:00+00:00,1.0,kosilo,Home,False,a9f7c62e67b3b32e02d98487851cb1c8,(No description),60.0
-2024-09-22 17:00:00+00:00,2024-09-22 17:00:00+00:00,2024-09-22 19:00:00+00:00,1.0,hanc,Home,False,bdc90965279562fdfcb68bbf76636ac2,(No description),120.0
-2024-09-23 17:00:00+00:00,2024-09-23 17:00:00+00:00,2024-09-23 19:00:00+00:00,1.0,hanc,Home,False,bbed726f634f5ee829a53264f511c54a,(No description),120.0
-2024-09-24 00:00:00,2024-09-24 00:00:00,2024-09-25 00:00:00,1.0,Hanci❤️,Home,False,648617863460e1871394d7aa93acc0be,(No description),1440.0
-2024-09-24 17:30:00+00:00,2024-09-24 17:30:00+00:00,2024-09-24 19:30:00+00:00,1.0,hanc,Home,False,bba11d14cb96ce81a9708edfa805d515,(No description),120.0
-2024-10-02 13:00:00+00:00,2024-10-02 13:00:00+00:00,2024-10-02 13:15:00+00:00,1.0,New Event,Home,False,be1f81ee969dbc77b05715f10e3c8e99,(No description),15.0
-2024-10-03 15:50:00+00:00,2024-10-03 15:50:00+00:00,2024-10-03 18:23:00+00:00,1.0,Joker: Folie à Deux,Home,False,dab1ce0fd394262ca3b6702791fc5f45,"Film: Joker: Folie à Deux
+2024-10-24 02:00:00+02:00,2024-10-24 02:00:00+02:00,2024-10-25 02:00:00+02:00,1.0,Hanci❤️,Home,True,3a994b5836ee5b082b4370bf0bd64b5f,(No description),1440.0
+2024-09-17 18:00:00+02:00,2024-09-17 18:00:00+02:00,2024-09-17 21:00:00+02:00,1.0,Mindstone Amsterdam AI Meetup,Home,False,6f460ee9eb1107d53eaf0fa04fcc1ac4,View in app: meetup://mindstone-amsterdam-ai-meetup/events/301614752,180.0
+2024-09-21 12:30:00+02:00,2024-09-21 12:30:00+02:00,2024-09-21 13:30:00+02:00,1.0,kosilo,Home,False,799791ecbd7673334727443fdfb5440b,(No description),60.0
+2024-09-22 11:30:00+02:00,2024-09-22 11:30:00+02:00,2024-09-22 12:30:00+02:00,1.0,kosilo,Home,False,a9f7c62e67b3b32e02d98487851cb1c8,(No description),60.0
+2024-09-22 19:00:00+02:00,2024-09-22 19:00:00+02:00,2024-09-22 21:00:00+02:00,1.0,hanc,Home,False,bdc90965279562fdfcb68bbf76636ac2,(No description),120.0
+2024-09-23 19:00:00+02:00,2024-09-23 19:00:00+02:00,2024-09-23 21:00:00+02:00,1.0,hanc,Home,False,bbed726f634f5ee829a53264f511c54a,(No description),120.0
+2024-09-24 02:00:00+02:00,2024-09-24 02:00:00+02:00,2024-09-25 02:00:00+02:00,1.0,Hanci❤️,Home,False,648617863460e1871394d7aa93acc0be,(No description),1440.0
+2024-09-24 19:30:00+02:00,2024-09-24 19:30:00+02:00,2024-09-24 21:30:00+02:00,1.0,hanc,Home,False,bba11d14cb96ce81a9708edfa805d515,(No description),120.0
+2024-10-02 15:00:00+02:00,2024-10-02 15:00:00+02:00,2024-10-02 15:15:00+02:00,1.0,New Event,Home,False,be1f81ee969dbc77b05715f10e3c8e99,(No description),15.0
+2024-10-03 17:50:00+02:00,2024-10-03 17:50:00+02:00,2024-10-03 20:23:00+02:00,1.0,Joker: Folie à Deux,Home,False,dab1ce0fd394262ca3b6702791fc5f45,"Film: Joker: Folie à Deux
 Bioscoop: Pathé De Munt
 Zaal: Zaal 13
 Barcode: WXTT8M4",153.0
-2024-10-05 09:00:00+00:00,2024-10-05 09:00:00+00:00,2024-10-05 09:50:00+00:00,1.0,The ImoveAmsterdam Reformer Pilates Experience @ ImoveAmsterdam Boutique - Reformer Pilates,Home,False,c56d97d5061bbeaf9589dea10138fce8,"How to get there: imoveAmsterdam - Reformer Pilates is located at Houthavenweg 105, Amsterdam, 1013 ZV.
+2024-10-05 11:00:00+02:00,2024-10-05 11:00:00+02:00,2024-10-05 11:50:00+02:00,1.0,The ImoveAmsterdam Reformer Pilates Experience @ ImoveAmsterdam Boutique - Reformer Pilates,Home,False,c56d97d5061bbeaf9589dea10138fce8,"How to get there: imoveAmsterdam - Reformer Pilates is located at Houthavenweg 105, Amsterdam, 1013 ZV.
 
 Amenities: Lockers, Showers
 
@@ -596,20 +596,20 @@ About this class: Our 50-minute Pilates Reformer group class. Elevate your fitne
 About this studio: Let's Elevate Together! At ImoveAmsterdam Boutique Reformer Pilates Studio we are on a mission to Elevate your fitness experience. Offering  mind&body boosting Reformer Pilates Classes. Lets make some magic happen together.  
 
 ",50.0
-2024-10-07 13:15:00+00:00,2024-10-07 13:15:00+00:00,2024-10-07 15:15:00+00:00,1.0,mm,Home,False,f567fec43cd27e21b7c19b223f50a453,(No description),120.0
-2024-10-12 08:30:00+00:00,2024-10-12 08:30:00+00:00,2024-10-12 08:45:00+00:00,1.0,New Event,Home,False,57c06c9cd4d1ae5204129968163f4e5d,(No description),15.0
-2024-10-13 18:00:00+00:00,2024-10-13 18:00:00+00:00,2024-10-13 18:15:00+00:00,1.0,Weekly check up of goals NOTION,Home,False,3abac1b79e19a91972c4cad32a5da62d,"Go through all the goals set in notion, write some 
+2024-10-07 15:15:00+02:00,2024-10-07 15:15:00+02:00,2024-10-07 17:15:00+02:00,1.0,mm,Home,False,f567fec43cd27e21b7c19b223f50a453,(No description),120.0
+2024-10-12 10:30:00+02:00,2024-10-12 10:30:00+02:00,2024-10-12 10:45:00+02:00,1.0,New Event,Home,False,57c06c9cd4d1ae5204129968163f4e5d,(No description),15.0
+2024-10-13 20:00:00+02:00,2024-10-13 20:00:00+02:00,2024-10-13 20:15:00+02:00,1.0,Weekly check up of goals NOTION,Home,False,3abac1b79e19a91972c4cad32a5da62d,"Go through all the goals set in notion, write some 
 
 ———
 (Reminder ID • Keep for sync ◦◦ 31. 12. 23, 23:44:03 CET ◦◦ )",15.0
-2024-10-14 08:00:00+00:00,2024-10-14 08:00:00+00:00,2024-10-14 09:00:00+00:00,1.0,New Event,Home,False,9f694eedf6f2a45bd53085904e35a1fc,(No description),60.0
-2024-10-14 11:15:00+00:00,2024-10-14 11:15:00+00:00,2024-10-14 11:30:00+00:00,1.0,belastingdients,Home,False,47af6f1ecbda3a61b899c262d96e59dc,(No description),15.0
-2024-10-20 16:15:00+00:00,2024-10-20 16:15:00+00:00,2024-10-20 17:45:00+00:00,1.0,notion goals ,Home,False,2da0d89e24f2cbc94bdd74956e2332c7,"go through the goals for this week
+2024-10-14 10:00:00+02:00,2024-10-14 10:00:00+02:00,2024-10-14 11:00:00+02:00,1.0,New Event,Home,False,9f694eedf6f2a45bd53085904e35a1fc,(No description),60.0
+2024-10-14 13:15:00+02:00,2024-10-14 13:15:00+02:00,2024-10-14 13:30:00+02:00,1.0,belastingdients,Home,False,47af6f1ecbda3a61b899c262d96e59dc,(No description),15.0
+2024-10-20 18:15:00+02:00,2024-10-20 18:15:00+02:00,2024-10-20 19:45:00+02:00,1.0,notion goals ,Home,False,2da0d89e24f2cbc94bdd74956e2332c7,"go through the goals for this week
 write some feedback on yourself in notebook
 create the goals for next week
 plan your next week fully
 ",90.0
-2024-10-24 00:00:00,2024-10-24 00:00:00,2024-10-25 00:00:00,1.0,Hanci❤️,Home,False,f65d90c150705d3bb85adb9d08f0b78d,(No description),1440.0
+2024-10-24 02:00:00+02:00,2024-10-24 02:00:00+02:00,2024-10-25 02:00:00+02:00,1.0,Hanci❤️,Home,False,f65d90c150705d3bb85adb9d08f0b78d,(No description),1440.0
 2024-10-08 08:00:00+02:00,2024-10-08 08:00:00+02:00,2024-10-08 08:15:00+02:00,1.0,Daily 60*60*3,Routines,True,b87be9972f35567a41bf53f191f464c0,,15.0
 2024-10-09 08:00:00+02:00,2024-10-09 08:00:00+02:00,2024-10-09 08:15:00+02:00,1.0,Daily 60*60*3,Routines,True,b6b3a12397ef41fc900798a2e1f27119,,15.0
 2024-10-10 08:00:00+02:00,2024-10-10 08:00:00+02:00,2024-10-10 08:15:00+02:00,1.0,Daily 60*60*3,Routines,True,01b5191f5b3429d61b357828017153ac,"
