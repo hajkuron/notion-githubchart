@@ -11,15 +11,25 @@ def prepare_data_for_supabase(historical_data):
     # Convert to DataFrame
     df = pd.DataFrame(historical_data)
     
+    # Debugging: Print the first few rows of the date columns
+    print("First few rows of date columns before conversion:")
+    print(df[['date', 'start', 'end']].head())
+    print(df[['date', 'start', 'end']].dtypes)
+
     # Convert date strings to datetime objects with a more flexible approach
     for col in ['date', 'start', 'end']:
-        df[col] = pd.to_datetime(df[col], infer_datetime_format=True, errors='coerce')
+        df[col] = pd.to_datetime(df[col], format='mixed', errors='coerce')
     
-    # Calculate duration in minutes
-    df['duration'] = (df['end'] - df['start']).dt.total_seconds() / 60
+    # Debugging: Print the first few rows of the date columns after conversion
+    print("\nFirst few rows of date columns after conversion:")
+    print(df[['date', 'start', 'end']].head())
+    print(df[['date', 'start', 'end']].dtypes)
+
+    # Calculate duration in minutes, handling potential NaT values
+    df['duration'] = pd.to_timedelta(df['end'] - df['start']).dt.total_seconds().div(60).fillna(0)
     
     # Ensure all required columns are present
-    required_columns = ['id', 'date', 'start', 'end', 'summary','calendar_name', 'description', 'deleted', 'value', 'duration']
+    required_columns = ['id', 'date', 'start', 'end', 'summary', 'calendar_name', 'description', 'deleted', 'value', 'duration']
     for col in required_columns:
         if col not in df.columns:
             df[col] = None
@@ -30,7 +40,7 @@ def prepare_data_for_supabase(historical_data):
     df['description'] = df['description'].fillna('')
     
     # Set value to 0.5 for fitness calendar events with 'rest' in the summary
-    df.loc[(df['calendar_name'] == 'fitness') & (df['summary'].str.lower().str.contains('rest')), 'value'] = 0.5
+    df.loc[(df['calendar_name'] == 'fitness') & (df['summary'].str.lower().str.contains('rest', na=False)), 'value'] = 0.5
 
     # Remove duplicates, keeping the first occurrence
     df = df.drop_duplicates(subset=['id'], keep='first')
