@@ -11,10 +11,9 @@ def prepare_data_for_supabase(historical_data):
     # Convert to DataFrame
     df = pd.DataFrame(historical_data)
     
-    # Convert date strings to datetime objects
-    df['date'] = pd.to_datetime(df['date'])
-    df['start'] = pd.to_datetime(df['start'])
-    df['end'] = pd.to_datetime(df['end'])
+    # Convert date strings to datetime objects with a more flexible approach
+    for col in ['date', 'start', 'end']:
+        df[col] = pd.to_datetime(df[col], infer_datetime_format=True, errors='coerce')
     
     # Calculate duration in minutes
     df['duration'] = (df['end'] - df['start']).dt.total_seconds() / 60
