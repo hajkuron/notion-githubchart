@@ -16,9 +16,9 @@ def prepare_data_for_supabase(historical_data):
     print(df[['date', 'start', 'end']].head())
     print(df[['date', 'start', 'end']].dtypes)
 
-    # Convert date strings to datetime objects with a more flexible approach
+    # Convert date strings to datetime objects while preserving the timezone
     for col in ['date', 'start', 'end']:
-        df[col] = pd.to_datetime(df[col], format='mixed', errors='coerce')
+        df[col] = pd.to_datetime(df[col], format='mixed', utc=True).dt.tz_convert('Europe/Amsterdam')
     
     # Debugging: Print the first few rows of the date columns after conversion
     print("\nFirst few rows of date columns after conversion:")
@@ -26,7 +26,7 @@ def prepare_data_for_supabase(historical_data):
     print(df[['date', 'start', 'end']].dtypes)
 
     # Calculate duration in minutes, handling potential NaT values
-    df['duration'] = pd.to_timedelta(df['end'] - df['start']).dt.total_seconds().div(60).fillna(0)
+    df['duration'] = (df['end'] - df['start']).dt.total_seconds().div(60).fillna(0)
     
     # Ensure all required columns are present
     required_columns = ['id', 'date', 'start', 'end', 'summary', 'calendar_name', 'description', 'deleted', 'value', 'duration']
