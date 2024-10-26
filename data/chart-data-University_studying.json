@@ -386,12 +386,8 @@
     "value": 1,
     "summary": "Ponovi",
     "description": "(No description)",
-<<<<<<< HEAD
     "calendar_name": "University studying",
     "id": "70d052dfb8abcf07eb9e649b36e47b7f"
-=======
-    "calendar": "University studying"
->>>>>>> 8cf7f98ab64ddd2fb9b5ef5bb631cde98d6ddda3
   },
   {
     "date": "2024-10-23T06:30:00+02:00",
@@ -400,12 +396,8 @@
     "value": 1,
     "summary": "venture week 6, ponovi use",
     "description": "(No description)",
-<<<<<<< HEAD
     "calendar_name": "University studying",
     "id": "95296dbda9321d68128dbfccbeb3e96c"
-=======
-    "calendar": "University studying"
->>>>>>> 8cf7f98ab64ddd2fb9b5ef5bb631cde98d6ddda3
   },
   {
     "date": "2024-10-24T07:30:00+02:00",
@@ -414,11 +406,7 @@
     "value": 1,
     "summary": "prepare a bit",
     "description": "(No description)",
-<<<<<<< HEAD
     "calendar_name": "University studying",
     "id": "fd39ee295e2cf60e678f3aa160578459"
-=======
-    "calendar": "University studying"
->>>>>>> 8cf7f98ab64ddd2fb9b5ef5bb631cde98d6ddda3
   }
 ]
