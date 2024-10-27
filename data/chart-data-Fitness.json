@@ -140,20 +140,6 @@
     "version_id": "2dbbe0bbe2238dcafe6f84faf762b70c1e9f1cd2df29aac86fb4dd0dec02ceb5"
   },
   {
-    "date": "2024-09-22",
-    "start": "2024-09-22T11:00:00+00:00",
-    "end": "2024-09-22T13:00:00+00:00",
-    "value": 1,
-    "summary": "football",
-    "description": "(No description)",
-    "calendar_name": "Fitness",
-    "new_date": "",
-    "new_start": "",
-    "new_end": "",
-    "id": "c58c9cb6e78d5deb534b7e58bcf72b4e51818748cf03f08112454fd43940583c",
-    "version_id": "8e7f42392c88f7311e519e830281f193cf3321a4ba65c4e8f845e9b19c8f7cb0"
-  },
-  {
     "date": "2024-09-23",
     "start": "2024-09-23T05:00:00+00:00",
     "end": "2024-09-23T06:00:00+00:00",
@@ -558,5 +544,19 @@
     "new_end": "",
     "id": "89b4c773f7462089cf0de4497d7a097e4f20092cdfd0765198d60b5dac5e674e",
     "version_id": "84d3014f8994ec9a727a345f96487c91bd1ba7f374902bcc31c7c4727fa9732f"
+  },
+  {
+    "date": "2024-10-27",
+    "start": "2024-10-27T12:00:00+00:00",
+    "end": "2024-10-27T14:00:00+00:00",
+    "value": 1,
+    "summary": "football",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
+    "id": "380ef756e5bc8614da6e2cf28075d981e74c109dbb5a337957f9cea3b12a2c2c",
+    "version_id": "a9f0aaddda71088eb6256c70f3b53551d13b71a99ccf717e8ea95f6c9d5856c6"
   }
 ]
