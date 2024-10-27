@@ -180,17 +180,21 @@ def process_and_save_data():
         for calendar_name, events in calendar_events.items():
             processed_data = []
             for event in events:
-                start_time = event['start'].get('dateTime', event['start'].get('date'))
-                end_time = event['end'].get('dateTime', event['end'].get('date'))
+                start = event['start'].get('dateTime', event['start'].get('date'))
+                end = event['end'].get('dateTime', event['end'].get('date'))
                 
-                # Ensure consistent date-time format
-                start_time = format_datetime(start_time)
-                end_time = format_datetime(end_time)
+                # Parse start and end
+                start_dt = datetime.fromisoformat(start.rstrip('Z'))
+                end_dt = datetime.fromisoformat(end.rstrip('Z'))
+                
+                # Ensure UTC timezone
+                start_dt = start_dt.astimezone(timezone.utc)
+                end_dt = end_dt.astimezone(timezone.utc)
                 
                 processed_event = {
-                    "date": start_time,
-                    "start": start_time,
-                    "end": end_time,
+                    "date": start_dt.date().isoformat(),
+                    "start": start_dt.isoformat(),
+                    "end": end_dt.isoformat(),
                     "value": 0.5 if calendar_name == "Fitness" and "rest" in event.get('summary', '').lower() else 1,
                     "summary": event.get('summary', ''),
                     "description": event.get('description', ''),
@@ -228,23 +232,6 @@ def process_and_save_data():
         print('Google Calendar data fetched and saved successfully')
     except Exception as error:
         print('Error processing Google Calendar data:', str(error))
-
-# Add this new function to format the datetime consistently
-def format_datetime(dt_string):
-    if 'T' in dt_string:
-        # It's already a datetime string
-        if dt_string.endswith('Z'):
-            return dt_string
-        elif dt_string.endswith('+00:00'):
-            # Replace +00:00 with Z
-            return dt_string[:-6] + 'Z'
-        else:
-            # Assume it's in UTC and add 'Z'
-            return dt_string + 'Z'
-    else:
-        # It's just a date, convert it to a datetime at midnight UTC
-        date_obj = datetime.strptime(dt_string, '%Y-%m-%d')
-        return date_obj.replace(tzinfo=timezone.utc).isoformat().replace('+00:00', 'Z')+ 'Z'
 
 if __name__ == '__main__':
     process_and_save_data()
