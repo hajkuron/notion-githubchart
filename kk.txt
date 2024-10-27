@@ -1,0 +1,1025 @@
+Final status for event 'The Entrepreneurial Venture (HC)': unchanged
+Event with summary 'The Entrepreneurial Venture (HC)' has 'deleted' field: False
+Final status for event 'The Entrepreneurial Venture (HC)': unchanged
+Event with summary 'The Entrepreneurial Venture (HC)' has 'deleted' field: False
+Final status for event 'The Entrepreneurial Venture (HC)': unchanged
+Event with summary 'The Entrepreneurial Venture (HC)' has 'deleted' field: False
+Final status for event 'The Entrepreneurial Venture (HC)': unchanged
+Event with summary 'The Entrepreneurial Venture (HC)' has 'deleted' field: False
+Final status for event 'The Entrepreneurial Venture (HC)': unchanged
+Event with summary 'The Entrepreneurial Venture (HC)' has 'deleted' field: False
+Final status for event 'The Entrepreneurial Venture (HC)': unchanged
+Event with summary 'The Entrepreneurial Venture (HC)' has 'deleted' field: False
+Final status for event 'The Entrepreneurial Venture (HC)': unchanged
+Event with summary 'The Entrepreneurial Venture (HC)' does not have 'deleted' field
+Final status for event 'The Entrepreneurial Venture (HC)': unchanged
+Event with summary 'Flight to Rome (AZ 1356)' has 'deleted' field: True
+Final status for event 'Flight to Rome (AZ 1356)': deleted
+Event with summary 'Flight to Amsterdam (AZ 108)' has 'deleted' field: True
+Final status for event 'Flight to Amsterdam (AZ 108)': deleted
+Event with summary 'gym pull' has 'deleted' field: True
+Final status for event 'gym pull': deleted
+Event with summary 'gym legs' has 'deleted' field: True
+Final status for event 'gym legs': deleted
+Event with summary 'assignment' has 'deleted' field: True
+Final status for event 'assignment': deleted
+Event with summary 'gym push' has 'deleted' field: True
+Final status for event 'gym push': deleted
+Event with summary 'Assignments' has 'deleted' field: True
+Final status for event 'Assignments': deleted
+Event with summary 'Chrome extension youtube' has 'deleted' field: True
+Final status for event 'Chrome extension youtube': deleted
+Event with summary 'basket' has 'deleted' field: True
+Final status for event 'basket': deleted
+Event with summary 'start posting on x about progress' has 'deleted' field: True
+Final status for event 'start posting on x about progress': deleted
+Event with summary 'read' has 'deleted' field: True
+Final status for event 'read': deleted
+Event with summary 'read' has 'deleted' field: True
+Final status for event 'read': deleted
+Event with summary 'read' has 'deleted' field: True
+Final status for event 'read': deleted
+Event with summary 'read' has 'deleted' field: True
+Final status for event 'read': deleted
+Event with summary 'read' has 'deleted' field: True
+Final status for event 'read': deleted
+Event with summary 'work' has 'deleted' field: True
+Final status for event 'work': deleted
+Event with summary 'creative clicks check if there is all data' has 'deleted' field: True
+Final status for event 'creative clicks check if there is all data': deleted
+Event with summary 'read' has 'deleted' field: True
+Final status for event 'read': deleted
+Event with summary 'read' has 'deleted' field: True
+Final status for event 'read': deleted
+Event with summary 'read' has 'deleted' field: True
+Final status for event 'read': deleted
+Event with summary 'read' has 'deleted' field: True
+Final status for event 'read': deleted
+Event with summary 'read' has 'deleted' field: True
+Final status for event 'read': deleted
+Event with summary 'work' has 'deleted' field: True
+Final status for event 'work': deleted
+Event with summary 'read' has 'deleted' field: True
+Final status for event 'read': deleted
+Event with summary 'Flight to Amsterdam (HV 6820)' has 'deleted' field: True
+Final status for event 'Flight to Amsterdam (HV 6820)': deleted
+Event with summary 'read' has 'deleted' field: True
+Final status for event 'read': deleted
+Event with summary 'read' has 'deleted' field: True
+Final status for event 'read': deleted
+Event with summary 'read' has 'deleted' field: True
+Final status for event 'read': deleted
+Event with summary 'read' has 'deleted' field: True
+Final status for event 'read': deleted
+Event with summary 'read' has 'deleted' field: True
+Final status for event 'read': deleted
+Event with summary 'read' has 'deleted' field: True
+Final status for event 'read': deleted
+Event with summary 'read' has 'deleted' field: True
+Final status for event 'read': deleted
+Event with summary 'work' has 'deleted' field: True
+Final status for event 'work': deleted
+Event with summary 'read' has 'deleted' field: True
+Final status for event 'read': deleted
+Event with summary 'read' has 'deleted' field: True
+Final status for event 'read': deleted
+Event with summary 'Flight to Ljubljana (HV 6819)' has 'deleted' field: True
+Final status for event 'Flight to Ljubljana (HV 6819)': deleted
+Event with summary 'read' has 'deleted' field: True
+Final status for event 'read': deleted
+Event with summary 'wake up' has 'deleted' field: True
+Final status for event 'wake up': deleted
+Event with summary 'lunch' has 'deleted' field: True
+Final status for event 'lunch': deleted
+Event with summary 'dinner' has 'deleted' field: True
+Final status for event 'dinner': deleted
+Event with summary 'Hanc' has 'deleted' field: True
+Final status for event 'Hanc': deleted
+Event with summary 'wake up' has 'deleted' field: True
+Final status for event 'wake up': deleted
+Event with summary 'dinner' has 'deleted' field: True
+Final status for event 'dinner': deleted
+Event with summary 'Hanc' has 'deleted' field: True
+Final status for event 'Hanc': deleted
+Event with summary 'read' has 'deleted' field: True
+Final status for event 'read': deleted
+Event with summary 'New Event' has 'deleted' field: True
+Final status for event 'New Event': deleted
+Event with summary 'wake up' has 'deleted' field: True
+Final status for event 'wake up': deleted
+Event with summary 'lunch' has 'deleted' field: True
+Final status for event 'lunch': deleted
+Event with summary 'dinner' has 'deleted' field: True
+Final status for event 'dinner': deleted
+Event with summary 'Hanc' has 'deleted' field: True
+Final status for event 'Hanc': deleted
+Event with summary 'New Event' has 'deleted' field: True
+Final status for event 'New Event': deleted
+Event with summary 'wake up' has 'deleted' field: True
+Final status for event 'wake up': deleted
+Event with summary 'dinner' has 'deleted' field: True
+Final status for event 'dinner': deleted
+Event with summary 'Hanc' has 'deleted' field: True
+Final status for event 'Hanc': deleted
+Event with summary 'wake up' has 'deleted' field: True
+Final status for event 'wake up': deleted
+Event with summary 'lunch' has 'deleted' field: True
+Final status for event 'lunch': deleted
+Event with summary 'dinner' has 'deleted' field: True
+Final status for event 'dinner': deleted
+Event with summary 'Hanc' has 'deleted' field: True
+Final status for event 'Hanc': deleted
+Event with summary 'wake up' has 'deleted' field: True
+Final status for event 'wake up': deleted
+Event with summary 'dinner' has 'deleted' field: True
+Final status for event 'dinner': deleted
+Event with summary 'Hanc' has 'deleted' field: True
+Final status for event 'Hanc': deleted
+Event with summary 'read' has 'deleted' field: True
+Final status for event 'read': deleted
+Event with summary 'Daily 60*60*3' has 'deleted' field: True
+Final status for event 'Daily 60*60*3': deleted
+Event with summary 'Weekly check up of goals NOTION' has 'deleted' field: True
+Final status for event 'Weekly check up of goals NOTION': deleted
+Event with summary 'wake up' has 'deleted' field: True
+Final status for event 'wake up': deleted
+Event with summary 'dinner' has 'deleted' field: True
+Final status for event 'dinner': deleted
+Event with summary 'Hanc' has 'deleted' field: True
+Final status for event 'Hanc': deleted
+Event with summary 'read' has 'deleted' field: True
+Final status for event 'read': deleted
+Event with summary 'Daily 60*60*3' has 'deleted' field: True
+Final status for event 'Daily 60*60*3': deleted
+Event with summary 'wake up' has 'deleted' field: True
+Final status for event 'wake up': deleted
+Event with summary 'shop' has 'deleted' field: True
+Final status for event 'shop': deleted
+Event with summary 'hanc' has 'deleted' field: True
+Final status for event 'hanc': deleted
+Event with summary 'read' has 'deleted' field: True
+Final status for event 'read': deleted
+Event with summary 'Daily 60*60*3' has 'deleted' field: True
+Final status for event 'Daily 60*60*3': deleted
+Event with summary 'wake up' has 'deleted' field: True
+Final status for event 'wake up': deleted
+Event with summary 'hanc' has 'deleted' field: True
+Final status for event 'hanc': deleted
+Event with summary 'read' has 'deleted' field: True
+Final status for event 'read': deleted
+Event with summary 'wake up' has 'deleted' field: True
+Final status for event 'wake up': deleted
+Event with summary 'hanc' has 'deleted' field: True
+Final status for event 'hanc': deleted
+Event with summary 'Daily 60*60*3' has 'deleted' field: True
+Final status for event 'Daily 60*60*3': deleted
+Event with summary 'wake up' has 'deleted' field: True
+Final status for event 'wake up': deleted
+Event with summary 'read' has 'deleted' field: True
+Final status for event 'read': deleted
+Event with summary 'wake up' has 'deleted' field: True
+Final status for event 'wake up': deleted
+Event with summary 'hanc' has 'deleted' field: True
+Final status for event 'hanc': deleted
+Event with summary 'read' has 'deleted' field: True
+Final status for event 'read': deleted
+Event with summary 'Daily 60*60*3' has 'deleted' field: True
+Final status for event 'Daily 60*60*3': deleted
+Event with summary 'wake up' has 'deleted' field: True
+Final status for event 'wake up': deleted
+Event with summary 'hanc' has 'deleted' field: True
+Final status for event 'hanc': deleted
+Event with summary 'read' has 'deleted' field: True
+Final status for event 'read': deleted
+Event with summary 'Daily 60*60*3' has 'deleted' field: True
+Final status for event 'Daily 60*60*3': deleted
+Event with summary 'Weekly check up of goals NOTION' has 'deleted' field: True
+Final status for event 'Weekly check up of goals NOTION': deleted
+Event with summary 'wake up' has 'deleted' field: True
+Final status for event 'wake up': deleted
+Event with summary 'graduation form for quote...' has 'deleted' field: True
+Final status for event 'graduation form for quote...': deleted
+Event with summary 'hanc' has 'deleted' field: True
+Final status for event 'hanc': deleted
+Event with summary 'Daily 60*60*3' has 'deleted' field: True
+Final status for event 'Daily 60*60*3': deleted
+Event with summary 'wake up' has 'deleted' field: True
+Final status for event 'wake up': deleted
+Event with summary 'Second breakfast' has 'deleted' field: True
+Final status for event 'Second breakfast': deleted
+Event with summary 'lunch' has 'deleted' field: True
+Final status for event 'lunch': deleted
+Event with summary 'hanc' has 'deleted' field: True
+Final status for event 'hanc': deleted
+Event with summary 'Daily 60*60*3' has 'deleted' field: True
+Final status for event 'Daily 60*60*3': deleted
+Event with summary 'wake up' has 'deleted' field: True
+Final status for event 'wake up': deleted
+Event with summary 'hanc' has 'deleted' field: True
+Final status for event 'hanc': deleted
+Event with summary 'wake up' has 'deleted' field: True
+Final status for event 'wake up': deleted
+Event with summary 'hanc' has 'deleted' field: True
+Final status for event 'hanc': deleted
+Event with summary 'Daily 60*60*3' has 'deleted' field: True
+Final status for event 'Daily 60*60*3': deleted
+Event with summary 'wake up' has 'deleted' field: True
+Final status for event 'wake up': deleted
+Event with summary 'Flight to Rome (AZ 1356)' does not have 'deleted' field
+Final status for event 'Flight to Rome (AZ 1356)': unchanged
+Event with summary 'Flight to Amsterdam (AZ 108)' does not have 'deleted' field
+Final status for event 'Flight to Amsterdam (AZ 108)': unchanged
+Event with summary 'gym pull' does not have 'deleted' field
+Final status for event 'gym pull': unchanged
+Event with summary 'gym legs' does not have 'deleted' field
+Final status for event 'gym legs': unchanged
+Event with summary 'assignment' does not have 'deleted' field
+Final status for event 'assignment': unchanged
+Event with summary 'gym push' does not have 'deleted' field
+Final status for event 'gym push': unchanged
+Event with summary 'Assignments' does not have 'deleted' field
+Final status for event 'Assignments': unchanged
+Event with summary 'Chrome extension youtube' does not have 'deleted' field
+Final status for event 'Chrome extension youtube': unchanged
+Event with summary 'basket' does not have 'deleted' field
+Final status for event 'basket': unchanged
+Event with summary 'start posting on x about progress' does not have 'deleted' field
+Final status for event 'start posting on x about progress': unchanged
+Event with summary 'read' does not have 'deleted' field
+Final status for event 'read': unchanged
+Event with summary 'creative clicks check if there is all data' does not have 'deleted' field
+Final status for event 'creative clicks check if there is all data': unchanged
+Event with summary 'Flight to Amsterdam (HV 6820)' does not have 'deleted' field
+Final status for event 'Flight to Amsterdam (HV 6820)': unchanged
+Event with summary 'Flight to Ljubljana (HV 6819)' does not have 'deleted' field
+Final status for event 'Flight to Ljubljana (HV 6819)': unchanged
+Event with summary 'wake up' does not have 'deleted' field
+Final status for event 'wake up': unchanged
+Event with summary 'New Event' does not have 'deleted' field
+Final status for event 'New Event': unchanged
+Event with summary 'dinner' does not have 'deleted' field
+Final status for event 'dinner': unchanged
+Event with summary 'Hanc' does not have 'deleted' field
+Final status for event 'Hanc': unchanged
+Event with summary 'wake up' does not have 'deleted' field
+Final status for event 'wake up': unchanged
+Event with summary 'dinner' does not have 'deleted' field
+Final status for event 'dinner': unchanged
+Event with summary 'Hanc' does not have 'deleted' field
+Final status for event 'Hanc': unchanged
+Event with summary 'wake up' does not have 'deleted' field
+Final status for event 'wake up': unchanged
+Event with summary 'lunch' does not have 'deleted' field
+Final status for event 'lunch': unchanged
+Event with summary 'dinner' does not have 'deleted' field
+Final status for event 'dinner': unchanged
+Event with summary 'Hanc' does not have 'deleted' field
+Final status for event 'Hanc': unchanged
+Event with summary 'New Event' does not have 'deleted' field
+Final status for event 'New Event': unchanged
+Event with summary 'wake up' does not have 'deleted' field
+Final status for event 'wake up': unchanged
+Event with summary 'dinner' does not have 'deleted' field
+Final status for event 'dinner': unchanged
+Event with summary 'Hanc' does not have 'deleted' field
+Final status for event 'Hanc': unchanged
+Event with summary 'wake up' does not have 'deleted' field
+Final status for event 'wake up': unchanged
+Event with summary 'lunch' does not have 'deleted' field
+Final status for event 'lunch': unchanged
+Event with summary 'dinner' does not have 'deleted' field
+Final status for event 'dinner': unchanged
+Event with summary 'Hanc' does not have 'deleted' field
+Final status for event 'Hanc': unchanged
+Event with summary 'wake up' does not have 'deleted' field
+Final status for event 'wake up': unchanged
+Event with summary 'dinner' does not have 'deleted' field
+Final status for event 'dinner': unchanged
+Event with summary 'Hanc' does not have 'deleted' field
+Final status for event 'Hanc': unchanged
+Event with summary 'read' does not have 'deleted' field
+Final status for event 'read': unchanged
+Event with summary 'Daily 60*60*3' does not have 'deleted' field
+Final status for event 'Daily 60*60*3': unchanged
+Event with summary 'Weekly check up of goals NOTION' does not have 'deleted' field
+Final status for event 'Weekly check up of goals NOTION': unchanged
+Event with summary 'wake up' does not have 'deleted' field
+Final status for event 'wake up': unchanged
+Event with summary 'dinner' does not have 'deleted' field
+Final status for event 'dinner': unchanged
+Event with summary 'Hanc' does not have 'deleted' field
+Final status for event 'Hanc': unchanged
+Event with summary 'Daily 60*60*3' does not have 'deleted' field
+Final status for event 'Daily 60*60*3': unchanged
+Event with summary 'wake up' does not have 'deleted' field
+Final status for event 'wake up': unchanged
+Event with summary 'shop' does not have 'deleted' field
+Final status for event 'shop': unchanged
+Event with summary 'hanc' does not have 'deleted' field
+Final status for event 'hanc': unchanged
+Event with summary 'Daily 60*60*3' does not have 'deleted' field
+Final status for event 'Daily 60*60*3': unchanged
+Event with summary 'wake up' does not have 'deleted' field
+Final status for event 'wake up': unchanged
+Event with summary 'hanc' does not have 'deleted' field
+Final status for event 'hanc': unchanged
+Event with summary 'wake up' does not have 'deleted' field
+Final status for event 'wake up': unchanged
+Event with summary 'hanc' does not have 'deleted' field
+Final status for event 'hanc': unchanged
+Event with summary 'Daily 60*60*3' does not have 'deleted' field
+Final status for event 'Daily 60*60*3': unchanged
+Event with summary 'wake up' does not have 'deleted' field
+Final status for event 'wake up': unchanged
+Event with summary 'read' does not have 'deleted' field
+Final status for event 'read': unchanged
+Event with summary 'wake up' does not have 'deleted' field
+Final status for event 'wake up': unchanged
+Event with summary 'hanc' does not have 'deleted' field
+Final status for event 'hanc': unchanged
+Event with summary 'read' does not have 'deleted' field
+Final status for event 'read': unchanged
+Event with summary 'Daily 60*60*3' does not have 'deleted' field
+Final status for event 'Daily 60*60*3': unchanged
+Event with summary 'wake up' does not have 'deleted' field
+Final status for event 'wake up': unchanged
+Event with summary 'hanc' does not have 'deleted' field
+Final status for event 'hanc': unchanged
+Event with summary 'read' does not have 'deleted' field
+Final status for event 'read': unchanged
+Event with summary 'Daily 60*60*3' does not have 'deleted' field
+Final status for event 'Daily 60*60*3': unchanged
+Event with summary 'Weekly check up of goals NOTION' does not have 'deleted' field
+Final status for event 'Weekly check up of goals NOTION': unchanged
+Event with summary 'wake up' does not have 'deleted' field
+Final status for event 'wake up': unchanged
+Event with summary 'graduation form for quote...' does not have 'deleted' field
+Final status for event 'graduation form for quote...': unchanged
+Event with summary 'hanc' does not have 'deleted' field
+Final status for event 'hanc': unchanged
+Event with summary 'Daily 60*60*3' does not have 'deleted' field
+Final status for event 'Daily 60*60*3': unchanged
+Event with summary 'wake up' does not have 'deleted' field
+Final status for event 'wake up': unchanged
+Event with summary 'Second breakfast' does not have 'deleted' field
+Final status for event 'Second breakfast': unchanged
+Event with summary 'lunch' does not have 'deleted' field
+Final status for event 'lunch': unchanged
+Event with summary 'hanc' does not have 'deleted' field
+Final status for event 'hanc': unchanged
+Event with summary 'Daily 60*60*3' does not have 'deleted' field
+Final status for event 'Daily 60*60*3': unchanged
+Event with summary 'wake up' does not have 'deleted' field
+Final status for event 'wake up': unchanged
+Event with summary 'hanc' does not have 'deleted' field
+Final status for event 'hanc': unchanged
+Event with summary 'wake up' does not have 'deleted' field
+Final status for event 'wake up': unchanged
+Event with summary 'hanc' does not have 'deleted' field
+Final status for event 'hanc': unchanged
+Event with summary 'Daily 60*60*3' does not have 'deleted' field
+Final status for event 'Daily 60*60*3': unchanged
+Event with summary 'wake up' does not have 'deleted' field
+Final status for event 'wake up': unchanged
+Event with summary 'hanc' does not have 'deleted' field
+Final status for event 'hanc': unchanged
+Event with summary 'read' does not have 'deleted' field
+Final status for event 'read': unchanged
+Event with summary 'Daily 60*60*3' does not have 'deleted' field
+Final status for event 'Daily 60*60*3': unchanged
+Event with summary 'wake up' does not have 'deleted' field
+Final status for event 'wake up': unchanged
+Event with summary 'hanc' does not have 'deleted' field
+Final status for event 'hanc': unchanged
+Event with summary 'read' does not have 'deleted' field
+Final status for event 'read': unchanged
+Event with summary 'Daily 60*60*3' does not have 'deleted' field
+Final status for event 'Daily 60*60*3': unchanged
+Event with summary 'wake up' does not have 'deleted' field
+Final status for event 'wake up': unchanged
+Event with summary 'lunch' does not have 'deleted' field
+Final status for event 'lunch': unchanged
+Event with summary 'hanc' does not have 'deleted' field
+Final status for event 'hanc': unchanged
+Event with summary 'read' does not have 'deleted' field
+Final status for event 'read': unchanged
+Event with summary 'work' has 'deleted' field: True
+Final status for event 'work': deleted
+Event with summary 'work' has 'deleted' field: True
+Final status for event 'work': deleted
+Event with summary 'work' has 'deleted' field: True
+Final status for event 'work': deleted
+Event with summary 'work' has 'deleted' field: True
+Final status for event 'work': deleted
+Event with summary 'work from home' has 'deleted' field: True
+Final status for event 'work from home': deleted
+Event with summary 'work' has 'deleted' field: True
+Final status for event 'work': deleted
+Event with summary 'work' has 'deleted' field: True
+Final status for event 'work': deleted
+Event with summary 'work' has 'deleted' field: True
+Final status for event 'work': deleted
+Event with summary 'work' has 'deleted' field: True
+Final status for event 'work': deleted
+Event with summary 'New Event' has 'deleted' field: True
+Final status for event 'New Event': deleted
+Event with summary 'work' has 'deleted' field: True
+Final status for event 'work': deleted
+Event with summary 'CC' has 'deleted' field: True
+Final status for event 'CC': deleted
+Event with summary 'work' does not have 'deleted' field
+Final status for event 'work': unchanged
+Event with summary 'work' does not have 'deleted' field
+Final status for event 'work': unchanged
+Event with summary 'work' does not have 'deleted' field
+Final status for event 'work': unchanged
+Event with summary 'work' does not have 'deleted' field
+Final status for event 'work': unchanged
+Event with summary 'work' does not have 'deleted' field
+Final status for event 'work': unchanged
+Event with summary 'work' does not have 'deleted' field
+Final status for event 'work': unchanged
+Event with summary 'work' does not have 'deleted' field
+Final status for event 'work': unchanged
+Event with summary 'work from home' does not have 'deleted' field
+Final status for event 'work from home': unchanged
+Event with summary 'work' does not have 'deleted' field
+Final status for event 'work': unchanged
+Event with summary 'New Event' does not have 'deleted' field
+Final status for event 'New Event': unchanged
+Event with summary 'work' does not have 'deleted' field
+Final status for event 'work': unchanged
+Event with summary 'CC' does not have 'deleted' field
+Final status for event 'CC': unchanged
+Event with summary 'work' does not have 'deleted' field
+Final status for event 'work': unchanged
+Event with summary 'legs' has 'deleted' field: True
+Final status for event 'legs': deleted
+Event with summary 'short workout' has 'deleted' field: True
+Final status for event 'short workout': deleted
+Event with summary 'push' has 'deleted' field: True
+Final status for event 'push': deleted
+Event with summary 'short workout' has 'deleted' field: True
+Final status for event 'short workout': deleted
+Event with summary 'pull' has 'deleted' field: True
+Final status for event 'pull': deleted
+Event with summary 'legs' has 'deleted' field: True
+Final status for event 'legs': deleted
+Event with summary 'football' has 'deleted' field: True
+Final status for event 'football': deleted
+Event with summary 'pull' has 'deleted' field: True
+Final status for event 'pull': deleted
+Event with summary 'basket' has 'deleted' field: True
+Final status for event 'basket': deleted
+Event with summary 'push' has 'deleted' field: True
+Final status for event 'push': deleted
+Event with summary 'football' has 'deleted' field: True
+Final status for event 'football': deleted
+Event with summary 'legs' has 'deleted' field: True
+Final status for event 'legs': deleted
+Event with summary 'push' has 'deleted' field: True
+Final status for event 'push': deleted
+Event with summary 'push' has 'deleted' field: True
+Final status for event 'push': deleted
+Event with summary 'push' has 'deleted' field: True
+Final status for event 'push': deleted
+Event with summary 'push' has 'deleted' field: True
+Final status for event 'push': deleted
+Event with summary 'football' has 'deleted' field: True
+Final status for event 'football': deleted
+Event with summary 'pull' has 'deleted' field: True
+Final status for event 'pull': deleted
+Event with summary 'push' has 'deleted' field: True
+Final status for event 'push': deleted
+Event with summary 'football' has 'deleted' field: True
+Final status for event 'football': deleted
+Event with summary 'gym push' has 'deleted' field: True
+Final status for event 'gym push': deleted
+Event with summary 'rest day' has 'deleted' field: True
+Final status for event 'rest day': deleted
+Event with summary 'gym legs' has 'deleted' field: True
+Final status for event 'gym legs': deleted
+Event with summary 'gym legs' has 'deleted' field: True
+Final status for event 'gym legs': deleted
+Event with summary 'gym push' has 'deleted' field: True
+Final status for event 'gym push': deleted
+Event with summary 'gym push' has 'deleted' field: True
+Final status for event 'gym push': deleted
+Event with summary 'football' has 'deleted' field: True
+Final status for event 'football': deleted
+Event with summary 'pull' has 'deleted' field: True
+Final status for event 'pull': deleted
+Event with summary 'rest' has 'deleted' field: True
+Final status for event 'rest': deleted
+Event with summary 'legs' has 'deleted' field: True
+Final status for event 'legs': deleted
+Event with summary 'push' has 'deleted' field: True
+Final status for event 'push': deleted
+Event with summary 'rest' has 'deleted' field: True
+Final status for event 'rest': deleted
+Event with summary 'legs' has 'deleted' field: True
+Final status for event 'legs': deleted
+Event with summary 'cardio pull ups, rows 2km' has 'deleted' field: True
+Final status for event 'cardio pull ups, rows 2km': deleted
+Event with summary 'push' has 'deleted' field: True
+Final status for event 'push': deleted
+Event with summary 'rest' has 'deleted' field: True
+Final status for event 'rest': deleted
+Event with summary 'pull' has 'deleted' field: True
+Final status for event 'pull': deleted
+Event with summary 'legs' does not have 'deleted' field
+Final status for event 'legs': unchanged
+Event with summary 'short workout' does not have 'deleted' field
+Final status for event 'short workout': unchanged
+Event with summary 'push' does not have 'deleted' field
+Final status for event 'push': unchanged
+Event with summary 'short workout' does not have 'deleted' field
+Final status for event 'short workout': unchanged
+Event with summary 'pull' does not have 'deleted' field
+Final status for event 'pull': unchanged
+Event with summary 'legs' does not have 'deleted' field
+Final status for event 'legs': unchanged
+Event with summary 'football' does not have 'deleted' field
+Final status for event 'football': unchanged
+Event with summary 'pull' does not have 'deleted' field
+Final status for event 'pull': unchanged
+Event with summary 'basket' does not have 'deleted' field
+Final status for event 'basket': unchanged
+Event with summary 'push' does not have 'deleted' field
+Final status for event 'push': unchanged
+Event with summary 'football' does not have 'deleted' field
+Final status for event 'football': unchanged
+Event with summary 'legs' does not have 'deleted' field
+Final status for event 'legs': unchanged
+Event with summary 'push' does not have 'deleted' field
+Final status for event 'push': unchanged
+Event with summary 'push' does not have 'deleted' field
+Final status for event 'push': unchanged
+Event with summary 'push' does not have 'deleted' field
+Final status for event 'push': unchanged
+Event with summary 'push' does not have 'deleted' field
+Final status for event 'push': unchanged
+Event with summary 'football' does not have 'deleted' field
+Final status for event 'football': unchanged
+Event with summary 'pull' does not have 'deleted' field
+Final status for event 'pull': unchanged
+Event with summary 'push' does not have 'deleted' field
+Final status for event 'push': unchanged
+Event with summary 'football' does not have 'deleted' field
+Final status for event 'football': unchanged
+Event with summary 'gym push' does not have 'deleted' field
+Final status for event 'gym push': unchanged
+Event with summary 'rest day' does not have 'deleted' field
+Final status for event 'rest day': unchanged
+Event with summary 'gym legs' does not have 'deleted' field
+Final status for event 'gym legs': unchanged
+Event with summary 'gym legs' does not have 'deleted' field
+Final status for event 'gym legs': unchanged
+Event with summary 'gym push' does not have 'deleted' field
+Final status for event 'gym push': unchanged
+Event with summary 'gym push' does not have 'deleted' field
+Final status for event 'gym push': unchanged
+Event with summary 'football' does not have 'deleted' field
+Final status for event 'football': unchanged
+Event with summary 'pull' does not have 'deleted' field
+Final status for event 'pull': unchanged
+Event with summary 'rest' does not have 'deleted' field
+Final status for event 'rest': unchanged
+Event with summary 'legs' does not have 'deleted' field
+Final status for event 'legs': unchanged
+Event with summary 'push' does not have 'deleted' field
+Final status for event 'push': unchanged
+Event with summary 'rest' does not have 'deleted' field
+Final status for event 'rest': unchanged
+Event with summary 'legs' does not have 'deleted' field
+Final status for event 'legs': unchanged
+Event with summary 'cardio pull ups, rows 2km' does not have 'deleted' field
+Final status for event 'cardio pull ups, rows 2km': unchanged
+Event with summary 'push' does not have 'deleted' field
+Final status for event 'push': unchanged
+Event with summary 'rest' does not have 'deleted' field
+Final status for event 'rest': unchanged
+Event with summary 'pull' does not have 'deleted' field
+Final status for event 'pull': unchanged
+Event with summary 'push' does not have 'deleted' field
+Final status for event 'push': unchanged
+Event with summary 'New Event' does not have 'deleted' field
+Final status for event 'New Event': unchanged
+Event with summary 'basket' does not have 'deleted' field
+Final status for event 'basket': unchanged
+Event with summary 'uni papers read' has 'deleted' field: True
+Final status for event 'uni papers read': deleted
+Event with summary 'uni papers read' has 'deleted' field: True
+Final status for event 'uni papers read': deleted
+Event with summary 'individual reflection assi' has 'deleted' field: True
+Final status for event 'individual reflection assi': deleted
+Event with summary 'uni papers next week + quac' has 'deleted' field: True
+Final status for event 'uni papers next week + quac': deleted
+Event with summary 'assignemnt' has 'deleted' field: True
+Final status for event 'assignemnt': deleted
+Event with summary 'Assignemnt' has 'deleted' field: True
+Final status for event 'Assignemnt': deleted
+Event with summary 'wake up + strech' has 'deleted' field: True
+Final status for event 'wake up + strech': deleted
+Event with summary 'wake up + strech' has 'deleted' field: True
+Final status for event 'wake up + strech': deleted
+Event with summary 'faks ' has 'deleted' field: True
+Final status for event 'faks ': deleted
+Event with summary 'wake up + strech' has 'deleted' field: True
+Final status for event 'wake up + strech': deleted
+Event with summary 'wake up + strech' has 'deleted' field: True
+Final status for event 'wake up + strech': deleted
+Event with summary 'wake up + strech' has 'deleted' field: True
+Final status for event 'wake up + strech': deleted
+Event with summary 'wake up + strech' has 'deleted' field: True
+Final status for event 'wake up + strech': deleted
+Event with summary 'wake up + strech' has 'deleted' field: True
+Final status for event 'wake up + strech': deleted
+Event with summary 'wake up + strech' has 'deleted' field: True
+Final status for event 'wake up + strech': deleted
+Event with summary 'wake up + strech' has 'deleted' field: True
+Final status for event 'wake up + strech': deleted
+Event with summary 'wake up + strech' has 'deleted' field: True
+Final status for event 'wake up + strech': deleted
+Event with summary 'wake up + strech' has 'deleted' field: True
+Final status for event 'wake up + strech': deleted
+Event with summary 'wake up + strech' has 'deleted' field: True
+Final status for event 'wake up + strech': deleted
+Event with summary 'wake up + strech' has 'deleted' field: True
+Final status for event 'wake up + strech': deleted
+Event with summary 'wake up + strech' has 'deleted' field: True
+Final status for event 'wake up + strech': deleted
+Event with summary 'wake up + strech' has 'deleted' field: True
+Final status for event 'wake up + strech': deleted
+Event with summary 'wake up + strech' has 'deleted' field: True
+Final status for event 'wake up + strech': deleted
+Event with summary 'Mojo mate, research for marketing' has 'deleted' field: True
+Final status for event 'Mojo mate, research for marketing': deleted
+Event with summary 'mojo mate meeting' has 'deleted' field: True
+Final status for event 'mojo mate meeting': deleted
+Event with summary 'Assignment Cas' has 'deleted' field: True
+Final status for event 'Assignment Cas': deleted
+Event with summary 'meeting Starup' has 'deleted' field: True
+Final status for event 'meeting Starup': deleted
+Event with summary 'assignment cas' has 'deleted' field: True
+Final status for event 'assignment cas': deleted
+Event with summary 'assignment Cas' has 'deleted' field: True
+Final status for event 'assignment Cas': deleted
+Event with summary 'coaching VU' has 'deleted' field: True
+Final status for event 'coaching VU': deleted
+Event with summary 'mojo mate' has 'deleted' field: True
+Final status for event 'mojo mate': deleted
+Event with summary 'Lecture exam' has 'deleted' field: True
+Final status for event 'Lecture exam': deleted
+Event with summary 'Uni study' has 'deleted' field: True
+Final status for event 'Uni study': deleted
+Event with summary 'week 1' has 'deleted' field: True
+Final status for event 'week 1': deleted
+Event with summary 'week 2, 3 individual' has 'deleted' field: True
+Final status for event 'week 2, 3 individual': deleted
+Event with summary 'week 4,5 individual' has 'deleted' field: True
+Final status for event 'week 4,5 individual': deleted
+Event with summary 'week 6 individual + organize everything' has 'deleted' field: True
+Final status for event 'week 6 individual + organize everything': deleted
+Event with summary 'Entre. individual ALL' has 'deleted' field: True
+Final status for event 'Entre. individual ALL': deleted
+Event with summary 'Ponovi individual use' has 'deleted' field: True
+Final status for event 'Ponovi individual use': deleted
+Event with summary 'Ponovi' has 'deleted' field: True
+Final status for event 'Ponovi': deleted
+Event with summary 'venture week 4,5' has 'deleted' field: True
+Final status for event 'venture week 4,5': deleted
+Event with summary 'venture week 6, ponovi use' has 'deleted' field: True
+Final status for event 'venture week 6, ponovi use': deleted
+Event with summary 'prepare a bit' has 'deleted' field: True
+Final status for event 'prepare a bit': deleted
+Event with summary 'uni papers read' does not have 'deleted' field
+Final status for event 'uni papers read': unchanged
+Event with summary 'uni papers read' does not have 'deleted' field
+Final status for event 'uni papers read': unchanged
+Event with summary 'individual reflection assi' does not have 'deleted' field
+Final status for event 'individual reflection assi': unchanged
+Event with summary 'uni papers next week + quac' does not have 'deleted' field
+Final status for event 'uni papers next week + quac': unchanged
+Event with summary 'assignemnt' does not have 'deleted' field
+Final status for event 'assignemnt': unchanged
+Event with summary 'Assignemnt' does not have 'deleted' field
+Final status for event 'Assignemnt': unchanged
+Event with summary 'wake up + strech' does not have 'deleted' field
+Final status for event 'wake up + strech': unchanged
+Event with summary 'wake up + strech' does not have 'deleted' field
+Final status for event 'wake up + strech': unchanged
+Event with summary 'faks ' does not have 'deleted' field
+Final status for event 'faks ': unchanged
+Event with summary 'wake up + strech' does not have 'deleted' field
+Final status for event 'wake up + strech': unchanged
+Event with summary 'wake up + strech' does not have 'deleted' field
+Final status for event 'wake up + strech': unchanged
+Event with summary 'wake up + strech' does not have 'deleted' field
+Final status for event 'wake up + strech': unchanged
+Event with summary 'wake up + strech' does not have 'deleted' field
+Final status for event 'wake up + strech': unchanged
+Event with summary 'wake up + strech' does not have 'deleted' field
+Final status for event 'wake up + strech': unchanged
+Event with summary 'wake up + strech' does not have 'deleted' field
+Final status for event 'wake up + strech': unchanged
+Event with summary 'wake up + strech' does not have 'deleted' field
+Final status for event 'wake up + strech': unchanged
+Event with summary 'wake up + strech' does not have 'deleted' field
+Final status for event 'wake up + strech': unchanged
+Event with summary 'wake up + strech' does not have 'deleted' field
+Final status for event 'wake up + strech': unchanged
+Event with summary 'wake up + strech' does not have 'deleted' field
+Final status for event 'wake up + strech': unchanged
+Event with summary 'wake up + strech' does not have 'deleted' field
+Final status for event 'wake up + strech': unchanged
+Event with summary 'wake up + strech' does not have 'deleted' field
+Final status for event 'wake up + strech': unchanged
+Event with summary 'wake up + strech' does not have 'deleted' field
+Final status for event 'wake up + strech': unchanged
+Event with summary 'wake up + strech' does not have 'deleted' field
+Final status for event 'wake up + strech': unchanged
+Event with summary 'Mojo mate, research for marketing' does not have 'deleted' field
+Final status for event 'Mojo mate, research for marketing': unchanged
+Event with summary 'mojo mate meeting' does not have 'deleted' field
+Final status for event 'mojo mate meeting': unchanged
+Event with summary 'meeting Starup' does not have 'deleted' field
+Final status for event 'meeting Starup': unchanged
+Event with summary 'assignment cas' does not have 'deleted' field
+Final status for event 'assignment cas': unchanged
+Event with summary 'assignment Cas' does not have 'deleted' field
+Final status for event 'assignment Cas': unchanged
+Event with summary 'coaching VU' does not have 'deleted' field
+Final status for event 'coaching VU': unchanged
+Event with summary 'mojo mate' does not have 'deleted' field
+Final status for event 'mojo mate': unchanged
+Event with summary 'Lecture exam' does not have 'deleted' field
+Final status for event 'Lecture exam': unchanged
+Event with summary 'Uni study' does not have 'deleted' field
+Final status for event 'Uni study': unchanged
+Event with summary 'week 1' does not have 'deleted' field
+Final status for event 'week 1': unchanged
+Event with summary 'week 2, 3 individual' does not have 'deleted' field
+Final status for event 'week 2, 3 individual': unchanged
+Event with summary 'week 4,5 individual' does not have 'deleted' field
+Final status for event 'week 4,5 individual': unchanged
+Event with summary 'week 6 individual + organize everything' does not have 'deleted' field
+Final status for event 'week 6 individual + organize everything': unchanged
+Event with summary 'Entre. individual ALL' does not have 'deleted' field
+Final status for event 'Entre. individual ALL': unchanged
+Event with summary 'Ponovi individual use' does not have 'deleted' field
+Final status for event 'Ponovi individual use': unchanged
+Event with summary 'Ponovi' does not have 'deleted' field
+Final status for event 'Ponovi': unchanged
+Event with summary 'venture week 6, ponovi use' does not have 'deleted' field
+Final status for event 'venture week 6, ponovi use': unchanged
+Event with summary 'prepare a bit' does not have 'deleted' field
+Final status for event 'prepare a bit': unchanged
+Event with summary 'project' has 'deleted' field: True
+Final status for event 'project': deleted
+Event with summary 'project' has 'deleted' field: True
+Final status for event 'project': deleted
+Event with summary 'project' has 'deleted' field: True
+Final status for event 'project': deleted
+Event with summary 'project' has 'deleted' field: True
+Final status for event 'project': deleted
+Event with summary 'Proect website ui focus' has 'deleted' field: True
+Final status for event 'Proect website ui focus': deleted
+Event with summary 'Proect website ui focus' has 'deleted' field: True
+Final status for event 'Proect website ui focus': deleted
+Event with summary 'Proect website ui focus' has 'deleted' field: True
+Final status for event 'Proect website ui focus': deleted
+Event with summary 'Proect website ui focus' has 'deleted' field: True
+Final status for event 'Proect website ui focus': deleted
+Event with summary 'Proect website ui focus' has 'deleted' field: True
+Final status for event 'Proect website ui focus': deleted
+Event with summary 'Twitter strategy + start' has 'deleted' field: True
+Final status for event 'Twitter strategy + start': deleted
+Event with summary 'Life plan' has 'deleted' field: True
+Final status for event 'Life plan': deleted
+Event with summary 'Learning plan' has 'deleted' field: True
+Final status for event 'Learning plan': deleted
+Event with summary 'Project' has 'deleted' field: True
+Final status for event 'Project': deleted
+Event with summary 'project' has 'deleted' field: True
+Final status for event 'project': deleted
+Event with summary 'test' has 'deleted' field: True
+Final status for event 'test': deleted
+Event with summary 'Full stack app, finish' has 'deleted' field: True
+Final status for event 'Full stack app, finish': deleted
+Event with summary 'AI Engineering Bootcamp -  First Class Free' has 'deleted' field: True
+Final status for event 'AI Engineering Bootcamp -  First Class Free': deleted
+Event with summary 'New Event' has 'deleted' field: True
+Final status for event 'New Event': deleted
+Event with summary 'New Event' has 'deleted' field: True
+Final status for event 'New Event': deleted
+Event with summary 'New Event' has 'deleted' field: True
+Final status for event 'New Event': deleted
+Event with summary 'YC Startup School (User Group) Meetup' has 'deleted' field: True
+Final status for event 'YC Startup School (User Group) Meetup': deleted
+Event with summary 'New Event' has 'deleted' field: True
+Final status for event 'New Event': deleted
+Event with summary 'marketing' has 'deleted' field: True
+Final status for event 'marketing': deleted
+Event with summary 'courses' has 'deleted' field: True
+Final status for event 'courses': deleted
+Event with summary 'research' has 'deleted' field: True
+Final status for event 'research': deleted
+Event with summary 'New Event' has 'deleted' field: True
+Final status for event 'New Event': deleted
+Event with summary 'find services to offer' has 'deleted' field: True
+Final status for event 'find services to offer': deleted
+Event with summary 'Planning' has 'deleted' field: True
+Final status for event 'Planning': deleted
+Event with summary 'Business' has 'deleted' field: True
+Final status for event 'Business': deleted
+Event with summary 'Educational video + notes' has 'deleted' field: True
+Final status for event 'Educational video + notes': deleted
+Event with summary 'Business' has 'deleted' field: True
+Final status for event 'Business': deleted
+Event with summary 'find services to offer' has 'deleted' field: True
+Final status for event 'find services to offer': deleted
+Event with summary 'Planning' has 'deleted' field: True
+Final status for event 'Planning': deleted
+Event with summary 'Business' has 'deleted' field: True
+Final status for event 'Business': deleted
+Event with summary 'project' does not have 'deleted' field
+Final status for event 'project': unchanged
+Event with summary 'project' does not have 'deleted' field
+Final status for event 'project': unchanged
+Event with summary 'project' does not have 'deleted' field
+Final status for event 'project': unchanged
+Event with summary 'project' does not have 'deleted' field
+Final status for event 'project': unchanged
+Event with summary 'Proect website ui focus' does not have 'deleted' field
+Final status for event 'Proect website ui focus': unchanged
+Event with summary 'Proect website ui focus' does not have 'deleted' field
+Final status for event 'Proect website ui focus': unchanged
+Event with summary 'Proect website ui focus' does not have 'deleted' field
+Final status for event 'Proect website ui focus': unchanged
+Event with summary 'Proect website ui focus' does not have 'deleted' field
+Final status for event 'Proect website ui focus': unchanged
+Event with summary 'Proect website ui focus' does not have 'deleted' field
+Final status for event 'Proect website ui focus': unchanged
+Event with summary 'Twitter strategy + start' does not have 'deleted' field
+Final status for event 'Twitter strategy + start': unchanged
+Event with summary 'Life plan' does not have 'deleted' field
+Final status for event 'Life plan': unchanged
+Event with summary 'Learning plan' does not have 'deleted' field
+Final status for event 'Learning plan': unchanged
+Event with summary 'test' does not have 'deleted' field
+Final status for event 'test': unchanged
+Event with summary 'Full stack app, finish' does not have 'deleted' field
+Final status for event 'Full stack app, finish': unchanged
+Event with summary 'AI Engineering Bootcamp -  First Class Free' does not have 'deleted' field
+Final status for event 'AI Engineering Bootcamp -  First Class Free': unchanged
+Event with summary 'New Event' does not have 'deleted' field
+Final status for event 'New Event': unchanged
+Event with summary 'New Event' does not have 'deleted' field
+Final status for event 'New Event': unchanged
+Event with summary 'New Event' does not have 'deleted' field
+Final status for event 'New Event': unchanged
+Event with summary 'YC Startup School (User Group) Meetup' does not have 'deleted' field
+Final status for event 'YC Startup School (User Group) Meetup': unchanged
+Event with summary 'New Event' does not have 'deleted' field
+Final status for event 'New Event': unchanged
+Event with summary 'marketing' does not have 'deleted' field
+Final status for event 'marketing': unchanged
+Event with summary 'courses' does not have 'deleted' field
+Final status for event 'courses': unchanged
+Event with summary 'research' does not have 'deleted' field
+Final status for event 'research': unchanged
+Event with summary 'New Event' does not have 'deleted' field
+Final status for event 'New Event': unchanged
+Event with summary 'find services to offer' does not have 'deleted' field
+Final status for event 'find services to offer': unchanged
+Event with summary 'Planning' does not have 'deleted' field
+Final status for event 'Planning': unchanged
+Event with summary 'Business' does not have 'deleted' field
+Final status for event 'Business': unchanged
+Event with summary 'Educational video + notes' does not have 'deleted' field
+Final status for event 'Educational video + notes': unchanged
+Event with summary 'Business' does not have 'deleted' field
+Final status for event 'Business': unchanged
+Event with summary 'educational videos' does not have 'deleted' field
+Final status for event 'educational videos': unchanged
+Event with summary 'New Event' does not have 'deleted' field
+Final status for event 'New Event': unchanged
+Event with summary 'New Event' does not have 'deleted' field
+Final status for event 'New Event': unchanged
+Event with summary 'New Event' does not have 'deleted' field
+Final status for event 'New Event': unchanged
+Event with summary 'Mindstone Amsterdam AI Meetup' has 'deleted' field: True
+Final status for event 'Mindstone Amsterdam AI Meetup': deleted
+Event with summary 'kosilo' has 'deleted' field: True
+Final status for event 'kosilo': deleted
+Event with summary 'kosilo' has 'deleted' field: True
+Final status for event 'kosilo': deleted
+Event with summary 'hanc' has 'deleted' field: True
+Final status for event 'hanc': deleted
+Event with summary 'hanc' has 'deleted' field: True
+Final status for event 'hanc': deleted
+Event with summary 'Hanci❤️' has 'deleted' field: True
+Final status for event 'Hanci❤️': deleted
+Event with summary 'hanc' has 'deleted' field: True
+Final status for event 'hanc': deleted
+Event with summary 'New Event' has 'deleted' field: True
+Final status for event 'New Event': deleted
+Event with summary 'Joker: Folie à Deux' has 'deleted' field: True
+Final status for event 'Joker: Folie à Deux': deleted
+Event with summary 'The ImoveAmsterdam Reformer Pilates Experience @ ImoveAmsterdam Boutique - Reformer Pilates' has 'deleted' field: True
+Final status for event 'The ImoveAmsterdam Reformer Pilates Experience @ ImoveAmsterdam Boutique - Reformer Pilates': deleted
+Event with summary 'mm' has 'deleted' field: True
+Final status for event 'mm': deleted
+Event with summary 'New Event' has 'deleted' field: True
+Final status for event 'New Event': deleted
+Event with summary 'Weekly check up of goals NOTION' has 'deleted' field: True
+Final status for event 'Weekly check up of goals NOTION': deleted
+Event with summary 'belastingdients' has 'deleted' field: True
+Final status for event 'belastingdients': deleted
+Event with summary 'New Event' has 'deleted' field: True
+Final status for event 'New Event': deleted
+Event with summary 'notion goals ' has 'deleted' field: True
+Final status for event 'notion goals ': deleted
+Event with summary 'Hanci❤️' has 'deleted' field: True
+Final status for event 'Hanci❤️': deleted
+Event with summary 'Mindstone Amsterdam AI Meetup' does not have 'deleted' field
+Final status for event 'Mindstone Amsterdam AI Meetup': unchanged
+Event with summary 'kosilo' does not have 'deleted' field
+Final status for event 'kosilo': unchanged
+Event with summary 'kosilo' does not have 'deleted' field
+Final status for event 'kosilo': unchanged
+Event with summary 'hanc' does not have 'deleted' field
+Final status for event 'hanc': unchanged
+Event with summary 'hanc' does not have 'deleted' field
+Final status for event 'hanc': unchanged
+Event with summary 'Hanci❤️' does not have 'deleted' field
+Final status for event 'Hanci❤️': unchanged
+Event with summary 'hanc' does not have 'deleted' field
+Final status for event 'hanc': unchanged
+Event with summary 'New Event' does not have 'deleted' field
+Final status for event 'New Event': unchanged
+Event with summary 'Joker: Folie à Deux' does not have 'deleted' field
+Final status for event 'Joker: Folie à Deux': unchanged
+Event with summary 'The ImoveAmsterdam Reformer Pilates Experience @ ImoveAmsterdam Boutique - Reformer Pilates' does not have 'deleted' field
+Final status for event 'The ImoveAmsterdam Reformer Pilates Experience @ ImoveAmsterdam Boutique - Reformer Pilates': unchanged
+Event with summary 'mm' does not have 'deleted' field
+Final status for event 'mm': unchanged
+Event with summary 'New Event' does not have 'deleted' field
+Final status for event 'New Event': unchanged
+Event with summary 'Weekly check up of goals NOTION' does not have 'deleted' field
+Final status for event 'Weekly check up of goals NOTION': unchanged
+Event with summary 'New Event' does not have 'deleted' field
+Final status for event 'New Event': unchanged
+Event with summary 'belastingdients' does not have 'deleted' field
+Final status for event 'belastingdients': unchanged
+Event with summary 'notion goals ' does not have 'deleted' field
+Final status for event 'notion goals ': unchanged
+Event with summary 'Hanci❤️' does not have 'deleted' field
+Final status for event 'Hanci❤️': unchanged
+Event with summary 'Daily 60*60*3' has 'deleted' field: True
+Final status for event 'Daily 60*60*3': deleted
+Event with summary 'Daily 60*60*3' has 'deleted' field: True
+Final status for event 'Daily 60*60*3': deleted
+Event with summary 'Daily 60*60*3' has 'deleted' field: True
+Final status for event 'Daily 60*60*3': deleted
+Event with summary 'Daily 60*60*3' has 'deleted' field: True
+Final status for event 'Daily 60*60*3': deleted
+Event with summary 'Daily 60*60*3' has 'deleted' field: True
+Final status for event 'Daily 60*60*3': deleted
+Event with summary 'Weekly check up of goals NOTION' has 'deleted' field: True
+Final status for event 'Weekly check up of goals NOTION': deleted
+Event with summary 'Weekly check up of goals NOTION' has 'deleted' field: True
+Final status for event 'Weekly check up of goals NOTION': deleted
+Event with summary 'Daily 60*60*3' has 'deleted' field: True
+Final status for event 'Daily 60*60*3': deleted
+Event with summary 'Daily 60*60*3' has 'deleted' field: True
+Final status for event 'Daily 60*60*3': deleted
+Event with summary 'Daily 60*60*3' has 'deleted' field: True
+Final status for event 'Daily 60*60*3': deleted
+Event with summary 'Daily 60*60*3' has 'deleted' field: True
+Final status for event 'Daily 60*60*3': deleted
+Event with summary 'Daily 60*60*3' has 'deleted' field: True
+Final status for event 'Daily 60*60*3': deleted
+Event with summary 'Daily 60*60*3' has 'deleted' field: True
+Final status for event 'Daily 60*60*3': deleted
+Event with summary 'Daily 60*60*3' has 'deleted' field: True
+Final status for event 'Daily 60*60*3': deleted
+Event with summary 'Weekly check up of goals NOTION' has 'deleted' field: True
+Final status for event 'Weekly check up of goals NOTION': deleted
+Event with summary 'Daily 60*60*3' has 'deleted' field: True
+Final status for event 'Daily 60*60*3': deleted
+Event with summary 'Daily 60*60*3' has 'deleted' field: True
+Final status for event 'Daily 60*60*3': deleted
+Event with summary 'Daily 60*60*3' has 'deleted' field: True
+Final status for event 'Daily 60*60*3': deleted
+Event with summary 'Daily 60*60*3' has 'deleted' field: True
+Final status for event 'Daily 60*60*3': deleted
+Event with summary 'Weekly check up of goals NOTION' does not have 'deleted' field
+Final status for event 'Weekly check up of goals NOTION': unchanged
+Total events in updated data: 533
+Event status counts:
+unchanged: 264
+deleted: 269
+Historical data has been updated and saved to 'data/updated_historical_data.json'
+(base) jonkuhar@Jons-MacBook-Pro Notion-githubchart % 

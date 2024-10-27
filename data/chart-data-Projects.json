@@ -7,7 +7,11 @@
     "summary": "project",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "id": "ff0e34d8f63efeeeab0c7295fb6d9e59"
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
+    "id": "41e1bc60f1b8041b115f189559d79e6ffee7ae9ce86bec8c76a376b0f54ca710",
+    "version_id": "f6759ae310ea3ceab2879bd9191345c4256b3d43a3254509aa35b311df056321"
   },
   {
     "date": "2024-09-10T18:00:00+02:00",
@@ -17,7 +21,11 @@
     "summary": "project",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "id": "d3c24685253016913666faf921b298c1"
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
+    "id": "41e1bc60f1b8041b115f189559d79e6ffee7ae9ce86bec8c76a376b0f54ca710",
+    "version_id": "4f60a50f02189e2eddfff9b9f168636a4444243e850cc1c41af72a2f26a5e95f"
   },
   {
     "date": "2024-09-11T14:00:00+02:00",
@@ -27,7 +35,11 @@
     "summary": "project",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "id": "e6b7364de94a56b1a644aa7b14c1db6c"
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
+    "id": "d57ff7c4d9d1d9786d45bb9388d6299f0da2e9f5c537fc718e37d5152a3eb62e",
+    "version_id": "cc83cadb5a30be8899ebf816e93de845796267a6be47128c05896f925c0c2122"
   },
   {
     "date": "2024-09-13T14:00:00+02:00",
@@ -37,7 +49,11 @@
     "summary": "project",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "id": "78efd523c74184279d8c636583f596ea"
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
+    "id": "8d3df807348f92a14ee81686bb0b48523c59e63590b89cc6c97c835a63e1efc5",
+    "version_id": "5d35a4e130a0717bc0c63884d35ee9b7096a2eeeede4798672e22d60c5107371"
   },
   {
     "date": "2024-09-21T08:30:00+02:00",
@@ -47,7 +63,11 @@
     "summary": "Proect website ui focus",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "id": "9535e83f4e6ffe1efdc7dae1f1f7b9dd"
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
+    "id": "3e01b9cf711bbe3594b0e6502a1389ddabe94c0cfb93b32bb41bdd903f67a968",
+    "version_id": "ff23c88b91b5a93978156d4f393fce448cecc0797085c2bd41a59dab33b443de"
   },
   {
     "date": "2024-09-21T14:30:00+02:00",
@@ -57,7 +77,11 @@
     "summary": "Proect website ui focus",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "id": "189809124552f6072bf1a83a0cd6787f"
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
+    "id": "3e01b9cf711bbe3594b0e6502a1389ddabe94c0cfb93b32bb41bdd903f67a968",
+    "version_id": "eaebe259fd4c3eff3d7f8d7e4be8e9e2647524aa0bf895417ed5c30e904be0dc"
   },
   {
     "date": "2024-09-21T18:15:00+02:00",
@@ -67,7 +91,11 @@
     "summary": "Proect website ui focus",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "id": "3b287312610e3d699aca2de9caa14e92"
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
+    "id": "3e01b9cf711bbe3594b0e6502a1389ddabe94c0cfb93b32bb41bdd903f67a968",
+    "version_id": "ae0db46df13c1760afad04b0860e89cab43754b5bd745955508805aab7f03845"
   },
   {
     "date": "2024-09-21T21:00:00+02:00",
@@ -77,7 +105,11 @@
     "summary": "Proect website ui focus",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "id": "402e2ddcaa8ea221e45d79953daaeee6"
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
+    "id": "3e01b9cf711bbe3594b0e6502a1389ddabe94c0cfb93b32bb41bdd903f67a968",
+    "version_id": "21e7986237f1c71367426ecba7717479b0ed64790f30992b69e73904267079fc"
   },
   {
     "date": "2024-09-22T15:00:00+02:00",
@@ -87,7 +119,11 @@
     "summary": "Proect website ui focus",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "id": "bc62659f5cfcef54db766f2cd7dfd4b5"
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
+    "id": "3f4be63271d70c31bef664efc5181f2a4b1acd5557fcf1dce83939cc57201a3d",
+    "version_id": "68e56837a85d470dfcb92078ec14c09083f2adac6d321c5df1799278a8f10cf9"
   },
   {
     "date": "2024-09-23T08:30:00+02:00",
@@ -97,7 +133,11 @@
     "summary": "Twitter strategy + start",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "id": "06b834cf293162c9f5f30bc817a09e09"
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
+    "id": "a22ddd18a83f3cf32ed39ec7e9a042580af2836029d6b88604c0c95ad6caefa2",
+    "version_id": "b5d800f5fa4506f33e5c063b23aedb310a2b7bd66898f153116f7f86bcd95071"
   },
   {
     "date": "2024-09-23T14:30:00+02:00",
@@ -107,7 +147,11 @@
     "summary": "Life plan",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "id": "b85058202201483ed9425c01c4ebdbbd"
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
+    "id": "360c825508ea1683c4e4791fedf8b02a728d719fe38b4476fb497c95da2b5b11",
+    "version_id": "93ace2f87d758015ee6af04f7fba076f46efc352202d7b69d0f1232734e45689"
   },
   {
     "date": "2024-09-23T16:00:00+02:00",
@@ -117,7 +161,11 @@
     "summary": "Learning plan",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "id": "a73994e884c3577b86556ce181be5a8c"
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
+    "id": "375ad9318661b708dd5ae1fcdbe19441f51dae51b121ff441e36e9bb5ce3f355",
+    "version_id": "1d3b53d19ea675f54b62eeb47df09b516a077a6b57889cc7071b798e982fcefe"
   },
   {
     "date": "2024-10-06T16:45:00+02:00",
@@ -127,7 +175,11 @@
     "summary": "test",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "id": "6223b6f0c525a196bbede32a5f7d5b06"
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
+    "id": "75d4fd32ceb75cdf7614512840d3a5c2410ce190a9a85aa8dcd2b26db2f7e355",
+    "version_id": "0a97aec4ecd1afb9ef2dc44ffcf324e947ea3b038298cec7280ece4feb5bef48"
   },
   {
     "date": "2024-10-09T15:30:00+02:00",
@@ -137,7 +189,11 @@
     "summary": "Full stack app, finish",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "id": "7de1d71918c4e19d2929f84cbbf01192"
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
+    "id": "61cd695d68954ea353c9b1f6a498fab875ab60ec1a11c593cc8e5ecc4e4e7810",
+    "version_id": "4eb65c890e288b5e33231129b21db3cefc5b527827176eb5e5421070a806510c"
   },
   {
     "date": "2024-10-09T18:00:00+02:00",
@@ -147,7 +203,11 @@
     "summary": "AI Engineering Bootcamp -  First Class Free",
     "description": "Ironhack Netherlands: Tech Careers and Learnings \ud83d\ude80\nWednesday, October 9 at 6:00 PM\n\n\ud83d\udea8(https://events.ironhack.com/r/ai-engineering-first-class-free) \ud83d\udea8 Join Isabella Bicalho, our Lead Instructor in AI Engineering, to learn more about o...\n\nhttps://www.meetup.com/ironhack-amsterdam/events/303723129/",
     "calendar_name": "Projects",
-    "id": "a4510598214e35810e1f0468dd33662d"
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
+    "id": "247a378067f3cb8e16199f0efb7ab5e5b65e402c10eb46c2554e0cf1e71dbb8c",
+    "version_id": "bb35cf669f7d0d5543b6abb3b7deb41ccf2151ea8c49fa431474ca6b85af9915"
   },
   {
     "date": "2024-10-10T08:00:00+02:00",
@@ -157,7 +217,11 @@
     "summary": "New Event",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "id": "523235706e6d83fbf1205d7611741fe9"
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
+    "id": "85bbd90443b1d81b26f27b2581a3b8475486feb355c805e24f5e95f3e912e83c",
+    "version_id": "aff8ca1c1ef6f09975f9f00255a5616d5e953cf5928ae625b39e4dd5d5d7d7df"
   },
   {
     "date": "2024-10-10T16:00:00+02:00",
@@ -167,7 +231,11 @@
     "summary": "New Event",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "id": "11253c249f88587b0ae50cf4a317fdc8"
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
+    "id": "85bbd90443b1d81b26f27b2581a3b8475486feb355c805e24f5e95f3e912e83c",
+    "version_id": "f2d0729215f99a0eefd2a8b325ce98be61ef1898bfcdeeb88ee0b93d10db81ea"
   },
   {
     "date": "2024-10-11T14:15:00+02:00",
@@ -177,7 +245,11 @@
     "summary": "New Event",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "id": "8d69ed105cccffa709a32d0f6c25170f"
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
+    "id": "4db680932ca23f9133b4c97b0f8f42f7ed5e54f0635e50ce4b0df757be883599",
+    "version_id": "f387dd285f4d0d24f752a618c0fbbc924f1ce84d5cdcb739c2c75de32db44444"
   },
   {
     "date": "2024-10-11T18:00:00+02:00",
@@ -187,7 +259,11 @@
     "summary": "YC Startup School (User Group) Meetup",
     "description": "YC Startup School (User Group) Amsterdam\nFriday, October 11 at 6:00 PM\n\nMonthly meetup for (aspiring) founders. It\u2019s an informal gathering over beers where you can find inspiration and encouragement to continue working on ...\n\nhttps://www.meetup.com/startup-school-amsterdam/events/296796621/",
     "calendar_name": "Projects",
-    "id": "924b339eb487ffb540e897b27ac97e74"
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
+    "id": "119bf49bfc84519bd1c761c0a151a998f0650b46a928a3945d760bd7d971346c",
+    "version_id": "9d0c3efe09f7bbbfd264e20d89b3e1ca94d57089701f8d4d63425f7a50874802"
   },
   {
     "date": "2024-10-13T07:15:00+02:00",
@@ -197,7 +273,11 @@
     "summary": "New Event",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "id": "5343ee9e9b026e71d7ccdef60ef33312"
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
+    "id": "146ce55e3c93ad65d70ddcb32a79dd381558959f0dafbf1476a4b665c33aa5ac",
+    "version_id": "797fd732be90d0c0e14a4645d119c4b2cfdc2d4a819c5b3848e4447f3910a60b"
   },
   {
     "date": "2024-10-14T06:30:00+02:00",
@@ -207,7 +287,11 @@
     "summary": "marketing",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "id": "f00f643a2f30e5b2ac1d590b89f913b7"
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
+    "id": "d40d545968c74949db9aa039c0c26f4d86c97faea0712c5fff100941738455f5",
+    "version_id": "2fe86062ca6c1df97d6ff8224bd2d02c9d32a78a9b2413648c4ad4455121a5c4"
   },
   {
     "date": "2024-10-14T14:00:00+02:00",
@@ -217,7 +301,11 @@
     "summary": "courses",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "id": "16e113da6b6939ada1cec5a4d2003977"
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
+    "id": "34b56c8a9c90deb731315905700bb51419f026a9ffcf3dba7e67f82a0ee64370",
+    "version_id": "eddfa0ac13d3cd0100d41f5f4fff2b6475a93636f881936a32fa5c2d44c8996b"
   },
   {
     "date": "2024-10-16T17:00:00+02:00",
@@ -227,7 +315,11 @@
     "summary": "research",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "id": "69c4e3d5092268c753b25615db2ab785"
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
+    "id": "6262285522b01b361810dbbb7efe26100a05847254eec008497606a9e648b406",
+    "version_id": "28ac35364911ab0138a4ce4e65bd18e4a2bd957a28e66e68073e3ed8ee946677"
   },
   {
     "date": "2024-10-17T16:00:00+02:00",
@@ -237,7 +329,11 @@
     "summary": "New Event",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "id": "cea96d0b04d1ec31f17ac1f1b871dc06"
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
+    "id": "647aea5015ee550958de6534e2606e47d3b4014bc77e3afa22706b5ddc1feb73",
+    "version_id": "9baa1486c6b4f969b884a242321cdfb7c9eb3d33f2e0fb3b96650a621d1a61a2"
   },
   {
     "date": "2024-10-19T12:00:00+02:00",
@@ -247,7 +343,11 @@
     "summary": "find services to offer",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "id": "855cc3803f915e77026ba58fed501ffa"
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
+    "id": "15601c4fb4f1f153c4264f842a3d35df330d1a5665a51ef2c2b67f206f5bf3b2",
+    "version_id": "8870d53cc2f9c5f19fd6a20b6456183a8a289b3c5c0e20418dcf04a25d108c66"
   },
   {
     "date": "2024-10-21T17:15:00+02:00",
@@ -257,7 +357,11 @@
     "summary": "Planning",
     "description": "1. create a detailed plan how you think it should go in steps\n2. write out what you are going to do that day, create smaller tasks and \nstart doing them\n\nDONT GET LOST",
     "calendar_name": "Projects",
-    "id": "176151ecb142ba1ebc24b52c628b8ade"
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
+    "id": "931a4ab68b7e6ce529c55eb37b5dd228b58e50a4cf7a5850d5582506d0193960",
+    "version_id": "9fbccc9a67243dc6910e1cbdfd774645893602d9c615af9508a851be18cf4b3a"
   },
   {
     "date": "2024-10-22T16:15:00+02:00",
@@ -267,7 +371,11 @@
     "summary": "Business",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "id": "a09cd37aa45e1b34656ce5eb787fb2d5"
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
+    "id": "793aa9844620b6566e44976a4cbff0defe9904621c107b3cd23304a55ae7061f",
+    "version_id": "d4c1693e36043506d9d723fef1d2067929030b0ca268dba6f1fb9aba2f37336f"
   },
   {
     "date": "2024-10-22T18:00:00+02:00",
@@ -277,7 +385,11 @@
     "summary": "Educational video + notes",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "id": "0d08e34044a470319b00081556fa5d9b"
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
+    "id": "d4ff85bd094d6e935eb762eca25b4d33020a5060c4e8f628527c335fbd655646",
+    "version_id": "4fedeb94122a46aa388ba19e115957c0c0da4b2db5dcff653f9b812609446490"
   },
   {
     "date": "2024-10-23T16:15:00+02:00",
@@ -287,7 +399,11 @@
     "summary": "Business",
     "description": "planning will be done on monday",
     "calendar_name": "Projects",
-    "id": "766c286a3ea4625419d326a898bf5372"
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
+    "id": "985dc944699ca066366d972678be97d3499b82bd20bf4d7402e6be10838863c8",
+    "version_id": "6ec95e508bd91cda0ed9731cf4e578c7d2c28f70779d881bbd50be8dfdd944df"
   },
   {
     "date": "2024-10-25T17:00:00+02:00",
@@ -297,7 +413,11 @@
     "summary": "educational videos",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "id": "7dafe89483ca68fa27f92b617d3e2b33"
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
+    "id": "432877e5b0f9b1a6160fc59a83c3f2078263a8e43ec0d31a15fc06a3ca465105",
+    "version_id": "d6738c625370e6225b9e85cb8efe8bce1b8b30af8a4a1cb22fd9dc2b5354ecb0"
   },
   {
     "date": "2024-10-26T06:30:00+02:00",
@@ -307,7 +427,11 @@
     "summary": "New Event",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "id": "8d64116a4e55749e96726fbfffa4cc36"
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
+    "id": "971eb227234af2f9b9b7b070f0e47acfcdb9d4de41788b5fac7fc25d20133952",
+    "version_id": "a7cdafabe0508641a417a406fa5deda86f4368c13428e588af85c5f277a7e396"
   },
   {
     "date": "2024-10-26T13:00:00+02:00",
@@ -317,7 +441,11 @@
     "summary": "New Event",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "id": "30aaece94c3e525705d03f49258516ca"
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
+    "id": "971eb227234af2f9b9b7b070f0e47acfcdb9d4de41788b5fac7fc25d20133952",
+    "version_id": "30c621dc2fa23dc2842e3aab9361aede239a494e97189aef8f668846ea561cf8"
   },
   {
     "date": "2024-10-26T16:00:00+02:00",
@@ -327,6 +455,10 @@
     "summary": "New Event",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "id": "1744e0a75957ff0fd29b47073dd3a652"
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
+    "id": "971eb227234af2f9b9b7b070f0e47acfcdb9d4de41788b5fac7fc25d20133952",
+    "version_id": "4eedea66320f44e1d91c8a146e2555282003574af5975d74481824680e7cdb87"
   }
 ]

@@ -4,7 +4,7 @@ import pandas as pd
 from datetime import datetime, timedelta
 
 def load_historical_data():
-    with open('data/historical_data.json', 'r') as f:
+    with open('data/updated_historical_data.json', 'r') as f:
         return json.load(f)
 
 def prepare_data_for_supabase(historical_data):
@@ -18,7 +18,8 @@ def prepare_data_for_supabase(historical_data):
 
     # Convert date strings to datetime objects while preserving the timezone
     for col in ['date', 'start', 'end']:
-        df[col] = pd.to_datetime(df[col], format='mixed', utc=True).dt.tz_convert('Europe/Amsterdam')
+        df[col] = pd.to_datetime(df[col], infer_datetime_format=True, utc=True)
+        df[col] = df[col].dt.tz_convert('Europe/Amsterdam')
     
     # Debugging: Print the first few rows of the date columns after conversion
     print("\nFirst few rows of date columns after conversion:")

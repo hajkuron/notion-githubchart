@@ -50,36 +50,43 @@ def get_calendar_events(service, calendar_id='primary', time_min=None, time_max=
 
 def load_historical_data():
     try:
-        with open('data/historical_data.json', 'r') as f:
+        with open('data/updated_historical_data.json', 'r') as f:
             data = json.load(f)
             # Ensure all historical events have IDs
             for event in data:
                 if 'id' not in event:
-                    event['id'] = generate_id(event)
+                    event['id'] = generate_ids(event)
             return data
     except FileNotFoundError:
         return []
 
 def save_historical_data(data):
-    with open('data/historical_data.json', 'w') as f:
+    with open('data/updated_historical_data.json', 'w') as f:
         json.dump(data, f, indent=2)
 
-def generate_id(event):
-    # Create a unique ID based on the event's start time, summary, and calendar name
-    if isinstance(event, dict):
-        start_time = event.get('start', {})
-        if isinstance(start_time, dict):
-            start_time = start_time.get('dateTime', start_time.get('date', ''))
-        summary = event.get('summary', '')
-        calendar_name = event.get('calendar_name', '')
-    else:
-        # If event is not a dictionary, use it as is
-        start_time = str(event)
-        summary = ''
-        calendar_name = ''
-    
-    id_string = f"{start_time}-{summary}-{calendar_name}"
-    return hashlib.md5(id_string.encode()).hexdigest()
+def generate_ids(event):
+    # Generate stable ID
+    stable_properties = [
+        event.get('summary', ''),
+        event.get('description', ''),
+        event.get('calendar_name', ''),
+        event['start'].split('T')[0]
+    ]
+    stable_string = "|".join(str(prop) for prop in stable_properties)
+    stable_id = hashlib.sha256(stable_string.encode()).hexdigest()
+
+    # Generate version ID
+    all_properties = [
+        event.get('summary', ''),
+        event.get('description', ''),
+        event.get('calendar_name', ''),
+        event['start'],
+        event['end']
+    ]
+    version_string = "|".join(str(prop) for prop in all_properties)
+    version_id = hashlib.sha256(version_string.encode()).hexdigest()
+
+    return stable_id, version_id
 
 def compare_and_update_historical_data(new_events, historical_data):
     # Create a dictionary of new events for quick lookup
@@ -88,21 +95,36 @@ def compare_and_update_historical_data(new_events, historical_data):
     # Update historical data
     updated_historical_data = []
     for historical_event in historical_data:
-        # Ensure historical event has an ID
-        if 'id' not in historical_event:
-            historical_event['id'] = generate_id(historical_event)
+        # Ensure historical event has id and version_id
+        if 'id' not in historical_event or 'version_id' not in historical_event:
+            historical_event['id'], historical_event['version_id'] = generate_ids(historical_event)
         
         if historical_event['id'] in new_event_dict:
-            # Update existing event
-            updated_event = new_event_dict.pop(historical_event['id'])
-            updated_historical_data.append(updated_event)
+            new_event = new_event_dict.pop(historical_event['id'])
+            if historical_event['version_id'] != new_event['version_id']:
+                # Update only necessary fields
+                historical_event.update({
+                    'new_date': new_event['date'],
+                    'new_start': new_event['start'],
+                    'new_end': new_event['end'],
+                    'status': 'modified',
+                    'version_id': new_event['version_id']
+                })
+            else:
+                historical_event['status'] = 'unchanged'
+            updated_historical_data.append(historical_event)
         else:
             # Mark as deleted if it's not in new events
-            historical_event['deleted'] = True
+            historical_event['status'] = 'deleted'
             updated_historical_data.append(historical_event)
     
     # Add any new events that weren't matched
-    updated_historical_data.extend(new_event_dict.values())
+    for new_event in new_event_dict.values():
+        new_event['status'] = 'new'
+        new_event['new_date'] = new_event['date']
+        new_event['new_start'] = new_event['start']
+        new_event['new_end'] = new_event['end']
+        updated_historical_data.append(new_event)
     
     return updated_historical_data
 
@@ -158,16 +180,21 @@ def process_and_save_data():
         for calendar_name, events in calendar_events.items():
             processed_data = []
             for event in events:
+                start_time = event['start'].get('dateTime', event['start'].get('date'))
+                end_time = event['end'].get('dateTime', event['end'].get('date'))
                 processed_event = {
-                    "date": event['start'].get('dateTime', event['start'].get('date')),
-                    "start": event['start'].get('dateTime', event['start'].get('date')),
-                    "end": event['end'].get('dateTime', event['end'].get('date')),
+                    "date": start_time,
+                    "start": start_time,
+                    "end": end_time,
                     "value": 0.5 if calendar_name == "Fitness" and "rest" in event.get('summary', '').lower() else 1,
                     "summary": event.get('summary', ''),
                     "description": event.get('description', ''),
-                    "calendar_name": calendar_name
+                    "calendar_name": calendar_name,
+                    "new_date": "",
+                    "new_start": "",
+                    "new_end": ""
                 }
-                processed_event["id"] = generate_id(processed_event)
+                processed_event["id"], processed_event["version_id"] = generate_ids(processed_event)
                 processed_data.append(processed_event)
 
             # Filter historical data for the current calendar_name for comparison
