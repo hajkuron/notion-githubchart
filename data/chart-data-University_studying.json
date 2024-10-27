@@ -323,22 +323,8 @@
   },
   {
     "date": "2024-10-07",
-    "start": "2024-10-07T06:00:00+00:00",
-    "end": "2024-10-07T08:00:00+00:00",
-    "value": 1,
-    "summary": "Mojo mate, research for marketing",
-    "description": "(No description)",
-    "calendar_name": "University studying",
-    "new_date": "",
-    "new_start": "",
-    "new_end": "",
-    "id": "9c3f1a9012f41a089c5f9fb5ff5891e07cf7faa83a221b0fdbd3d6810a1d6ce5",
-    "version_id": "1d3a209ad4f6140cf800dc6f5d605926919bbc0878d0ee9914b5e04a8acc7f62"
-  },
-  {
-    "date": "2024-10-07",
-    "start": "2024-10-07T11:00:00+00:00",
-    "end": "2024-10-07T12:00:00+00:00",
+    "start": "2024-10-07T08:00:00+00:00",
+    "end": "2024-10-07T09:00:00+00:00",
     "value": 1,
     "summary": "mojo mate meeting",
     "description": "(No description)",
@@ -347,7 +333,7 @@
     "new_start": "",
     "new_end": "",
     "id": "25312615e6c5eac856f5864ba29b5416982b70c387704f354c2ae951a0061145",
-    "version_id": "21655f203bb79d33c04d2f773c6fd76f30f0b549e0774a80f97f5cdef7c0d22a"
+    "version_id": "5b9650347a9e4c423934fe3850b8ba153112007fe54f646122d7bb8707320fce"
   },
   {
     "date": "2024-10-07",

@@ -822,7 +822,7 @@
     "new_end": "2024-09-25T15:00:00+00:00",
     "id": "77300946738f9a2181efdc2ffe850cb255f61190459bcb06aa2138185af0a4da",
     "version_id": "134f3f5bc0696e167ba6cf9ba53ed008be03c01a4f39dd691e767f9322cea98a",
-    "status": "new"
+    "status": "unchanged"
   },
   {
     "date": "2024-09-11",
@@ -1182,7 +1182,7 @@
     "new_end": "2024-10-07T08:00:00+00:00",
     "id": "9c3f1a9012f41a089c5f9fb5ff5891e07cf7faa83a221b0fdbd3d6810a1d6ce5",
     "version_id": "1d3a209ad4f6140cf800dc6f5d605926919bbc0878d0ee9914b5e04a8acc7f62",
-    "status": "unchanged"
+    "status": "deleted"
   },
   {
     "date": "2024-10-07",
@@ -1193,11 +1193,11 @@
     "description": "(No description)",
     "calendar_name": "University studying",
     "new_date": "2024-10-07",
-    "new_start": "2024-10-07T11:00:00+00:00",
-    "new_end": "2024-10-07T12:00:00+00:00",
+    "new_start": "2024-10-07T08:00:00+00:00",
+    "new_end": "2024-10-07T09:00:00+00:00",
     "id": "25312615e6c5eac856f5864ba29b5416982b70c387704f354c2ae951a0061145",
-    "version_id": "21655f203bb79d33c04d2f773c6fd76f30f0b549e0774a80f97f5cdef7c0d22a",
-    "status": "unchanged"
+    "version_id": "5b9650347a9e4c423934fe3850b8ba153112007fe54f646122d7bb8707320fce",
+    "status": "modified"
   },
   {
     "date": "2024-10-07",
