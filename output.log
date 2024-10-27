@@ -1,5 +1,4 @@
 Successfully connected to Google Calendar.
-Calendar ID: jonkuhar11@gmail.com, Name: jonkuhar11@gmail.com
 Calendar ID: addressbook#contacts@group.v.calendar.google.com, Name: Birthdays
 Calendar ID: b601ad825064539047f7c2540f449451c8f0242c4412960a9255b11d6c4af43a@group.calendar.google.com, Name: Sunrise
 Calendar ID: 24apf9qtnt0m4o0d0rsph9qibap9rfrm@import.calendar.google.com, Name: University of Amsterdam - Personal timetable: 13597698@uva.nl
@@ -8,26 +7,27 @@ Calendar ID: 1a37698126fc23d8cfdf02ee128057d3819655c964b121581fd739cdf3b2ca2d@gr
 Calendar ID: e879f3b9151e9b22bcf61f6d4be0f36fc098a98dbfa18a6e69185ab6ab1de58d@group.calendar.google.com, Name: Fitness
 Calendar ID: feaf7caf8e292c26b0b3494d92518996db2a6faf8270362000244ccdf19b85b0@group.calendar.google.com, Name: University studying
 Calendar ID: 29d040e734cdaa1eaa5f8ede3158c070bd9d7a267573d04032110ad13476f001@group.calendar.google.com, Name: Projects
-Calendar ID: 429tulplr1r73mtmiho2h8ttv990uk9p@import.calendar.google.com, Name: Home
 Calendar ID: 1853064a08f90ec23c0b0c0f45eaa003f866992f934c4bfcd1307a9b1cc02e22@group.calendar.google.com, Name: Routines
+Calendar ID: jonkuhar11@gmail.com, Name: jonkuhar11@gmail.com
+Calendar ID: 429tulplr1r73mtmiho2h8ttv990uk9p@import.calendar.google.com, Name: Home
 Found 11 calendars.
-Fetched 91 events from calendar: jonkuhar11@gmail.com
 No events fetched from calendar: Birthdays
 No events fetched from calendar: Sunrise
 Skipping excluded calendar: University of Amsterdam - Personal timetable: 13597698@uva.nl
 Skipping excluded calendar: VU Amsterdam - Personal timetable: Kuhar, J. (Jon)
 Fetched 13 events from calendar: Work creative clicks
-Fetched 40 events from calendar: Fitness
+Fetched 41 events from calendar: Fitness
 Fetched 41 events from calendar: University studying
 Fetched 33 events from calendar: Projects
-Fetched 18 events from calendar: Home
 Fetched 1 events from calendar: Routines
+Fetched 91 events from calendar: jonkuhar11@gmail.com
+Fetched 18 events from calendar: Home
 Fetched events from 7 calendars.
-Saved data for calendar "jonkuhar11@gmail.com" to data/chart-data-jonkuhar11_gmail.com.json
 Saved data for calendar "Work creative clicks" to data/chart-data-Work_creative_clicks.json
 Saved data for calendar "Fitness" to data/chart-data-Fitness.json
 Saved data for calendar "University studying" to data/chart-data-University_studying.json
 Saved data for calendar "Projects" to data/chart-data-Projects.json
-Saved data for calendar "Home" to data/chart-data-Home.json
 Saved data for calendar "Routines" to data/chart-data-Routines.json
+Saved data for calendar "jonkuhar11@gmail.com" to data/chart-data-jonkuhar11_gmail.com.json
+Saved data for calendar "Home" to data/chart-data-Home.json
 Google Calendar data fetched and saved successfully
