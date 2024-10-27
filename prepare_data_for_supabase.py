@@ -1,11 +1,34 @@
 #%%
 import json
 import pandas as pd
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, time
+import pytz
 
 def load_historical_data():
     with open('data/updated_historical_data.json', 'r') as f:
         return json.load(f)
+
+def parse_date(date_str):
+    amsterdam_tz = pytz.timezone('Europe/Amsterdam')
+    try:
+        # Try parsing as full datetime
+        dt = pd.to_datetime(date_str)
+        if dt.tzinfo is None:
+            # If the parsed datetime is naive, assume it's in Amsterdam time
+            dt = amsterdam_tz.localize(dt)
+        return dt.astimezone(amsterdam_tz)
+    except ValueError:
+        try:
+            # Try parsing as date only
+            dt = pd.to_datetime(date_str, format='%Y-%m-%d')
+            # Add default time (00:00:00) and set timezone
+            return amsterdam_tz.localize(datetime.combine(dt.date(), time.min))
+        except ValueError:
+            # If still fails, return NaT
+            return pd.NaT
+    
+    # Ensure timezone is set to Amsterdam
+    return dt.astimezone(amsterdam_tz)
 
 def prepare_data_for_supabase(historical_data):
     # Convert to DataFrame
@@ -18,8 +41,7 @@ def prepare_data_for_supabase(historical_data):
 
     # Convert date strings to datetime objects while preserving the timezone
     for col in ['date', 'start', 'end']:
-        df[col] = pd.to_datetime(df[col], infer_datetime_format=True, utc=True)
-        df[col] = df[col].dt.tz_convert('Europe/Amsterdam')
+        df[col] = df[col].apply(parse_date)
     
     # Debugging: Print the first few rows of the date columns after conversion
     print("\nFirst few rows of date columns after conversion:")
