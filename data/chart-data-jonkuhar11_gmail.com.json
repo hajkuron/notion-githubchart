@@ -42,18 +42,19 @@
     "version_id": "da8b3ab9588763dd61cd23cfc30685ddd0e8258747ddfba9effc149afc34309b"
   },
   {
-    "date": "2024-09-05",
-    "start": "2024-09-05T22:00:00+00:00",
-    "end": "2024-09-06T22:00:00+00:00",
+    "date": "2024-09-06",
+    "start": "2024-09-06T00:00:00+00:00",
+    "end": "2024-09-07T00:00:00+00:00",
     "value": 1,
     "summary": "assignment",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "",
-    "new_start": "",
-    "new_end": "",
-    "id": "ebe66f622fb121e89f458cb3ee28e41dde674b49af89b31722ab9f926b5dace5",
-    "version_id": "63b8855e4694002d273ff89e75d86e78c9fe52608185b953a5bce7a35ebf35f2"
+    "new_date": "2024-09-06",
+    "new_start": "2024-09-06T00:00:00+00:00",
+    "new_end": "2024-09-07T00:00:00+00:00",
+    "id": "93f1bbf8b1838fab779f67b7c1f6c68415590f3924543c45781af2ff03e13cb5",
+    "version_id": "5f54db60a5e30c57bf2be8c5c99a6c312c7dff0f78e351e168764c2bde11b0b9",
+    "status": "new"
   },
   {
     "date": "2024-09-07",
