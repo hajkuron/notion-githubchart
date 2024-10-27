@@ -1,8 +1,8 @@
 [
   {
-    "date": "2024-09-10T12:30:00+02:00",
-    "start": "2024-09-10T12:30:00+02:00",
-    "end": "2024-09-10T14:00:00+02:00",
+    "date": "2024-09-10T12:30:00+02:00Z",
+    "start": "2024-09-10T12:30:00+02:00Z",
+    "end": "2024-09-10T14:00:00+02:00Z",
     "value": 1,
     "summary": "project",
     "description": "(No description)",
@@ -11,12 +11,12 @@
     "new_start": "",
     "new_end": "",
     "id": "41e1bc60f1b8041b115f189559d79e6ffee7ae9ce86bec8c76a376b0f54ca710",
-    "version_id": "f6759ae310ea3ceab2879bd9191345c4256b3d43a3254509aa35b311df056321"
+    "version_id": "10c0c6171dc3dfdde0da2ce868417687a142f585a4a77a77496aee1e5868ca8d"
   },
   {
-    "date": "2024-09-10T18:00:00+02:00",
-    "start": "2024-09-10T18:00:00+02:00",
-    "end": "2024-09-10T19:00:00+02:00",
+    "date": "2024-09-10T18:00:00+02:00Z",
+    "start": "2024-09-10T18:00:00+02:00Z",
+    "end": "2024-09-10T19:00:00+02:00Z",
     "value": 1,
     "summary": "project",
     "description": "(No description)",
@@ -25,12 +25,12 @@
     "new_start": "",
     "new_end": "",
     "id": "41e1bc60f1b8041b115f189559d79e6ffee7ae9ce86bec8c76a376b0f54ca710",
-    "version_id": "4f60a50f02189e2eddfff9b9f168636a4444243e850cc1c41af72a2f26a5e95f"
+    "version_id": "344061f14ab825a05e0a838d80a64c4b6661ac70e454b275f3f7c379aaa3651b"
   },
   {
-    "date": "2024-09-11T14:00:00+02:00",
-    "start": "2024-09-11T14:00:00+02:00",
-    "end": "2024-09-11T19:00:00+02:00",
+    "date": "2024-09-11T14:00:00+02:00Z",
+    "start": "2024-09-11T14:00:00+02:00Z",
+    "end": "2024-09-11T19:00:00+02:00Z",
     "value": 1,
     "summary": "project",
     "description": "(No description)",
@@ -39,12 +39,12 @@
     "new_start": "",
     "new_end": "",
     "id": "d57ff7c4d9d1d9786d45bb9388d6299f0da2e9f5c537fc718e37d5152a3eb62e",
-    "version_id": "cc83cadb5a30be8899ebf816e93de845796267a6be47128c05896f925c0c2122"
+    "version_id": "d20d89b717df8ee898a10013581e4fce161f54aa1317556611b21a8ecd9bf724"
   },
   {
-    "date": "2024-09-13T14:00:00+02:00",
-    "start": "2024-09-13T14:00:00+02:00",
-    "end": "2024-09-13T18:00:00+02:00",
+    "date": "2024-09-13T14:00:00+02:00Z",
+    "start": "2024-09-13T14:00:00+02:00Z",
+    "end": "2024-09-13T18:00:00+02:00Z",
     "value": 1,
     "summary": "project",
     "description": "(No description)",
@@ -53,12 +53,12 @@
     "new_start": "",
     "new_end": "",
     "id": "8d3df807348f92a14ee81686bb0b48523c59e63590b89cc6c97c835a63e1efc5",
-    "version_id": "5d35a4e130a0717bc0c63884d35ee9b7096a2eeeede4798672e22d60c5107371"
+    "version_id": "2880856915ae461880bff488970609f26a57bc639600d887afa1a73a7b5e3ba7"
   },
   {
-    "date": "2024-09-21T08:30:00+02:00",
-    "start": "2024-09-21T08:30:00+02:00",
-    "end": "2024-09-21T12:30:00+02:00",
+    "date": "2024-09-21T08:30:00+02:00Z",
+    "start": "2024-09-21T08:30:00+02:00Z",
+    "end": "2024-09-21T12:30:00+02:00Z",
     "value": 1,
     "summary": "Proect website ui focus",
     "description": "(No description)",
@@ -67,12 +67,12 @@
     "new_start": "",
     "new_end": "",
     "id": "3e01b9cf711bbe3594b0e6502a1389ddabe94c0cfb93b32bb41bdd903f67a968",
-    "version_id": "ff23c88b91b5a93978156d4f393fce448cecc0797085c2bd41a59dab33b443de"
+    "version_id": "2942dcb6f0ea02a0f1e2c9cee2bb4e2e406704af9487d55f5ba1dbd0b898ae7f"
   },
   {
-    "date": "2024-09-21T14:30:00+02:00",
-    "start": "2024-09-21T14:30:00+02:00",
-    "end": "2024-09-21T17:30:00+02:00",
+    "date": "2024-09-21T14:30:00+02:00Z",
+    "start": "2024-09-21T14:30:00+02:00Z",
+    "end": "2024-09-21T17:30:00+02:00Z",
     "value": 1,
     "summary": "Proect website ui focus",
     "description": "(No description)",
@@ -81,12 +81,12 @@
     "new_start": "",
     "new_end": "",
     "id": "3e01b9cf711bbe3594b0e6502a1389ddabe94c0cfb93b32bb41bdd903f67a968",
-    "version_id": "eaebe259fd4c3eff3d7f8d7e4be8e9e2647524aa0bf895417ed5c30e904be0dc"
+    "version_id": "761582a1269a979bf17a5f21c3ef2a874681edce02775bff988c258c2119eacd"
   },
   {
-    "date": "2024-09-21T18:15:00+02:00",
-    "start": "2024-09-21T18:15:00+02:00",
-    "end": "2024-09-21T19:30:00+02:00",
+    "date": "2024-09-21T18:15:00+02:00Z",
+    "start": "2024-09-21T18:15:00+02:00Z",
+    "end": "2024-09-21T19:30:00+02:00Z",
     "value": 1,
     "summary": "Proect website ui focus",
     "description": "(No description)",
@@ -95,12 +95,12 @@
     "new_start": "",
     "new_end": "",
     "id": "3e01b9cf711bbe3594b0e6502a1389ddabe94c0cfb93b32bb41bdd903f67a968",
-    "version_id": "ae0db46df13c1760afad04b0860e89cab43754b5bd745955508805aab7f03845"
+    "version_id": "ad464f3cb3b8a80c748bc31ddbf04111ac7014e20603b02d3d925c396cc83f1a"
   },
   {
-    "date": "2024-09-21T21:00:00+02:00",
-    "start": "2024-09-21T21:00:00+02:00",
-    "end": "2024-09-21T22:30:00+02:00",
+    "date": "2024-09-21T21:00:00+02:00Z",
+    "start": "2024-09-21T21:00:00+02:00Z",
+    "end": "2024-09-21T22:30:00+02:00Z",
     "value": 1,
     "summary": "Proect website ui focus",
     "description": "(No description)",
@@ -109,12 +109,12 @@
     "new_start": "",
     "new_end": "",
     "id": "3e01b9cf711bbe3594b0e6502a1389ddabe94c0cfb93b32bb41bdd903f67a968",
-    "version_id": "21e7986237f1c71367426ecba7717479b0ed64790f30992b69e73904267079fc"
+    "version_id": "532023089905cff23af64c752e8c591f296417681d857517bb4df76fcfee6f22"
   },
   {
-    "date": "2024-09-22T15:00:00+02:00",
-    "start": "2024-09-22T15:00:00+02:00",
-    "end": "2024-09-22T19:00:00+02:00",
+    "date": "2024-09-22T15:00:00+02:00Z",
+    "start": "2024-09-22T15:00:00+02:00Z",
+    "end": "2024-09-22T19:00:00+02:00Z",
     "value": 1,
     "summary": "Proect website ui focus",
     "description": "(No description)",
@@ -123,12 +123,12 @@
     "new_start": "",
     "new_end": "",
     "id": "3f4be63271d70c31bef664efc5181f2a4b1acd5557fcf1dce83939cc57201a3d",
-    "version_id": "68e56837a85d470dfcb92078ec14c09083f2adac6d321c5df1799278a8f10cf9"
+    "version_id": "5111d809ab55ed9ee94b45459f7739964956d05f5ce9ddddc942a243e556779c"
   },
   {
-    "date": "2024-09-23T08:30:00+02:00",
-    "start": "2024-09-23T08:30:00+02:00",
-    "end": "2024-09-23T10:30:00+02:00",
+    "date": "2024-09-23T08:30:00+02:00Z",
+    "start": "2024-09-23T08:30:00+02:00Z",
+    "end": "2024-09-23T10:30:00+02:00Z",
     "value": 1,
     "summary": "Twitter strategy + start",
     "description": "(No description)",
@@ -137,12 +137,12 @@
     "new_start": "",
     "new_end": "",
     "id": "a22ddd18a83f3cf32ed39ec7e9a042580af2836029d6b88604c0c95ad6caefa2",
-    "version_id": "b5d800f5fa4506f33e5c063b23aedb310a2b7bd66898f153116f7f86bcd95071"
+    "version_id": "14b542577be184c31329666e04b9041efe50ccfec5b0fe4db33287a2dfbe6e27"
   },
   {
-    "date": "2024-09-23T14:30:00+02:00",
-    "start": "2024-09-23T14:30:00+02:00",
-    "end": "2024-09-23T16:00:00+02:00",
+    "date": "2024-09-23T14:30:00+02:00Z",
+    "start": "2024-09-23T14:30:00+02:00Z",
+    "end": "2024-09-23T16:00:00+02:00Z",
     "value": 1,
     "summary": "Life plan",
     "description": "(No description)",
@@ -151,12 +151,12 @@
     "new_start": "",
     "new_end": "",
     "id": "360c825508ea1683c4e4791fedf8b02a728d719fe38b4476fb497c95da2b5b11",
-    "version_id": "93ace2f87d758015ee6af04f7fba076f46efc352202d7b69d0f1232734e45689"
+    "version_id": "b86e2cd5afc65b70a556444cf0a877de746dde3c020ee35532bdfeadb557e4ca"
   },
   {
-    "date": "2024-09-23T16:00:00+02:00",
-    "start": "2024-09-23T16:00:00+02:00",
-    "end": "2024-09-23T17:30:00+02:00",
+    "date": "2024-09-23T16:00:00+02:00Z",
+    "start": "2024-09-23T16:00:00+02:00Z",
+    "end": "2024-09-23T17:30:00+02:00Z",
     "value": 1,
     "summary": "Learning plan",
     "description": "(No description)",
@@ -165,12 +165,12 @@
     "new_start": "",
     "new_end": "",
     "id": "375ad9318661b708dd5ae1fcdbe19441f51dae51b121ff441e36e9bb5ce3f355",
-    "version_id": "1d3b53d19ea675f54b62eeb47df09b516a077a6b57889cc7071b798e982fcefe"
+    "version_id": "e89fc59edeb1cab74ddc9c55e4223250b0477444f96a634b4d9997ea953e26c7"
   },
   {
-    "date": "2024-10-06T16:45:00+02:00",
-    "start": "2024-10-06T16:45:00+02:00",
-    "end": "2024-10-06T19:15:00+02:00",
+    "date": "2024-10-06T16:45:00+02:00Z",
+    "start": "2024-10-06T16:45:00+02:00Z",
+    "end": "2024-10-06T19:15:00+02:00Z",
     "value": 1,
     "summary": "test",
     "description": "(No description)",
@@ -179,12 +179,12 @@
     "new_start": "",
     "new_end": "",
     "id": "75d4fd32ceb75cdf7614512840d3a5c2410ce190a9a85aa8dcd2b26db2f7e355",
-    "version_id": "0a97aec4ecd1afb9ef2dc44ffcf324e947ea3b038298cec7280ece4feb5bef48"
+    "version_id": "4eea087b57ef221eea46f2983055c2617c1b91825a9881f1a9da4d34268cfc27"
   },
   {
-    "date": "2024-10-09T15:30:00+02:00",
-    "start": "2024-10-09T15:30:00+02:00",
-    "end": "2024-10-09T18:30:00+02:00",
+    "date": "2024-10-09T15:30:00+02:00Z",
+    "start": "2024-10-09T15:30:00+02:00Z",
+    "end": "2024-10-09T18:30:00+02:00Z",
     "value": 1,
     "summary": "Full stack app, finish",
     "description": "(No description)",
@@ -193,12 +193,12 @@
     "new_start": "",
     "new_end": "",
     "id": "61cd695d68954ea353c9b1f6a498fab875ab60ec1a11c593cc8e5ecc4e4e7810",
-    "version_id": "4eb65c890e288b5e33231129b21db3cefc5b527827176eb5e5421070a806510c"
+    "version_id": "25c582cd37e97bceb1ba7552529d94c85694846d409cbc4a303321f4e4ef7d57"
   },
   {
-    "date": "2024-10-09T18:00:00+02:00",
-    "start": "2024-10-09T18:00:00+02:00",
-    "end": "2024-10-09T19:00:00+02:00",
+    "date": "2024-10-09T18:00:00+02:00Z",
+    "start": "2024-10-09T18:00:00+02:00Z",
+    "end": "2024-10-09T19:00:00+02:00Z",
     "value": 1,
     "summary": "AI Engineering Bootcamp -  First Class Free",
     "description": "Ironhack Netherlands: Tech Careers and Learnings \ud83d\ude80\nWednesday, October 9 at 6:00 PM\n\n\ud83d\udea8(https://events.ironhack.com/r/ai-engineering-first-class-free) \ud83d\udea8 Join Isabella Bicalho, our Lead Instructor in AI Engineering, to learn more about o...\n\nhttps://www.meetup.com/ironhack-amsterdam/events/303723129/",
@@ -207,12 +207,12 @@
     "new_start": "",
     "new_end": "",
     "id": "247a378067f3cb8e16199f0efb7ab5e5b65e402c10eb46c2554e0cf1e71dbb8c",
-    "version_id": "bb35cf669f7d0d5543b6abb3b7deb41ccf2151ea8c49fa431474ca6b85af9915"
+    "version_id": "7158f0511a7593231bf8caabe6a4f1bac0e04295070d151ad79b1629fbe8e3ad"
   },
   {
-    "date": "2024-10-10T08:00:00+02:00",
-    "start": "2024-10-10T08:00:00+02:00",
-    "end": "2024-10-10T10:15:00+02:00",
+    "date": "2024-10-10T08:00:00+02:00Z",
+    "start": "2024-10-10T08:00:00+02:00Z",
+    "end": "2024-10-10T10:15:00+02:00Z",
     "value": 1,
     "summary": "New Event",
     "description": "(No description)",
@@ -221,12 +221,12 @@
     "new_start": "",
     "new_end": "",
     "id": "85bbd90443b1d81b26f27b2581a3b8475486feb355c805e24f5e95f3e912e83c",
-    "version_id": "aff8ca1c1ef6f09975f9f00255a5616d5e953cf5928ae625b39e4dd5d5d7d7df"
+    "version_id": "7a2dfa9c4dc707658f9f07ef92eb7f82e17b7c6490585ea227dd34c0cc49276f"
   },
   {
-    "date": "2024-10-10T16:00:00+02:00",
-    "start": "2024-10-10T16:00:00+02:00",
-    "end": "2024-10-10T18:30:00+02:00",
+    "date": "2024-10-10T16:00:00+02:00Z",
+    "start": "2024-10-10T16:00:00+02:00Z",
+    "end": "2024-10-10T18:30:00+02:00Z",
     "value": 1,
     "summary": "New Event",
     "description": "(No description)",
@@ -235,12 +235,12 @@
     "new_start": "",
     "new_end": "",
     "id": "85bbd90443b1d81b26f27b2581a3b8475486feb355c805e24f5e95f3e912e83c",
-    "version_id": "f2d0729215f99a0eefd2a8b325ce98be61ef1898bfcdeeb88ee0b93d10db81ea"
+    "version_id": "bc5b9f53600e1f9a9b4458013971b8eaeef8a00f91e6e6e724eb9c7103d1a2e1"
   },
   {
-    "date": "2024-10-11T14:15:00+02:00",
-    "start": "2024-10-11T14:15:00+02:00",
-    "end": "2024-10-11T18:00:00+02:00",
+    "date": "2024-10-11T14:15:00+02:00Z",
+    "start": "2024-10-11T14:15:00+02:00Z",
+    "end": "2024-10-11T18:00:00+02:00Z",
     "value": 1,
     "summary": "New Event",
     "description": "(No description)",
@@ -249,12 +249,12 @@
     "new_start": "",
     "new_end": "",
     "id": "4db680932ca23f9133b4c97b0f8f42f7ed5e54f0635e50ce4b0df757be883599",
-    "version_id": "f387dd285f4d0d24f752a618c0fbbc924f1ce84d5cdcb739c2c75de32db44444"
+    "version_id": "c67a2fdb9dff5bf0df7a395c78071d2d2550b79953bfdcce8e79dc138909b9c5"
   },
   {
-    "date": "2024-10-11T18:00:00+02:00",
-    "start": "2024-10-11T18:00:00+02:00",
-    "end": "2024-10-11T21:00:00+02:00",
+    "date": "2024-10-11T18:00:00+02:00Z",
+    "start": "2024-10-11T18:00:00+02:00Z",
+    "end": "2024-10-11T21:00:00+02:00Z",
     "value": 1,
     "summary": "YC Startup School (User Group) Meetup",
     "description": "YC Startup School (User Group) Amsterdam\nFriday, October 11 at 6:00 PM\n\nMonthly meetup for (aspiring) founders. It\u2019s an informal gathering over beers where you can find inspiration and encouragement to continue working on ...\n\nhttps://www.meetup.com/startup-school-amsterdam/events/296796621/",
@@ -263,12 +263,12 @@
     "new_start": "",
     "new_end": "",
     "id": "119bf49bfc84519bd1c761c0a151a998f0650b46a928a3945d760bd7d971346c",
-    "version_id": "9d0c3efe09f7bbbfd264e20d89b3e1ca94d57089701f8d4d63425f7a50874802"
+    "version_id": "b99e8298e469f68e4337bc3ce46af41633a0e2cb31176a24b1adfb1124c10237"
   },
   {
-    "date": "2024-10-13T07:15:00+02:00",
-    "start": "2024-10-13T07:15:00+02:00",
-    "end": "2024-10-13T10:00:00+02:00",
+    "date": "2024-10-13T07:15:00+02:00Z",
+    "start": "2024-10-13T07:15:00+02:00Z",
+    "end": "2024-10-13T10:00:00+02:00Z",
     "value": 1,
     "summary": "New Event",
     "description": "(No description)",
@@ -277,12 +277,12 @@
     "new_start": "",
     "new_end": "",
     "id": "146ce55e3c93ad65d70ddcb32a79dd381558959f0dafbf1476a4b665c33aa5ac",
-    "version_id": "797fd732be90d0c0e14a4645d119c4b2cfdc2d4a819c5b3848e4447f3910a60b"
+    "version_id": "c916752820c0b236fd547fdb1f6a593eeab13f26342baf59630f0ffd096500c2"
   },
   {
-    "date": "2024-10-14T06:30:00+02:00",
-    "start": "2024-10-14T06:30:00+02:00",
-    "end": "2024-10-14T09:00:00+02:00",
+    "date": "2024-10-14T06:30:00+02:00Z",
+    "start": "2024-10-14T06:30:00+02:00Z",
+    "end": "2024-10-14T09:00:00+02:00Z",
     "value": 1,
     "summary": "marketing",
     "description": "(No description)",
@@ -291,12 +291,12 @@
     "new_start": "",
     "new_end": "",
     "id": "d40d545968c74949db9aa039c0c26f4d86c97faea0712c5fff100941738455f5",
-    "version_id": "2fe86062ca6c1df97d6ff8224bd2d02c9d32a78a9b2413648c4ad4455121a5c4"
+    "version_id": "6e2a35aca3712889a8b700f8d5c9c0e939f97e305d83db2b9c47969e5a92f58e"
   },
   {
-    "date": "2024-10-14T14:00:00+02:00",
-    "start": "2024-10-14T14:00:00+02:00",
-    "end": "2024-10-14T19:00:00+02:00",
+    "date": "2024-10-14T14:00:00+02:00Z",
+    "start": "2024-10-14T14:00:00+02:00Z",
+    "end": "2024-10-14T19:00:00+02:00Z",
     "value": 1,
     "summary": "courses",
     "description": "(No description)",
@@ -305,12 +305,12 @@
     "new_start": "",
     "new_end": "",
     "id": "34b56c8a9c90deb731315905700bb51419f026a9ffcf3dba7e67f82a0ee64370",
-    "version_id": "eddfa0ac13d3cd0100d41f5f4fff2b6475a93636f881936a32fa5c2d44c8996b"
+    "version_id": "8f72bc630a38332cbabcb9561a3db940584fb7645c2a53e7f69b33e5e8954e83"
   },
   {
-    "date": "2024-10-16T17:00:00+02:00",
-    "start": "2024-10-16T17:00:00+02:00",
-    "end": "2024-10-16T19:00:00+02:00",
+    "date": "2024-10-16T17:00:00+02:00Z",
+    "start": "2024-10-16T17:00:00+02:00Z",
+    "end": "2024-10-16T19:00:00+02:00Z",
     "value": 1,
     "summary": "research",
     "description": "(No description)",
@@ -319,12 +319,12 @@
     "new_start": "",
     "new_end": "",
     "id": "6262285522b01b361810dbbb7efe26100a05847254eec008497606a9e648b406",
-    "version_id": "28ac35364911ab0138a4ce4e65bd18e4a2bd957a28e66e68073e3ed8ee946677"
+    "version_id": "33e42bd87634453aa14b78c5a13ffa73d854e058346c31f80bfa28274262147d"
   },
   {
-    "date": "2024-10-17T16:00:00+02:00",
-    "start": "2024-10-17T16:00:00+02:00",
-    "end": "2024-10-17T20:30:00+02:00",
+    "date": "2024-10-17T16:00:00+02:00Z",
+    "start": "2024-10-17T16:00:00+02:00Z",
+    "end": "2024-10-17T20:30:00+02:00Z",
     "value": 1,
     "summary": "New Event",
     "description": "(No description)",
@@ -333,12 +333,12 @@
     "new_start": "",
     "new_end": "",
     "id": "647aea5015ee550958de6534e2606e47d3b4014bc77e3afa22706b5ddc1feb73",
-    "version_id": "9baa1486c6b4f969b884a242321cdfb7c9eb3d33f2e0fb3b96650a621d1a61a2"
+    "version_id": "eb83ec1e933eb920bd96c7aa5f375659dfb1312a2dd22dd621ac26deca9191b2"
   },
   {
-    "date": "2024-10-19T12:00:00+02:00",
-    "start": "2024-10-19T12:00:00+02:00",
-    "end": "2024-10-19T15:45:00+02:00",
+    "date": "2024-10-19T12:00:00+02:00Z",
+    "start": "2024-10-19T12:00:00+02:00Z",
+    "end": "2024-10-19T15:45:00+02:00Z",
     "value": 1,
     "summary": "find services to offer",
     "description": "(No description)",
@@ -347,12 +347,12 @@
     "new_start": "",
     "new_end": "",
     "id": "15601c4fb4f1f153c4264f842a3d35df330d1a5665a51ef2c2b67f206f5bf3b2",
-    "version_id": "8870d53cc2f9c5f19fd6a20b6456183a8a289b3c5c0e20418dcf04a25d108c66"
+    "version_id": "b7584906385dd258de94ef0146984d174014fbbbcbebda0be6455188cf4df597"
   },
   {
-    "date": "2024-10-21T17:15:00+02:00",
-    "start": "2024-10-21T17:15:00+02:00",
-    "end": "2024-10-21T19:00:00+02:00",
+    "date": "2024-10-21T17:15:00+02:00Z",
+    "start": "2024-10-21T17:15:00+02:00Z",
+    "end": "2024-10-21T19:00:00+02:00Z",
     "value": 1,
     "summary": "Planning",
     "description": "1. create a detailed plan how you think it should go in steps\n2. write out what you are going to do that day, create smaller tasks and \nstart doing them\n\nDONT GET LOST",
@@ -361,12 +361,12 @@
     "new_start": "",
     "new_end": "",
     "id": "931a4ab68b7e6ce529c55eb37b5dd228b58e50a4cf7a5850d5582506d0193960",
-    "version_id": "9fbccc9a67243dc6910e1cbdfd774645893602d9c615af9508a851be18cf4b3a"
+    "version_id": "6ff90e2448cf4da7efd7fab06bbfed17f6927c37103b58a3726275d67fdad103"
   },
   {
-    "date": "2024-10-22T16:15:00+02:00",
-    "start": "2024-10-22T16:15:00+02:00",
-    "end": "2024-10-22T18:00:00+02:00",
+    "date": "2024-10-22T16:15:00+02:00Z",
+    "start": "2024-10-22T16:15:00+02:00Z",
+    "end": "2024-10-22T18:00:00+02:00Z",
     "value": 1,
     "summary": "Business",
     "description": "(No description)",
@@ -375,12 +375,12 @@
     "new_start": "",
     "new_end": "",
     "id": "793aa9844620b6566e44976a4cbff0defe9904621c107b3cd23304a55ae7061f",
-    "version_id": "d4c1693e36043506d9d723fef1d2067929030b0ca268dba6f1fb9aba2f37336f"
+    "version_id": "f7315a96db3470427a9a3607d0476956a163a6f91a71849557caac9adbe01c5c"
   },
   {
-    "date": "2024-10-22T18:00:00+02:00",
-    "start": "2024-10-22T18:00:00+02:00",
-    "end": "2024-10-22T19:00:00+02:00",
+    "date": "2024-10-22T18:00:00+02:00Z",
+    "start": "2024-10-22T18:00:00+02:00Z",
+    "end": "2024-10-22T19:00:00+02:00Z",
     "value": 1,
     "summary": "Educational video + notes",
     "description": "(No description)",
@@ -389,12 +389,12 @@
     "new_start": "",
     "new_end": "",
     "id": "d4ff85bd094d6e935eb762eca25b4d33020a5060c4e8f628527c335fbd655646",
-    "version_id": "4fedeb94122a46aa388ba19e115957c0c0da4b2db5dcff653f9b812609446490"
+    "version_id": "d5bd25ac75e10dc529d07f87864ea6ef0e3ed90c749cb7bc936fbd17dc967d4d"
   },
   {
-    "date": "2024-10-23T16:15:00+02:00",
-    "start": "2024-10-23T16:15:00+02:00",
-    "end": "2024-10-23T18:00:00+02:00",
+    "date": "2024-10-23T16:15:00+02:00Z",
+    "start": "2024-10-23T16:15:00+02:00Z",
+    "end": "2024-10-23T18:00:00+02:00Z",
     "value": 1,
     "summary": "Business",
     "description": "planning will be done on monday",
@@ -403,12 +403,12 @@
     "new_start": "",
     "new_end": "",
     "id": "985dc944699ca066366d972678be97d3499b82bd20bf4d7402e6be10838863c8",
-    "version_id": "6ec95e508bd91cda0ed9731cf4e578c7d2c28f70779d881bbd50be8dfdd944df"
+    "version_id": "f2c17c96e2cb631a3f7e68b8653282a8aad2a5020dc29ae9878dc2052a94a672"
   },
   {
-    "date": "2024-10-25T17:00:00+02:00",
-    "start": "2024-10-25T17:00:00+02:00",
-    "end": "2024-10-25T19:00:00+02:00",
+    "date": "2024-10-25T17:00:00+02:00Z",
+    "start": "2024-10-25T17:00:00+02:00Z",
+    "end": "2024-10-25T19:00:00+02:00Z",
     "value": 1,
     "summary": "educational videos",
     "description": "(No description)",
@@ -417,12 +417,12 @@
     "new_start": "",
     "new_end": "",
     "id": "432877e5b0f9b1a6160fc59a83c3f2078263a8e43ec0d31a15fc06a3ca465105",
-    "version_id": "d6738c625370e6225b9e85cb8efe8bce1b8b30af8a4a1cb22fd9dc2b5354ecb0"
+    "version_id": "38f41b14cc1603e1ad2d413b568f181364e4240fb80850df4cf25c7dee6917ee"
   },
   {
-    "date": "2024-10-26T06:30:00+02:00",
-    "start": "2024-10-26T06:30:00+02:00",
-    "end": "2024-10-26T10:30:00+02:00",
+    "date": "2024-10-26T06:30:00+02:00Z",
+    "start": "2024-10-26T06:30:00+02:00Z",
+    "end": "2024-10-26T10:30:00+02:00Z",
     "value": 1,
     "summary": "New Event",
     "description": "(No description)",
@@ -431,12 +431,12 @@
     "new_start": "",
     "new_end": "",
     "id": "971eb227234af2f9b9b7b070f0e47acfcdb9d4de41788b5fac7fc25d20133952",
-    "version_id": "a7cdafabe0508641a417a406fa5deda86f4368c13428e588af85c5f277a7e396"
+    "version_id": "c9cfc8c3be1941991643288df6e0db1f0775227d54e330d9f06626f5c10d5bfa"
   },
   {
-    "date": "2024-10-26T13:00:00+02:00",
-    "start": "2024-10-26T13:00:00+02:00",
-    "end": "2024-10-26T16:00:00+02:00",
+    "date": "2024-10-26T13:00:00+02:00Z",
+    "start": "2024-10-26T13:00:00+02:00Z",
+    "end": "2024-10-26T16:00:00+02:00Z",
     "value": 1,
     "summary": "New Event",
     "description": "(No description)",
@@ -445,12 +445,12 @@
     "new_start": "",
     "new_end": "",
     "id": "971eb227234af2f9b9b7b070f0e47acfcdb9d4de41788b5fac7fc25d20133952",
-    "version_id": "30c621dc2fa23dc2842e3aab9361aede239a494e97189aef8f668846ea561cf8"
+    "version_id": "a80f2b2af9445eaa3e3ee6d9d5b54fd2830f5fd3953e78057379a4b59a594cb4"
   },
   {
-    "date": "2024-10-26T16:00:00+02:00",
-    "start": "2024-10-26T16:00:00+02:00",
-    "end": "2024-10-26T18:00:00+02:00",
+    "date": "2024-10-26T16:00:00+02:00Z",
+    "start": "2024-10-26T16:00:00+02:00Z",
+    "end": "2024-10-26T18:00:00+02:00Z",
     "value": 1,
     "summary": "New Event",
     "description": "(No description)",
@@ -459,6 +459,6 @@
     "new_start": "",
     "new_end": "",
     "id": "971eb227234af2f9b9b7b070f0e47acfcdb9d4de41788b5fac7fc25d20133952",
-    "version_id": "4eedea66320f44e1d91c8a146e2555282003574af5975d74481824680e7cdb87"
+    "version_id": "23389a6121167af1839f8a8878318ea7ea5c3ee13f3e6f8476d94ed58c952ce9"
   }
 ]

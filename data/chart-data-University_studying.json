@@ -1,8 +1,8 @@
 [
   {
-    "date": "2024-09-11T09:00:00+02:00",
-    "start": "2024-09-11T09:00:00+02:00",
-    "end": "2024-09-11T10:00:00+02:00",
+    "date": "2024-09-11T09:00:00+02:00Z",
+    "start": "2024-09-11T09:00:00+02:00Z",
+    "end": "2024-09-11T10:00:00+02:00Z",
     "value": 1,
     "summary": "uni papers read",
     "description": "(No description)",
@@ -11,12 +11,12 @@
     "new_start": "",
     "new_end": "",
     "id": "0722fb92cfdbd6a6bf553589929bd798c69c560fef5fc1a34b685109b01c068b",
-    "version_id": "5eb961d0d322fd7e779aa6f65df6f9730f9199a81a82b8f1c61d557ed0c0e083"
+    "version_id": "506e52b188ad4285747fb2ac81ff108b8583c132339120cd0121878050caca08"
   },
   {
-    "date": "2024-09-12T09:00:00+02:00",
-    "start": "2024-09-12T09:00:00+02:00",
-    "end": "2024-09-12T10:00:00+02:00",
+    "date": "2024-09-12T09:00:00+02:00Z",
+    "start": "2024-09-12T09:00:00+02:00Z",
+    "end": "2024-09-12T10:00:00+02:00Z",
     "value": 1,
     "summary": "uni papers read",
     "description": "(No description)",
@@ -25,12 +25,12 @@
     "new_start": "",
     "new_end": "",
     "id": "78ad9e09aaed2796feb3dc491a84c07eda2d594a472c1f4440994d7f11aa6212",
-    "version_id": "612519f00be351d598eeab8bba8cb5aac3483fc71fe0d6ebed1bdf1665c00670"
+    "version_id": "512a368bc8600cc61ee911861ec19d880a34e368ccacee77f4770258e1ae7936"
   },
   {
-    "date": "2024-09-12T13:00:00+02:00",
-    "start": "2024-09-12T13:00:00+02:00",
-    "end": "2024-09-12T13:30:00+02:00",
+    "date": "2024-09-12T13:00:00+02:00Z",
+    "start": "2024-09-12T13:00:00+02:00Z",
+    "end": "2024-09-12T13:30:00+02:00Z",
     "value": 1,
     "summary": "individual reflection assi",
     "description": "(No description)",
@@ -39,12 +39,12 @@
     "new_start": "",
     "new_end": "",
     "id": "7bc6102adc2ea240647fba1cb05022e2f3c5ac63eb2de774a0ce1c7d8cffb7e3",
-    "version_id": "ccc5eabefe728619de35ee70ab55915995d36b889d5dc96212acd9526896a6d7"
+    "version_id": "cba47703579e8256d6cda360da310e1662af3b4d80c0de173e80da62e14fa523"
   },
   {
-    "date": "2024-09-12T13:30:00+02:00",
-    "start": "2024-09-12T13:30:00+02:00",
-    "end": "2024-09-12T15:30:00+02:00",
+    "date": "2024-09-12T13:30:00+02:00Z",
+    "start": "2024-09-12T13:30:00+02:00Z",
+    "end": "2024-09-12T15:30:00+02:00Z",
     "value": 1,
     "summary": "uni papers next week + quac",
     "description": "(No description)",
@@ -53,12 +53,12 @@
     "new_start": "",
     "new_end": "",
     "id": "e6dce2dce02f554e95b5f65e7642e3e809abbf33ab3962e7b174c51e377d13cb",
-    "version_id": "3f3103f4034807cbd0f5d9ba9372e981eecc162d8f96c3405408bf4016162829"
+    "version_id": "de0f8e08171c5b6c6e55a5572a55730ac094c334afb7e80f313290929c40daa7"
   },
   {
-    "date": "2024-09-13T10:00:00+02:00",
-    "start": "2024-09-13T10:00:00+02:00",
-    "end": "2024-09-13T12:00:00+02:00",
+    "date": "2024-09-13T10:00:00+02:00Z",
+    "start": "2024-09-13T10:00:00+02:00Z",
+    "end": "2024-09-13T12:00:00+02:00Z",
     "value": 1,
     "summary": "assignemnt",
     "description": "(No description)",
@@ -67,12 +67,12 @@
     "new_start": "",
     "new_end": "",
     "id": "9647b6c627aaa0b873221a1cfc8f85426acb038567d349cce72a7c3ab386c35b",
-    "version_id": "68b91011cc8b61083636f91338025ce0a2c668974f4ef1298d702e8cf4c66aa8"
+    "version_id": "03305955a693fdb98132350884baf9e46b38f2eb0d9f1c7e1c22fe84c52b86cb"
   },
   {
-    "date": "2024-09-16T13:30:00+02:00",
-    "start": "2024-09-16T13:30:00+02:00",
-    "end": "2024-09-16T14:30:00+02:00",
+    "date": "2024-09-16T13:30:00+02:00Z",
+    "start": "2024-09-16T13:30:00+02:00Z",
+    "end": "2024-09-16T14:30:00+02:00Z",
     "value": 1,
     "summary": "Assignemnt",
     "description": "(No description)",
@@ -81,12 +81,12 @@
     "new_start": "",
     "new_end": "",
     "id": "ebbb4dff858a7490f9d3f14ecb73c9b31b99243eddbe0d4e88e7ea67bfa01406",
-    "version_id": "de32f2a2a1dec0e9bde1aa7b8a2115b426f130d68156cc17b01da7071b055cee"
+    "version_id": "5af82d16cc964dff66dc3106690714ecabf989d46102f989c651b878644ddd6c"
   },
   {
-    "date": "2024-09-21T06:30:00+02:00",
-    "start": "2024-09-21T06:30:00+02:00",
-    "end": "2024-09-21T06:45:00+02:00",
+    "date": "2024-09-21T06:30:00+02:00Z",
+    "start": "2024-09-21T06:30:00+02:00Z",
+    "end": "2024-09-21T06:45:00+02:00Z",
     "value": 1,
     "summary": "wake up + strech",
     "description": "(No description)",
@@ -95,12 +95,12 @@
     "new_start": "",
     "new_end": "",
     "id": "4b79ddfd56fb9da4145eed21621427a441f04cc9bcc2e265bc97eeb898cf0525",
-    "version_id": "7b0044e1a75bfde0094deaabf1d431809f1c9fa8dd26a1e19cf909389225dac7"
+    "version_id": "d2b1256bdf87c6ed97fd8dbcfd9fb2369fc5ac6a7ff397bb393b510b0d4320f9"
   },
   {
-    "date": "2024-09-22T06:30:00+02:00",
-    "start": "2024-09-22T06:30:00+02:00",
-    "end": "2024-09-22T06:45:00+02:00",
+    "date": "2024-09-22T06:30:00+02:00Z",
+    "start": "2024-09-22T06:30:00+02:00Z",
+    "end": "2024-09-22T06:45:00+02:00Z",
     "value": 1,
     "summary": "wake up + strech",
     "description": "(No description)",
@@ -109,12 +109,12 @@
     "new_start": "",
     "new_end": "",
     "id": "4b16b9521c71e90255173f7d4382f5f926e15fa96d702df127a5b0c9ff7ef38d",
-    "version_id": "9d2694751f803c2086efa7a7aa2d3e58a33491f4134590d606837a3460f96c59"
+    "version_id": "0418076836d52c4024c4b5ac88b0242bd2405eb880c3d30dc15faa87dc948089"
   },
   {
-    "date": "2024-09-22T08:30:00+02:00",
-    "start": "2024-09-22T08:30:00+02:00",
-    "end": "2024-09-22T11:30:00+02:00",
+    "date": "2024-09-22T08:30:00+02:00Z",
+    "start": "2024-09-22T08:30:00+02:00Z",
+    "end": "2024-09-22T11:30:00+02:00Z",
     "value": 1,
     "summary": "faks ",
     "description": "(No description)",
@@ -123,12 +123,12 @@
     "new_start": "",
     "new_end": "",
     "id": "22349f327a2968ca61a9f8cf2ca35cadd35f95a2f7dc937fc7ce1e05d10788c7",
-    "version_id": "d9adbf3b228a88c4c9eb7fdda7c87c49737ba391a5be611be1f865c323fd4ebb"
+    "version_id": "434b8b1a6456d4a8150cd6841943d04cb3bbc0b649f8d9d31c86abd8c460294a"
   },
   {
-    "date": "2024-09-23T06:30:00+02:00",
-    "start": "2024-09-23T06:30:00+02:00",
-    "end": "2024-09-23T06:45:00+02:00",
+    "date": "2024-09-23T06:30:00+02:00Z",
+    "start": "2024-09-23T06:30:00+02:00Z",
+    "end": "2024-09-23T06:45:00+02:00Z",
     "value": 1,
     "summary": "wake up + strech",
     "description": "(No description)",
@@ -137,12 +137,12 @@
     "new_start": "",
     "new_end": "",
     "id": "f48e9b6e860700d3db39a6adeb683f44a4be64f392caf444cf470629e9dcc56d",
-    "version_id": "9078c9df78b31ed5e1aef29ca1b95e556ad830aea0a36e256eb21aa50b924569"
+    "version_id": "e5e875ea7d7c5f7e228b62fcb8627a1af9132a3c6eef3d6ef7286b2a3d2a7dff"
   },
   {
-    "date": "2024-09-24T06:30:00+02:00",
-    "start": "2024-09-24T06:30:00+02:00",
-    "end": "2024-09-24T06:45:00+02:00",
+    "date": "2024-09-24T06:30:00+02:00Z",
+    "start": "2024-09-24T06:30:00+02:00Z",
+    "end": "2024-09-24T06:45:00+02:00Z",
     "value": 1,
     "summary": "wake up + strech",
     "description": "(No description)",
@@ -151,12 +151,12 @@
     "new_start": "",
     "new_end": "",
     "id": "502d48edffc44ef7c7c307baedfd3478976a4dbdfbf0c30282a4dc81922e4bf2",
-    "version_id": "b7b95152c9a106d7fee9eee48a6eaa16f6b49efbc466f3298a61eef30fd3fb9b"
+    "version_id": "dbf1d8203ecc5c9416afe71a42ebca7bcaae85b1feb2ad4582805e62bccc666f"
   },
   {
-    "date": "2024-09-25T06:30:00+02:00",
-    "start": "2024-09-25T06:30:00+02:00",
-    "end": "2024-09-25T06:45:00+02:00",
+    "date": "2024-09-25T06:30:00+02:00Z",
+    "start": "2024-09-25T06:30:00+02:00Z",
+    "end": "2024-09-25T06:45:00+02:00Z",
     "value": 1,
     "summary": "wake up + strech",
     "description": "(No description)",
@@ -165,12 +165,12 @@
     "new_start": "",
     "new_end": "",
     "id": "c664a31f9bef3e2413a3532963ac5ac16fa2646b203d91a2dcafa78bd4093d4a",
-    "version_id": "f214f2a3caf4c5c0d09959e6956fdcc94bbcb71ce604540bf70d03a869f6cf56"
+    "version_id": "f6ce08793bf23217bc90902a5ccc3bb42fa36df0e1c43186535eb8f2b1047aa6"
   },
   {
-    "date": "2024-09-26T06:30:00+02:00",
-    "start": "2024-09-26T06:30:00+02:00",
-    "end": "2024-09-26T06:45:00+02:00",
+    "date": "2024-09-26T06:30:00+02:00Z",
+    "start": "2024-09-26T06:30:00+02:00Z",
+    "end": "2024-09-26T06:45:00+02:00Z",
     "value": 1,
     "summary": "wake up + strech",
     "description": "(No description)",
@@ -179,12 +179,12 @@
     "new_start": "",
     "new_end": "",
     "id": "af1a565a4a7c9ef47b6075d7c3f85712b67c1a351ddaa3d4b3aab6af003b8cf4",
-    "version_id": "62df029da2ee1ed61f711ebced9c0da146076f748e6692ef0811dc0d137ad629"
+    "version_id": "37a28b0faca36598e4f9e1618aca88792d58573a5de7e8147c821fff242fc94c"
   },
   {
-    "date": "2024-09-27T06:30:00+02:00",
-    "start": "2024-09-27T06:30:00+02:00",
-    "end": "2024-09-27T06:45:00+02:00",
+    "date": "2024-09-27T06:30:00+02:00Z",
+    "start": "2024-09-27T06:30:00+02:00Z",
+    "end": "2024-09-27T06:45:00+02:00Z",
     "value": 1,
     "summary": "wake up + strech",
     "description": "(No description)",
@@ -193,12 +193,12 @@
     "new_start": "",
     "new_end": "",
     "id": "f88aaa2f3a579da1894e577e911f448e570f09561b19edc178292590dd4c2945",
-    "version_id": "955a9a96bdfd2ae76741e31939bcf01ed4ff30d27bfa17465bde736efd3b4cdc"
+    "version_id": "de08e48c931f6faf6376fa560f09133f3ed0ae20e69365072791439e23c95b77"
   },
   {
-    "date": "2024-09-28T06:30:00+02:00",
-    "start": "2024-09-28T06:30:00+02:00",
-    "end": "2024-09-28T06:45:00+02:00",
+    "date": "2024-09-28T06:30:00+02:00Z",
+    "start": "2024-09-28T06:30:00+02:00Z",
+    "end": "2024-09-28T06:45:00+02:00Z",
     "value": 1,
     "summary": "wake up + strech",
     "description": "(No description)",
@@ -207,12 +207,12 @@
     "new_start": "",
     "new_end": "",
     "id": "5f830e0199251ac7e0d7f0f3910fec1890f13ad681f502b2b341b5896998cb7b",
-    "version_id": "9182f81905397cdf126e3a02941ec5e6dfdc7615ad079de44512cc1103db0c7a"
+    "version_id": "8b30fb90e10e77ae34dd5383c0d085234a1a2998b914475846dac72125b2826c"
   },
   {
-    "date": "2024-09-29T06:30:00+02:00",
-    "start": "2024-09-29T06:30:00+02:00",
-    "end": "2024-09-29T06:45:00+02:00",
+    "date": "2024-09-29T06:30:00+02:00Z",
+    "start": "2024-09-29T06:30:00+02:00Z",
+    "end": "2024-09-29T06:45:00+02:00Z",
     "value": 1,
     "summary": "wake up + strech",
     "description": "(No description)",
@@ -221,12 +221,12 @@
     "new_start": "",
     "new_end": "",
     "id": "2f10f4e8eb50d9f3ff14bfa5c836ea5323528ad94833e70504f9273cae920a2d",
-    "version_id": "fae91ffef2552c54d509e37190d220d3dd73fa960ef1814e27d03f7820e91fd3"
+    "version_id": "ad6b0a1a40f762ba750e2e09738780efb31954a1a3dcece852980153cf347755"
   },
   {
-    "date": "2024-09-30T06:30:00+02:00",
-    "start": "2024-09-30T06:30:00+02:00",
-    "end": "2024-09-30T06:45:00+02:00",
+    "date": "2024-09-30T06:30:00+02:00Z",
+    "start": "2024-09-30T06:30:00+02:00Z",
+    "end": "2024-09-30T06:45:00+02:00Z",
     "value": 1,
     "summary": "wake up + strech",
     "description": "(No description)",
@@ -235,12 +235,12 @@
     "new_start": "",
     "new_end": "",
     "id": "a45f6fc01f3d79e85afce55a6fe96aecacd2245069c6916bcb4849ffe2a656f8",
-    "version_id": "0759a923fe51781b4ab8f94e85a2d1e29c4ef98f8e36b231465b0c8a1464b8dc"
+    "version_id": "0b241a47640ac10959e2bd3fea326af70f7812a924a04aedbac687e510d2114d"
   },
   {
-    "date": "2024-10-01T06:30:00+02:00",
-    "start": "2024-10-01T06:30:00+02:00",
-    "end": "2024-10-01T06:45:00+02:00",
+    "date": "2024-10-01T06:30:00+02:00Z",
+    "start": "2024-10-01T06:30:00+02:00Z",
+    "end": "2024-10-01T06:45:00+02:00Z",
     "value": 1,
     "summary": "wake up + strech",
     "description": "(No description)",
@@ -249,12 +249,12 @@
     "new_start": "",
     "new_end": "",
     "id": "9502887fe7ee5307ea5c72042874859df3324b0640f0bfc1c4d2626af64d5d0c",
-    "version_id": "afbb64c3781a45fcf6440ba8a86d2ec26d8a62f4403318d194cae484f04f5c14"
+    "version_id": "8db6004e5f4e96486f2bdb8f1d7bf616c2a7a985bd9db1495dbffffec564ceb2"
   },
   {
-    "date": "2024-10-02T06:30:00+02:00",
-    "start": "2024-10-02T06:30:00+02:00",
-    "end": "2024-10-02T06:45:00+02:00",
+    "date": "2024-10-02T06:30:00+02:00Z",
+    "start": "2024-10-02T06:30:00+02:00Z",
+    "end": "2024-10-02T06:45:00+02:00Z",
     "value": 1,
     "summary": "wake up + strech",
     "description": "(No description)",
@@ -263,12 +263,12 @@
     "new_start": "",
     "new_end": "",
     "id": "9837a47d8395078d58af393003f50cfff969f7a3fb2c3c6d9b59562c96eaeeff",
-    "version_id": "b73a572b9b5d31073cc3b1543fa2ccbac822a76838dd00d23f7fe6cbac7519a4"
+    "version_id": "37aab615915ed1cab18dd22f30ef7cefb2c79cf0a41f639415c0fee28de80024"
   },
   {
-    "date": "2024-10-03T06:30:00+02:00",
-    "start": "2024-10-03T06:30:00+02:00",
-    "end": "2024-10-03T06:45:00+02:00",
+    "date": "2024-10-03T06:30:00+02:00Z",
+    "start": "2024-10-03T06:30:00+02:00Z",
+    "end": "2024-10-03T06:45:00+02:00Z",
     "value": 1,
     "summary": "wake up + strech",
     "description": "(No description)",
@@ -277,12 +277,12 @@
     "new_start": "",
     "new_end": "",
     "id": "84fe88acb067dd15297664824923b74f75fa5f2bdf80ea1d483dfbdfd44cc1ba",
-    "version_id": "ca1c0f877e7ba4e03820718560727796367c4498fdc39c20b52a49bcb8e6e696"
+    "version_id": "e494a2b73a367e72528a105d0233a5285293d55e686837bfa0c4ebdc10668be6"
   },
   {
-    "date": "2024-10-04T17:30:00+02:00",
-    "start": "2024-10-04T17:30:00+02:00",
-    "end": "2024-10-04T17:45:00+02:00",
+    "date": "2024-10-04T17:30:00+02:00Z",
+    "start": "2024-10-04T17:30:00+02:00Z",
+    "end": "2024-10-04T17:45:00+02:00Z",
     "value": 1,
     "summary": "wake up + strech",
     "description": "(No description)",
@@ -291,12 +291,12 @@
     "new_start": "",
     "new_end": "",
     "id": "9df7f78ad0b4c850ccd87b53b78ec0f80f72f6920cb3796c8f3b9d8d9a1402f7",
-    "version_id": "860617f6424815ebc46319d4cc787abb4c42f4857324985a1ae6a3fd976067fb"
+    "version_id": "043ba579e8549c30895e949c74dcb47fbc1720ec1a8129f91e347a60a52304e3"
   },
   {
-    "date": "2024-10-05T06:30:00+02:00",
-    "start": "2024-10-05T06:30:00+02:00",
-    "end": "2024-10-05T06:45:00+02:00",
+    "date": "2024-10-05T06:30:00+02:00Z",
+    "start": "2024-10-05T06:30:00+02:00Z",
+    "end": "2024-10-05T06:45:00+02:00Z",
     "value": 1,
     "summary": "wake up + strech",
     "description": "(No description)",
@@ -305,12 +305,12 @@
     "new_start": "",
     "new_end": "",
     "id": "d0a5f022b4051666bb1372d496e52aa379831b1cc32dcab43b8aaae33f2e1b4b",
-    "version_id": "a23b9a271fdac60f6897c6bbeb05938b9f7887aad016958d3f790cb456076522"
+    "version_id": "e77648866898f1e1e509e05724ecc49554994ab75a520a9ecb98e8ac94bea080"
   },
   {
-    "date": "2024-10-06T06:30:00+02:00",
-    "start": "2024-10-06T06:30:00+02:00",
-    "end": "2024-10-06T06:45:00+02:00",
+    "date": "2024-10-06T06:30:00+02:00Z",
+    "start": "2024-10-06T06:30:00+02:00Z",
+    "end": "2024-10-06T06:45:00+02:00Z",
     "value": 1,
     "summary": "wake up + strech",
     "description": "(No description)",
@@ -319,12 +319,12 @@
     "new_start": "",
     "new_end": "",
     "id": "f6295415bf1503f097f5fcb145387db3c9c616b0c05f77fe5bc83e797790ff5b",
-    "version_id": "6c70d6dbddd3ad6aba3535b5b65a06b7ab90af80513920911894583f3b3498fd"
+    "version_id": "9728dd79fdf8d2fb1c311bab75f359ed454151a874d9a6cb5abd8e73a58920d5"
   },
   {
-    "date": "2024-10-07T08:00:00+02:00",
-    "start": "2024-10-07T08:00:00+02:00",
-    "end": "2024-10-07T10:00:00+02:00",
+    "date": "2024-10-07T08:00:00+02:00Z",
+    "start": "2024-10-07T08:00:00+02:00Z",
+    "end": "2024-10-07T10:00:00+02:00Z",
     "value": 1,
     "summary": "Mojo mate, research for marketing",
     "description": "(No description)",
@@ -333,12 +333,12 @@
     "new_start": "",
     "new_end": "",
     "id": "9c3f1a9012f41a089c5f9fb5ff5891e07cf7faa83a221b0fdbd3d6810a1d6ce5",
-    "version_id": "028937250370d92fad4d482b1e92f3e5e3f2b08cad89f15425e24fb6a3c2cd9b"
+    "version_id": "d8c0c8de5a943f3a5c5ad36a6222386fbe8d4d72936d5c7eba0792a06ad36f79"
   },
   {
-    "date": "2024-10-07T13:00:00+02:00",
-    "start": "2024-10-07T13:00:00+02:00",
-    "end": "2024-10-07T14:00:00+02:00",
+    "date": "2024-10-07T13:00:00+02:00Z",
+    "start": "2024-10-07T13:00:00+02:00Z",
+    "end": "2024-10-07T14:00:00+02:00Z",
     "value": 1,
     "summary": "mojo mate meeting",
     "description": "(No description)",
@@ -347,12 +347,12 @@
     "new_start": "",
     "new_end": "",
     "id": "25312615e6c5eac856f5864ba29b5416982b70c387704f354c2ae951a0061145",
-    "version_id": "bd77114f1c463e52686e45d0f9c52dddddbc6cdaadec997413b57d1713934995"
+    "version_id": "a987df76d2b55e8957b552ab622a131cb29e0e34c2a78308e6332825da79b5b6"
   },
   {
-    "date": "2024-10-07T21:00:00+02:00",
-    "start": "2024-10-07T21:00:00+02:00",
-    "end": "2024-10-07T21:45:00+02:00",
+    "date": "2024-10-07T21:00:00+02:00Z",
+    "start": "2024-10-07T21:00:00+02:00Z",
+    "end": "2024-10-07T21:45:00+02:00Z",
     "value": 1,
     "summary": "meeting Starup",
     "description": "(No description)",
@@ -361,12 +361,12 @@
     "new_start": "",
     "new_end": "",
     "id": "1b5680746adc29558fb48a192d29111b69124264e38904a8bef4038cc952cc34",
-    "version_id": "66129a99818090c5cd9bbc864716040522a524697ab4d76ec47d187ded8e7eb1"
+    "version_id": "d13c356da8a277cc4335c29aded89ad754e2da5e6b862975d29a90de755964b0"
   },
   {
-    "date": "2024-10-08T08:45:00+02:00",
-    "start": "2024-10-08T08:45:00+02:00",
-    "end": "2024-10-08T11:30:00+02:00",
+    "date": "2024-10-08T08:45:00+02:00Z",
+    "start": "2024-10-08T08:45:00+02:00Z",
+    "end": "2024-10-08T11:30:00+02:00Z",
     "value": 1,
     "summary": "assignment cas",
     "description": "(No description)",
@@ -375,12 +375,12 @@
     "new_start": "",
     "new_end": "",
     "id": "dfa5b7b6f9075e5021e7ce48d768cabfa3a7a4821e30958dc977165445e9a55f",
-    "version_id": "b5801090d5d894c35cc677fecc1de4c4d31a8903c42b51e68a2d1b46d286b185"
+    "version_id": "5bface43ca13988cd71c5d7c630127e8849e9de30f56de6b1cd6f452f6675eda"
   },
   {
-    "date": "2024-10-10T13:00:00+02:00",
-    "start": "2024-10-10T13:00:00+02:00",
-    "end": "2024-10-10T15:00:00+02:00",
+    "date": "2024-10-10T13:00:00+02:00Z",
+    "start": "2024-10-10T13:00:00+02:00Z",
+    "end": "2024-10-10T15:00:00+02:00Z",
     "value": 1,
     "summary": "assignment Cas",
     "description": "(No description)",
@@ -389,12 +389,12 @@
     "new_start": "",
     "new_end": "",
     "id": "3ac28987d8e68410c977dacc5fed0735c58775f1a4db9ab1afcd23433dfa9e37",
-    "version_id": "cfe77d2d9b0fd88e6d720b5ae6afe386904e762489bd13cdc723c9500e81ae8c"
+    "version_id": "b5ee9af7c9f979a811d84b498ba86283d48e4528a86081ce38a3e3f245f17dc9"
   },
   {
-    "date": "2024-10-10T15:00:00+02:00",
-    "start": "2024-10-10T15:00:00+02:00",
-    "end": "2024-10-10T15:30:00+02:00",
+    "date": "2024-10-10T15:00:00+02:00Z",
+    "start": "2024-10-10T15:00:00+02:00Z",
+    "end": "2024-10-10T15:30:00+02:00Z",
     "value": 1,
     "summary": "coaching VU",
     "description": "(No description)",
@@ -403,12 +403,12 @@
     "new_start": "",
     "new_end": "",
     "id": "4ba1a6d36e7b7280b8f2fcedbfcaa622d66fba3116f030266a5891c98513bd0f",
-    "version_id": "c73cfa6d0d239d7ca13ee7a0a24693f2c427802182707ede0d149eec2f765b75"
+    "version_id": "03f072d32f0901560175b069002b49c6f1b1bcf869f111b803a801607ced500b"
   },
   {
-    "date": "2024-10-11T09:00:00+02:00",
-    "start": "2024-10-11T09:00:00+02:00",
-    "end": "2024-10-11T10:15:00+02:00",
+    "date": "2024-10-11T09:00:00+02:00Z",
+    "start": "2024-10-11T09:00:00+02:00Z",
+    "end": "2024-10-11T10:15:00+02:00Z",
     "value": 1,
     "summary": "mojo mate",
     "description": "(No description)",
@@ -417,12 +417,12 @@
     "new_start": "",
     "new_end": "",
     "id": "de8ecfbf0b6a38d2605b46af020090c1b6aeb78f7295e6fed927eba34ae73672",
-    "version_id": "561ff56c5e113b5ee943cdfb5f7a05dd354b63e27a212f74bebc9dbea0b590fd"
+    "version_id": "924ea59560a9c990976d8447532dbb5837cbbec6a037e822bb32a1d2a6ab48ce"
   },
   {
-    "date": "2024-10-14T11:00:00+02:00",
-    "start": "2024-10-14T11:00:00+02:00",
-    "end": "2024-10-14T13:00:00+02:00",
+    "date": "2024-10-14T11:00:00+02:00Z",
+    "start": "2024-10-14T11:00:00+02:00Z",
+    "end": "2024-10-14T13:00:00+02:00Z",
     "value": 1,
     "summary": "Lecture exam",
     "description": "(No description)",
@@ -431,12 +431,12 @@
     "new_start": "",
     "new_end": "",
     "id": "b2bd878cfa2d21863b8fc4b901db28e3cb8b7ea05e74f77116a28395dac0e0b8",
-    "version_id": "412348840e71d9fa06e96ec746a84cdb25f281cb1b6c1b29e94b9cd908b3ad41"
+    "version_id": "14fedd51ef64d79c65691d92ce4212e8827cdf3da10f6e921713c22ee0796292"
   },
   {
-    "date": "2024-10-17T06:30:00+02:00",
-    "start": "2024-10-17T06:30:00+02:00",
-    "end": "2024-10-17T09:00:00+02:00",
+    "date": "2024-10-17T06:30:00+02:00Z",
+    "start": "2024-10-17T06:30:00+02:00Z",
+    "end": "2024-10-17T09:00:00+02:00Z",
     "value": 1,
     "summary": "Uni study",
     "description": "(No description)",
@@ -445,12 +445,12 @@
     "new_start": "",
     "new_end": "",
     "id": "166beb7a1c582a67fdcda499fefaeb27fff612fd84bbc42feae90f017dd2948b",
-    "version_id": "e0b42ebe1e2544d23c5b660c5dd4ff718efe9585e6d002cbd39983ae63a4b1ff"
+    "version_id": "7cb99352434acf79a871e0fa3b74bb5e1394444c97ec2851e003f4cf87c44501"
   },
   {
-    "date": "2024-10-17T11:30:00+02:00",
-    "start": "2024-10-17T11:30:00+02:00",
-    "end": "2024-10-17T12:30:00+02:00",
+    "date": "2024-10-17T11:30:00+02:00Z",
+    "start": "2024-10-17T11:30:00+02:00Z",
+    "end": "2024-10-17T12:30:00+02:00Z",
     "value": 1,
     "summary": "week 1",
     "description": "(No description)",
@@ -459,12 +459,12 @@
     "new_start": "",
     "new_end": "",
     "id": "2a0d7aa37209a1c564d368ba2af4886d4e2eded593aa6dd03e9defe28bcbbd72",
-    "version_id": "2ffa1f555b0db9c3351fe77f2b52654fcc8115548f020dcfae8df19b37183e9a"
+    "version_id": "50bbbc91327f00e288bbbc288e12afe260980a16898cc495ea5236523c223f64"
   },
   {
-    "date": "2024-10-18T14:00:00+02:00",
-    "start": "2024-10-18T14:00:00+02:00",
-    "end": "2024-10-18T16:00:00+02:00",
+    "date": "2024-10-18T14:00:00+02:00Z",
+    "start": "2024-10-18T14:00:00+02:00Z",
+    "end": "2024-10-18T16:00:00+02:00Z",
     "value": 1,
     "summary": "week 2, 3 individual",
     "description": "(No description)",
@@ -473,12 +473,12 @@
     "new_start": "",
     "new_end": "",
     "id": "87d6d2d2059635956344012ef29cae3b518a53d4e2d7b193991d324bf6c9bbd3",
-    "version_id": "91d3897fc26cb7b969f58da68259390d2940507f50050bf4b8b8bd674741fab4"
+    "version_id": "4162ced4b5fc81e9bd04d0afa308ff4f749cfe673f7521304df110d041720e08"
   },
   {
-    "date": "2024-10-19T06:30:00+02:00",
-    "start": "2024-10-19T06:30:00+02:00",
-    "end": "2024-10-19T09:00:00+02:00",
+    "date": "2024-10-19T06:30:00+02:00Z",
+    "start": "2024-10-19T06:30:00+02:00Z",
+    "end": "2024-10-19T09:00:00+02:00Z",
     "value": 1,
     "summary": "week 4,5 individual",
     "description": "(No description)",
@@ -487,12 +487,12 @@
     "new_start": "",
     "new_end": "",
     "id": "a42f3e0bd1d55601d2052779657b622d858340f061e783bfc838943c99efd55e",
-    "version_id": "e2fac8cfabe8d6b7589034f0f11428fabc062fea2aa567acde55360c63ef6c32"
+    "version_id": "4f2a614052fa4038df8b9d361e3c3ab3cd8e7c6ed71d18ae9305a8179844cc5f"
   },
   {
-    "date": "2024-10-20T06:30:00+02:00",
-    "start": "2024-10-20T06:30:00+02:00",
-    "end": "2024-10-20T08:30:00+02:00",
+    "date": "2024-10-20T06:30:00+02:00Z",
+    "start": "2024-10-20T06:30:00+02:00Z",
+    "end": "2024-10-20T08:30:00+02:00Z",
     "value": 1,
     "summary": "week 6 individual + organize everything",
     "description": "(No description)",
@@ -501,12 +501,12 @@
     "new_start": "",
     "new_end": "",
     "id": "d0f1406a76c9eaf6c3a08333cd2e83ccb462b474516931b965af4fd92386375e",
-    "version_id": "ea39fea0d03ed66e852c30e0a8b500c0ee7e21ca39c1cfa94fac7c8477d46c5d"
+    "version_id": "9baef2f5be06b87a2b60c05d34a5b344f3db8c24a34d1d3b9e8ba8c7e993dfe3"
   },
   {
-    "date": "2024-10-21T06:30:00+02:00",
-    "start": "2024-10-21T06:30:00+02:00",
-    "end": "2024-10-21T12:45:00+02:00",
+    "date": "2024-10-21T06:30:00+02:00Z",
+    "start": "2024-10-21T06:30:00+02:00Z",
+    "end": "2024-10-21T12:45:00+02:00Z",
     "value": 1,
     "summary": "Entre. individual ALL",
     "description": "Do it in very details:\n- go through your notes and than through the notes of docs, really understand and remember concepts\n- go through the test quesitions, open your mind to answer them",
@@ -515,12 +515,12 @@
     "new_start": "",
     "new_end": "",
     "id": "b5a5ffebbe17f25dba3a94c8c56725794d39eb35c741c22afc5a5b92675b56f6",
-    "version_id": "bb35ae3e1bb504990d333fc038fcac3e70e2f394b604d0e660f9284dbe977285"
+    "version_id": "8e484a2b8ee1ea495367790f514528245e43db9325d4bb4d8f281f574d58e55a"
   },
   {
-    "date": "2024-10-21T19:00:00+02:00",
-    "start": "2024-10-21T19:00:00+02:00",
-    "end": "2024-10-21T20:00:00+02:00",
+    "date": "2024-10-21T19:00:00+02:00Z",
+    "start": "2024-10-21T19:00:00+02:00Z",
+    "end": "2024-10-21T20:00:00+02:00Z",
     "value": 1,
     "summary": "Ponovi individual use",
     "description": "Go through the weeks of venture\n- create the notes and understand what they are about it is very easy just you need to want to understand it\n",
@@ -529,12 +529,12 @@
     "new_start": "",
     "new_end": "",
     "id": "5195deef385499b36752d5767db0f057b9f1d86194d1b478dd4d8a98cd8d315a",
-    "version_id": "1518bf3031d578a62b4da1c799467aed73a5af75ad6ff9b6838ae761b2c0ebaa"
+    "version_id": "b573e32050c8515f685610460188601bf64fdac22ced3da0188b543ad09e4097"
   },
   {
-    "date": "2024-10-22T06:30:00+02:00",
-    "start": "2024-10-22T06:30:00+02:00",
-    "end": "2024-10-22T07:30:00+02:00",
+    "date": "2024-10-22T06:30:00+02:00Z",
+    "start": "2024-10-22T06:30:00+02:00Z",
+    "end": "2024-10-22T07:30:00+02:00Z",
     "value": 1,
     "summary": "Ponovi",
     "description": "(No description)",
@@ -543,12 +543,12 @@
     "new_start": "",
     "new_end": "",
     "id": "837db671425613a67ad6559a8a878bfc72d1f3001e5d48c31a9c8077dd323b38",
-    "version_id": "36acffae6a21a7e26515114ec9764f66c5cc0de06189451bde870f97c25a2738"
+    "version_id": "49e4ab7647c0f17337bfe237bcea8966af18bf93bbb57f64786174792176a3ed"
   },
   {
-    "date": "2024-10-23T06:30:00+02:00",
-    "start": "2024-10-23T06:30:00+02:00",
-    "end": "2024-10-23T10:00:00+02:00",
+    "date": "2024-10-23T06:30:00+02:00Z",
+    "start": "2024-10-23T06:30:00+02:00Z",
+    "end": "2024-10-23T10:00:00+02:00Z",
     "value": 1,
     "summary": "venture week 6, ponovi use",
     "description": "(No description)",
@@ -557,12 +557,12 @@
     "new_start": "",
     "new_end": "",
     "id": "10c212acbea6d70bad5d80bdd0fc726cf7e74d4301f54133ad2fdf2066177c0f",
-    "version_id": "63a579ee762813ebf0332df0b6dfc5fde87e9216babdadc3b019d600cc93dcdc"
+    "version_id": "3ef4b2128460894e1aeb97d86c34103e5abc2be010f4453460439cbcbf92e241"
   },
   {
-    "date": "2024-10-24T07:30:00+02:00",
-    "start": "2024-10-24T07:30:00+02:00",
-    "end": "2024-10-24T08:30:00+02:00",
+    "date": "2024-10-24T07:30:00+02:00Z",
+    "start": "2024-10-24T07:30:00+02:00Z",
+    "end": "2024-10-24T08:30:00+02:00Z",
     "value": 1,
     "summary": "prepare a bit",
     "description": "(No description)",
@@ -571,6 +571,6 @@
     "new_start": "",
     "new_end": "",
     "id": "7fa57797059b6dd5d18ba43af8933c5a774a4ae4a528f79589aed911cdf6f297",
-    "version_id": "fae826e154db74e3ac8ff1a66151d37ba40925572504769dd8bd56727e8c5ffb"
+    "version_id": "52c95fd4a631a3b967c59b16b8f355b9c5ce8029b9d8f3cba873adf5dfd4deb5"
   }
 ]

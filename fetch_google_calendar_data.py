@@ -3,7 +3,7 @@ import json
 import hashlib
 from google.oauth2.credentials import Credentials
 from googleapiclient.discovery import build
-from datetime import datetime
+from datetime import datetime, timezone
 
 # Google Calendar API setup
 SCOPES = ['https://www.googleapis.com/auth/calendar.readonly']
@@ -182,6 +182,11 @@ def process_and_save_data():
             for event in events:
                 start_time = event['start'].get('dateTime', event['start'].get('date'))
                 end_time = event['end'].get('dateTime', event['end'].get('date'))
+                
+                # Ensure consistent date-time format
+                start_time = format_datetime(start_time)
+                end_time = format_datetime(end_time)
+                
                 processed_event = {
                     "date": start_time,
                     "start": start_time,
@@ -223,6 +228,23 @@ def process_and_save_data():
         print('Google Calendar data fetched and saved successfully')
     except Exception as error:
         print('Error processing Google Calendar data:', str(error))
+
+# Add this new function to format the datetime consistently
+def format_datetime(dt_string):
+    if 'T' in dt_string:
+        # It's already a datetime string
+        if dt_string.endswith('Z'):
+            return dt_string
+        elif dt_string.endswith('+00:00'):
+            # Replace +00:00 with Z
+            return dt_string[:-6] + 'Z'
+        else:
+            # Assume it's in UTC and add 'Z'
+            return dt_string + 'Z'
+    else:
+        # It's just a date, convert it to a datetime at midnight UTC
+        date_obj = datetime.strptime(dt_string, '%Y-%m-%d')
+        return date_obj.replace(tzinfo=timezone.utc).isoformat().replace('+00:00', 'Z')+ 'Z'
 
 if __name__ == '__main__':
     process_and_save_data()

@@ -70,9 +70,9 @@
     "version_id": "52b9bc0cf882e7f25f4ac33556bb4707c94b1ad93220fc1051c904ce363e2df6"
   },
   {
-    "date": "2024-09-24",
-    "start": "2024-09-24",
-    "end": "2024-09-25",
+    "date": "2024-09-24T00:00:00ZZ",
+    "start": "2024-09-24T00:00:00ZZ",
+    "end": "2024-09-25T00:00:00ZZ",
     "value": 1,
     "summary": "Hanci\u2764\ufe0f",
     "description": "(No description)",
@@ -81,7 +81,7 @@
     "new_start": "",
     "new_end": "",
     "id": "0ca8477ca7648502de3a9bc065cbe74c108bcb25ed90b1d25ffa56b2f26d7b9f",
-    "version_id": "f3616cf0ee49a699573c28a2bb70b300f41b2544e45216798dc652021d3bf294"
+    "version_id": "2ed9aecfac59a8b1f9cc4bcaa5c02c63d208fb7baf62e72cd0ffc1219ae1e0d8"
   },
   {
     "date": "2024-09-24T17:30:00Z",
@@ -224,9 +224,9 @@
     "version_id": "601c822f9e067e0a545c304a863f0576e24a157fceadfa23a3f1efd0eea3d40a"
   },
   {
-    "date": "2024-10-24",
-    "start": "2024-10-24",
-    "end": "2024-10-25",
+    "date": "2024-10-24T00:00:00ZZ",
+    "start": "2024-10-24T00:00:00ZZ",
+    "end": "2024-10-25T00:00:00ZZ",
     "value": 1,
     "summary": "Hanci\u2764\ufe0f",
     "description": "(No description)",
@@ -235,6 +235,6 @@
     "new_start": "",
     "new_end": "",
     "id": "8a9557fbb5e879c745b32d3f26cec5050462880fcb99dd4c1804ed087c37a4fd",
-    "version_id": "5392532dbe7820334f41c496dc0b8b32dddf91f212f71b027dcf66540ebfdf0f"
+    "version_id": "53ce170ef501eb747e4bf65f2d45ff9d24f0051239a27c0753ac944d68fb5655"
   }
 ]
