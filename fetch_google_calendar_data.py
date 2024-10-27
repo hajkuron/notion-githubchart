@@ -110,7 +110,7 @@ def compare_and_update_historical_data(new_events, historical_data):
                     'status': 'modified',
                     'version_id': new_event['version_id']
                 })
-            else:
+            elif historical_event.get('status') not in ['modified', 'deleted']:
                 historical_event['status'] = 'unchanged'
             updated_historical_data.append(historical_event)
         else:
