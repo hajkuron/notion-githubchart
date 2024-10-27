@@ -7,11 +7,10 @@
     "summary": "Weekly check up of goals NOTION",
     "description": "Go through all the goals set in notion, write some \n\n\u2014\u2014\u2014\n(Reminder ID \u2022 Keep for sync \u25e6\u25e6 31/12/2023, 23:44:03 CET \u25e6\u25e6 )",
     "calendar_name": "Routines",
-    "new_date": "2024-10-13",
-    "new_start": "2024-10-13T18:00:00+00:00",
-    "new_end": "2024-10-13T18:15:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "67c579543fd9b2a5c134da336f7cf6ecb2ac369d4fe40f553891ac01a0045fb4",
-    "version_id": "7180bf1dfdf7b72e311cc712caf570d02ad10c58ba0c9ff74c60bdb7855b8a70",
-    "status": "new"
+    "version_id": "7180bf1dfdf7b72e311cc712caf570d02ad10c58ba0c9ff74c60bdb7855b8a70"
   }
 ]
