@@ -2315,6 +2315,36 @@
     "id": "800b9d9f7e3fd69ef4738b221a58bf0f"
   },
   {
+    "date": "2024-10-26T12:00:00+02:00",
+    "start": "2024-10-26T12:00:00+02:00",
+    "end": "2024-10-26T13:00:00+02:00",
+    "value": 1,
+    "summary": "lunch",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "8d872f55434fb4c7a40febc269cbd6f6"
+  },
+  {
+    "date": "2024-10-26T20:00:00+02:00",
+    "start": "2024-10-26T20:00:00+02:00",
+    "end": "2024-10-26T21:30:00+02:00",
+    "value": 1,
+    "summary": "hanc",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "5e6a54439571a3af9b38a1df86140e04"
+  },
+  {
+    "date": "2024-10-26T21:30:00+02:00",
+    "start": "2024-10-26T21:30:00+02:00",
+    "end": "2024-10-26T22:30:00+02:00",
+    "value": 1,
+    "summary": "read",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "id": "e6590d2974c05141e1212e689f051c24"
+  },
+  {
     "date": "2024-09-17T08:00:00+02:00",
     "start": "2024-09-17T08:00:00+02:00",
     "end": "2024-09-17T15:00:00+02:00",
@@ -3362,6 +3392,26 @@
     "description": "(No description)",
     "calendar_name": "Fitness",
     "id": "bea3af16382b5121ef3d80c40e108cc5"
+  },
+  {
+    "date": "2024-10-26T11:00:00+02:00",
+    "start": "2024-10-26T11:00:00+02:00",
+    "end": "2024-10-26T12:00:00+02:00",
+    "value": 1,
+    "summary": "New Event",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "id": "c70a651b3eb0b5c1e87704cc40cc93b8"
+  },
+  {
+    "date": "2024-10-26T18:30:00+02:00",
+    "start": "2024-10-26T18:30:00+02:00",
+    "end": "2024-10-26T19:30:00+02:00",
+    "value": 1,
+    "summary": "basket",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "id": "f2db93342c22387f9d386e2a6d24689b"
   },
   {
     "date": "2024-09-11T09:00:00+02:00",
@@ -4926,6 +4976,26 @@
     "description": "(No description)",
     "calendar_name": "Projects",
     "id": "8d64116a4e55749e96726fbfffa4cc36"
+  },
+  {
+    "date": "2024-10-26T13:00:00+02:00",
+    "start": "2024-10-26T13:00:00+02:00",
+    "end": "2024-10-26T16:00:00+02:00",
+    "value": 1,
+    "summary": "New Event",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "id": "30aaece94c3e525705d03f49258516ca"
+  },
+  {
+    "date": "2024-10-26T16:00:00+02:00",
+    "start": "2024-10-26T16:00:00+02:00",
+    "end": "2024-10-26T18:00:00+02:00",
+    "value": 1,
+    "summary": "New Event",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "id": "1744e0a75957ff0fd29b47073dd3a652"
   },
   {
     "date": "2024-09-17T16:00:00Z",

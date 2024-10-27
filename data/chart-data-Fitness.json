@@ -378,5 +378,25 @@
     "description": "(No description)",
     "calendar_name": "Fitness",
     "id": "bea3af16382b5121ef3d80c40e108cc5"
+  },
+  {
+    "date": "2024-10-26T11:00:00+02:00",
+    "start": "2024-10-26T11:00:00+02:00",
+    "end": "2024-10-26T12:00:00+02:00",
+    "value": 1,
+    "summary": "New Event",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "id": "c70a651b3eb0b5c1e87704cc40cc93b8"
+  },
+  {
+    "date": "2024-10-26T18:30:00+02:00",
+    "start": "2024-10-26T18:30:00+02:00",
+    "end": "2024-10-26T19:30:00+02:00",
+    "value": 1,
+    "summary": "basket",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "id": "f2db93342c22387f9d386e2a6d24689b"
   }
 ]

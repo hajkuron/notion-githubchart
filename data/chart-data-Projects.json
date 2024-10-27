@@ -308,5 +308,25 @@
     "description": "(No description)",
     "calendar_name": "Projects",
     "id": "8d64116a4e55749e96726fbfffa4cc36"
+  },
+  {
+    "date": "2024-10-26T13:00:00+02:00",
+    "start": "2024-10-26T13:00:00+02:00",
+    "end": "2024-10-26T16:00:00+02:00",
+    "value": 1,
+    "summary": "New Event",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "id": "30aaece94c3e525705d03f49258516ca"
+  },
+  {
+    "date": "2024-10-26T16:00:00+02:00",
+    "start": "2024-10-26T16:00:00+02:00",
+    "end": "2024-10-26T18:00:00+02:00",
+    "value": 1,
+    "summary": "New Event",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "id": "1744e0a75957ff0fd29b47073dd3a652"
   }
 ]
