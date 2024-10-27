@@ -40,7 +40,7 @@ async function initializeCalendar(cal, data, containerId, legendId, colorScheme,
                     x: 'date',
                     y: 'value',
                 },
-                date: { start: new Date('2024-09-15') },  // Changed to September 1, 2024
+                date: { start: new Date('2024-09-15') },
                 range: 12,
                 scale: {
                     color: {
@@ -63,6 +63,14 @@ async function initializeCalendar(cal, data, containerId, legendId, colorScheme,
                     emptyColor: '#2d333b',
                 },
                 itemSelector: `#${containerId}`,
+                // Add highlight configuration for today
+                highlights: [
+                    {
+                        fill: 'red',
+                        radius: 2,
+                        dates: [new Date()]
+                    }
+                ],
             },
             [
                 [
