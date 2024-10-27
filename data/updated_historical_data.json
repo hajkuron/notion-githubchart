@@ -1722,7 +1722,7 @@
     "new_end": "2024-09-22T13:00:00+00:00",
     "id": "c58c9cb6e78d5deb534b7e58bcf72b4e51818748cf03f08112454fd43940583c",
     "version_id": "8e7f42392c88f7311e519e830281f193cf3321a4ba65c4e8f845e9b19c8f7cb0",
-    "status": "unchanged"
+    "status": "deleted"
   },
   {
     "date": "2024-09-23",
@@ -2172,7 +2172,7 @@
     "new_end": "2024-10-27T14:00:00+00:00",
     "id": "380ef756e5bc8614da6e2cf28075d981e74c109dbb5a337957f9cea3b12a2c2c",
     "version_id": "a9f0aaddda71088eb6256c70f3b53551d13b71a99ccf717e8ea95f6c9d5856c6",
-    "status": "new"
+    "status": "unchanged"
   },
   {
     "date": "2024-09-11",
@@ -2307,7 +2307,7 @@
     "new_end": "2024-09-22T10:30:00+00:00",
     "id": "22349f327a2968ca61a9f8cf2ca35cadd35f95a2f7dc937fc7ce1e05d10788c7",
     "version_id": "32ce8af51e7aef6928dc0c44c76df27ed7312d96e216f18e32cfca47d45344a1",
-    "status": "modified"
+    "status": "unchanged"
   },
   {
     "date": "2024-09-23",
