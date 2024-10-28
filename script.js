@@ -31,8 +31,11 @@ function processRoutinesData(data, eventType) {
 }
 
 async function initializeCalendar(cal, data, containerId, legendId, colorScheme, routineType) {
-    const today = new Date();
-    today.setHours(0, 0, 0, 0);  // Reset time part to ensure exact date matching
+    // Get current date and set to midnight
+    const now = new Date();
+    const today = new Date(Date.UTC(now.getFullYear(), now.getMonth(), now.getDate()));
+    
+    console.log('Highlighting date:', today.toISOString());  // Debug log
     
     console.log(`Initializing calendar for ${containerId} with data:`, data);
     try {
@@ -45,7 +48,7 @@ async function initializeCalendar(cal, data, containerId, legendId, colorScheme,
                 },
                 date: {
                     start: new Date('2024-09-15'),
-                    highlight: [today]  // Add today's date to highlight array
+                    highlight: [today]
                 },
                 range: 12,
                 scale: {
