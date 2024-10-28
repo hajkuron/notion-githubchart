@@ -139,7 +139,7 @@ def process_and_save_data():
         
         # Set time range from September 1, 2024 until now
         time_min = datetime(2024, 9, 1).isoformat() + 'Z'
-        time_max = datetime.utcnow().isoformat() + 'Z'
+        time_max = (datetime.utcnow() + datetime.timedelta(days=1)).isoformat() + 'Z'
         
         calendars_to_exclude = [
             "University of Amsterdam - Personal timetable: 13597698@uva.nl",
