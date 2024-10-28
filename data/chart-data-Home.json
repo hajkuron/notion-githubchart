@@ -29,8 +29,8 @@
   },
   {
     "date": "2024-09-22",
-    "start": "2024-09-22T09:30:00+00:00",
-    "end": "2024-09-22T10:30:00+00:00",
+    "start": "2024-09-22T11:00:00+00:00",
+    "end": "2024-09-22T12:00:00+00:00",
     "value": 1,
     "summary": "kosilo",
     "description": "(No description)",
@@ -39,12 +39,12 @@
     "new_start": "",
     "new_end": "",
     "id": "e22ca6a5b9cfdbb9516ed771164858c5c7882979bf305319209b098e2e1d7f02",
-    "version_id": "20785a62c0ab7b34bcfbfc8661880ed1d5c1ed58121c9bee6d14102be7f762c5"
+    "version_id": "8fcb514b28e9703e3d50da0f3e06c0cf8bb7164791ca284d8c828e0f351d4396"
   },
   {
     "date": "2024-09-22",
-    "start": "2024-09-22T17:00:00+00:00",
-    "end": "2024-09-22T19:00:00+00:00",
+    "start": "2024-09-22T19:45:00+00:00",
+    "end": "2024-09-22T21:45:00+00:00",
     "value": 1,
     "summary": "hanc",
     "description": "(No description)",
@@ -53,7 +53,7 @@
     "new_start": "",
     "new_end": "",
     "id": "8271b922f9bbf3fb9eae0cf04fd14028bbbab42553fcce2d73a4a49e92c03a69",
-    "version_id": "012fae3f6d157bdcebd923fbaadbd3b4d9fa0c41beba048ed7d1d8611886420a"
+    "version_id": "c39f010f8e850974070cb1658ec96b36b0b266605de6a08587f5aa9c4f64d9e6"
   },
   {
     "date": "2024-09-23",
@@ -72,7 +72,7 @@
   {
     "date": "2024-09-23",
     "start": "2024-09-23T23:00:00+00:00",
-    "end": "2024-09-24T22:59:59+00:00",
+    "end": "2024-09-23T23:59:00+00:00",
     "value": 1,
     "summary": "Hanci\u2764\ufe0f",
     "description": "(No description)",
@@ -81,7 +81,7 @@
     "new_start": "",
     "new_end": "",
     "id": "3387b88388557bed8613e5b067144ef09aeb9681979ddce04dd89333cb4a2125",
-    "version_id": "35834d9061ad6867b120a7dada60c441a3aa97f1445d8ad23b08827c1bc27c13"
+    "version_id": "e868df47ae6548372cc1811c32d093457072395e1f423e65129d179a26774c08"
   },
   {
     "date": "2024-09-24",
@@ -99,8 +99,8 @@
   },
   {
     "date": "2024-09-24",
-    "start": "2024-09-24T17:30:00+00:00",
-    "end": "2024-09-24T19:30:00+00:00",
+    "start": "2024-09-24T15:15:00+00:00",
+    "end": "2024-09-24T17:15:00+00:00",
     "value": 1,
     "summary": "hanc",
     "description": "(No description)",
@@ -109,7 +109,7 @@
     "new_start": "",
     "new_end": "",
     "id": "7846f3b57a2f2f3d43eecb7e0791d4363e2a4649b8e1d38eeae33097534ecbfa",
-    "version_id": "2ec0118cdb65f5ff16524ee737c49669243abe7e4dc7ca198783f2001881dce0"
+    "version_id": "69857f32f45d929f1cd4c251a7c217665c119b6e334bc38d8ed70ed52ad5a74e"
   },
   {
     "date": "2024-10-02",
