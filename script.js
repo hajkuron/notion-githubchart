@@ -31,6 +31,9 @@ function processRoutinesData(data, eventType) {
 }
 
 async function initializeCalendar(cal, data, containerId, legendId, colorScheme, routineType) {
+    const today = new Date();
+    today.setHours(0, 0, 0, 0);  // Reset time part to ensure exact date matching
+    
     console.log(`Initializing calendar for ${containerId} with data:`, data);
     try {
         cal.paint(
@@ -40,7 +43,10 @@ async function initializeCalendar(cal, data, containerId, legendId, colorScheme,
                     x: 'date',
                     y: 'value',
                 },
-                date: { start: new Date('2024-09-15') },
+                date: {
+                    start: new Date('2024-09-15'),
+                    highlight: [today]  // Add today's date to highlight array
+                },
                 range: 12,
                 scale: {
                     color: {
@@ -66,9 +72,11 @@ async function initializeCalendar(cal, data, containerId, legendId, colorScheme,
                 // Add highlight configuration for today
                 highlights: [
                     {
-                        fill: 'red',
+                        stroke: '#ff5555',  // Bright red outline
+                        strokeWidth: 2,      // Make the outline thicker
                         radius: 2,
-                        dates: [new Date()]
+                        dates: [new Date()],
+                        opacity: 1
                     }
                 ],
             },

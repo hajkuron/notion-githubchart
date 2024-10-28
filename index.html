@@ -92,6 +92,14 @@
         .button-container {
             /* Remove margin-top if it exists */
         }
+        /* Try all possible highlight class variations */
+        .ch-container .highlight,
+        .ch-container .ch-highlight,
+        g.highlight rect,
+        g.ch-highlight rect {
+            stroke: #ff5555 !important;  /* Bright red color */
+            stroke-width: 1px !important;  /* Make the border thicker */
+        }
     </style>
 </head>
 <body>
