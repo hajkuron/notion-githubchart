@@ -3,7 +3,7 @@ import json
 import hashlib
 from google.oauth2.credentials import Credentials
 from googleapiclient.discovery import build
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 
 # Google Calendar API setup
 SCOPES = ['https://www.googleapis.com/auth/calendar.readonly']
@@ -22,9 +22,9 @@ def get_all_calendar_ids(service):
 
 def get_calendar_events(service, calendar_id='primary', time_min=None, time_max=None, calendar_to_exclude=None):
     if not time_min:
-        time_min = (datetime.utcnow() - datetime.timedelta(days=30)).isoformat() + 'Z'
+        time_min = (datetime.utcnow() - timedelta(days=30)).isoformat() + 'Z'
     if not time_max:
-        time_max = (datetime.utcnow() + datetime.timedelta(days=7)).isoformat() + 'Z'
+        time_max = (datetime.utcnow() + timedelta(days=7)).isoformat() + 'Z'
     
     events_result = service.events().list(calendarId=calendar_id, timeMin=time_min,
                                           timeMax=time_max, singleEvents=True,
@@ -139,7 +139,7 @@ def process_and_save_data():
         
         # Set time range from September 1, 2024 until now
         time_min = datetime(2024, 9, 1).isoformat() + 'Z'
-        time_max = (datetime.utcnow() + datetime.timedelta(days=1)).isoformat() + 'Z'
+        time_max = (datetime.utcnow() + timedelta(days=1)).isoformat() + 'Z'
         
         calendars_to_exclude = [
             "University of Amsterdam - Personal timetable: 13597698@uva.nl",
