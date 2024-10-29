@@ -47,7 +47,7 @@ async function initializeCalendar(cal, data, containerId, legendId, colorScheme,
                     y: 'value',
                 },
                 date: {
-                    start: new Date('2024-09-15'),
+                    start: new Date('2024-10-28'),
                     highlight: [today]
                 },
                 range: 12,
