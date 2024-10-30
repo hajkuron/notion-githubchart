@@ -558,5 +558,20 @@
     "new_end": "",
     "id": "7fa57797059b6dd5d18ba43af8933c5a774a4ae4a528f79589aed911cdf6f297",
     "version_id": "076fa7456dc7b35e185409f122dddd1e24b977aeaf0ca7f8c99772f9f61c6a41"
+  },
+  {
+    "date": "2024-10-28",
+    "start": "2024-10-28T15:00:00+00:00",
+    "end": "2024-10-28T16:00:00+00:00",
+    "value": 1,
+    "summary": "frizer",
+    "description": "(No description)",
+    "calendar_name": "University studying",
+    "new_date": "2024-10-28",
+    "new_start": "2024-10-28T15:00:00+00:00",
+    "new_end": "2024-10-28T16:00:00+00:00",
+    "id": "0bb45f3dd9e69e3b592cd51b932ca0bf3fd44b23dc62f722ebe8c76548997bdb",
+    "version_id": "efe12c50998f6999b23da685bb6466933db3feb58b91cddbe053e1517186d18c",
+    "status": "new"
   }
 ]
