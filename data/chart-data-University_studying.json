@@ -567,11 +567,10 @@
     "summary": "frizer",
     "description": "(No description)",
     "calendar_name": "University studying",
-    "new_date": "2024-10-28",
-    "new_start": "2024-10-28T15:00:00+00:00",
-    "new_end": "2024-10-28T16:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "0bb45f3dd9e69e3b592cd51b932ca0bf3fd44b23dc62f722ebe8c76548997bdb",
-    "version_id": "efe12c50998f6999b23da685bb6466933db3feb58b91cddbe053e1517186d18c",
-    "status": "new"
+    "version_id": "efe12c50998f6999b23da685bb6466933db3feb58b91cddbe053e1517186d18c"
   }
 ]

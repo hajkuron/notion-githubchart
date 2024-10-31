@@ -581,12 +581,11 @@
     "summary": "gym push",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2024-10-28",
-    "new_start": "2024-10-28T06:00:00+00:00",
-    "new_end": "2024-10-28T07:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "5ec4724db0954900024ddd041c821922c68173f952b0e431a7a0b32a6ee56171",
-    "version_id": "88b69135846c214baab26206fe1255e37150a32f756fedea7ee4cde33d65597f",
-    "status": "new"
+    "version_id": "88b69135846c214baab26206fe1255e37150a32f756fedea7ee4cde33d65597f"
   },
   {
     "date": "2024-10-29",
@@ -596,12 +595,11 @@
     "summary": "gym push",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2024-10-29",
-    "new_start": "2024-10-29T12:00:00+00:00",
-    "new_end": "2024-10-29T13:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "f3b828597fda99239ec158a3e03e454636d8c6588b2c495c85e0adcf6164b5ce",
-    "version_id": "a4fabece9aacc7b2b0533d6e2a55e822e1c353ba5505dbfa6b1769d57dee3111",
-    "status": "new"
+    "version_id": "a4fabece9aacc7b2b0533d6e2a55e822e1c353ba5505dbfa6b1769d57dee3111"
   },
   {
     "date": "2024-10-30",
@@ -611,11 +609,25 @@
     "summary": "gym push",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2024-10-30",
-    "new_start": "2024-10-30T05:30:00+00:00",
-    "new_end": "2024-10-30T06:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "7e9d2797d402f568450810955ecf2db2ba9c4111369975f44106ad23504a4a4e",
-    "version_id": "eecce70379a254f98998c2a4f381299a7b52e1317926723ee4cb9d080d1fa623",
+    "version_id": "eecce70379a254f98998c2a4f381299a7b52e1317926723ee4cb9d080d1fa623"
+  },
+  {
+    "date": "2024-10-31",
+    "start": "2024-10-31T05:30:00+00:00",
+    "end": "2024-10-31T06:30:00+00:00",
+    "value": 1,
+    "summary": "gym push",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2024-10-31",
+    "new_start": "2024-10-31T05:30:00+00:00",
+    "new_end": "2024-10-31T06:30:00+00:00",
+    "id": "e7e79ad0a1c4ac755ba7a737223d405f7833aaeda2d49c2c88439d4e3d41bdde",
+    "version_id": "df301f727ee86162ac8eff03f108e86845e88c6d5425395cadc766eaf722c2d9",
     "status": "new"
   }
 ]

@@ -7,12 +7,11 @@
     "summary": "educ videos",
     "description": "(No description)",
     "calendar_name": "Learning",
-    "new_date": "2024-10-28",
-    "new_start": "2024-10-28T16:30:00+00:00",
-    "new_end": "2024-10-28T18:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "225e9ea0e459f7aa6e7003150339e88244d40b88fa0eb49ff2db25d84a6870d9",
-    "version_id": "38663043f915b90720056513e16d7972193e2830d6452eb4b5324325bf68aea9",
-    "status": "new"
+    "version_id": "38663043f915b90720056513e16d7972193e2830d6452eb4b5324325bf68aea9"
   },
   {
     "date": "2024-10-29",
@@ -22,26 +21,25 @@
     "summary": "Educ videos",
     "description": "(No description)",
     "calendar_name": "Learning",
-    "new_date": "2024-10-29",
-    "new_start": "2024-10-29T17:00:00+00:00",
-    "new_end": "2024-10-29T18:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "770a896c2bdb41c362f79b4db2a153576ab64ab721863c3cf78e84c4d196bc71",
-    "version_id": "ddd9e95894e6b27bdc6a42febe9427e741cd0756b286367531c095c0475200d6",
-    "status": "new"
+    "version_id": "ddd9e95894e6b27bdc6a42febe9427e741cd0756b286367531c095c0475200d6"
   },
   {
-    "date": "2024-10-30",
-    "start": "2024-10-30T17:00:00+00:00",
-    "end": "2024-10-30T18:00:00+00:00",
+    "date": "2024-10-31",
+    "start": "2024-10-31T17:00:00+00:00",
+    "end": "2024-10-31T18:00:00+00:00",
     "value": 1,
     "summary": "Educ videos",
     "description": "(No description)",
     "calendar_name": "Learning",
-    "new_date": "2024-10-30",
-    "new_start": "2024-10-30T17:00:00+00:00",
-    "new_end": "2024-10-30T18:00:00+00:00",
-    "id": "4b4e0b9252d816b80dd3ea8d8aa518097678c2c895f7fb426a7e0fa31c8d29f6",
-    "version_id": "fffc1a8e18a59bf72651712f685cea77223d4e20e5f8f76878f7007f0cd96310",
+    "new_date": "2024-10-31",
+    "new_start": "2024-10-31T17:00:00+00:00",
+    "new_end": "2024-10-31T18:00:00+00:00",
+    "id": "ac62460832d019bdf5b4cb56fb8fcffa9db5210b5e12e95803771dba0ad48039",
+    "version_id": "d3605de53a8f78258cf3b93510d51fc3d4b23e3dd43fedfc88dbb914feb8e366",
     "status": "new"
   }
 ]

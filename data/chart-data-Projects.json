@@ -469,12 +469,11 @@
     "summary": "Plan",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2024-10-28",
-    "new_start": "2024-10-28T11:00:00+00:00",
-    "new_end": "2024-10-28T14:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "6054345643fd9e550625e19446a301c58a917f511e000c65554078ede8c32889",
-    "version_id": "6e00db0591bea3ba09d8409cece326b0dd6305e663cf0281602728754ba6b5c8",
-    "status": "new"
+    "version_id": "6e00db0591bea3ba09d8409cece326b0dd6305e663cf0281602728754ba6b5c8"
   },
   {
     "date": "2024-10-29",
@@ -484,12 +483,11 @@
     "summary": "Plan, do things",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2024-10-29",
-    "new_start": "2024-10-29T15:00:00+00:00",
-    "new_end": "2024-10-29T17:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "47e78b73dd6ac03c9eb49dca17894882268833468a380c84d8dec5667316be52",
-    "version_id": "1e08c12d8c40901b86b704fd37047f7ceb9793dac64baa5f5a85a256e4656e74",
-    "status": "new"
+    "version_id": "1e08c12d8c40901b86b704fd37047f7ceb9793dac64baa5f5a85a256e4656e74"
   },
   {
     "date": "2024-10-30",
@@ -499,26 +497,39 @@
     "summary": "project",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2024-10-30",
-    "new_start": "2024-10-30T07:00:00+00:00",
-    "new_end": "2024-10-30T09:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "36cae9406e28eeb617f1141aed5dc2aaec4a39d5385bde6609d4593a88ae0ec7",
-    "version_id": "29405b9a1ab1401e6f8fe5a218044e4fa5fd8be7ccfda390c7bea0ea22fc911c",
-    "status": "new"
+    "version_id": "29405b9a1ab1401e6f8fe5a218044e4fa5fd8be7ccfda390c7bea0ea22fc911c"
   },
   {
     "date": "2024-10-30",
     "start": "2024-10-30T13:00:00+00:00",
-    "end": "2024-10-30T17:00:00+00:00",
+    "end": "2024-10-30T14:00:00+00:00",
     "value": 1,
     "summary": "projevt",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2024-10-30",
-    "new_start": "2024-10-30T13:00:00+00:00",
-    "new_end": "2024-10-30T17:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "9b6e39376e3c5a0e38df4678797500368c544591df4943a58eeafe01f70ac068",
-    "version_id": "fbf571b9ae8a25c20626d1f45182e7627eea7d4dc17c2645344b5557fc48cfb9",
+    "version_id": "c30ed286d60ad921f2aa2680cec7e8979078ddebe0547f3f42441aec5f85c4f8"
+  },
+  {
+    "date": "2024-10-31",
+    "start": "2024-10-31T13:00:00+00:00",
+    "end": "2024-10-31T17:00:00+00:00",
+    "value": 1,
+    "summary": "projevt",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2024-10-31",
+    "new_start": "2024-10-31T13:00:00+00:00",
+    "new_end": "2024-10-31T17:00:00+00:00",
+    "id": "3d62a6413c390d2684382e8ea9956b7f59fd028440543347dfa4f952cd3e3a25",
+    "version_id": "7ddfcd4fc4bbdcf11352f1eaab45c72366945ba0c71eb27d68e756f25c3c0cf0",
     "status": "new"
   }
 ]
