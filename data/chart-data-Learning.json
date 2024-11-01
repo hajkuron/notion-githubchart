@@ -35,11 +35,10 @@
     "summary": "Educ videos",
     "description": "(No description)",
     "calendar_name": "Learning",
-    "new_date": "2024-10-31",
-    "new_start": "2024-10-31T17:00:00+00:00",
-    "new_end": "2024-10-31T18:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "ac62460832d019bdf5b4cb56fb8fcffa9db5210b5e12e95803771dba0ad48039",
-    "version_id": "d3605de53a8f78258cf3b93510d51fc3d4b23e3dd43fedfc88dbb914feb8e366",
-    "status": "new"
+    "version_id": "d3605de53a8f78258cf3b93510d51fc3d4b23e3dd43fedfc88dbb914feb8e366"
   }
 ]

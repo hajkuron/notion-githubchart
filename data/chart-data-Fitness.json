@@ -623,11 +623,25 @@
     "summary": "gym push",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2024-10-31",
-    "new_start": "2024-10-31T05:30:00+00:00",
-    "new_end": "2024-10-31T06:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "e7e79ad0a1c4ac755ba7a737223d405f7833aaeda2d49c2c88439d4e3d41bdde",
-    "version_id": "df301f727ee86162ac8eff03f108e86845e88c6d5425395cadc766eaf722c2d9",
+    "version_id": "df301f727ee86162ac8eff03f108e86845e88c6d5425395cadc766eaf722c2d9"
+  },
+  {
+    "date": "2024-11-01",
+    "start": "2024-11-01T09:00:00+00:00",
+    "end": "2024-11-01T09:15:00+00:00",
+    "value": 0.5,
+    "summary": "rest",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2024-11-01",
+    "new_start": "2024-11-01T09:00:00+00:00",
+    "new_end": "2024-11-01T09:15:00+00:00",
+    "id": "2e5c4f02b370147a4a5f411a2b04785b33b3a0fb5030746bf2f97c551a2564f6",
+    "version_id": "3f5265c90d5a41ba5c72d39299881749e22c2cf6b03d0250a923187b3ca16604",
     "status": "new"
   }
 ]

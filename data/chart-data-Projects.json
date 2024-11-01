@@ -519,17 +519,16 @@
   },
   {
     "date": "2024-10-31",
-    "start": "2024-10-31T13:00:00+00:00",
+    "start": "2024-10-31T16:00:00+00:00",
     "end": "2024-10-31T17:00:00+00:00",
     "value": 1,
     "summary": "projevt",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2024-10-31",
-    "new_start": "2024-10-31T13:00:00+00:00",
-    "new_end": "2024-10-31T17:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "3d62a6413c390d2684382e8ea9956b7f59fd028440543347dfa4f952cd3e3a25",
-    "version_id": "7ddfcd4fc4bbdcf11352f1eaab45c72366945ba0c71eb27d68e756f25c3c0cf0",
-    "status": "new"
+    "version_id": "33d4a6ab853d53e0fb5d03963cbbad78d8f6e46e97feb3bd0c23834c08a0269d"
   }
 ]
