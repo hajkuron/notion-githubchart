@@ -237,7 +237,7 @@
     "new_end": "2024-11-01T09:00:00+00:00",
     "id": "f0c076b910ca389e3558e7666fc60515d2eed831f780af03b93a03a7124051f6",
     "version_id": "ee299dd77a0947ae4092608eb5b4bf0f1c071ead55fb1d2f15416e4c73b73925",
-    "status": "new"
+    "status": "unchanged"
   },
   {
     "date": "2024-09-10",
@@ -942,6 +942,21 @@
     "new_end": "2024-11-01T09:15:00+00:00",
     "id": "2e5c4f02b370147a4a5f411a2b04785b33b3a0fb5030746bf2f97c551a2564f6",
     "version_id": "3f5265c90d5a41ba5c72d39299881749e22c2cf6b03d0250a923187b3ca16604",
+    "status": "unchanged"
+  },
+  {
+    "date": "2024-11-02",
+    "start": "2024-11-02T08:00:00+00:00",
+    "end": "2024-11-02T09:00:00+00:00",
+    "value": 1,
+    "summary": "gym push",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2024-11-02",
+    "new_start": "2024-11-02T08:00:00+00:00",
+    "new_end": "2024-11-02T09:00:00+00:00",
+    "id": "1bc2457584406f399db270f577b7534f2d567e18d6b2f8d5d95700b82d23b359",
+    "version_id": "41182a4fb3345b586b21852178ba06f96b479b844ea271f243cb63496eb4a294",
     "status": "new"
   },
   {
@@ -3717,7 +3732,7 @@
     "new_end": "2024-11-01T03:15:00+00:00",
     "id": "29afc2fe8ecb2970680330d0245c939916f2e0985fa635cbbe9c295697654be4",
     "version_id": "9bc13353dd13d6e1ddeabc9bc8aed7043c91be50dc40d8fc9af465bde159128f",
-    "status": "new"
+    "status": "unchanged"
   },
   {
     "date": "2024-11-01",
@@ -3732,7 +3747,7 @@
     "new_end": "2024-11-01T05:30:00+00:00",
     "id": "c6a124aef160ae35f35ea3f60f25cce22dcc148101e5db7a34d389f8d41815b6",
     "version_id": "42fe63d0caa1fc62501ca57612e139f0ecd33f8e0c7f0501d6e8f316fb181365",
-    "status": "new"
+    "status": "unchanged"
   },
   {
     "date": "2024-11-01",
@@ -3747,7 +3762,7 @@
     "new_end": "2024-11-01T17:00:00+00:00",
     "id": "976efcb78b5bdc93351c4e42a3c5b58da9600cb7ef8094b9d847b28613933e7f",
     "version_id": "cda0b0bcade8fa6dfa3df9b70973b6d1c80dbb8a7ba8db81bb5ea5cc36a02fd4",
-    "status": "new"
+    "status": "unchanged"
   },
   {
     "date": "2024-11-01",
@@ -3762,6 +3777,51 @@
     "new_end": "2024-11-01T18:45:00+00:00",
     "id": "c917ef35b01375dfb5ec01f6b43facd97f2374005267417daa397e377040448b",
     "version_id": "6ff57eb82e1eb53f18ace29600d3d272aed20c0984b0e677540c626cb1467e6f",
+    "status": "unchanged"
+  },
+  {
+    "date": "2024-11-02",
+    "start": "2024-11-02T03:00:00+00:00",
+    "end": "2024-11-02T03:15:00+00:00",
+    "value": 1,
+    "summary": "Daily 60*60*3",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2024-11-02",
+    "new_start": "2024-11-02T03:00:00+00:00",
+    "new_end": "2024-11-02T03:15:00+00:00",
+    "id": "c747168762e0d6f5fe1eba7d751679c7255133746067fb49d93a83427fcdc2b7",
+    "version_id": "d53a6923d355a7a651e672ec09fc308684478f279ca6f0e268158bb9a895bdf3",
+    "status": "new"
+  },
+  {
+    "date": "2024-11-02",
+    "start": "2024-11-02T07:00:00+00:00",
+    "end": "2024-11-02T07:30:00+00:00",
+    "value": 1,
+    "summary": "wake up",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2024-11-02",
+    "new_start": "2024-11-02T07:00:00+00:00",
+    "new_end": "2024-11-02T07:30:00+00:00",
+    "id": "151f8939be43259df1a88e7a6dc5433af5a74dade63cfc911b9d89bf95bd97c2",
+    "version_id": "096256578481bef3912b3152239d60f6f57ebd5076b70c9452192dc8e4b25f12",
+    "status": "new"
+  },
+  {
+    "date": "2024-11-02",
+    "start": "2024-11-02T20:30:00+00:00",
+    "end": "2024-11-02T21:30:00+00:00",
+    "value": 1,
+    "summary": "read",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2024-11-02",
+    "new_start": "2024-11-02T20:30:00+00:00",
+    "new_end": "2024-11-02T21:30:00+00:00",
+    "id": "a1878663952b190df372fe1405848d8f5948127a7c0fe41f213ae93bcaa25c64",
+    "version_id": "cbc7736679e3e5858fd233edc6eea6af9bc80004813331f246c1f496274254b0",
     "status": "new"
   },
   {
