@@ -651,11 +651,25 @@
     "summary": "gym push",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2024-11-02",
-    "new_start": "2024-11-02T08:00:00+00:00",
-    "new_end": "2024-11-02T09:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "1bc2457584406f399db270f577b7534f2d567e18d6b2f8d5d95700b82d23b359",
-    "version_id": "41182a4fb3345b586b21852178ba06f96b479b844ea271f243cb63496eb4a294",
+    "version_id": "41182a4fb3345b586b21852178ba06f96b479b844ea271f243cb63496eb4a294"
+  },
+  {
+    "date": "2024-11-03",
+    "start": "2024-11-03T12:00:00+00:00",
+    "end": "2024-11-03T14:00:00+00:00",
+    "value": 1,
+    "summary": "football",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2024-11-03",
+    "new_start": "2024-11-03T12:00:00+00:00",
+    "new_end": "2024-11-03T14:00:00+00:00",
+    "id": "3a74364694d6faee31463bbe41dc3994b85f14c2359c45c33dc717bd59e9609c",
+    "version_id": "009294514b4329fb463bd1b40c1074892a234bdf08de2bae37c286f8a9c9fdec",
     "status": "new"
   }
 ]
