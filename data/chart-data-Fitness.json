@@ -665,11 +665,25 @@
     "summary": "football",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2024-11-03",
-    "new_start": "2024-11-03T12:00:00+00:00",
-    "new_end": "2024-11-03T14:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "3a74364694d6faee31463bbe41dc3994b85f14c2359c45c33dc717bd59e9609c",
-    "version_id": "009294514b4329fb463bd1b40c1074892a234bdf08de2bae37c286f8a9c9fdec",
+    "version_id": "009294514b4329fb463bd1b40c1074892a234bdf08de2bae37c286f8a9c9fdec"
+  },
+  {
+    "date": "2024-11-04",
+    "start": "2024-11-04T06:00:00+00:00",
+    "end": "2024-11-04T07:00:00+00:00",
+    "value": 1,
+    "summary": "push",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2024-11-04",
+    "new_start": "2024-11-04T06:00:00+00:00",
+    "new_end": "2024-11-04T07:00:00+00:00",
+    "id": "8e3d9d65dda839922f457de0ab0c5144920b9be8fdd518ee012515c5660d6674",
+    "version_id": "38a8162e6883993f6d0629810773833b7a70517c84a2ae0fe84d87667d5ec7aa",
     "status": "new"
   }
 ]

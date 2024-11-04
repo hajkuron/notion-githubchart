@@ -530,5 +530,20 @@
     "new_end": "",
     "id": "3d62a6413c390d2684382e8ea9956b7f59fd028440543347dfa4f952cd3e3a25",
     "version_id": "33d4a6ab853d53e0fb5d03963cbbad78d8f6e46e97feb3bd0c23834c08a0269d"
+  },
+  {
+    "date": "2024-11-04",
+    "start": "2024-11-04T07:00:00+00:00",
+    "end": "2024-11-04T10:00:00+00:00",
+    "value": 1,
+    "summary": "Linked in automation build + post the offering of it on platforms",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2024-11-04",
+    "new_start": "2024-11-04T07:00:00+00:00",
+    "new_end": "2024-11-04T10:00:00+00:00",
+    "id": "10a123ac936e9cbb80645fded51a6972865ece158373f53bbe8f200e67e21d35",
+    "version_id": "37235ef91364c7c15410cb9629b720090ce5336d262a26f30831211a1d50c77a",
+    "status": "new"
   }
 ]
