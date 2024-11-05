@@ -259,11 +259,10 @@
     "summary": "meeting startup",
     "description": "(No description)",
     "calendar_name": "Home",
-    "new_date": "2024-11-04",
-    "new_start": "2024-11-04T10:00:00+00:00",
-    "new_end": "2024-11-04T11:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "c796734bcac5a325d0e5aeda568e80da44b08a2165b8844a6c0db63a24ca055c",
-    "version_id": "26653c565463a93a0c3da4310421c32d9434f0b37eaf1b243cde9fe052fb5b39",
-    "status": "new"
+    "version_id": "26653c565463a93a0c3da4310421c32d9434f0b37eaf1b243cde9fe052fb5b39"
   }
 ]

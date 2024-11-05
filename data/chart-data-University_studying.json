@@ -572,5 +572,35 @@
     "new_end": "",
     "id": "0bb45f3dd9e69e3b592cd51b932ca0bf3fd44b23dc62f722ebe8c76548997bdb",
     "version_id": "efe12c50998f6999b23da685bb6466933db3feb58b91cddbe053e1517186d18c"
+  },
+  {
+    "date": "2024-11-05",
+    "start": "2024-11-05T07:00:00+00:00",
+    "end": "2024-11-05T08:00:00+00:00",
+    "value": 1,
+    "summary": "Slides",
+    "description": "(No description)",
+    "calendar_name": "University studying",
+    "new_date": "2024-11-05",
+    "new_start": "2024-11-05T07:00:00+00:00",
+    "new_end": "2024-11-05T08:00:00+00:00",
+    "id": "c1e742156883b489cb3471f7848470f21295070a269f1a3fab739c1c1d2e59ac",
+    "version_id": "339648e9969590126ba597835fee7c1d45b77a47080f5d7c36a358b1c152fdff",
+    "status": "new"
+  },
+  {
+    "date": "2024-11-05",
+    "start": "2024-11-05T11:30:00+00:00",
+    "end": "2024-11-05T12:30:00+00:00",
+    "value": 1,
+    "summary": "Startup project meeting uva",
+    "description": "(No description)",
+    "calendar_name": "University studying",
+    "new_date": "2024-11-05",
+    "new_start": "2024-11-05T11:30:00+00:00",
+    "new_end": "2024-11-05T12:30:00+00:00",
+    "id": "d4cfde582aadbf19163c00b1425389f04350f2f641926f808d96495e625859fb",
+    "version_id": "b8dd3ea34958c9788e921d815c1078c95d583e586d9348ce06919ed9d6c3ca37",
+    "status": "new"
   }
 ]

@@ -679,11 +679,25 @@
     "summary": "push",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2024-11-04",
-    "new_start": "2024-11-04T06:00:00+00:00",
-    "new_end": "2024-11-04T07:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "8e3d9d65dda839922f457de0ab0c5144920b9be8fdd518ee012515c5660d6674",
-    "version_id": "38a8162e6883993f6d0629810773833b7a70517c84a2ae0fe84d87667d5ec7aa",
+    "version_id": "38a8162e6883993f6d0629810773833b7a70517c84a2ae0fe84d87667d5ec7aa"
+  },
+  {
+    "date": "2024-11-05",
+    "start": "2024-11-05T05:30:00+00:00",
+    "end": "2024-11-05T06:30:00+00:00",
+    "value": 1,
+    "summary": "push",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2024-11-05",
+    "new_start": "2024-11-05T05:30:00+00:00",
+    "new_end": "2024-11-05T06:30:00+00:00",
+    "id": "df9c71a5a78e03b5aa194f99b3c2ee3b2c66b1204f235f36a8b08091a28fecb6",
+    "version_id": "c7e47e4a188c09a5a807ba0710f1edc4144950d7a86d33ceccd3f2dc1cc8e75a",
     "status": "new"
   }
 ]
