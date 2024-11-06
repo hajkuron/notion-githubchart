@@ -1002,6 +1002,21 @@
     "new_end": "2024-11-05T06:30:00+00:00",
     "id": "df9c71a5a78e03b5aa194f99b3c2ee3b2c66b1204f235f36a8b08091a28fecb6",
     "version_id": "c7e47e4a188c09a5a807ba0710f1edc4144950d7a86d33ceccd3f2dc1cc8e75a",
+    "status": "unchanged"
+  },
+  {
+    "date": "2024-11-06",
+    "start": "2024-11-06T05:30:00+00:00",
+    "end": "2024-11-06T06:30:00+00:00",
+    "value": 1,
+    "summary": "push",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2024-11-06",
+    "new_start": "2024-11-06T05:30:00+00:00",
+    "new_end": "2024-11-06T06:30:00+00:00",
+    "id": "873cab48017c18567a65c92642175b7634c557da7d369d21f9786097d3d75c27",
+    "version_id": "70c179818e665b5fb0877b59b738456f2da30e324c62f3f292e5e75ebe0c546a",
     "status": "new"
   },
   {
@@ -1647,7 +1662,7 @@
     "new_end": "2024-11-05T08:00:00+00:00",
     "id": "c1e742156883b489cb3471f7848470f21295070a269f1a3fab739c1c1d2e59ac",
     "version_id": "339648e9969590126ba597835fee7c1d45b77a47080f5d7c36a358b1c152fdff",
-    "status": "new"
+    "status": "unchanged"
   },
   {
     "date": "2024-11-05",
@@ -1662,6 +1677,21 @@
     "new_end": "2024-11-05T12:30:00+00:00",
     "id": "d4cfde582aadbf19163c00b1425389f04350f2f641926f808d96495e625859fb",
     "version_id": "b8dd3ea34958c9788e921d815c1078c95d583e586d9348ce06919ed9d6c3ca37",
+    "status": "unchanged"
+  },
+  {
+    "date": "2024-11-06",
+    "start": "2024-11-06T10:00:00+00:00",
+    "end": "2024-11-06T12:00:00+00:00",
+    "value": 1,
+    "summary": "Uni stuff",
+    "description": "(No description)",
+    "calendar_name": "University studying",
+    "new_date": "2024-11-06",
+    "new_start": "2024-11-06T10:00:00+00:00",
+    "new_end": "2024-11-06T12:00:00+00:00",
+    "id": "aaffbd5e45c58420c6eadbbfe5061f5427c9ac870cae12139f348909c12127a4",
+    "version_id": "7e817c19b7c220d687777c62c72a76e3eb88677493cea5d3b92c48b04b25b71e",
     "status": "new"
   },
   {
@@ -2157,6 +2187,21 @@
     "new_end": "2024-11-05T17:00:00+00:00",
     "id": "de9d0a69743e65dcc7631191962d630575cc16d1cd0e316747fff4983690df70",
     "version_id": "17cf3f0fc83344a28790450b762a7119f4dc086fd8ef3859c37e0971305b6ab7",
+    "status": "unchanged"
+  },
+  {
+    "date": "2024-11-06",
+    "start": "2024-11-06T14:00:00+00:00",
+    "end": "2024-11-06T18:00:00+00:00",
+    "value": 1,
+    "summary": "automations",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2024-11-06",
+    "new_start": "2024-11-06T14:00:00+00:00",
+    "new_end": "2024-11-06T18:00:00+00:00",
+    "id": "cc944b40dc53ff3d81aa5e3603a9b6e084057faef41e45296886cebe97900a99",
+    "version_id": "be9a35611d9b2060dd5342666e914e70d65a3d80db32fab3c9c3a88e2b9dc8d6",
     "status": "new"
   },
   {
@@ -4032,7 +4077,7 @@
     "new_end": "2024-11-05T03:15:00+00:00",
     "id": "674f3c2886f90f4c82d8a7cdcf1b9931007af0fc03c9adc5bcd9ba5c35f2d0e3",
     "version_id": "55b3efea04f9652053529cfa2c015d364fb84bb7c5daa632eb32bcd20332955e",
-    "status": "new"
+    "status": "unchanged"
   },
   {
     "date": "2024-11-05",
@@ -4047,7 +4092,7 @@
     "new_end": "2024-11-05T05:30:00+00:00",
     "id": "4907711841c6affbfd9b525c05c6d1c5fbada0c90a8026b9304ca320715dbe7b",
     "version_id": "9d8e8221998dcba2b0cc33f594b4fa136169c8ffe07b5dbd6177b1286c2a87e8",
-    "status": "new"
+    "status": "unchanged"
   },
   {
     "date": "2024-11-05",
@@ -4062,7 +4107,7 @@
     "new_end": "2024-11-05T20:00:00+00:00",
     "id": "c98cab28779a9b2e6e2fb6a77d2a52759941d7ff7e650d1c36ecd4bff038d103",
     "version_id": "a793c57aab2de1d0138484b2cecdf7436b618bb9d8e6b2724c155be9a4211f9b",
-    "status": "new"
+    "status": "unchanged"
   },
   {
     "date": "2024-11-05",
@@ -4077,6 +4122,66 @@
     "new_end": "2024-11-05T21:30:00+00:00",
     "id": "10fddc2feb863c587fc54da511ae13d598259ef5b99a5792566529ac4fbfc8b3",
     "version_id": "9d5a0a6ae8efe92a5f37844b734c94c7e9b9c68ea12c081c8c9c88d61a8ee802",
+    "status": "unchanged"
+  },
+  {
+    "date": "2024-11-06",
+    "start": "2024-11-06T03:00:00+00:00",
+    "end": "2024-11-06T03:15:00+00:00",
+    "value": 1,
+    "summary": "Daily 60*60*3",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2024-11-06",
+    "new_start": "2024-11-06T03:00:00+00:00",
+    "new_end": "2024-11-06T03:15:00+00:00",
+    "id": "82cfa96566c31d5eaf43f6de9281281267f257dc8133304114707267c7a856c1",
+    "version_id": "7b37b6bd3334cd30a10b3122c9d844c0619099ab0ff19afe4789403095b1c320",
+    "status": "new"
+  },
+  {
+    "date": "2024-11-06",
+    "start": "2024-11-06T05:00:00+00:00",
+    "end": "2024-11-06T05:30:00+00:00",
+    "value": 1,
+    "summary": "wake up",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2024-11-06",
+    "new_start": "2024-11-06T05:00:00+00:00",
+    "new_end": "2024-11-06T05:30:00+00:00",
+    "id": "dfdc8c8adfaa5ca40409355d795c8e85eab9a6b8c8eda1a5fcc7599f341a5094",
+    "version_id": "5260f84d493a52507adbbac697fbf7e7526037259ad88b9d41f7a40483f53046",
+    "status": "new"
+  },
+  {
+    "date": "2024-11-06",
+    "start": "2024-11-06T18:30:00+00:00",
+    "end": "2024-11-06T20:00:00+00:00",
+    "value": 1,
+    "summary": "hanc",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2024-11-06",
+    "new_start": "2024-11-06T18:30:00+00:00",
+    "new_end": "2024-11-06T20:00:00+00:00",
+    "id": "30ce2181e363c31a8de7433c4d9aaa9df55a30bd7a79aa2dc847f0699f981bf1",
+    "version_id": "61476b90ea4de638c6c3d9178d50f5f4fe85cc37426e543e3f41a97b557b3902",
+    "status": "new"
+  },
+  {
+    "date": "2024-11-06",
+    "start": "2024-11-06T20:30:00+00:00",
+    "end": "2024-11-06T21:30:00+00:00",
+    "value": 1,
+    "summary": "read",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2024-11-06",
+    "new_start": "2024-11-06T20:30:00+00:00",
+    "new_end": "2024-11-06T21:30:00+00:00",
+    "id": "51758ffe783c751164a9ac4c6c2ed786909b335727ed484987527e4f4752381d",
+    "version_id": "fe529e753670d5c695ed88bea15eec1a27520d09594bea632ec7e3c92a1b8ab8",
     "status": "new"
   },
   {
@@ -4437,6 +4542,21 @@
     "new_end": "2024-11-05T18:00:00+00:00",
     "id": "0f8b67ee7194a2f699c410aa3b56f54ed4c7685e3aece5a111b39a90ba5befab",
     "version_id": "e8b07e422f5e1582791484eed1b4efe478dd5d71c939fae648da2ef0982314be",
+    "status": "deleted"
+  },
+  {
+    "date": "2024-11-06",
+    "start": "2024-11-06T13:00:00+00:00",
+    "end": "2024-11-06T14:00:00+00:00",
+    "value": 1,
+    "summary": "educ videos",
+    "description": "(No description)",
+    "calendar_name": "Learning",
+    "new_date": "2024-11-06",
+    "new_start": "2024-11-06T13:00:00+00:00",
+    "new_end": "2024-11-06T14:00:00+00:00",
+    "id": "b5f2fe294d0ea03b3e2a20cbc45f7a983c10296c52826e8324a5e3a22b041bc4",
+    "version_id": "ebea0a30bcf491275eb67eb7c3a273cc4edd4315cb587488cffa22a5247c16d6",
     "status": "new"
   },
   {
