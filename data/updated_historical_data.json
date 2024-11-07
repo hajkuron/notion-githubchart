@@ -240,6 +240,21 @@
     "status": "unchanged"
   },
   {
+    "date": "2024-11-07",
+    "start": "2024-11-07T07:00:00+00:00",
+    "end": "2024-11-07T13:00:00+00:00",
+    "value": 1,
+    "summary": "work",
+    "description": "(No description)",
+    "calendar_name": "Work creative clicks",
+    "new_date": "2024-11-07",
+    "new_start": "2024-11-07T07:00:00+00:00",
+    "new_end": "2024-11-07T13:00:00+00:00",
+    "id": "06852b914971030689df8fb68d6dd47322a1b259b08f159c20bc6287ecf4dd21",
+    "version_id": "e281d464082fc165154bcc21e32c05e42f6726450e181b438193e87b852ea027",
+    "status": "new"
+  },
+  {
     "date": "2024-09-10",
     "start": "2024-09-10T06:30:00+00:00",
     "end": "2024-09-10T07:30:00+00:00",
@@ -1013,10 +1028,25 @@
     "description": "(No description)",
     "calendar_name": "Fitness",
     "new_date": "2024-11-06",
-    "new_start": "2024-11-06T05:30:00+00:00",
-    "new_end": "2024-11-06T06:30:00+00:00",
+    "new_start": "2024-11-06T09:15:00+00:00",
+    "new_end": "2024-11-06T10:15:00+00:00",
     "id": "873cab48017c18567a65c92642175b7634c557da7d369d21f9786097d3d75c27",
-    "version_id": "70c179818e665b5fb0877b59b738456f2da30e324c62f3f292e5e75ebe0c546a",
+    "version_id": "905936ed0dcc703070a664c1f60b857ae5d4cd8e48b07d86dd4a4fa7050de82f",
+    "status": "modified"
+  },
+  {
+    "date": "2024-11-07",
+    "start": "2024-11-07T05:30:00+00:00",
+    "end": "2024-11-07T06:30:00+00:00",
+    "value": 1,
+    "summary": "push",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2024-11-07",
+    "new_start": "2024-11-07T05:30:00+00:00",
+    "new_end": "2024-11-07T06:30:00+00:00",
+    "id": "e455d2841c859b8ae1c85eeccac1c64604c11f5f2e64f220289d7a5c182f3a10",
+    "version_id": "7dee369c9ffc74f59112690eff55f596e9103930505a7592f46d2c0b1543501c",
     "status": "new"
   },
   {
@@ -1692,7 +1722,7 @@
     "new_end": "2024-11-06T12:00:00+00:00",
     "id": "aaffbd5e45c58420c6eadbbfe5061f5427c9ac870cae12139f348909c12127a4",
     "version_id": "7e817c19b7c220d687777c62c72a76e3eb88677493cea5d3b92c48b04b25b71e",
-    "status": "new"
+    "status": "unchanged"
   },
   {
     "date": "2024-09-23",
@@ -2202,7 +2232,7 @@
     "new_end": "2024-11-06T18:00:00+00:00",
     "id": "cc944b40dc53ff3d81aa5e3603a9b6e084057faef41e45296886cebe97900a99",
     "version_id": "be9a35611d9b2060dd5342666e914e70d65a3d80db32fab3c9c3a88e2b9dc8d6",
-    "status": "new"
+    "status": "unchanged"
   },
   {
     "date": "2024-10-13",
@@ -4137,7 +4167,7 @@
     "new_end": "2024-11-06T03:15:00+00:00",
     "id": "82cfa96566c31d5eaf43f6de9281281267f257dc8133304114707267c7a856c1",
     "version_id": "7b37b6bd3334cd30a10b3122c9d844c0619099ab0ff19afe4789403095b1c320",
-    "status": "new"
+    "status": "unchanged"
   },
   {
     "date": "2024-11-06",
@@ -4148,11 +4178,11 @@
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
     "new_date": "2024-11-06",
-    "new_start": "2024-11-06T05:00:00+00:00",
-    "new_end": "2024-11-06T05:30:00+00:00",
+    "new_start": "2024-11-06T05:45:00+00:00",
+    "new_end": "2024-11-06T06:15:00+00:00",
     "id": "dfdc8c8adfaa5ca40409355d795c8e85eab9a6b8c8eda1a5fcc7599f341a5094",
-    "version_id": "5260f84d493a52507adbbac697fbf7e7526037259ad88b9d41f7a40483f53046",
-    "status": "new"
+    "version_id": "b7a1a0138818ea79190b96b439d73e9b97cc47fdcb1587c79c465e8c4a7ebb83",
+    "status": "modified"
   },
   {
     "date": "2024-11-06",
@@ -4167,7 +4197,7 @@
     "new_end": "2024-11-06T20:00:00+00:00",
     "id": "30ce2181e363c31a8de7433c4d9aaa9df55a30bd7a79aa2dc847f0699f981bf1",
     "version_id": "61476b90ea4de638c6c3d9178d50f5f4fe85cc37426e543e3f41a97b557b3902",
-    "status": "new"
+    "status": "unchanged"
   },
   {
     "date": "2024-11-06",
@@ -4182,6 +4212,51 @@
     "new_end": "2024-11-06T21:30:00+00:00",
     "id": "51758ffe783c751164a9ac4c6c2ed786909b335727ed484987527e4f4752381d",
     "version_id": "fe529e753670d5c695ed88bea15eec1a27520d09594bea632ec7e3c92a1b8ab8",
+    "status": "deleted"
+  },
+  {
+    "date": "2024-11-07",
+    "start": "2024-11-07T03:00:00+00:00",
+    "end": "2024-11-07T03:15:00+00:00",
+    "value": 1,
+    "summary": "Daily 60*60*3",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2024-11-07",
+    "new_start": "2024-11-07T03:00:00+00:00",
+    "new_end": "2024-11-07T03:15:00+00:00",
+    "id": "0935c1131ed798047c687bd2e8291da6bcfb35e8dc4920c12049bf7ad2a9d9f0",
+    "version_id": "770da05192de2a0f54aee8163a834ca4a525ea631e11462aced01e70e11d8f30",
+    "status": "new"
+  },
+  {
+    "date": "2024-11-07",
+    "start": "2024-11-07T05:00:00+00:00",
+    "end": "2024-11-07T05:30:00+00:00",
+    "value": 1,
+    "summary": "wake up",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2024-11-07",
+    "new_start": "2024-11-07T05:00:00+00:00",
+    "new_end": "2024-11-07T05:30:00+00:00",
+    "id": "1f05061a235c5c1bc439990fdd50b0b333fd4effdae9b68697a75e5fb3fcd3f4",
+    "version_id": "ce9b0bb9a7c7c6e211c360ec1efafc7263c54f53deffa486fc807aa08eefc153",
+    "status": "new"
+  },
+  {
+    "date": "2024-11-07",
+    "start": "2024-11-07T18:00:00+00:00",
+    "end": "2024-11-07T21:30:00+00:00",
+    "value": 1,
+    "summary": "event/football",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2024-11-07",
+    "new_start": "2024-11-07T18:00:00+00:00",
+    "new_end": "2024-11-07T21:30:00+00:00",
+    "id": "6d0c336be85af7f3af888f7a4383bec4d8ecf5e662e3a5a8901f6bc88fd86a23",
+    "version_id": "018becedbfa14defd8b6b85f668647931c57f678d1da80956c7f6da9ddaa3b7f",
     "status": "new"
   },
   {
@@ -4557,6 +4632,21 @@
     "new_end": "2024-11-06T14:00:00+00:00",
     "id": "b5f2fe294d0ea03b3e2a20cbc45f7a983c10296c52826e8324a5e3a22b041bc4",
     "version_id": "ebea0a30bcf491275eb67eb7c3a273cc4edd4315cb587488cffa22a5247c16d6",
+    "status": "unchanged"
+  },
+  {
+    "date": "2024-11-07",
+    "start": "2024-11-07T13:30:00+00:00",
+    "end": "2024-11-07T15:30:00+00:00",
+    "value": 1,
+    "summary": "educ videos",
+    "description": "(No description)",
+    "calendar_name": "Learning",
+    "new_date": "2024-11-07",
+    "new_start": "2024-11-07T13:30:00+00:00",
+    "new_end": "2024-11-07T15:30:00+00:00",
+    "id": "2bd4f845cb6379bb91b01cc6acbe645349e8ff3c7196a00685fb25a056aa53b7",
+    "version_id": "f1af3bd7d32cd7ccc36fe52203a098273262604350c74a8112cc96c46aafb40d",
     "status": "new"
   },
   {

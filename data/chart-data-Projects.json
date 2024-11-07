@@ -561,8 +561,8 @@
   },
   {
     "date": "2024-11-06",
-    "start": "2024-11-06T06:30:00+00:00",
-    "end": "2024-11-06T09:00:00+00:00",
+    "start": "2024-11-06T07:00:00+00:00",
+    "end": "2024-11-06T09:30:00+00:00",
     "value": 1,
     "summary": "automations",
     "description": "(No description)",
@@ -571,7 +571,7 @@
     "new_start": "",
     "new_end": "",
     "id": "cc944b40dc53ff3d81aa5e3603a9b6e084057faef41e45296886cebe97900a99",
-    "version_id": "bc864ab12034ad3188b7433df015772d4a857110fa80b5af504f01225a95e518"
+    "version_id": "0918e4ce832fcb799c3c1ba3c092b3504160bc042d4ff691437d75d8b66990b6"
   },
   {
     "date": "2024-11-06",
@@ -581,11 +581,10 @@
     "summary": "automations",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2024-11-06",
-    "new_start": "2024-11-06T14:00:00+00:00",
-    "new_end": "2024-11-06T18:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "cc944b40dc53ff3d81aa5e3603a9b6e084057faef41e45296886cebe97900a99",
-    "version_id": "be9a35611d9b2060dd5342666e914e70d65a3d80db32fab3c9c3a88e2b9dc8d6",
-    "status": "new"
+    "version_id": "be9a35611d9b2060dd5342666e914e70d65a3d80db32fab3c9c3a88e2b9dc8d6"
   }
 ]

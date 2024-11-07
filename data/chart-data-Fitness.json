@@ -701,17 +701,31 @@
   },
   {
     "date": "2024-11-06",
-    "start": "2024-11-06T05:30:00+00:00",
-    "end": "2024-11-06T06:30:00+00:00",
+    "start": "2024-11-06T09:15:00+00:00",
+    "end": "2024-11-06T10:15:00+00:00",
     "value": 1,
     "summary": "push",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2024-11-06",
-    "new_start": "2024-11-06T05:30:00+00:00",
-    "new_end": "2024-11-06T06:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "873cab48017c18567a65c92642175b7634c557da7d369d21f9786097d3d75c27",
-    "version_id": "70c179818e665b5fb0877b59b738456f2da30e324c62f3f292e5e75ebe0c546a",
+    "version_id": "905936ed0dcc703070a664c1f60b857ae5d4cd8e48b07d86dd4a4fa7050de82f"
+  },
+  {
+    "date": "2024-11-07",
+    "start": "2024-11-07T05:30:00+00:00",
+    "end": "2024-11-07T06:30:00+00:00",
+    "value": 1,
+    "summary": "push",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2024-11-07",
+    "new_start": "2024-11-07T05:30:00+00:00",
+    "new_end": "2024-11-07T06:30:00+00:00",
+    "id": "e455d2841c859b8ae1c85eeccac1c64604c11f5f2e64f220289d7a5c182f3a10",
+    "version_id": "7dee369c9ffc74f59112690eff55f596e9103930505a7592f46d2c0b1543501c",
     "status": "new"
   }
 ]
