@@ -231,11 +231,10 @@
     "summary": "work",
     "description": "(No description)",
     "calendar_name": "Work creative clicks",
-    "new_date": "2024-11-07",
-    "new_start": "2024-11-07T07:00:00+00:00",
-    "new_end": "2024-11-07T13:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "06852b914971030689df8fb68d6dd47322a1b259b08f159c20bc6287ecf4dd21",
-    "version_id": "e281d464082fc165154bcc21e32c05e42f6726450e181b438193e87b852ea027",
-    "status": "new"
+    "version_id": "e281d464082fc165154bcc21e32c05e42f6726450e181b438193e87b852ea027"
   }
 ]

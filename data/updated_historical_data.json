@@ -252,7 +252,7 @@
     "new_end": "2024-11-07T13:00:00+00:00",
     "id": "06852b914971030689df8fb68d6dd47322a1b259b08f159c20bc6287ecf4dd21",
     "version_id": "e281d464082fc165154bcc21e32c05e42f6726450e181b438193e87b852ea027",
-    "status": "new"
+    "status": "unchanged"
   },
   {
     "date": "2024-09-10",
@@ -1047,6 +1047,21 @@
     "new_end": "2024-11-07T06:30:00+00:00",
     "id": "e455d2841c859b8ae1c85eeccac1c64604c11f5f2e64f220289d7a5c182f3a10",
     "version_id": "7dee369c9ffc74f59112690eff55f596e9103930505a7592f46d2c0b1543501c",
+    "status": "unchanged"
+  },
+  {
+    "date": "2024-11-08",
+    "start": "2024-11-08T06:00:00+00:00",
+    "end": "2024-11-08T06:15:00+00:00",
+    "value": 0.5,
+    "summary": "rest",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2024-11-08",
+    "new_start": "2024-11-08T06:00:00+00:00",
+    "new_end": "2024-11-08T06:15:00+00:00",
+    "id": "7d34541184f9374f093d124d9cb64e90e9d53f780c00dcf498d1a855922fc627",
+    "version_id": "4a81deb833b115ce1e406b67c28e5ae95c401e638f3fa5cea357215f0a0bd925",
     "status": "new"
   },
   {
@@ -4227,7 +4242,7 @@
     "new_end": "2024-11-07T03:15:00+00:00",
     "id": "0935c1131ed798047c687bd2e8291da6bcfb35e8dc4920c12049bf7ad2a9d9f0",
     "version_id": "770da05192de2a0f54aee8163a834ca4a525ea631e11462aced01e70e11d8f30",
-    "status": "new"
+    "status": "deleted"
   },
   {
     "date": "2024-11-07",
@@ -4242,7 +4257,7 @@
     "new_end": "2024-11-07T05:30:00+00:00",
     "id": "1f05061a235c5c1bc439990fdd50b0b333fd4effdae9b68697a75e5fb3fcd3f4",
     "version_id": "ce9b0bb9a7c7c6e211c360ec1efafc7263c54f53deffa486fc807aa08eefc153",
-    "status": "new"
+    "status": "unchanged"
   },
   {
     "date": "2024-11-07",
@@ -4257,6 +4272,81 @@
     "new_end": "2024-11-07T21:30:00+00:00",
     "id": "6d0c336be85af7f3af888f7a4383bec4d8ecf5e662e3a5a8901f6bc88fd86a23",
     "version_id": "018becedbfa14defd8b6b85f668647931c57f678d1da80956c7f6da9ddaa3b7f",
+    "status": "unchanged"
+  },
+  {
+    "date": "2024-11-08",
+    "start": "2024-11-08T03:00:00+00:00",
+    "end": "2024-11-08T03:15:00+00:00",
+    "value": 1,
+    "summary": "Daily 60*60*3",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2024-11-08",
+    "new_start": "2024-11-08T03:00:00+00:00",
+    "new_end": "2024-11-08T03:15:00+00:00",
+    "id": "f12cfd444af3f3fbae8abf7541d6abbc3ff502a1f573e134e52c3e0c9aff0046",
+    "version_id": "f5423ba97b3f30ab9226c4e04f43de9bd5d49e2fb364fc5d8cca91867248d040",
+    "status": "new"
+  },
+  {
+    "date": "2024-11-08",
+    "start": "2024-11-08T05:00:00+00:00",
+    "end": "2024-11-08T05:30:00+00:00",
+    "value": 1,
+    "summary": "wake up",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2024-11-08",
+    "new_start": "2024-11-08T05:00:00+00:00",
+    "new_end": "2024-11-08T05:30:00+00:00",
+    "id": "11f9557411cb7facdc2b3b9fec1c8bb4decfd867bc4a83170bebc2858d8149ad",
+    "version_id": "583425def933ab346af8c9ebd0b0a2675a040a7c1a25d31f2c4199f5835dcd6a",
+    "status": "new"
+  },
+  {
+    "date": "2024-11-08",
+    "start": "2024-11-08T08:40:00+00:00",
+    "end": "2024-11-08T10:25:00+00:00",
+    "value": 1,
+    "summary": "Flight to Ljubljana (HV 6821)",
+    "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DOUlFabSMFiS7c5Zy4ha6-gPe3q7MzUSdg\n",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2024-11-08",
+    "new_start": "2024-11-08T08:40:00+00:00",
+    "new_end": "2024-11-08T10:25:00+00:00",
+    "id": "ae4795a206f3a8f373c2345a5d46f26b643860d7b97b97003d053926cb3c0307",
+    "version_id": "154a9bc175e5aa00e7881474f90b8401ee09b502fbad38d7845418552e91fb8a",
+    "status": "new"
+  },
+  {
+    "date": "2024-11-08",
+    "start": "2024-11-08T18:30:00+00:00",
+    "end": "2024-11-08T20:00:00+00:00",
+    "value": 1,
+    "summary": "hanc",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2024-11-08",
+    "new_start": "2024-11-08T18:30:00+00:00",
+    "new_end": "2024-11-08T20:00:00+00:00",
+    "id": "ab7438631af3742f64f3c4b5c0c0305961b61bfc6d569ffc0b2aa9e02469a831",
+    "version_id": "925b13e5b04f9fe42023d9b83a1494ace6a403cdc0e949510149d64a8a37428d",
+    "status": "new"
+  },
+  {
+    "date": "2024-11-08",
+    "start": "2024-11-08T20:30:00+00:00",
+    "end": "2024-11-08T21:30:00+00:00",
+    "value": 1,
+    "summary": "read",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2024-11-08",
+    "new_start": "2024-11-08T20:30:00+00:00",
+    "new_end": "2024-11-08T21:30:00+00:00",
+    "id": "54b723fabab9de12978361666779093c30af5f9715755a321a628413a243796f",
+    "version_id": "9699dc30d2a19514fc534d935578d413ae9baf8f9e20f6cbd73262ad9b4acfb7",
     "status": "new"
   },
   {
@@ -4647,7 +4737,7 @@
     "new_end": "2024-11-07T15:30:00+00:00",
     "id": "2bd4f845cb6379bb91b01cc6acbe645349e8ff3c7196a00685fb25a056aa53b7",
     "version_id": "f1af3bd7d32cd7ccc36fe52203a098273262604350c74a8112cc96c46aafb40d",
-    "status": "new"
+    "status": "unchanged"
   },
   {
     "date": "2024-11-03",
