@@ -1062,6 +1062,21 @@
     "new_end": "2024-11-08T06:15:00+00:00",
     "id": "7d34541184f9374f093d124d9cb64e90e9d53f780c00dcf498d1a855922fc627",
     "version_id": "4a81deb833b115ce1e406b67c28e5ae95c401e638f3fa5cea357215f0a0bd925",
+    "status": "unchanged"
+  },
+  {
+    "date": "2024-11-09",
+    "start": "2024-11-09T10:00:00+00:00",
+    "end": "2024-11-09T11:00:00+00:00",
+    "value": 1,
+    "summary": "stange / hodt",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2024-11-09",
+    "new_start": "2024-11-09T10:00:00+00:00",
+    "new_end": "2024-11-09T11:00:00+00:00",
+    "id": "b41e15f7fcb36eb399e9c3d84ec36bc518439ad638f7da5941a2b1fdf89276c2",
+    "version_id": "ef0a7da6835cb8553e07a50fe2f66fae692f14b154c787d6a02dbee9b0fd2897",
     "status": "new"
   },
   {
@@ -1738,6 +1753,21 @@
     "id": "aaffbd5e45c58420c6eadbbfe5061f5427c9ac870cae12139f348909c12127a4",
     "version_id": "7e817c19b7c220d687777c62c72a76e3eb88677493cea5d3b92c48b04b25b71e",
     "status": "unchanged"
+  },
+  {
+    "date": "2024-11-09",
+    "start": "2024-11-09T06:00:00+00:00",
+    "end": "2024-11-09T07:55:00+00:00",
+    "value": 1,
+    "summary": "Zacni z individual assignment za entr. science and tech",
+    "description": "(No description)",
+    "calendar_name": "University studying",
+    "new_date": "2024-11-09",
+    "new_start": "2024-11-09T06:00:00+00:00",
+    "new_end": "2024-11-09T07:55:00+00:00",
+    "id": "2b0270e619f63cc70c6b0c986b70705500cb0c467bde2e259eb4558c4f8bc836",
+    "version_id": "2519e438fa687c5f15719b0c42d966b72866078439a5a55234f6a1b33444f8d7",
+    "status": "new"
   },
   {
     "date": "2024-09-23",
@@ -4287,7 +4317,7 @@
     "new_end": "2024-11-08T03:15:00+00:00",
     "id": "f12cfd444af3f3fbae8abf7541d6abbc3ff502a1f573e134e52c3e0c9aff0046",
     "version_id": "f5423ba97b3f30ab9226c4e04f43de9bd5d49e2fb364fc5d8cca91867248d040",
-    "status": "new"
+    "status": "unchanged"
   },
   {
     "date": "2024-11-08",
@@ -4302,7 +4332,7 @@
     "new_end": "2024-11-08T05:30:00+00:00",
     "id": "11f9557411cb7facdc2b3b9fec1c8bb4decfd867bc4a83170bebc2858d8149ad",
     "version_id": "583425def933ab346af8c9ebd0b0a2675a040a7c1a25d31f2c4199f5835dcd6a",
-    "status": "new"
+    "status": "unchanged"
   },
   {
     "date": "2024-11-08",
@@ -4317,7 +4347,7 @@
     "new_end": "2024-11-08T10:25:00+00:00",
     "id": "ae4795a206f3a8f373c2345a5d46f26b643860d7b97b97003d053926cb3c0307",
     "version_id": "154a9bc175e5aa00e7881474f90b8401ee09b502fbad38d7845418552e91fb8a",
-    "status": "new"
+    "status": "unchanged"
   },
   {
     "date": "2024-11-08",
@@ -4332,7 +4362,7 @@
     "new_end": "2024-11-08T20:00:00+00:00",
     "id": "ab7438631af3742f64f3c4b5c0c0305961b61bfc6d569ffc0b2aa9e02469a831",
     "version_id": "925b13e5b04f9fe42023d9b83a1494ace6a403cdc0e949510149d64a8a37428d",
-    "status": "new"
+    "status": "unchanged"
   },
   {
     "date": "2024-11-08",
@@ -4347,6 +4377,51 @@
     "new_end": "2024-11-08T21:30:00+00:00",
     "id": "54b723fabab9de12978361666779093c30af5f9715755a321a628413a243796f",
     "version_id": "9699dc30d2a19514fc534d935578d413ae9baf8f9e20f6cbd73262ad9b4acfb7",
+    "status": "unchanged"
+  },
+  {
+    "date": "2024-11-09",
+    "start": "2024-11-09T03:00:00+00:00",
+    "end": "2024-11-09T03:15:00+00:00",
+    "value": 1,
+    "summary": "Daily 60*60*3",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2024-11-09",
+    "new_start": "2024-11-09T03:00:00+00:00",
+    "new_end": "2024-11-09T03:15:00+00:00",
+    "id": "ab95197388863ff913b6b3cd88999e3fdfc7d0bc8fa4681846be9498def02606",
+    "version_id": "c47aef19de2ea664d77251ee736f39f6fd9aa400b678bf6d3f45ca33f782dbb4",
+    "status": "new"
+  },
+  {
+    "date": "2024-11-09",
+    "start": "2024-11-09T18:30:00+00:00",
+    "end": "2024-11-09T20:00:00+00:00",
+    "value": 1,
+    "summary": "hanc",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2024-11-09",
+    "new_start": "2024-11-09T18:30:00+00:00",
+    "new_end": "2024-11-09T20:00:00+00:00",
+    "id": "e67c2f3913c36d850bb81f93dbcc5e2854cec7f264473208f7bc08757c3bbc5a",
+    "version_id": "7da8247fe5fa0eb5a4f89ae45b9fae8469bb9d4958e77e114f0f3d37aa5fc693",
+    "status": "new"
+  },
+  {
+    "date": "2024-11-09",
+    "start": "2024-11-09T20:30:00+00:00",
+    "end": "2024-11-09T21:30:00+00:00",
+    "value": 1,
+    "summary": "read",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2024-11-09",
+    "new_start": "2024-11-09T20:30:00+00:00",
+    "new_end": "2024-11-09T21:30:00+00:00",
+    "id": "4de45c948b4752dffe0a9247cc7729a68c3a028fa24662080a441e02fc2a7462",
+    "version_id": "e29b747b99d8646ea4ef48fd779fdf50c8ee0eee8d1b24f3152b994d06e6f932",
     "status": "new"
   },
   {
