@@ -623,11 +623,10 @@
     "summary": "Zacni z individual assignment za entr. science and tech",
     "description": "(No description)",
     "calendar_name": "University studying",
-    "new_date": "2024-11-09",
-    "new_start": "2024-11-09T06:00:00+00:00",
-    "new_end": "2024-11-09T07:55:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "2b0270e619f63cc70c6b0c986b70705500cb0c467bde2e259eb4558c4f8bc836",
-    "version_id": "2519e438fa687c5f15719b0c42d966b72866078439a5a55234f6a1b33444f8d7",
-    "status": "new"
+    "version_id": "2519e438fa687c5f15719b0c42d966b72866078439a5a55234f6a1b33444f8d7"
   }
 ]

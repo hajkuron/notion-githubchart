@@ -586,5 +586,20 @@
     "new_end": "",
     "id": "cc944b40dc53ff3d81aa5e3603a9b6e084057faef41e45296886cebe97900a99",
     "version_id": "be9a35611d9b2060dd5342666e914e70d65a3d80db32fab3c9c3a88e2b9dc8d6"
+  },
+  {
+    "date": "2024-11-10",
+    "start": "2024-11-10T06:00:00+00:00",
+    "end": "2024-11-10T08:00:00+00:00",
+    "value": 1,
+    "summary": "automations",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2024-11-10",
+    "new_start": "2024-11-10T06:00:00+00:00",
+    "new_end": "2024-11-10T08:00:00+00:00",
+    "id": "bd646f0c213b682c0dbfd40adc363b0138552dc20d3eddcef6f3a568aa6d7966",
+    "version_id": "db684c03ab23ac2b56a0a9cbbffc6986d399db82ab9460aa261e95a1a7ae0a6f",
+    "status": "new"
   }
 ]

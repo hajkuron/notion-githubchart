@@ -749,11 +749,25 @@
     "summary": "stange / hodt",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2024-11-09",
-    "new_start": "2024-11-09T10:00:00+00:00",
-    "new_end": "2024-11-09T11:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "b41e15f7fcb36eb399e9c3d84ec36bc518439ad638f7da5941a2b1fdf89276c2",
-    "version_id": "ef0a7da6835cb8553e07a50fe2f66fae692f14b154c787d6a02dbee9b0fd2897",
+    "version_id": "ef0a7da6835cb8553e07a50fe2f66fae692f14b154c787d6a02dbee9b0fd2897"
+  },
+  {
+    "date": "2024-11-10",
+    "start": "2024-11-10T12:00:00+00:00",
+    "end": "2024-11-10T14:00:00+00:00",
+    "value": 1,
+    "summary": "football",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2024-11-10",
+    "new_start": "2024-11-10T12:00:00+00:00",
+    "new_end": "2024-11-10T14:00:00+00:00",
+    "id": "92f0c7703f52ac49af01910da2aa623212b9d0b2db56b70d483c20b5f3565254",
+    "version_id": "53537969dab9398c8c9473f583bdb468ed5e253c7e32b52f3118476ce13e2c2b",
     "status": "new"
   }
 ]
