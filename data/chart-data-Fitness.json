@@ -763,11 +763,10 @@
     "summary": "football",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2024-11-10",
-    "new_start": "2024-11-10T12:00:00+00:00",
-    "new_end": "2024-11-10T14:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "92f0c7703f52ac49af01910da2aa623212b9d0b2db56b70d483c20b5f3565254",
-    "version_id": "53537969dab9398c8c9473f583bdb468ed5e253c7e32b52f3118476ce13e2c2b",
-    "status": "new"
+    "version_id": "53537969dab9398c8c9473f583bdb468ed5e253c7e32b52f3118476ce13e2c2b"
   }
 ]
