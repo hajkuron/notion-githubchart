@@ -10,8 +10,8 @@ Calendar ID: 29d040e734cdaa1eaa5f8ede3158c070bd9d7a267573d04032110ad13476f001@gr
 Calendar ID: 1853064a08f90ec23c0b0c0f45eaa003f866992f934c4bfcd1307a9b1cc02e22@group.calendar.google.com, Name: Routines
 Calendar ID: jonkuhar11@gmail.com, Name: jonkuhar11@gmail.com
 Calendar ID: 429tulplr1r73mtmiho2h8ttv990uk9p@import.calendar.google.com, Name: Home
-Calendar ID: 74ee38fa462bc30d45731162e56d3e1cfa68af87c6d8b1b42fca0975efac1833@group.calendar.google.com, Name: Learning
 Calendar ID: b2d5c46cbd52a4c356be5e84d1fbd2e6d4d38df19ff12ad59f50a893304fce4d@group.calendar.google.com, Name: Goals
+Calendar ID: 74ee38fa462bc30d45731162e56d3e1cfa68af87c6d8b1b42fca0975efac1833@group.calendar.google.com, Name: Learning
 Found 13 calendars.
 No events fetched from calendar: Birthdays
 No events fetched from calendar: Sunrise
@@ -22,10 +22,10 @@ Fetched 55 events from calendar: Fitness
 Fetched 45 events from calendar: University studying
 Fetched 43 events from calendar: Projects
 Fetched 1 events from calendar: Routines
-Fetched 141 events from calendar: jonkuhar11@gmail.com
+Fetched 145 events from calendar: jonkuhar11@gmail.com
 Fetched 19 events from calendar: Home
-Fetched 5 events from calendar: Learning
 Fetched 1 events from calendar: Goals
+Fetched 5 events from calendar: Learning
 Fetched events from 9 calendars.
 Saved data for calendar "Work creative clicks" to data/chart-data-Work_creative_clicks.json
 Saved data for calendar "Fitness" to data/chart-data-Fitness.json
@@ -34,6 +34,6 @@ Saved data for calendar "Projects" to data/chart-data-Projects.json
 Saved data for calendar "Routines" to data/chart-data-Routines.json
 Saved data for calendar "jonkuhar11@gmail.com" to data/chart-data-jonkuhar11_gmail.com.json
 Saved data for calendar "Home" to data/chart-data-Home.json
-Saved data for calendar "Learning" to data/chart-data-Learning.json
 Saved data for calendar "Goals" to data/chart-data-Goals.json
+Saved data for calendar "Learning" to data/chart-data-Learning.json
 Google Calendar data fetched and saved successfully
