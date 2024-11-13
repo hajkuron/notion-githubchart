@@ -1095,6 +1095,21 @@
     "status": "unchanged"
   },
   {
+    "date": "2024-11-13",
+    "start": "2024-11-13T05:30:00+00:00",
+    "end": "2024-11-13T06:30:00+00:00",
+    "value": 1,
+    "summary": "tnes",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2024-11-13",
+    "new_start": "2024-11-13T05:30:00+00:00",
+    "new_end": "2024-11-13T06:30:00+00:00",
+    "id": "bdf5908cd21064765e6ca49e9d6d8017f2e4b0fb15fbc08ecd8929f75dd7237c",
+    "version_id": "cf27d191a760d98edd0dc6b6a30f75025616dd325211c4ca084891031758a017",
+    "status": "new"
+  },
+  {
     "date": "2024-09-11",
     "start": "2024-09-11T07:00:00+00:00",
     "end": "2024-09-11T08:00:00+00:00",
@@ -1783,6 +1798,21 @@
     "id": "2b0270e619f63cc70c6b0c986b70705500cb0c467bde2e259eb4558c4f8bc836",
     "version_id": "2519e438fa687c5f15719b0c42d966b72866078439a5a55234f6a1b33444f8d7",
     "status": "unchanged"
+  },
+  {
+    "date": "2024-11-13",
+    "start": "2024-11-13T07:00:00+00:00",
+    "end": "2024-11-13T09:00:00+00:00",
+    "value": 1,
+    "summary": "figure out what u will do for assignment, start reaching out to the companies",
+    "description": "(No description)",
+    "calendar_name": "University studying",
+    "new_date": "2024-11-13",
+    "new_start": "2024-11-13T07:00:00+00:00",
+    "new_end": "2024-11-13T09:00:00+00:00",
+    "id": "b87a467aa9e8e783d0f0e1c0be615e76fe39eff03034499cb4a8bcf4e22e8ea9",
+    "version_id": "235f81e6cc4327e27429283c9ba162576e11ee6ea2d0d9e245a485ebf0995fb8",
+    "status": "new"
   },
   {
     "date": "2024-09-23",
@@ -4572,7 +4602,7 @@
     "new_end": "2024-11-12T03:15:00+00:00",
     "id": "9876ca2e689470936a8bfd3e9ebbdf0b35815126725383e22d7f0f8075201e01",
     "version_id": "97438bc848f70a5a91a5c425dd0c9fb624429535adef865dfe3602ef0c2cff6c",
-    "status": "new"
+    "status": "unchanged"
   },
   {
     "date": "2024-11-12",
@@ -4587,7 +4617,7 @@
     "new_end": "2024-11-12T20:00:00+00:00",
     "id": "a60010c34c33f2a70a803895045298fbc7a5a23cbb2c56fb9c3f2fba0fbb0bb8",
     "version_id": "1f208f594867a7a44fac40e0aac26abd5d61f628735e91fb4132aec4f4cde409",
-    "status": "new"
+    "status": "unchanged"
   },
   {
     "date": "2024-11-12",
@@ -4602,7 +4632,7 @@
     "new_end": "2024-11-12T20:00:00+00:00",
     "id": "c90a709caafe9b71a55b736dfe3f3716116257816a962b91fddfdcc110cd3ae8",
     "version_id": "55e7ab6f79f35e3bf0e021c944560b80b52ddcbf5cc291a08a27f800496a2e64",
-    "status": "new"
+    "status": "unchanged"
   },
   {
     "date": "2024-11-12",
@@ -4617,6 +4647,66 @@
     "new_end": "2024-11-12T21:30:00+00:00",
     "id": "0e2542cecbe84cdad1b7e69e8d39818e1468fc459264349f189b05ba9843df4f",
     "version_id": "e566b06fbb06ceb0ff2b4d2e6199998fd546867fc988e0842840d41106c3c3c2",
+    "status": "unchanged"
+  },
+  {
+    "date": "2024-11-13",
+    "start": "2024-11-13T03:00:00+00:00",
+    "end": "2024-11-13T03:15:00+00:00",
+    "value": 1,
+    "summary": "Daily 60*60*3",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2024-11-13",
+    "new_start": "2024-11-13T03:00:00+00:00",
+    "new_end": "2024-11-13T03:15:00+00:00",
+    "id": "e81de9b758be5a0422edd35372ab3285543174a79ee9dd6e78cec484ad6b62b1",
+    "version_id": "08f773084e13f64041783d2e859cac9317be5eb4ab54b81012690dede70a9629",
+    "status": "new"
+  },
+  {
+    "date": "2024-11-13",
+    "start": "2024-11-13T05:00:00+00:00",
+    "end": "2024-11-13T05:30:00+00:00",
+    "value": 1,
+    "summary": "wake up",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2024-11-13",
+    "new_start": "2024-11-13T05:00:00+00:00",
+    "new_end": "2024-11-13T05:30:00+00:00",
+    "id": "79fc49d72687d4e21ea3c3a3892cd95974452caf5b0b16204da428849cfd059e",
+    "version_id": "6b2892009527b682f8b8b9f9c500c9e16a2ceefee695d8774e5f749134669188",
+    "status": "new"
+  },
+  {
+    "date": "2024-11-13",
+    "start": "2024-11-13T18:00:00+00:00",
+    "end": "2024-11-13T19:00:00+00:00",
+    "value": 1,
+    "summary": "read",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2024-11-13",
+    "new_start": "2024-11-13T18:00:00+00:00",
+    "new_end": "2024-11-13T19:00:00+00:00",
+    "id": "be78cd00d7c01f554dadce0804b2de55f7002928dd51af659e0d7145f32a27eb",
+    "version_id": "bfa19d27ee2a0b025aaa0a19c3e013a19a3546d4690b8641de91868643fc69d6",
+    "status": "new"
+  },
+  {
+    "date": "2024-11-13",
+    "start": "2024-11-13T19:00:00+00:00",
+    "end": "2024-11-13T20:30:00+00:00",
+    "value": 1,
+    "summary": "hanc",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2024-11-13",
+    "new_start": "2024-11-13T19:00:00+00:00",
+    "new_end": "2024-11-13T20:30:00+00:00",
+    "id": "a38659aeb4234ef6993f7df98c711a9bf9969b4ecc1f0e8c6352ecf47d14f5d8",
+    "version_id": "1eab585283bd056a77af984d5b9ff99115404f7e6d0048b429d04291b7aa83dc",
     "status": "new"
   },
   {
