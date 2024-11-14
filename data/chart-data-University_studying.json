@@ -631,17 +631,16 @@
   },
   {
     "date": "2024-11-13",
-    "start": "2024-11-13T07:00:00+00:00",
-    "end": "2024-11-13T09:00:00+00:00",
+    "start": "2024-11-13T12:00:00+00:00",
+    "end": "2024-11-13T14:00:00+00:00",
     "value": 1,
     "summary": "figure out what u will do for assignment, start reaching out to the companies",
     "description": "(No description)",
     "calendar_name": "University studying",
-    "new_date": "2024-11-13",
-    "new_start": "2024-11-13T07:00:00+00:00",
-    "new_end": "2024-11-13T09:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "b87a467aa9e8e783d0f0e1c0be615e76fe39eff03034499cb4a8bcf4e22e8ea9",
-    "version_id": "235f81e6cc4327e27429283c9ba162576e11ee6ea2d0d9e245a485ebf0995fb8",
-    "status": "new"
+    "version_id": "33eb114e858e6dc1081ce75609c5379b97b38026cc5f2a23fd56ad230c38d53a"
   }
 ]

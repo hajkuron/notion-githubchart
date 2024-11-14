@@ -770,18 +770,18 @@
     "version_id": "53537969dab9398c8c9473f583bdb468ed5e253c7e32b52f3118476ce13e2c2b"
   },
   {
-    "date": "2024-11-13",
-    "start": "2024-11-13T05:30:00+00:00",
-    "end": "2024-11-13T06:30:00+00:00",
+    "date": "2024-11-14",
+    "start": "2024-11-14T05:30:00+00:00",
+    "end": "2024-11-14T06:30:00+00:00",
     "value": 1,
     "summary": "tnes",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2024-11-13",
-    "new_start": "2024-11-13T05:30:00+00:00",
-    "new_end": "2024-11-13T06:30:00+00:00",
-    "id": "bdf5908cd21064765e6ca49e9d6d8017f2e4b0fb15fbc08ecd8929f75dd7237c",
-    "version_id": "cf27d191a760d98edd0dc6b6a30f75025616dd325211c4ca084891031758a017",
+    "new_date": "2024-11-14",
+    "new_start": "2024-11-14T05:30:00+00:00",
+    "new_end": "2024-11-14T06:30:00+00:00",
+    "id": "d55aaad0374138cc05f3d0eb9e13c6374d468f1b0f97d18537a649e204e646c1",
+    "version_id": "5f8abfe650a851a6fd80bdf57a787529ee30318b2e062fd274bbfc710eb218c4",
     "status": "new"
   }
 ]
