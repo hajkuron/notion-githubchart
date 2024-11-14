@@ -141,12 +141,7 @@ def process_and_save_data():
         time_min = datetime(2024, 9, 1).isoformat() + 'Z'
         time_max = (datetime.utcnow() + timedelta(days=1)).isoformat() + 'Z'
         
-        calendars_to_exclude = [
-            "University of Amsterdam - Personal timetable: 13597698@uva.nl",
-            "VU Amsterdam - Personal timetable: Kuhar, J. (Jon)",
-            "3eqkug64cc9rpbi0srd8mdoin01vl9l8@import.calendar.google.com",
-            "24apf9qtnt0m4o0d0rsph9qibap9rfrm@import.calendar.google.com"
-        ]
+        calendars_to_exclude = []
 
         # Dictionary to store events for each calendar
         calendar_events = {}
