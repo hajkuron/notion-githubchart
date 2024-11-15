@@ -770,6 +770,36 @@
     "version_id": "53537969dab9398c8c9473f583bdb468ed5e253c7e32b52f3118476ce13e2c2b"
   },
   {
+    "date": "2024-11-11",
+    "start": "2024-11-11T05:30:00+00:00",
+    "end": "2024-11-11T06:30:00+00:00",
+    "value": 1,
+    "summary": "tenis",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2024-11-11",
+    "new_start": "2024-11-11T05:30:00+00:00",
+    "new_end": "2024-11-11T06:30:00+00:00",
+    "id": "f72ad099e63cddf271957264532932ae3bd6d02ebde6547d33153cf845d35524",
+    "version_id": "3cd560766a101cbbf8f7f368726c385233d5499e6425f70e6db9b5bdd51bc027",
+    "status": "new"
+  },
+  {
+    "date": "2024-11-12",
+    "start": "2024-11-12T04:45:00+00:00",
+    "end": "2024-11-12T05:00:00+00:00",
+    "value": 0.5,
+    "summary": "rest",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2024-11-12",
+    "new_start": "2024-11-12T04:45:00+00:00",
+    "new_end": "2024-11-12T05:00:00+00:00",
+    "id": "5f780e4e4721e4b60ce3dfda8f00e8dfb6f7d383734748142cad01a711625ab4",
+    "version_id": "b983ed5a526924b8d2b25b27f9abc48266de43bab8ab89621048c6f7b4cd5b05",
+    "status": "new"
+  },
+  {
     "date": "2024-11-14",
     "start": "2024-11-14T05:30:00+00:00",
     "end": "2024-11-14T06:30:00+00:00",
@@ -777,11 +807,25 @@
     "summary": "tnes",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2024-11-14",
-    "new_start": "2024-11-14T05:30:00+00:00",
-    "new_end": "2024-11-14T06:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "d55aaad0374138cc05f3d0eb9e13c6374d468f1b0f97d18537a649e204e646c1",
-    "version_id": "5f8abfe650a851a6fd80bdf57a787529ee30318b2e062fd274bbfc710eb218c4",
+    "version_id": "5f8abfe650a851a6fd80bdf57a787529ee30318b2e062fd274bbfc710eb218c4"
+  },
+  {
+    "date": "2024-11-15",
+    "start": "2024-11-15T05:30:00+00:00",
+    "end": "2024-11-15T06:30:00+00:00",
+    "value": 1,
+    "summary": "tnes",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2024-11-15",
+    "new_start": "2024-11-15T05:30:00+00:00",
+    "new_end": "2024-11-15T06:30:00+00:00",
+    "id": "f97f5c9d4d005922c7ee8e71e64b80d093e764464983b02b4a28de91def8a1b9",
+    "version_id": "79e0782b04f25fc40534b096fa869f418c9c526161feded10de537c4bd499718",
     "status": "new"
   }
 ]

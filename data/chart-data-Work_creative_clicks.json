@@ -245,11 +245,25 @@
     "summary": "work",
     "description": "(No description)",
     "calendar_name": "Work creative clicks",
-    "new_date": "2024-11-14",
-    "new_start": "2024-11-14T07:00:00+00:00",
-    "new_end": "2024-11-14T15:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "6a86040a9da812881c2f8fde73c8375cd4516b57a37004c3bed00f4efdd07cf1",
-    "version_id": "48d1420710dbe978e328d464df1362c5028322214b95ba7344a55d6d423b1ed8",
+    "version_id": "48d1420710dbe978e328d464df1362c5028322214b95ba7344a55d6d423b1ed8"
+  },
+  {
+    "date": "2024-11-15",
+    "start": "2024-11-15T07:00:00+00:00",
+    "end": "2024-11-15T15:00:00+00:00",
+    "value": 1,
+    "summary": "work",
+    "description": "(No description)",
+    "calendar_name": "Work creative clicks",
+    "new_date": "2024-11-15",
+    "new_start": "2024-11-15T07:00:00+00:00",
+    "new_end": "2024-11-15T15:00:00+00:00",
+    "id": "42ec063fe4f171b0a5d4fbd6192e4284527398600d5faa4f99700f6c098227cc",
+    "version_id": "41de5283f1b8d8668c1fb5220e371ee05314ac70ac14064d8236e72b9bf2a9cb",
     "status": "new"
   }
 ]

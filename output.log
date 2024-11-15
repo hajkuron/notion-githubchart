@@ -15,18 +15,20 @@ Calendar ID: 74ee38fa462bc30d45731162e56d3e1cfa68af87c6d8b1b42fca0975efac1833@gr
 Found 13 calendars.
 No events fetched from calendar: Birthdays
 No events fetched from calendar: Sunrise
-Skipping excluded calendar: University of Amsterdam - Personal timetable: 13597698@uva.nl
-Skipping excluded calendar: VU Amsterdam - Personal timetable: Kuhar, J. (Jon)
-Fetched 18 events from calendar: Work creative clicks
-Fetched 56 events from calendar: Fitness
+Fetched 25 events from calendar: University of Amsterdam - Personal timetable: 13597698@uva.nl
+Fetched 15 events from calendar: VU Amsterdam - Personal timetable: Kuhar, J. (Jon)
+Fetched 19 events from calendar: Work creative clicks
+Fetched 59 events from calendar: Fitness
 Fetched 46 events from calendar: University studying
 Fetched 43 events from calendar: Projects
 Fetched 1 events from calendar: Routines
-Fetched 152 events from calendar: jonkuhar11@gmail.com
+Fetched 156 events from calendar: jonkuhar11@gmail.com
 Fetched 19 events from calendar: Home
 Fetched 1 events from calendar: Goals
-Fetched 6 events from calendar: Learning
-Fetched events from 9 calendars.
+Fetched 7 events from calendar: Learning
+Fetched events from 11 calendars.
+Saved data for calendar "University of Amsterdam - Personal timetable: 13597698@uva.nl" to data/chart-data-University_of_Amsterdam_-_Personal_timetable_13597698_uva.nl.json
+Saved data for calendar "VU Amsterdam - Personal timetable: Kuhar, J. (Jon)" to data/chart-data-VU_Amsterdam_-_Personal_timetable_Kuhar,_J._(Jon).json
 Saved data for calendar "Work creative clicks" to data/chart-data-Work_creative_clicks.json
 Saved data for calendar "Fitness" to data/chart-data-Fitness.json
 Saved data for calendar "University studying" to data/chart-data-University_studying.json
