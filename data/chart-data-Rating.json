@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2024-11-15",
+    "start": "2024-11-15T22:00:00+00:00",
+    "end": "2024-11-15T22:15:00+00:00",
+    "value": 1,
+    "summary": "75",
+    "description": "(No description)",
+    "calendar_name": "Rating",
+    "new_date": "2024-11-15",
+    "new_start": "2024-11-15T22:00:00+00:00",
+    "new_end": "2024-11-15T22:15:00+00:00",
+    "id": "5e5f1fe1e9b7b2a00808e0623ddfefc3b5cef3863ed4f27e15efda339364ef63",
+    "version_id": "687fc299334d7a3c5fcfca64cfd467d7384e62120dacfccfe7cdcc1f796d5ed7",
+    "status": "new"
+  }
+]

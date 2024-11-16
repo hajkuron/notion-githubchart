@@ -600,5 +600,20 @@
     "new_end": "",
     "id": "bd646f0c213b682c0dbfd40adc363b0138552dc20d3eddcef6f3a568aa6d7966",
     "version_id": "db684c03ab23ac2b56a0a9cbbffc6986d399db82ab9460aa261e95a1a7ae0a6f"
+  },
+  {
+    "date": "2024-11-16",
+    "start": "2024-11-16T07:00:00+00:00",
+    "end": "2024-11-16T11:00:00+00:00",
+    "value": 1,
+    "summary": "automaiton linked in",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2024-11-16",
+    "new_start": "2024-11-16T07:00:00+00:00",
+    "new_end": "2024-11-16T11:00:00+00:00",
+    "id": "cb2a5cc17440e0d91639023d0fad97ba0e8fe9405e83613e8dc02fbe0963f1a7",
+    "version_id": "a01bb4983fecba07ccac6b1abe9dbb8aa19a828227ead3c2cccab86e41d5ca17",
+    "status": "new"
   }
 ]

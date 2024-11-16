@@ -12,21 +12,23 @@ Calendar ID: jonkuhar11@gmail.com, Name: jonkuhar11@gmail.com
 Calendar ID: 429tulplr1r73mtmiho2h8ttv990uk9p@import.calendar.google.com, Name: Home
 Calendar ID: b2d5c46cbd52a4c356be5e84d1fbd2e6d4d38df19ff12ad59f50a893304fce4d@group.calendar.google.com, Name: Goals
 Calendar ID: 74ee38fa462bc30d45731162e56d3e1cfa68af87c6d8b1b42fca0975efac1833@group.calendar.google.com, Name: Learning
-Found 13 calendars.
+Calendar ID: 208f860cb19e90a542dcc09f36fa6c615d0b42ed14399c7b9bc0cf27f342fc1d@group.calendar.google.com, Name: Rating
+Found 14 calendars.
 No events fetched from calendar: Birthdays
 No events fetched from calendar: Sunrise
 Fetched 25 events from calendar: University of Amsterdam - Personal timetable: 13597698@uva.nl
 Fetched 15 events from calendar: VU Amsterdam - Personal timetable: Kuhar, J. (Jon)
 Fetched 19 events from calendar: Work creative clicks
 Fetched 59 events from calendar: Fitness
-Fetched 46 events from calendar: University studying
-Fetched 43 events from calendar: Projects
+Fetched 47 events from calendar: University studying
+Fetched 44 events from calendar: Projects
 Fetched 1 events from calendar: Routines
-Fetched 156 events from calendar: jonkuhar11@gmail.com
+Fetched 160 events from calendar: jonkuhar11@gmail.com
 Fetched 19 events from calendar: Home
 Fetched 1 events from calendar: Goals
-Fetched 7 events from calendar: Learning
-Fetched events from 11 calendars.
+Fetched 8 events from calendar: Learning
+Fetched 1 events from calendar: Rating
+Fetched events from 12 calendars.
 Saved data for calendar "University of Amsterdam - Personal timetable: 13597698@uva.nl" to data/chart-data-University_of_Amsterdam_-_Personal_timetable_13597698_uva.nl.json
 Saved data for calendar "VU Amsterdam - Personal timetable: Kuhar, J. (Jon)" to data/chart-data-VU_Amsterdam_-_Personal_timetable_Kuhar,_J._(Jon).json
 Saved data for calendar "Work creative clicks" to data/chart-data-Work_creative_clicks.json
@@ -38,4 +40,5 @@ Saved data for calendar "jonkuhar11@gmail.com" to data/chart-data-jonkuhar11_gma
 Saved data for calendar "Home" to data/chart-data-Home.json
 Saved data for calendar "Goals" to data/chart-data-Goals.json
 Saved data for calendar "Learning" to data/chart-data-Learning.json
+Saved data for calendar "Rating" to data/chart-data-Rating.json
 Google Calendar data fetched and saved successfully

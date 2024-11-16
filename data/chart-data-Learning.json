@@ -85,17 +85,31 @@
   },
   {
     "date": "2024-11-15",
-    "start": "2024-11-15T15:30:00+00:00",
-    "end": "2024-11-15T17:00:00+00:00",
+    "start": "2024-11-15T16:30:00+00:00",
+    "end": "2024-11-15T18:00:00+00:00",
     "value": 1,
     "summary": "videos",
     "description": "(No description)",
     "calendar_name": "Learning",
-    "new_date": "2024-11-15",
-    "new_start": "2024-11-15T15:30:00+00:00",
-    "new_end": "2024-11-15T17:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "6491dce06c79b8661e66013102688d5ab4af9dc834b95414a04cbc5ccdb88af5",
-    "version_id": "c72bfa5db80362c7ff0e0fbae704026f014dacdb96ab109481d111eb4bfcd164",
+    "version_id": "6698b54caec228a7c4072c8452363a84fb732781c143a59bf61399a8d9532ea5"
+  },
+  {
+    "date": "2024-11-16",
+    "start": "2024-11-16T17:00:00+00:00",
+    "end": "2024-11-16T17:55:00+00:00",
+    "value": 1,
+    "summary": "educ videos",
+    "description": "(No description)",
+    "calendar_name": "Learning",
+    "new_date": "2024-11-16",
+    "new_start": "2024-11-16T17:00:00+00:00",
+    "new_end": "2024-11-16T17:55:00+00:00",
+    "id": "8f47ce1abd841ffe69a63cf9a4be764c4f4b916a221521d04bba5b250e37055f",
+    "version_id": "f2cfdf17b0c301edc4943d4df904e9b5171e7164ca4121ed9893927bcbb3783f",
     "status": "new"
   }
 ]
