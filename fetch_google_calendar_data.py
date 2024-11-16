@@ -89,6 +89,9 @@ def generate_ids(event):
     return stable_id, version_id
 
 def compare_and_update_historical_data(new_events, historical_data):
+    # Add list of calendars to ignore status changes
+    university_calendars = ["VU Amsterdam - Personal timetable: Kuhar, J. (Jon)", "University of Amsterdam - Personal timetable: 13597698@uva.nl"]  # Add your specific calendar names here
+    
     # Create a dictionary of new events for quick lookup
     new_event_dict = {event['id']: event for event in new_events}
     
@@ -99,10 +102,13 @@ def compare_and_update_historical_data(new_events, historical_data):
         if 'id' not in historical_event or 'version_id' not in historical_event:
             historical_event['id'], historical_event['version_id'] = generate_ids(historical_event)
         
+        # Check if this event is from a university calendar
+        is_university_calendar = historical_event.get('calendar_name') in university_calendars
+        
         if historical_event['id'] in new_event_dict:
             new_event = new_event_dict.pop(historical_event['id'])
-            if historical_event['version_id'] != new_event['version_id']:
-                # Update only necessary fields
+            if historical_event['version_id'] != new_event['version_id'] and not is_university_calendar:
+                # Update only necessary fields if not a university calendar
                 historical_event.update({
                     'new_date': new_event['date'],
                     'new_start': new_event['start'],
@@ -114,16 +120,20 @@ def compare_and_update_historical_data(new_events, historical_data):
                 historical_event['status'] = 'unchanged'
             updated_historical_data.append(historical_event)
         else:
-            # Mark as deleted if it's not in new events
-            historical_event['status'] = 'deleted'
+            # Mark as deleted only if it's not from a university calendar
+            if not is_university_calendar:
+                historical_event['status'] = 'deleted'
             updated_historical_data.append(historical_event)
     
     # Add any new events that weren't matched
     for new_event in new_event_dict.values():
-        new_event['status'] = 'new'
-        new_event['new_date'] = new_event['date']
-        new_event['new_start'] = new_event['start']
-        new_event['new_end'] = new_event['end']
+        # Only mark as new if not from a university calendar
+        is_university_calendar = new_event.get('calendar_name') in university_calendars
+        if not is_university_calendar:
+            new_event['status'] = 'new'
+            new_event['new_date'] = new_event['date']
+            new_event['new_start'] = new_event['start']
+            new_event['new_end'] = new_event['end']
         updated_historical_data.append(new_event)
     
     return updated_historical_data
