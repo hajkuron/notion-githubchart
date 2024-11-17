@@ -90,7 +90,7 @@ def generate_ids(event):
 
 def compare_and_update_historical_data(new_events, historical_data):
     # Add list of calendars to ignore status changes
-    university_calendars = ["VU Amsterdam - Personal timetable: Kuhar, J. (Jon)", "University of Amsterdam - Personal timetable: 13597698@uva.nl"]  # Add your specific calendar names here
+    university_calendars = []  # Add your specific calendar names here
     
     # Create a dictionary of new events for quick lookup
     new_event_dict = {event['id']: event for event in new_events}

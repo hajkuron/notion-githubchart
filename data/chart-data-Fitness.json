@@ -819,11 +819,25 @@
     "summary": "tnes",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2024-11-16",
-    "new_start": "2024-11-16T05:30:00+00:00",
-    "new_end": "2024-11-16T06:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "7286ec4730a34ef7c9f4fb6fc8305cadb4e6e9f0a76e2989e754fd16923957aa",
-    "version_id": "04c244c470d0dec505e0c91f63119ec1634fa52307d96260bd28fefbbc6669e5",
+    "version_id": "04c244c470d0dec505e0c91f63119ec1634fa52307d96260bd28fefbbc6669e5"
+  },
+  {
+    "date": "2024-11-17",
+    "start": "2024-11-17T12:00:00+00:00",
+    "end": "2024-11-17T14:00:00+00:00",
+    "value": 1,
+    "summary": "football",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2024-11-17",
+    "new_start": "2024-11-17T12:00:00+00:00",
+    "new_end": "2024-11-17T14:00:00+00:00",
+    "id": "320495bbc70193210bf3c79ecbc39ffa0402d7bb993ceae8293e9af6f68b1b7b",
+    "version_id": "7dafc79cf8c528e6eca0fc2bb3913e02cb651ffe3f1202c13c564f91f5925e44",
     "status": "new"
   }
 ]

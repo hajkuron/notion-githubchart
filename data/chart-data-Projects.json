@@ -609,11 +609,25 @@
     "summary": "automaiton linked in",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2024-11-16",
-    "new_start": "2024-11-16T07:00:00+00:00",
-    "new_end": "2024-11-16T11:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "cb2a5cc17440e0d91639023d0fad97ba0e8fe9405e83613e8dc02fbe0963f1a7",
-    "version_id": "a01bb4983fecba07ccac6b1abe9dbb8aa19a828227ead3c2cccab86e41d5ca17",
+    "version_id": "a01bb4983fecba07ccac6b1abe9dbb8aa19a828227ead3c2cccab86e41d5ca17"
+  },
+  {
+    "date": "2024-11-17",
+    "start": "2024-11-17T05:30:00+00:00",
+    "end": "2024-11-17T08:00:00+00:00",
+    "value": 1,
+    "summary": "automaiton linked in",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2024-11-17",
+    "new_start": "2024-11-17T05:30:00+00:00",
+    "new_end": "2024-11-17T08:00:00+00:00",
+    "id": "d7eabd526e5af6c878535d3a1e4b3fb7d6148fed1dba9e799aaf13075bd8f2ad",
+    "version_id": "f11e634b79f771b800817409895ea55d896f55dd1d35849c045102d8caa0c9da",
     "status": "new"
   }
 ]

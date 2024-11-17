@@ -9,6 +9,12 @@ def load_historical_data():
         return json.load(f)
 
 def prepare_data_for_supabase(historical_data):
+    # Define university calendars
+    university_calendars = [
+        "VU Amsterdam - Personal timetable: Kuhar, J. (Jon)", 
+        "University of Amsterdam - Personal timetable: 13597698@uva.nl"
+    ]
+    
     # Convert to DataFrame
     df = pd.DataFrame(historical_data)
     
@@ -16,7 +22,7 @@ def prepare_data_for_supabase(historical_data):
     df['duration'] = (pd.to_datetime(df['end']) - pd.to_datetime(df['start'])).dt.total_seconds().div(60).fillna(0)
     
     # Ensure all required columns are present
-    required_columns = ['id', 'date', 'start', 'end', 'summary', 'calendar_name', 'description', 'deleted', 'value', 'duration']
+    required_columns = ['id', 'date', 'start', 'end', 'summary', 'calendar_name', 'description', 'deleted', 'value', 'duration', 'status']
     for col in required_columns:
         if col not in df.columns:
             df[col] = None
@@ -28,7 +34,11 @@ def prepare_data_for_supabase(historical_data):
     
     # Set value to 0.5 for fitness calendar events with 'rest' in the summary
     df.loc[(df['calendar_name'] == 'fitness') & (df['summary'].str.lower().str.contains('rest', na=False)), 'value'] = 0.5
-
+    
+    # Handle university calendar events
+    df.loc[df['calendar_name'].isin(university_calendars), 'description'] = ''  # Empty description
+    df.loc[df['calendar_name'].isin(university_calendars), 'status'] = 'new'    # Set status to 'new'
+    
     # Remove duplicates, keeping the first occurrence
     df = df.drop_duplicates(subset=['id'], keep='first')
 
