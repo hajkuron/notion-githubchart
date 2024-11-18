@@ -658,18 +658,18 @@
     "version_id": "6798151a82bcdf544afe5aac5272a75fbca37bfce8e2718b68b1f58e09a3015f"
   },
   {
-    "date": "2024-11-17",
-    "start": "2024-11-17T08:00:00+00:00",
-    "end": "2024-11-17T10:00:00+00:00",
+    "date": "2024-11-18",
+    "start": "2024-11-18T07:30:00+00:00",
+    "end": "2024-11-18T09:30:00+00:00",
     "value": 1,
-    "summary": "assignment reach out to companies, startup work",
+    "summary": "University, figure out for the assignemnt",
     "description": "(No description)",
     "calendar_name": "University studying",
-    "new_date": "2024-11-17",
-    "new_start": "2024-11-17T08:00:00+00:00",
-    "new_end": "2024-11-17T10:00:00+00:00",
-    "id": "d5cb0338eeaad44fcb1a4471a6cce398c11ba9fca4b5d7316c2c80686f79a179",
-    "version_id": "385a8239b78701f90fbfa2290023e1fee2ec37b99619d1919993ddca47439049",
+    "new_date": "2024-11-18",
+    "new_start": "2024-11-18T07:30:00+00:00",
+    "new_end": "2024-11-18T09:30:00+00:00",
+    "id": "71f32bd70f55378487721c28130c684c68be30651e5cc1246e71950beb26e228",
+    "version_id": "fbd1e3f33bb6d5ff719ac765aed74294be88718c1788ddccac639c9064cbbf95",
     "status": "new"
   }
 ]
