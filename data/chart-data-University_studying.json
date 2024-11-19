@@ -665,11 +665,25 @@
     "summary": "University, figure out for the assignemnt",
     "description": "(No description)",
     "calendar_name": "University studying",
-    "new_date": "2024-11-18",
-    "new_start": "2024-11-18T07:30:00+00:00",
-    "new_end": "2024-11-18T09:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "71f32bd70f55378487721c28130c684c68be30651e5cc1246e71950beb26e228",
-    "version_id": "fbd1e3f33bb6d5ff719ac765aed74294be88718c1788ddccac639c9064cbbf95",
+    "version_id": "fbd1e3f33bb6d5ff719ac765aed74294be88718c1788ddccac639c9064cbbf95"
+  },
+  {
+    "date": "2024-11-19",
+    "start": "2024-11-19T10:45:00+00:00",
+    "end": "2024-11-19T12:00:00+00:00",
+    "value": 1,
+    "summary": "meeting uni",
+    "description": "(No description)",
+    "calendar_name": "University studying",
+    "new_date": "2024-11-19",
+    "new_start": "2024-11-19T10:45:00+00:00",
+    "new_end": "2024-11-19T12:00:00+00:00",
+    "id": "465fa4edcd82fa3f97b8e12e485fd7c9a28b42c8939223a41e899ee7bdfb64db",
+    "version_id": "a226c8af01f59e9be35505902f75279c78fe9906cb003f7fc60244f895b4a0d1",
     "status": "new"
   }
 ]

@@ -35,11 +35,25 @@
     "summary": "60",
     "description": "(No description)",
     "calendar_name": "Rating",
-    "new_date": "2024-11-17",
-    "new_start": "2024-11-17T22:00:00+00:00",
-    "new_end": "2024-11-17T22:15:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "3370332fcbf7616b4ba9e4b5767d85875661dbffff93415cd17794b9e5172155",
-    "version_id": "51b934991d1a4745dc06a2ffc8fb77acd8bbec30666d09ce365e4106903970cf",
+    "version_id": "51b934991d1a4745dc06a2ffc8fb77acd8bbec30666d09ce365e4106903970cf"
+  },
+  {
+    "date": "2024-11-18",
+    "start": "2024-11-18T22:00:00+00:00",
+    "end": "2024-11-18T22:15:00+00:00",
+    "value": 1,
+    "summary": "60",
+    "description": "(No description)",
+    "calendar_name": "Rating",
+    "new_date": "2024-11-18",
+    "new_start": "2024-11-18T22:00:00+00:00",
+    "new_end": "2024-11-18T22:15:00+00:00",
+    "id": "c889a4179b918993534720b8e1604df8b9734b2e40a90d110c1ad2996a147d2e",
+    "version_id": "82d10b59375153044af113ec8d395a482eb8b50bd8e44a06d3c3b7bd750bbd75",
     "status": "new"
   }
 ]

@@ -2359,12 +2359,11 @@
     "summary": "meal prep plan + shop + cook",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2024-11-18",
-    "new_start": "2024-11-18T09:30:00+00:00",
-    "new_end": "2024-11-18T13:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "d9d141a4322504c11b6ecbf4227c680a038fe43d2d6b6aec1ffae06d15a3ad3a",
-    "version_id": "7096c5c67e481585ffbc853cfef0975e5402238e99721d0fb81e03b74b83f75a",
-    "status": "new"
+    "version_id": "7096c5c67e481585ffbc853cfef0975e5402238e99721d0fb81e03b74b83f75a"
   },
   {
     "date": "2024-11-18",
@@ -2374,12 +2373,11 @@
     "summary": "read, finish the book",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2024-11-18",
-    "new_start": "2024-11-18T13:00:00+00:00",
-    "new_end": "2024-11-18T14:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "7d586d95c5e5165fe8ca55fe63e0521ab50013bdfe2f01fe93ab7df0eef1848c",
-    "version_id": "4aabe64901c220218955e89576b5ad043eac26bf4a020d561252a127ea76c75b",
-    "status": "new"
+    "version_id": "4aabe64901c220218955e89576b5ad043eac26bf4a020d561252a127ea76c75b"
   },
   {
     "date": "2024-11-18",
@@ -2389,12 +2387,11 @@
     "summary": "read",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2024-11-18",
-    "new_start": "2024-11-18T18:00:00+00:00",
-    "new_end": "2024-11-18T19:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "45364df32109f2d49a891c4332106f00739cc629e858538151c36e6860b1e8db",
-    "version_id": "29af1b01d020e103a400f29e0406236059b638ca59bf24aa46344e68d9fbc229",
-    "status": "new"
+    "version_id": "29af1b01d020e103a400f29e0406236059b638ca59bf24aa46344e68d9fbc229"
   },
   {
     "date": "2024-11-18",
@@ -2404,11 +2401,55 @@
     "summary": "hanc",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2024-11-18",
-    "new_start": "2024-11-18T19:00:00+00:00",
-    "new_end": "2024-11-18T20:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "47587bd74a8048268674dd7f7746953289db644cc52b247ab9c895f637c3f2a7",
-    "version_id": "4ac736652a0107229e2071ed45cd0fbe155c5ca601699b25f7d53c98865c0daf",
+    "version_id": "4ac736652a0107229e2071ed45cd0fbe155c5ca601699b25f7d53c98865c0daf"
+  },
+  {
+    "date": "2024-11-19",
+    "start": "2024-11-19T03:00:00+00:00",
+    "end": "2024-11-19T03:15:00+00:00",
+    "value": 1,
+    "summary": "Daily 60*60*3",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2024-11-19",
+    "new_start": "2024-11-19T03:00:00+00:00",
+    "new_end": "2024-11-19T03:15:00+00:00",
+    "id": "6d8dc8244526981177974a0d6085d3287a243fbf0c4a3fd8e129d441a8e8c1b9",
+    "version_id": "64cd6323c10d636941505eccb7edbaf933a33518179470655819ab4d13d09589",
+    "status": "new"
+  },
+  {
+    "date": "2024-11-19",
+    "start": "2024-11-19T05:00:00+00:00",
+    "end": "2024-11-19T05:30:00+00:00",
+    "value": 1,
+    "summary": "wake up",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2024-11-19",
+    "new_start": "2024-11-19T05:00:00+00:00",
+    "new_end": "2024-11-19T05:30:00+00:00",
+    "id": "c6af823fbf1b7fea955ba29497cccdaa2d8a6753bb4432810fad39b89a2bf7c8",
+    "version_id": "947b5dcbdc959660f9f81fc875db22215d2dd602c9585de9d46178a06ef8ccc2",
+    "status": "new"
+  },
+  {
+    "date": "2024-11-19",
+    "start": "2024-11-19T17:00:00+00:00",
+    "end": "2024-11-19T20:00:00+00:00",
+    "value": 1,
+    "summary": "Mindstone Amsterdam AI Meetup",
+    "description": "For full details, including the address, and to RSVP see: https://www.meetup.com/mindstone-amsterdam-ai-meetup/events/303601124\n\n",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2024-11-19",
+    "new_start": "2024-11-19T17:00:00+00:00",
+    "new_end": "2024-11-19T20:00:00+00:00",
+    "id": "65259333d7b45d05faad304c81bb9142e871fe11417ee7f4bc20e9cced80f798",
+    "version_id": "ae00f63c88aca34e44abeda1b80e46e726567c8c8b2127fd2a7845b2239f523b",
     "status": "new"
   }
 ]
