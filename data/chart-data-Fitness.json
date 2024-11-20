@@ -854,18 +854,18 @@
     "version_id": "11780d5b8a8cba851ff80ad77293f5c25220bb3d805a2a2ae961da92d62f5a82"
   },
   {
-    "date": "2024-11-19",
-    "start": "2024-11-19T05:30:00+00:00",
-    "end": "2024-11-19T06:30:00+00:00",
+    "date": "2024-11-20",
+    "start": "2024-11-20T07:30:00+00:00",
+    "end": "2024-11-20T08:30:00+00:00",
     "value": 1,
     "summary": "Gym",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2024-11-19",
-    "new_start": "2024-11-19T05:30:00+00:00",
-    "new_end": "2024-11-19T06:30:00+00:00",
-    "id": "b8cce14c551a0facb3df35787f8eb507c73ab491fec02d572d85195fae24d816",
-    "version_id": "32f4a95f005714b29c3ee20d8cc60bd8d64bfefb5bfe5526a9871626ba67a1f9",
+    "new_date": "2024-11-20",
+    "new_start": "2024-11-20T07:30:00+00:00",
+    "new_end": "2024-11-20T08:30:00+00:00",
+    "id": "27565a839e8f23c4d4b131a7ad405431962d3f04a9988a0cfa8709f62749bb4d",
+    "version_id": "845270a622f1dea1af1fb4d3c5333455388a04b5772f53336e393a4ba63ae7c0",
     "status": "new"
   }
 ]

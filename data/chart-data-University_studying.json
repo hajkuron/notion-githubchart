@@ -679,11 +679,25 @@
     "summary": "meeting uni",
     "description": "(No description)",
     "calendar_name": "University studying",
-    "new_date": "2024-11-19",
-    "new_start": "2024-11-19T10:45:00+00:00",
-    "new_end": "2024-11-19T12:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "465fa4edcd82fa3f97b8e12e485fd7c9a28b42c8939223a41e899ee7bdfb64db",
-    "version_id": "a226c8af01f59e9be35505902f75279c78fe9906cb003f7fc60244f895b4a0d1",
+    "version_id": "a226c8af01f59e9be35505902f75279c78fe9906cb003f7fc60244f895b4a0d1"
+  },
+  {
+    "date": "2024-11-20",
+    "start": "2024-11-20T10:00:00+00:00",
+    "end": "2024-11-20T12:00:00+00:00",
+    "value": 1,
+    "summary": "uni",
+    "description": "(No description)",
+    "calendar_name": "University studying",
+    "new_date": "2024-11-20",
+    "new_start": "2024-11-20T10:00:00+00:00",
+    "new_end": "2024-11-20T12:00:00+00:00",
+    "id": "e5b4791c1d7d4d4a603030bf4c9eb5fe3392051d36e2ef36b5c6a55537f69cb0",
+    "version_id": "2ec801a6a2eb4035e70a71d3900702afe359175a678d67fc7dd90b3234b8ab61",
     "status": "new"
   }
 ]
