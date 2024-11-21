@@ -630,34 +630,6 @@
     "version_id": "7f9f85ed140d9aa438ce6245670df9709e0bbb4750aee28bb1ae03f108194986"
   },
   {
-    "date": "2024-11-19",
-    "start": "2024-11-19T13:00:00+00:00",
-    "end": "2024-11-19T17:15:00+00:00",
-    "value": 1,
-    "summary": "project",
-    "description": "(No description)",
-    "calendar_name": "Projects",
-    "new_date": "",
-    "new_start": "",
-    "new_end": "",
-    "id": "3d3ca174cd785199b3edcc2baa6672e91d13cadada0138ff1f3891f5792ce9ac",
-    "version_id": "93761d9b138e94a0f515846c42b7ca0978b69ad9a3871fb4cc34fd0f6903c514"
-  },
-  {
-    "date": "2024-11-20",
-    "start": "2024-11-20T05:30:00+00:00",
-    "end": "2024-11-20T07:25:00+00:00",
-    "value": 1,
-    "summary": "Linked in outreach",
-    "description": "(No description)",
-    "calendar_name": "Projects",
-    "new_date": "",
-    "new_start": "",
-    "new_end": "",
-    "id": "6641999803cd5262993c1193bdbd9edfbc25353ba780736664b81929b019cbc0",
-    "version_id": "d4fc9dfcbd90d54969126cc937633e9e03505fc340badb713ec6fd4f33aa8df9"
-  },
-  {
     "date": "2024-11-20",
     "start": "2024-11-20T13:00:00+00:00",
     "end": "2024-11-20T15:00:00+00:00",
@@ -670,5 +642,34 @@
     "new_end": "",
     "id": "5c65e7082ee50a7a16daadcc93ac9e3ea1dc9c3e365dc60b4644d9160c054468",
     "version_id": "26565ef4bc960bbf598551ac4dc53e378c28fcceb817a1624b2481dfb8b645f6"
+  },
+  {
+    "date": "2024-11-20",
+    "start": "2024-11-20T15:00:00+00:00",
+    "end": "2024-11-20T16:45:00+00:00",
+    "value": 1,
+    "summary": "Linked in outreach",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
+    "id": "6641999803cd5262993c1193bdbd9edfbc25353ba780736664b81929b019cbc0",
+    "version_id": "2eb9771a2379a54b28fa919d9d776483fab80e27c1e1409fe22e1d7a989ac2f8"
+  },
+  {
+    "date": "2024-11-22",
+    "start": "2024-11-22T15:00:00+00:00",
+    "end": "2024-11-22T17:00:00+00:00",
+    "value": 1,
+    "summary": "linked in automation",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2024-11-22",
+    "new_start": "2024-11-22T15:00:00+00:00",
+    "new_end": "2024-11-22T17:00:00+00:00",
+    "id": "05306ea39a08bd75519ad8cae8585e4565df6778dddabdb963e98267fe9480b4",
+    "version_id": "de117d8fe89203ffa78a856f792dcb2767e77cd649857437e971cdbea0440a14",
+    "status": "new"
   }
 ]

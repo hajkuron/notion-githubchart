@@ -2409,20 +2409,6 @@
   },
   {
     "date": "2024-11-19",
-    "start": "2024-11-19T03:00:00+00:00",
-    "end": "2024-11-19T03:15:00+00:00",
-    "value": 1,
-    "summary": "Daily 60*60*3",
-    "description": "(No description)",
-    "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "",
-    "new_start": "",
-    "new_end": "",
-    "id": "6d8dc8244526981177974a0d6085d3287a243fbf0c4a3fd8e129d441a8e8c1b9",
-    "version_id": "64cd6323c10d636941505eccb7edbaf933a33518179470655819ab4d13d09589"
-  },
-  {
-    "date": "2024-11-19",
     "start": "2024-11-19T05:00:00+00:00",
     "end": "2024-11-19T05:30:00+00:00",
     "value": 1,
@@ -2437,20 +2423,6 @@
   },
   {
     "date": "2024-11-20",
-    "start": "2024-11-20T03:00:00+00:00",
-    "end": "2024-11-20T03:15:00+00:00",
-    "value": 1,
-    "summary": "Daily 60*60*3",
-    "description": "(No description)",
-    "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "",
-    "new_start": "",
-    "new_end": "",
-    "id": "559be2b5c5b2b983a689733569634e9f38f5a63c79b74ccabc64a2956461d1fa",
-    "version_id": "dbc08c9d64d2d5311da73a57521f263aa2ee8570c6aa82310f22c855d5a189af"
-  },
-  {
-    "date": "2024-11-20",
     "start": "2024-11-20T05:00:00+00:00",
     "end": "2024-11-20T05:30:00+00:00",
     "value": 1,
@@ -2462,20 +2434,6 @@
     "new_end": "",
     "id": "2e14a0c71bb44d22eaaf09f3f6331d08d0a3d90b8b20ce2508e663a546444aca",
     "version_id": "a67fcee3df6b37bf4435b3be7bad8d7ad49f6055ce4d79002d622dc51c94832f"
-  },
-  {
-    "date": "2024-11-20",
-    "start": "2024-11-20T18:00:00+00:00",
-    "end": "2024-11-20T19:00:00+00:00",
-    "value": 1,
-    "summary": "read",
-    "description": "(No description)",
-    "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "",
-    "new_start": "",
-    "new_end": "",
-    "id": "55cd1f2f2abe7981cc793a38c127c44416a022eb409b454b54091d0f47987c30",
-    "version_id": "1f3b0edfcc83d51167d7c1a1f0154fb9e1eef9c00acfc3520d62d887ad04aa98"
   },
   {
     "date": "2024-11-20",
@@ -2499,12 +2457,11 @@
     "summary": "Daily 60*60*3",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2024-11-21",
-    "new_start": "2024-11-21T03:00:00+00:00",
-    "new_end": "2024-11-21T03:15:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "075c5bd03d056d6206c25047c3c1fd1291e58593372372ef437b60d9ad80a23e",
-    "version_id": "269263a90a0022e83c8b5ab8b34862d253956228c554179007b6ab9049d6fc46",
-    "status": "new"
+    "version_id": "269263a90a0022e83c8b5ab8b34862d253956228c554179007b6ab9049d6fc46"
   },
   {
     "date": "2024-11-21",
@@ -2514,12 +2471,11 @@
     "summary": "wake up",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2024-11-21",
-    "new_start": "2024-11-21T05:00:00+00:00",
-    "new_end": "2024-11-21T05:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "b5a50aaecbb67d1823fb62ba627cd89d3dd17172bcb01f9d7326a17c335791e8",
-    "version_id": "1703e81803fce56d6d413af24e1da115884c18716b53ff6b4539f9a28450ca00",
-    "status": "new"
+    "version_id": "1703e81803fce56d6d413af24e1da115884c18716b53ff6b4539f9a28450ca00"
   },
   {
     "date": "2024-11-21",
@@ -2529,12 +2485,11 @@
     "summary": "read",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2024-11-21",
-    "new_start": "2024-11-21T18:00:00+00:00",
-    "new_end": "2024-11-21T19:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "2a85e495fe5313f3657771d3208596ead9379dcbd00230e4877bd74a8d8028fe",
-    "version_id": "c0cec32e0f50a2c1875420cef77d53fd0667b90a48557cd62abbfb1261fde553",
-    "status": "new"
+    "version_id": "c0cec32e0f50a2c1875420cef77d53fd0667b90a48557cd62abbfb1261fde553"
   },
   {
     "date": "2024-11-21",
@@ -2544,11 +2499,55 @@
     "summary": "hanc",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2024-11-21",
-    "new_start": "2024-11-21T19:00:00+00:00",
-    "new_end": "2024-11-21T20:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "4e1839f7c2f3c9d92b7e2f0592780ada672e4558ee3dbcd4d766d3954a363ed5",
-    "version_id": "30e20353d84d0ab144b24edd23098ad4cfb5b18e4f872ad92756f061add81a6c",
+    "version_id": "30e20353d84d0ab144b24edd23098ad4cfb5b18e4f872ad92756f061add81a6c"
+  },
+  {
+    "date": "2024-11-22",
+    "start": "2024-11-22T03:00:00+00:00",
+    "end": "2024-11-22T03:15:00+00:00",
+    "value": 1,
+    "summary": "Daily 60*60*3",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2024-11-22",
+    "new_start": "2024-11-22T03:00:00+00:00",
+    "new_end": "2024-11-22T03:15:00+00:00",
+    "id": "fefde4e758f74ca7bf2b7ed81b46cd1e338cd9a240938b831a2b79584f3dc6a5",
+    "version_id": "26e0adc315624bb9adc7cd18341c155faa141c12bb858eb93ace3164b2c89020",
+    "status": "new"
+  },
+  {
+    "date": "2024-11-22",
+    "start": "2024-11-22T05:00:00+00:00",
+    "end": "2024-11-22T05:30:00+00:00",
+    "value": 1,
+    "summary": "wake up",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2024-11-22",
+    "new_start": "2024-11-22T05:00:00+00:00",
+    "new_end": "2024-11-22T05:30:00+00:00",
+    "id": "32e9c3f49a957f286b3fe7738f636eaac00f2c044ad97892094051d79853f915",
+    "version_id": "b5bca7558f15831d628228002218a109c8e015a028d8e9ed644f0455f5956a17",
+    "status": "new"
+  },
+  {
+    "date": "2024-11-22",
+    "start": "2024-11-22T18:00:00+00:00",
+    "end": "2024-11-22T19:00:00+00:00",
+    "value": 1,
+    "summary": "write down everything you learned from book and other videos",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2024-11-22",
+    "new_start": "2024-11-22T18:00:00+00:00",
+    "new_end": "2024-11-22T19:00:00+00:00",
+    "id": "0a5c612b9a7e4a4af9a56a79ecea95b8287795f3bb8e731727e41ef0da51a9c2",
+    "version_id": "0a12fabcd44c6b7a69283abb4b512cb754e98d1ddcd6e2582cf938a7388a4f05",
     "status": "new"
   }
 ]
