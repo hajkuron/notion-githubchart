@@ -119,11 +119,25 @@
     "summary": "videos",
     "description": "(No description)",
     "calendar_name": "Learning",
-    "new_date": "2024-11-20",
-    "new_start": "2024-11-20T15:00:00+00:00",
-    "new_end": "2024-11-20T17:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "cd25991e5cbc12b00f9d7c259b829ed3f40ec4c434962417378f1e179a0922ea",
-    "version_id": "e6bbaa5f1b1b591e6484de750d53d117edabf021b3f843bf51266e3b9a1e64e9",
+    "version_id": "e6bbaa5f1b1b591e6484de750d53d117edabf021b3f843bf51266e3b9a1e64e9"
+  },
+  {
+    "date": "2024-11-21",
+    "start": "2024-11-21T16:00:00+00:00",
+    "end": "2024-11-21T17:00:00+00:00",
+    "value": 1,
+    "summary": "videos",
+    "description": "(No description)",
+    "calendar_name": "Learning",
+    "new_date": "2024-11-21",
+    "new_start": "2024-11-21T16:00:00+00:00",
+    "new_end": "2024-11-21T17:00:00+00:00",
+    "id": "9bec69e7015c6118ea40207680c948b1b1d27c42ab4c9a98d2acf1fc844b9711",
+    "version_id": "3bad07798f9958c03edd9bd787b16a12cb482288f89d6892ec51555073e9f31f",
     "status": "new"
   }
 ]

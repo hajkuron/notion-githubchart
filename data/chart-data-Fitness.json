@@ -861,11 +861,10 @@
     "summary": "Gym",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2024-11-20",
-    "new_start": "2024-11-20T07:30:00+00:00",
-    "new_end": "2024-11-20T08:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "27565a839e8f23c4d4b131a7ad405431962d3f04a9988a0cfa8709f62749bb4d",
-    "version_id": "845270a622f1dea1af1fb4d3c5333455388a04b5772f53336e393a4ba63ae7c0",
-    "status": "new"
+    "version_id": "845270a622f1dea1af1fb4d3c5333455388a04b5772f53336e393a4ba63ae7c0"
   }
 ]

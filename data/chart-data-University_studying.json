@@ -693,11 +693,10 @@
     "summary": "uni",
     "description": "(No description)",
     "calendar_name": "University studying",
-    "new_date": "2024-11-20",
-    "new_start": "2024-11-20T10:00:00+00:00",
-    "new_end": "2024-11-20T12:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "e5b4791c1d7d4d4a603030bf4c9eb5fe3392051d36e2ef36b5c6a55537f69cb0",
-    "version_id": "2ec801a6a2eb4035e70a71d3900702afe359175a678d67fc7dd90b3234b8ab61",
-    "status": "new"
+    "version_id": "2ec801a6a2eb4035e70a71d3900702afe359175a678d67fc7dd90b3234b8ab61"
   }
 ]
