@@ -693,12 +693,11 @@
     "summary": "meeting",
     "description": "(No description)",
     "calendar_name": "University studying",
-    "new_date": "2024-11-22",
-    "new_start": "2024-11-22T08:00:00+00:00",
-    "new_end": "2024-11-22T09:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "479bf78c5299cafefa3d305372ca5304e30ccaf64a5745ae20e60ee8cb5a57b4",
-    "version_id": "5d3a5075db4603d14b4fa6807ead8d38b0598c48d43fa53c6a79b5ea9885e504",
-    "status": "new"
+    "version_id": "5d3a5075db4603d14b4fa6807ead8d38b0598c48d43fa53c6a79b5ea9885e504"
   },
   {
     "date": "2024-11-22",
@@ -708,11 +707,10 @@
     "summary": "uni work",
     "description": "(No description)",
     "calendar_name": "University studying",
-    "new_date": "2024-11-22",
-    "new_start": "2024-11-22T13:00:00+00:00",
-    "new_end": "2024-11-22T15:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "0b940605200d5a8828393b3485b846d42571d6e89d4c199ea248cd16f2ea573f",
-    "version_id": "85de4278f61859fd707d78a1ec1b1fb3ac23f344ebc649847873094e3b826095",
-    "status": "new"
+    "version_id": "85de4278f61859fd707d78a1ec1b1fb3ac23f344ebc649847873094e3b826095"
   }
 ]

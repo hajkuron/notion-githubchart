@@ -2513,12 +2513,11 @@
     "summary": "Daily 60*60*3",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2024-11-22",
-    "new_start": "2024-11-22T03:00:00+00:00",
-    "new_end": "2024-11-22T03:15:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "fefde4e758f74ca7bf2b7ed81b46cd1e338cd9a240938b831a2b79584f3dc6a5",
-    "version_id": "26e0adc315624bb9adc7cd18341c155faa141c12bb858eb93ace3164b2c89020",
-    "status": "new"
+    "version_id": "26e0adc315624bb9adc7cd18341c155faa141c12bb858eb93ace3164b2c89020"
   },
   {
     "date": "2024-11-22",
@@ -2528,12 +2527,11 @@
     "summary": "wake up",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2024-11-22",
-    "new_start": "2024-11-22T05:00:00+00:00",
-    "new_end": "2024-11-22T05:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "32e9c3f49a957f286b3fe7738f636eaac00f2c044ad97892094051d79853f915",
-    "version_id": "b5bca7558f15831d628228002218a109c8e015a028d8e9ed644f0455f5956a17",
-    "status": "new"
+    "version_id": "b5bca7558f15831d628228002218a109c8e015a028d8e9ed644f0455f5956a17"
   },
   {
     "date": "2024-11-22",
@@ -2543,11 +2541,25 @@
     "summary": "write down everything you learned from book and other videos",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2024-11-22",
-    "new_start": "2024-11-22T18:00:00+00:00",
-    "new_end": "2024-11-22T19:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "0a5c612b9a7e4a4af9a56a79ecea95b8287795f3bb8e731727e41ef0da51a9c2",
-    "version_id": "0a12fabcd44c6b7a69283abb4b512cb754e98d1ddcd6e2582cf938a7388a4f05",
+    "version_id": "0a12fabcd44c6b7a69283abb4b512cb754e98d1ddcd6e2582cf938a7388a4f05"
+  },
+  {
+    "date": "2024-11-22",
+    "start": "2024-11-22T19:00:00+00:00",
+    "end": "2024-11-22T20:30:00+00:00",
+    "value": 1,
+    "summary": "hanc",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2024-11-22",
+    "new_start": "2024-11-22T19:00:00+00:00",
+    "new_end": "2024-11-22T20:30:00+00:00",
+    "id": "ec14b787e77b55f1cc7c63390a968f30138cf79d6a6d8ab6931337c058a88569",
+    "version_id": "4267eb573af1700dfbce15fc8d122a0611c736086f3dbce951d616fb72133f0a",
     "status": "new"
   }
 ]
