@@ -880,5 +880,20 @@
     "new_end": "",
     "id": "da4444cdd678517f9503056684895afb92019bc2fd0dd62e890f84c01690f04b",
     "version_id": "ba89350e3b811b6c0a7a68d05cb7d865fd566d779c312ecba967908706cb4743"
+  },
+  {
+    "date": "2024-11-23",
+    "start": "2024-11-23T05:30:00+00:00",
+    "end": "2024-11-23T06:30:00+00:00",
+    "value": 1,
+    "summary": "Gym",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2024-11-23",
+    "new_start": "2024-11-23T05:30:00+00:00",
+    "new_end": "2024-11-23T06:30:00+00:00",
+    "id": "23e5ac27f22175219ea51815f7378d12ff2eb18f1132fbf5603dc703ba722b9d",
+    "version_id": "a8a325ed88e9e5e4d3e439ae38deccf8be187c589e74cf9ee4846928c01d1659",
+    "status": "new"
   }
 ]
