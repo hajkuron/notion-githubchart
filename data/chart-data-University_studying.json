@@ -721,11 +721,10 @@
     "summary": "assignemnt uni",
     "description": "(No description)",
     "calendar_name": "University studying",
-    "new_date": "2024-11-23",
-    "new_start": "2024-11-23T06:30:00+00:00",
-    "new_end": "2024-11-23T12:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "98274048ba4b3e88e1976341b007469fc755807eea8c4c534a83d671193aa007",
-    "version_id": "0f3432444bcbf0d086a02d5e8df03471c8e23c8eb6de0d8416c43c3161847f6a",
-    "status": "new"
+    "version_id": "0f3432444bcbf0d086a02d5e8df03471c8e23c8eb6de0d8416c43c3161847f6a"
   }
 ]

@@ -670,5 +670,20 @@
     "new_end": "",
     "id": "05306ea39a08bd75519ad8cae8585e4565df6778dddabdb963e98267fe9480b4",
     "version_id": "de117d8fe89203ffa78a856f792dcb2767e77cd649857437e971cdbea0440a14"
+  },
+  {
+    "date": "2024-11-23",
+    "start": "2024-11-23T14:00:00+00:00",
+    "end": "2024-11-23T16:00:00+00:00",
+    "value": 1,
+    "summary": "Project",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2024-11-23",
+    "new_start": "2024-11-23T14:00:00+00:00",
+    "new_end": "2024-11-23T16:00:00+00:00",
+    "id": "4cb77fdaf44034b94aaebea4133671cf456c6a3e0a36d98adacd118ca55ac2cb",
+    "version_id": "8b72b30f804b56e969aa4f717d82672f535ea24ba55e9058c39a11bedf80bcb5",
+    "status": "new"
   }
 ]
