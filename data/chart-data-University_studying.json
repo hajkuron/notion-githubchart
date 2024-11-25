@@ -726,5 +726,20 @@
     "new_end": "",
     "id": "98274048ba4b3e88e1976341b007469fc755807eea8c4c534a83d671193aa007",
     "version_id": "0f3432444bcbf0d086a02d5e8df03471c8e23c8eb6de0d8416c43c3161847f6a"
+  },
+  {
+    "date": "2024-11-25",
+    "start": "2024-11-25T13:00:00+00:00",
+    "end": "2024-11-25T14:00:00+00:00",
+    "value": 1,
+    "summary": "Assignment individual outreach",
+    "description": "(No description)",
+    "calendar_name": "University studying",
+    "new_date": "2024-11-25",
+    "new_start": "2024-11-25T13:00:00+00:00",
+    "new_end": "2024-11-25T14:00:00+00:00",
+    "id": "6823809c3dbd9e8b56dad0ecbc76c4399c57573c5ee3105d59b447f0ffc81ad9",
+    "version_id": "8ed6699a7e5e414fd1820708c8bd84bdc209a8b113ccea9799625c5f4bba28f4",
+    "status": "new"
   }
 ]
