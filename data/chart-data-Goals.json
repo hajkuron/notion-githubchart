@@ -35,11 +35,10 @@
     "summary": "3",
     "description": "(No description)",
     "calendar_name": "Goals",
-    "new_date": "2024-11-24",
-    "new_start": "2024-11-24T21:15:00+00:00",
-    "new_end": "2024-11-24T21:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "8fd14ea1dcd6534d330e8cb223330c1ec8fd5888f0a11c2039f85e3f26fad501",
-    "version_id": "ef878bd77aaa0b691fd83c115ccf125c251e3c4c670051d776710ac8c175902e",
-    "status": "new"
+    "version_id": "ef878bd77aaa0b691fd83c115ccf125c251e3c4c670051d776710ac8c175902e"
   }
 ]

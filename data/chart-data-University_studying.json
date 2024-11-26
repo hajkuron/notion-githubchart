@@ -735,11 +735,10 @@
     "summary": "Assignment individual outreach",
     "description": "(No description)",
     "calendar_name": "University studying",
-    "new_date": "2024-11-25",
-    "new_start": "2024-11-25T13:00:00+00:00",
-    "new_end": "2024-11-25T14:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "6823809c3dbd9e8b56dad0ecbc76c4399c57573c5ee3105d59b447f0ffc81ad9",
-    "version_id": "8ed6699a7e5e414fd1820708c8bd84bdc209a8b113ccea9799625c5f4bba28f4",
-    "status": "new"
+    "version_id": "8ed6699a7e5e414fd1820708c8bd84bdc209a8b113ccea9799625c5f4bba28f4"
   }
 ]

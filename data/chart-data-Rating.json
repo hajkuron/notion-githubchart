@@ -63,11 +63,10 @@
     "summary": "watch some video",
     "description": "(No description)",
     "calendar_name": "Rating",
-    "new_date": "2024-11-25",
-    "new_start": "2024-11-25T18:00:00+00:00",
-    "new_end": "2024-11-25T19:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "e07635e86933375dcd917f38a02127f1912e5e0926aed6d0dd1b602abb03e138",
-    "version_id": "bae9b32c2401fe9d75dc878fe649bd378c1c98f1a1da180cb7e5b51d19782558",
-    "status": "new"
+    "version_id": "bae9b32c2401fe9d75dc878fe649bd378c1c98f1a1da180cb7e5b51d19782558"
   }
 ]
