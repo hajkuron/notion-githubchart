@@ -3017,12 +3017,11 @@
     "summary": "Daily 60*60*3",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2024-12-01",
-    "new_start": "2024-12-01T03:00:00+00:00",
-    "new_end": "2024-12-01T03:15:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "7214e20fb1fac6f570bdd11280bf81ea16ca03c8aba1bca76d3e7f488cdb807f",
-    "version_id": "5420664d756df57b28f8f51be245bd5b5174a2ad0384a3ff4b43185f8ba3a623",
-    "status": "new"
+    "version_id": "5420664d756df57b28f8f51be245bd5b5174a2ad0384a3ff4b43185f8ba3a623"
   },
   {
     "date": "2024-12-01",
@@ -3032,12 +3031,11 @@
     "summary": "Weekly check up of goals NOTION",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2024-12-01",
-    "new_start": "2024-12-01T03:30:00+00:00",
-    "new_end": "2024-12-01T03:45:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "9008e706c83b19fadab2e8ec368b82f554ba50f07ba1d6751cecfccfcb52742e",
-    "version_id": "a08790ba566e2942d2c267d543b614721e5934cfa97fc63196e7bdc0cb704cba",
-    "status": "new"
+    "version_id": "a08790ba566e2942d2c267d543b614721e5934cfa97fc63196e7bdc0cb704cba"
   },
   {
     "date": "2024-12-01",
@@ -3047,12 +3045,11 @@
     "summary": "wake up",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2024-12-01",
-    "new_start": "2024-12-01T05:00:00+00:00",
-    "new_end": "2024-12-01T05:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "a5b8770406726cd1d5f7aaab07112e381d74bf57f7efcb15472484e6e8b5c873",
-    "version_id": "dd26658df37b487abcbf4d5b33485e24eb24988d5927764e8012d1c933382dab",
-    "status": "new"
+    "version_id": "dd26658df37b487abcbf4d5b33485e24eb24988d5927764e8012d1c933382dab"
   },
   {
     "date": "2024-12-01",
@@ -3062,12 +3059,11 @@
     "summary": "Flight to Amsterdam (HV 6820)",
     "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DORubi6xsPvcbkbciuhdemuySzY9hv1dLQ\n",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2024-12-01",
-    "new_start": "2024-12-01T09:30:00+00:00",
-    "new_end": "2024-12-01T11:35:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "06056764784dadcb04353a6ac4535e2fb314306223cc852b5c965df7dff081c3",
-    "version_id": "be7396d8da402f7fdf3b8a8ceca887c5358ef990bc3f900084fb05fc0c653e22",
-    "status": "new"
+    "version_id": "be7396d8da402f7fdf3b8a8ceca887c5358ef990bc3f900084fb05fc0c653e22"
   },
   {
     "date": "2024-12-01",
@@ -3077,12 +3073,11 @@
     "summary": "read",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2024-12-01",
-    "new_start": "2024-12-01T18:00:00+00:00",
-    "new_end": "2024-12-01T19:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "25dc7c08c8ca069f3c7b89575c78e6df4439303d05ddd88debecc7f9f684c0a0",
-    "version_id": "625861e79579354019d82ae633e5d65508c1a1930f09cb09713c6efa6fce9500",
-    "status": "new"
+    "version_id": "625861e79579354019d82ae633e5d65508c1a1930f09cb09713c6efa6fce9500"
   },
   {
     "date": "2024-12-01",
@@ -3092,12 +3087,11 @@
     "summary": "hanc",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2024-12-01",
-    "new_start": "2024-12-01T19:00:00+00:00",
-    "new_end": "2024-12-01T20:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "ccc49f6a254bffe81b598599006eea06d9e1cec916f6cfb6809ad46756a48d30",
-    "version_id": "d7e215b3090c391b9916965b02e932e28a19a4d39dccfa4a39d0c2dbfc975909",
-    "status": "new"
+    "version_id": "d7e215b3090c391b9916965b02e932e28a19a4d39dccfa4a39d0c2dbfc975909"
   },
   {
     "date": "2024-12-02",
@@ -3107,11 +3101,40 @@
     "summary": "Daily 60*60*3",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2024-12-02",
-    "new_start": "2024-12-02T03:00:00+00:00",
-    "new_end": "2024-12-02T03:15:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "ba3812ce536d371fe690c61470c18e4a1a9e4454856b0281b69565dd891a3d8a",
-    "version_id": "70af82e90a96f6be6459c739015473df1ad064446a9b5fe2c831f965099cad41",
+    "version_id": "70af82e90a96f6be6459c739015473df1ad064446a9b5fe2c831f965099cad41"
+  },
+  {
+    "date": "2024-12-02",
+    "start": "2024-12-02T05:00:00+00:00",
+    "end": "2024-12-02T05:30:00+00:00",
+    "value": 1,
+    "summary": "wake up",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2024-12-02",
+    "new_start": "2024-12-02T05:00:00+00:00",
+    "new_end": "2024-12-02T05:30:00+00:00",
+    "id": "6c9a8d56ffc2c60a5d02d893a3f63c0dc4dbc99911d0d240aa7b61100f62ac99",
+    "version_id": "240ae064f188332348144c10d4d1ea5a52ce31963af24de0f80494335e59d087",
+    "status": "new"
+  },
+  {
+    "date": "2024-12-02",
+    "start": "2024-12-02T19:00:00+00:00",
+    "end": "2024-12-02T20:30:00+00:00",
+    "value": 1,
+    "summary": "hanc",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2024-12-02",
+    "new_start": "2024-12-02T19:00:00+00:00",
+    "new_end": "2024-12-02T20:30:00+00:00",
+    "id": "dc10fc3b9b5983411e9e91fb013d232db5f5089cba952d2fbebea9dc08e6701f",
+    "version_id": "bb734ee07aa53b657cf424799d1f6a17bfb09147ee84278953578349c15be40c",
     "status": "new"
   }
 ]

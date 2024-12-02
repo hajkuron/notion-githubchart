@@ -726,5 +726,20 @@
     "new_end": "",
     "id": "41e83f8dd204120335e0b6d38c9551ea6f5bb363c29007b4b2e6831fc160d487",
     "version_id": "4835dc216907586b7d414e21e17091a0c8b1689fb228a3791ce2ba51d91c4215"
+  },
+  {
+    "date": "2024-12-02",
+    "start": "2024-12-02T16:30:00+00:00",
+    "end": "2024-12-02T18:45:00+00:00",
+    "value": 1,
+    "summary": "linked in auotmaiton, make it nice, make it useful",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2024-12-02",
+    "new_start": "2024-12-02T16:30:00+00:00",
+    "new_end": "2024-12-02T18:45:00+00:00",
+    "id": "8d50ecdc8518ca6d6707720741cb2bd4d77edf996304d71d5944dac3c8c19422",
+    "version_id": "9251cb7c53466e9ff83d04bc1ac16c62b4550feaaff48f0141fe0029612f828c",
+    "status": "new"
   }
 ]
