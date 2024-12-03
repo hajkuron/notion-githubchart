@@ -735,11 +735,25 @@
     "summary": "linked in auotmaiton, make it nice, make it useful",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2024-12-02",
-    "new_start": "2024-12-02T16:30:00+00:00",
-    "new_end": "2024-12-02T18:45:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "8d50ecdc8518ca6d6707720741cb2bd4d77edf996304d71d5944dac3c8c19422",
-    "version_id": "9251cb7c53466e9ff83d04bc1ac16c62b4550feaaff48f0141fe0029612f828c",
+    "version_id": "9251cb7c53466e9ff83d04bc1ac16c62b4550feaaff48f0141fe0029612f828c"
+  },
+  {
+    "date": "2024-12-03",
+    "start": "2024-12-03T10:00:00+00:00",
+    "end": "2024-12-03T15:00:00+00:00",
+    "value": 1,
+    "summary": "project - freelance focus, create good profiles on all platforms, create job postings, start acdepting if there is some",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2024-12-03",
+    "new_start": "2024-12-03T10:00:00+00:00",
+    "new_end": "2024-12-03T15:00:00+00:00",
+    "id": "46f06d3bb8840701e198b0a2d94fe3fc65f832cc665bbd4b62d0b38868dbf24c",
+    "version_id": "fb1607e157bd4ed1a6e845dfff598dc51698b08e170d472068271a0c3fb6c88e",
     "status": "new"
   }
 ]

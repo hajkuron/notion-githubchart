@@ -763,12 +763,11 @@
     "summary": "slides for ar tech",
     "description": "(No description)",
     "calendar_name": "University studying",
-    "new_date": "2024-12-01",
-    "new_start": "2024-12-01T13:15:00+00:00",
-    "new_end": "2024-12-01T15:15:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "118ef065a710e6fddf79edbf09e8afa36b2b56c7bc66bb1dc25649a89a1c7fc2",
-    "version_id": "e5354d943cd97a831ae1d002235f02ccfbd303a2b1dbc13be8f31b2a33cd7177",
-    "status": "new"
+    "version_id": "e5354d943cd97a831ae1d002235f02ccfbd303a2b1dbc13be8f31b2a33cd7177"
   },
   {
     "date": "2024-12-01",
@@ -778,12 +777,11 @@
     "summary": "outline matching alho",
     "description": "(No description)",
     "calendar_name": "University studying",
-    "new_date": "2024-12-01",
-    "new_start": "2024-12-01T15:15:00+00:00",
-    "new_end": "2024-12-01T16:15:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "477d9bd154c6074822e67cea43386d12865933cb5aa1f9228cf60e66f41e38f3",
-    "version_id": "04dc81d44942df2306e477508a41a8b58d7976997ba3c803bfcfb8727da26823",
-    "status": "new"
+    "version_id": "04dc81d44942df2306e477508a41a8b58d7976997ba3c803bfcfb8727da26823"
   },
   {
     "date": "2024-12-02",
@@ -793,11 +791,40 @@
     "summary": "university find entrepreneur, the would be from automation agency ",
     "description": "(No description)",
     "calendar_name": "University studying",
-    "new_date": "2024-12-02",
-    "new_start": "2024-12-02T15:00:00+00:00",
-    "new_end": "2024-12-02T16:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "44ec4b0cc2bdb0e5e8bfd937cefa427d008cc130cc1bb89fb3d02098b40c22eb",
-    "version_id": "096064c28def3a85e463a7b1573c790cea069f216728777b96e7aba815c6df66",
+    "version_id": "096064c28def3a85e463a7b1573c790cea069f216728777b96e7aba815c6df66"
+  },
+  {
+    "date": "2024-12-03",
+    "start": "2024-12-03T08:00:00+00:00",
+    "end": "2024-12-03T09:00:00+00:00",
+    "value": 1,
+    "summary": "coaching session",
+    "description": "(No description)",
+    "calendar_name": "University studying",
+    "new_date": "2024-12-03",
+    "new_start": "2024-12-03T08:00:00+00:00",
+    "new_end": "2024-12-03T09:00:00+00:00",
+    "id": "f923540356905b2f8d0052b928b180b1699882c0545a503f69adaefc4148660e",
+    "version_id": "edb83473f0a735350143546829f5ca96d4cac3d59cccfc18a2566558a188c90e",
+    "status": "new"
+  },
+  {
+    "date": "2024-12-03",
+    "start": "2024-12-03T15:30:00+00:00",
+    "end": "2024-12-03T17:45:00+00:00",
+    "value": 1,
+    "summary": "matching algo create ",
+    "description": "(No description)",
+    "calendar_name": "University studying",
+    "new_date": "2024-12-03",
+    "new_start": "2024-12-03T15:30:00+00:00",
+    "new_end": "2024-12-03T17:45:00+00:00",
+    "id": "74cc9764113279caea8e9833f614a8fd4aff490ff86d9cdd6ea163c22082b8f8",
+    "version_id": "c1eee1a2d5a072e6783cb76115a351fd7f59fd8de3b19c24a4eec1070956af5d",
     "status": "new"
   }
 ]
