@@ -334,5 +334,20 @@
     "new_end": "",
     "id": "b0d940777c0de941788d76e531896b2c4e28131b6977e95273072bea7a19f533",
     "version_id": "ad765f53d4f2b19cfd145dca236d402174cfc3cfde3b588888523ac3c1e1b475"
+  },
+  {
+    "date": "2024-12-04",
+    "start": "2024-12-04T13:00:00+00:00",
+    "end": "2024-12-04T14:00:00+00:00",
+    "value": 1,
+    "summary": "CC check the things",
+    "description": "(No description)",
+    "calendar_name": "Work creative clicks",
+    "new_date": "2024-12-04",
+    "new_start": "2024-12-04T13:00:00+00:00",
+    "new_end": "2024-12-04T14:00:00+00:00",
+    "id": "762d956946a20fae05f0c35e17bd164b4789d7517da53aa6bda4d4eb28a6f4f8",
+    "version_id": "33370b810ebadb444d21226f135386a4b46b2b3f5add8fb9a1694887744b8973",
+    "status": "new"
   }
 ]

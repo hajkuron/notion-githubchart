@@ -749,11 +749,25 @@
     "summary": "project - freelance focus, create good profiles on all platforms, create job postings, start acdepting if there is some",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2024-12-03",
-    "new_start": "2024-12-03T10:00:00+00:00",
-    "new_end": "2024-12-03T15:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "46f06d3bb8840701e198b0a2d94fe3fc65f832cc665bbd4b62d0b38868dbf24c",
-    "version_id": "fb1607e157bd4ed1a6e845dfff598dc51698b08e170d472068271a0c3fb6c88e",
+    "version_id": "fb1607e157bd4ed1a6e845dfff598dc51698b08e170d472068271a0c3fb6c88e"
+  },
+  {
+    "date": "2024-12-04",
+    "start": "2024-12-04T14:00:00+00:00",
+    "end": "2024-12-04T19:00:00+00:00",
+    "value": 1,
+    "summary": "project - freelance focus, create good profiles on all platforms, create job postings, start acdepting if there is some",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2024-12-04",
+    "new_start": "2024-12-04T14:00:00+00:00",
+    "new_end": "2024-12-04T19:00:00+00:00",
+    "id": "9def6f72128dacdd38d6a16b485424fba3a5084533d3651a93ba610dc89ffe21",
+    "version_id": "90509c2a2f206691e445abbd77e7d4a8cd0cf272d79d9983c99d0bc875fdfc7f",
     "status": "new"
   }
 ]

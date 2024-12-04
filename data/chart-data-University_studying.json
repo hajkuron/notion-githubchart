@@ -805,12 +805,11 @@
     "summary": "coaching session",
     "description": "(No description)",
     "calendar_name": "University studying",
-    "new_date": "2024-12-03",
-    "new_start": "2024-12-03T08:00:00+00:00",
-    "new_end": "2024-12-03T09:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "f923540356905b2f8d0052b928b180b1699882c0545a503f69adaefc4148660e",
-    "version_id": "edb83473f0a735350143546829f5ca96d4cac3d59cccfc18a2566558a188c90e",
-    "status": "new"
+    "version_id": "edb83473f0a735350143546829f5ca96d4cac3d59cccfc18a2566558a188c90e"
   },
   {
     "date": "2024-12-03",
@@ -820,11 +819,25 @@
     "summary": "matching algo create ",
     "description": "(No description)",
     "calendar_name": "University studying",
-    "new_date": "2024-12-03",
-    "new_start": "2024-12-03T15:30:00+00:00",
-    "new_end": "2024-12-03T17:45:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "74cc9764113279caea8e9833f614a8fd4aff490ff86d9cdd6ea163c22082b8f8",
-    "version_id": "c1eee1a2d5a072e6783cb76115a351fd7f59fd8de3b19c24a4eec1070956af5d",
+    "version_id": "c1eee1a2d5a072e6783cb76115a351fd7f59fd8de3b19c24a4eec1070956af5d"
+  },
+  {
+    "date": "2024-12-04",
+    "start": "2024-12-04T07:00:00+00:00",
+    "end": "2024-12-04T08:55:00+00:00",
+    "value": 1,
+    "summary": "website finish",
+    "description": "(No description)",
+    "calendar_name": "University studying",
+    "new_date": "2024-12-04",
+    "new_start": "2024-12-04T07:00:00+00:00",
+    "new_end": "2024-12-04T08:55:00+00:00",
+    "id": "f74f1ee0ed0d298392672f397ba1b90effec57ea6149dbc0dd4f82f120a20e18",
+    "version_id": "6d1807401c555fc2ee0b576d9f235650ba943ad1e8c62965af49a0f418e03db2",
     "status": "new"
   }
 ]
