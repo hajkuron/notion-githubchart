@@ -966,18 +966,33 @@
     "version_id": "6133e574de0a506e2d3bd6b2c6d1dcbe5160394e1e37dbc5ca5f3cf329d99bbf"
   },
   {
-    "date": "2024-12-04",
-    "start": "2024-12-04T05:30:00+00:00",
-    "end": "2024-12-04T06:30:00+00:00",
+    "date": "2024-12-05",
+    "start": "2024-12-05T06:30:00+00:00",
+    "end": "2024-12-05T07:30:00+00:00",
     "value": 1,
     "summary": "gym",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2024-12-04",
-    "new_start": "2024-12-04T05:30:00+00:00",
-    "new_end": "2024-12-04T06:30:00+00:00",
-    "id": "e68c3c541c34ee5ce6c29f5940a3d6a9baa1c8f0c4426722e33dfc825af334f4",
-    "version_id": "a5fa06aea792fb034de262fce06fe669ff66a827abfb5d7a4c173c89e6344c8b",
+    "new_date": "2024-12-05",
+    "new_start": "2024-12-05T06:30:00+00:00",
+    "new_end": "2024-12-05T07:30:00+00:00",
+    "id": "bd2b5478c184bd9198c6cf90b2f63e273a8b02f74463b1e7f968ed0ba94d2dc7",
+    "version_id": "8a443c4f2d991e53516b169ba420d04690accbc4899a6116ccfec168a586270a",
+    "status": "new"
+  },
+  {
+    "date": "2024-12-05",
+    "start": "2024-12-05T19:45:00+00:00",
+    "end": "2024-12-05T21:00:00+00:00",
+    "value": 1,
+    "summary": "football",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2024-12-05",
+    "new_start": "2024-12-05T19:45:00+00:00",
+    "new_end": "2024-12-05T21:00:00+00:00",
+    "id": "c8c2a6acbcfed708a1f6c7c7b383ba268d7ad3ad1c65ce2ea8526aebbb6ed707",
+    "version_id": "43ba72f7befc2f8a2d7ae9edccf3ee75c1677ec0e9e5496760938b9f981b3cfd",
     "status": "new"
   }
 ]
