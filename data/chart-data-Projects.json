@@ -777,12 +777,11 @@
     "summary": "freelance focus",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2024-12-05",
-    "new_start": "2024-12-05T07:45:00+00:00",
-    "new_end": "2024-12-05T10:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "2962691d4a5acbe8754adf4f606c60427111a0e59653536284fe7050546835a0",
-    "version_id": "d6c7f54b3f72550f99015b687095010e2bac62c12c19057f5649e1fc09662a73",
-    "status": "new"
+    "version_id": "d6c7f54b3f72550f99015b687095010e2bac62c12c19057f5649e1fc09662a73"
   },
   {
     "date": "2024-12-05",
@@ -792,11 +791,10 @@
     "summary": "New Event",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2024-12-05",
-    "new_start": "2024-12-05T14:45:00+00:00",
-    "new_end": "2024-12-05T18:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "3c4d56975a46cbd4c5dad48fdb6ce606dc3de093ec7ada177462f3b22e4d2303",
-    "version_id": "945b6c6165fb74764d6ff796c81128f65c30ec85daf30b1b71d89a419d6dee49",
-    "status": "new"
+    "version_id": "945b6c6165fb74764d6ff796c81128f65c30ec85daf30b1b71d89a419d6dee49"
   }
 ]

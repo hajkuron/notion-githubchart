@@ -348,5 +348,20 @@
     "new_end": "",
     "id": "762d956946a20fae05f0c35e17bd164b4789d7517da53aa6bda4d4eb28a6f4f8",
     "version_id": "94331ee99ca3bb1aac660d2aa87191eb2d70474473457416275a2c487cd23fda"
+  },
+  {
+    "date": "2024-12-06",
+    "start": "2024-12-06T07:00:00+00:00",
+    "end": "2024-12-06T15:00:00+00:00",
+    "value": 1,
+    "summary": "work",
+    "description": "(No description)",
+    "calendar_name": "Work creative clicks",
+    "new_date": "2024-12-06",
+    "new_start": "2024-12-06T07:00:00+00:00",
+    "new_end": "2024-12-06T15:00:00+00:00",
+    "id": "4ff70d49a39b7a3ee5e68134cee73d3b0847b3dd9ae87da1ded52025f0d4b936",
+    "version_id": "356493ab9fe1f1ad19b5dba35c5f20b69ee5e10395acbd02a1d3b5ada06c2a80",
+    "status": "new"
   }
 ]
