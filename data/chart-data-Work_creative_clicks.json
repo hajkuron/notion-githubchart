@@ -142,7 +142,7 @@
   {
     "date": "2024-10-18",
     "start": "2024-10-18T06:00:00+00:00",
-    "end": "2024-10-18T11:00:00+00:00",
+    "end": "2024-10-18T14:00:00+00:00",
     "value": 1,
     "summary": "work",
     "description": "(No description)",
@@ -151,7 +151,7 @@
     "new_start": "",
     "new_end": "",
     "id": "6bd0c52667195d7472d86ce079eb0c430fbcc94c642d34a21c1dc0c02557fe6b",
-    "version_id": "6ed93ca40228df7d228fe750a289fb3c826f8555a334f629e88459a56dd0016e"
+    "version_id": "af654d193a9ab07a09ed34650fc0edbd1966fc09b4b67fc11e495a9f35d513c6"
   },
   {
     "date": "2024-10-24",
@@ -282,7 +282,7 @@
   {
     "date": "2024-11-22",
     "start": "2024-11-22T07:00:00+00:00",
-    "end": "2024-11-22T13:00:00+00:00",
+    "end": "2024-11-22T15:00:00+00:00",
     "value": 1,
     "summary": "work",
     "description": "(No description)",
@@ -291,7 +291,7 @@
     "new_start": "",
     "new_end": "",
     "id": "77ae9bebdff284cf703e13a9c6e6935fca1ef6535941019e7b7f81995336425f",
-    "version_id": "41e81017b3347caf6dec18fa7fae476b80401d38027f692acabd708c62b86f3f"
+    "version_id": "0f304ea4dc018c7eba17a0ecbad8213186232e223327542cf0ca2c144a2027ce"
   },
   {
     "date": "2024-11-25",
@@ -357,11 +357,10 @@
     "summary": "work",
     "description": "(No description)",
     "calendar_name": "Work creative clicks",
-    "new_date": "2024-12-06",
-    "new_start": "2024-12-06T07:00:00+00:00",
-    "new_end": "2024-12-06T15:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "4ff70d49a39b7a3ee5e68134cee73d3b0847b3dd9ae87da1ded52025f0d4b936",
-    "version_id": "356493ab9fe1f1ad19b5dba35c5f20b69ee5e10395acbd02a1d3b5ada06c2a80",
-    "status": "new"
+    "version_id": "356493ab9fe1f1ad19b5dba35c5f20b69ee5e10395acbd02a1d3b5ada06c2a80"
   }
 ]
