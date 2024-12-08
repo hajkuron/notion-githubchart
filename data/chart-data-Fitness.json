@@ -1006,5 +1006,20 @@
     "new_end": "",
     "id": "ae03817700bf2ab94da2db137a9eb31c5decb157114dff69e0fbca7969e9b798",
     "version_id": "08efd836ce68b2c220f89865b983d7971e218c873a3d9f080d7aba7323e377ec"
+  },
+  {
+    "date": "2024-12-07",
+    "start": "2024-12-07T12:15:00+00:00",
+    "end": "2024-12-07T13:15:00+00:00",
+    "value": 1,
+    "summary": "gym",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2024-12-07",
+    "new_start": "2024-12-07T12:15:00+00:00",
+    "new_end": "2024-12-07T13:15:00+00:00",
+    "id": "a4370fe29e5700cf2692032d02fd63b2ef675c3b6494c7d9fce3ee2e213ee954",
+    "version_id": "aa6be2486a3ca48237977b8a1ce769c5e6a2fa00084b3018bb3937d284f956c9",
+    "status": "new"
   }
 ]
