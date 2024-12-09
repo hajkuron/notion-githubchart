@@ -3339,12 +3339,11 @@
     "summary": "Daily 60*60*3",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2024-12-08",
-    "new_start": "2024-12-08T03:00:00+00:00",
-    "new_end": "2024-12-08T03:15:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "6516fc0c054568fd001a5cd92581d249c2bddf5cec9ce7d052072e06e2b95c2a",
-    "version_id": "f8de315881d0bbdfbce7372435d6fbaf39ecee24a89dc6e4cb491b9b7b689c52",
-    "status": "new"
+    "version_id": "f8de315881d0bbdfbce7372435d6fbaf39ecee24a89dc6e4cb491b9b7b689c52"
   },
   {
     "date": "2024-12-08",
@@ -3354,12 +3353,11 @@
     "summary": "Weekly check up of goals NOTION",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2024-12-08",
-    "new_start": "2024-12-08T03:30:00+00:00",
-    "new_end": "2024-12-08T03:45:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "8cf0c292790fd4613e28954c9f39d51da74a4a9b370ee514ba61aae1d3233585",
-    "version_id": "488d49658359e8a9178a675714c3fe3ec8661f22775f6d9bc0c6264c51cc089d",
-    "status": "new"
+    "version_id": "488d49658359e8a9178a675714c3fe3ec8661f22775f6d9bc0c6264c51cc089d"
   },
   {
     "date": "2024-12-08",
@@ -3369,12 +3367,11 @@
     "summary": "wake up",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2024-12-08",
-    "new_start": "2024-12-08T05:15:00+00:00",
-    "new_end": "2024-12-08T05:45:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "1928386d5f8d609e5ccc9fb4c83c0a9da38a4df38bb90d3182fe1172e3261326",
-    "version_id": "5cfc93be7edb87871ca7eb9f56ad3fc030d059cad86e38d6fe63406a2a471b41",
-    "status": "new"
+    "version_id": "5cfc93be7edb87871ca7eb9f56ad3fc030d059cad86e38d6fe63406a2a471b41"
   },
   {
     "date": "2024-12-08",
@@ -3384,12 +3381,11 @@
     "summary": "hanc",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2024-12-08",
-    "new_start": "2024-12-08T19:00:00+00:00",
-    "new_end": "2024-12-08T20:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "4eeb82da0e30c895b7613da426b98356406ce9bd8ec8f79fdde8cc0f03c9f559",
-    "version_id": "f6f3d25fad2c73f4b23f7272de168679994efa2a24c0b357b45dbf6c200871d1",
-    "status": "new"
+    "version_id": "f6f3d25fad2c73f4b23f7272de168679994efa2a24c0b357b45dbf6c200871d1"
   },
   {
     "date": "2024-12-09",
@@ -3399,11 +3395,70 @@
     "summary": "Daily 60*60*3",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2024-12-09",
-    "new_start": "2024-12-09T03:00:00+00:00",
-    "new_end": "2024-12-09T03:15:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "9df4890ac80c077ccee3241e78a7c26cc0cb97622a3e96b01baf129f139a0675",
-    "version_id": "5c88cd0677d404497889aed346279826a8c37432dbcd988906a56e76a6b564b5",
+    "version_id": "5c88cd0677d404497889aed346279826a8c37432dbcd988906a56e76a6b564b5"
+  },
+  {
+    "date": "2024-12-09",
+    "start": "2024-12-09T05:00:00+00:00",
+    "end": "2024-12-09T05:30:00+00:00",
+    "value": 1,
+    "summary": "wake up",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2024-12-09",
+    "new_start": "2024-12-09T05:00:00+00:00",
+    "new_end": "2024-12-09T05:30:00+00:00",
+    "id": "3b30c3ba06aeb53f76984c6c21e7ba9f1706d7b8eccf4f3005a4b68a01a7def3",
+    "version_id": "5ad00e10b9d91033206c8f7ba7eda1386b4b15f7f3b672db3682a07789f6d080",
+    "status": "new"
+  },
+  {
+    "date": "2024-12-09",
+    "start": "2024-12-09T18:00:00+00:00",
+    "end": "2024-12-09T19:00:00+00:00",
+    "value": 1,
+    "summary": "read",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2024-12-09",
+    "new_start": "2024-12-09T18:00:00+00:00",
+    "new_end": "2024-12-09T19:00:00+00:00",
+    "id": "036efbac097bbc3cfff5e10edf54b56b04b209c3658f7d183c4c276e9fb75594",
+    "version_id": "390c6a334e2a1561100d663429d886679027fd90f972ed9331bf8f995eef4c19",
+    "status": "new"
+  },
+  {
+    "date": "2024-12-09",
+    "start": "2024-12-09T19:00:00+00:00",
+    "end": "2024-12-09T20:30:00+00:00",
+    "value": 1,
+    "summary": "hanc",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2024-12-09",
+    "new_start": "2024-12-09T19:00:00+00:00",
+    "new_end": "2024-12-09T20:30:00+00:00",
+    "id": "1627c6696c2bdb89b2a0902edcc4ac74503b7e6693853862db63253be3e95bae",
+    "version_id": "ba4782ea0d033ac837ec95579639c86a18634b8b8e19911c240260c1d799c6f4",
+    "status": "new"
+  },
+  {
+    "date": "2024-12-10",
+    "start": "2024-12-10T03:00:00+00:00",
+    "end": "2024-12-10T03:15:00+00:00",
+    "value": 1,
+    "summary": "Daily 60*60*3",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2024-12-10",
+    "new_start": "2024-12-10T03:00:00+00:00",
+    "new_end": "2024-12-10T03:15:00+00:00",
+    "id": "341c5043e7f151ef8dc72c72a36a524037ee2bd79b138767eebb83865cc7522e",
+    "version_id": "e1a246b053035c1e59b2b42ff0155bbeb8cd10f07a5ff225b3eca4d9f0dd162d",
     "status": "new"
   }
 ]

@@ -1015,11 +1015,25 @@
     "summary": "gym",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2024-12-07",
-    "new_start": "2024-12-07T12:15:00+00:00",
-    "new_end": "2024-12-07T13:15:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "a4370fe29e5700cf2692032d02fd63b2ef675c3b6494c7d9fce3ee2e213ee954",
-    "version_id": "aa6be2486a3ca48237977b8a1ce769c5e6a2fa00084b3018bb3937d284f956c9",
+    "version_id": "aa6be2486a3ca48237977b8a1ce769c5e6a2fa00084b3018bb3937d284f956c9"
+  },
+  {
+    "date": "2024-12-09",
+    "start": "2024-12-09T05:30:00+00:00",
+    "end": "2024-12-09T06:30:00+00:00",
+    "value": 1,
+    "summary": "gym",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2024-12-09",
+    "new_start": "2024-12-09T05:30:00+00:00",
+    "new_end": "2024-12-09T06:30:00+00:00",
+    "id": "aa989f884212a319d32866846296521306e2a75dc2f28eade964a60f3b2d18c0",
+    "version_id": "d0e0b64473faeef18e7e14ec678e9696e42be4e77dc5df63ee3c34e29f1f8790",
     "status": "new"
   }
 ]
