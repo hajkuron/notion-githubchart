@@ -796,5 +796,20 @@
     "new_end": "",
     "id": "3c4d56975a46cbd4c5dad48fdb6ce606dc3de093ec7ada177462f3b22e4d2303",
     "version_id": "945b6c6165fb74764d6ff796c81128f65c30ec85daf30b1b71d89a419d6dee49"
+  },
+  {
+    "date": "2024-12-10",
+    "start": "2024-12-10T15:30:00+00:00",
+    "end": "2024-12-10T18:00:00+00:00",
+    "value": 1,
+    "summary": "freelance",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2024-12-10",
+    "new_start": "2024-12-10T15:30:00+00:00",
+    "new_end": "2024-12-10T18:00:00+00:00",
+    "id": "78457348c0d057adf700e52580a77d5eaf208f0cc0a03539ae2806cf950a87b9",
+    "version_id": "591d8c6b10d0d2191d1da21b781aa63f8abffb4213d2f47eb3d0d37bdfcfa760",
+    "status": "new"
   }
 ]

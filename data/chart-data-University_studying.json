@@ -903,12 +903,11 @@
     "summary": "interview",
     "description": "(No description)",
     "calendar_name": "University studying",
-    "new_date": "2024-12-09",
-    "new_start": "2024-12-09T12:30:00+00:00",
-    "new_end": "2024-12-09T13:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "da719d5356a6252d1dc6cbee605e0de1025bfd7a8175eb26a40d75dcb515a675",
-    "version_id": "a5f14d2ef4ca5226d2a82adb4f0b94fe7abfe1ee9de6f1d5a987faa1577ee905",
-    "status": "new"
+    "version_id": "a5f14d2ef4ca5226d2a82adb4f0b94fe7abfe1ee9de6f1d5a987faa1577ee905"
   },
   {
     "date": "2024-12-09",
@@ -918,11 +917,10 @@
     "summary": "do the assignment",
     "description": "(No description)",
     "calendar_name": "University studying",
-    "new_date": "2024-12-09",
-    "new_start": "2024-12-09T13:30:00+00:00",
-    "new_end": "2024-12-09T17:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "44d9fc7958fbc6def3a5593f7393f77bb19dc8fdd26e53c9c235fdc72af2710e",
-    "version_id": "20e05c88f608e4f2c0a8f204863f2dd7d0ad67cabfe2331d33c39c9468314abc",
-    "status": "new"
+    "version_id": "20e05c88f608e4f2c0a8f204863f2dd7d0ad67cabfe2331d33c39c9468314abc"
   }
 ]
