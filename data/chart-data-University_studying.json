@@ -922,5 +922,20 @@
     "new_end": "",
     "id": "44d9fc7958fbc6def3a5593f7393f77bb19dc8fdd26e53c9c235fdc72af2710e",
     "version_id": "20e05c88f608e4f2c0a8f204863f2dd7d0ad67cabfe2331d33c39c9468314abc"
+  },
+  {
+    "date": "2024-12-10",
+    "start": "2024-12-10T14:30:00+00:00",
+    "end": "2024-12-10T15:30:00+00:00",
+    "value": 1,
+    "summary": "assignment",
+    "description": "(No description)",
+    "calendar_name": "University studying",
+    "new_date": "2024-12-10",
+    "new_start": "2024-12-10T14:30:00+00:00",
+    "new_end": "2024-12-10T15:30:00+00:00",
+    "id": "f9e71145614fd65c7ea91e243495ee2a5daed99355a1870972bd7f9f1ccd71b6",
+    "version_id": "fa25c9437f9942ea5df5e89357603fb3ad464a8c5a7b4e7822dcc85f6c2057b7",
+    "status": "new"
   }
 ]
