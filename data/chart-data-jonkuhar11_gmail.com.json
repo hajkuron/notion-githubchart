@@ -3437,12 +3437,11 @@
     "summary": "Self improve",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2024-12-10",
-    "new_start": "2024-12-10T15:30:00+00:00",
-    "new_end": "2024-12-10T17:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "0a5df4814844b3912e0b9cdca65a66ae7bc16d069651ba49ec0c1a48d9024452",
-    "version_id": "f8bc50319a202dbda1cd20b706ca794d0b41ac6c2649343a45a7f83ee20bbbca",
-    "status": "new"
+    "version_id": "f8bc50319a202dbda1cd20b706ca794d0b41ac6c2649343a45a7f83ee20bbbca"
   },
   {
     "date": "2024-12-10",
@@ -3480,12 +3479,11 @@
     "summary": "wake up",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2024-12-11",
-    "new_start": "2024-12-11T05:00:00+00:00",
-    "new_end": "2024-12-11T05:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "b72fd5d197326193129d0c03ba6f7de531e5cc4c2c2c8acc8fa903a8bca57258",
-    "version_id": "ffb632c980fc5ca6df7530449e301476759c8ce52fe8cccfbc0d803bfcea3265",
-    "status": "new"
+    "version_id": "ffb632c980fc5ca6df7530449e301476759c8ce52fe8cccfbc0d803bfcea3265"
   },
   {
     "date": "2024-12-11",
@@ -3495,11 +3493,10 @@
     "summary": "read",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2024-12-11",
-    "new_start": "2024-12-11T18:00:00+00:00",
-    "new_end": "2024-12-11T19:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "0764cf3c8fec0f38731561f1a460c56cf5030ac9b1063d378f7853776449897e",
-    "version_id": "40cf547df8fae37f6dd3f10cb1c092d70c3b33329d11006cede76a40015c8bd8",
-    "status": "new"
+    "version_id": "40cf547df8fae37f6dd3f10cb1c092d70c3b33329d11006cede76a40015c8bd8"
   }
 ]
