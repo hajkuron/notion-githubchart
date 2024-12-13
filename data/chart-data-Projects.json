@@ -847,11 +847,25 @@
     "summary": "AI event AISO",
     "description": " \u2022 When: \ud835\uddd7\ud835\uddf2\ud835\uddf0\ud835\uddf2\ud835\uddfa\ud835\uddef\ud835\uddf2\ud835\uddff \ud835\udfed\ud835\udfee\ud835\ude01\ud835\uddf5, \ud835\udfed\ud835\udff3:\ud835\udfec\ud835\udfec\u2013\ud835\udfed\ud835\udff5:\ud835\udfec\ud835\udfec\n \u2022 Where: @\ud835\udde7\ud835\uddf5\ud835\uddf2 \ud835\uddd9\ud835\uddfc\ud835\ude02\ud835\uddfb\ud835\uddf1\ud835\uddff\ud835\ude06: \ud835\uddd4\ud835\udddc \ud835\udddb\ud835\ude02\ud835\uddef | \ud835\udde3\ud835\uddee\ud835\uddff\ud835\uddfb\ud835\uddee\ud835\ude00\ud835\ude00\ud835\ude02\ud835\ude00\ud835\ude04\ud835\uddf2\ud835\uddf4 \ud835\udfed\ud835\udfee\ud835\udff2\n \u2022 Cost: \ud835\uddd9\ud835\uddff\ud835\uddf2\ud835\uddf2\n \u2022 Drinks: \ud835\udde3\ud835\uddff\ud835\uddfc\ud835\ude03\ud835\uddf6\ud835\uddf1\ud835\uddf2\ud835\uddf1 \ud835\uddef\ud835\ude06 \ud835\udde7\ud835\uddf5\ud835\uddf2 \ud835\uddd9\ud835\uddfc\ud835\ude02\ud835\uddfb\ud835\uddf1\ud835\uddff\ud835\ude06 \ud83c\udf79\n",
     "calendar_name": "Projects",
-    "new_date": "2024-12-12",
-    "new_start": "2024-12-12T16:00:00+00:00",
-    "new_end": "2024-12-12T18:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "501a9b04f7aa5f07f64d3ce181a74882f236e1bce20a28e79502c60d42f24ab3",
-    "version_id": "36b34aaea27fefe1faaff6ecb67da5df5fa7f6d88e2914bd7fae03c295349a25",
+    "version_id": "36b34aaea27fefe1faaff6ecb67da5df5fa7f6d88e2914bd7fae03c295349a25"
+  },
+  {
+    "date": "2024-12-13",
+    "start": "2024-12-13T15:15:00+00:00",
+    "end": "2024-12-13T17:00:00+00:00",
+    "value": 1,
+    "summary": "New Event",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2024-12-13",
+    "new_start": "2024-12-13T15:15:00+00:00",
+    "new_end": "2024-12-13T17:00:00+00:00",
+    "id": "3680463f8dd5cccbf48f4163099d7204110f479248a8dee50500cea98b8c77f7",
+    "version_id": "9d0067c6edb33c370c9ac6688bc6048612334134cd16c79c53153faf172c2660",
     "status": "new"
   }
 ]

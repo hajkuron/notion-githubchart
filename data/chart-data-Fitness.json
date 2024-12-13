@@ -1057,12 +1057,11 @@
     "summary": "rest",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2024-12-12",
-    "new_start": "2024-12-12T05:30:00+00:00",
-    "new_end": "2024-12-12T06:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "0b4e959197b2f3d6bf408bdddfc82ff72a67d0750f344249b8bbd97eb60732e3",
-    "version_id": "6a085176ca6faa8e7e7b888c93c49b425a5bb61e5e4c2068678e567304cb9e80",
-    "status": "new"
+    "version_id": "6a085176ca6faa8e7e7b888c93c49b425a5bb61e5e4c2068678e567304cb9e80"
   },
   {
     "date": "2024-12-12",
@@ -1072,11 +1071,25 @@
     "summary": "zbal",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2024-12-12",
-    "new_start": "2024-12-12T18:45:00+00:00",
-    "new_end": "2024-12-12T20:15:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "caeb421e0bc00a5953b8bac982479e53bdc9fa7f9acde966fd86aa708ef14e05",
-    "version_id": "978f1a1ea591968bb29a0e85516f31dfff32cb4812fa2e4075d5b1b707925e61",
+    "version_id": "978f1a1ea591968bb29a0e85516f31dfff32cb4812fa2e4075d5b1b707925e61"
+  },
+  {
+    "date": "2024-12-13",
+    "start": "2024-12-13T05:30:00+00:00",
+    "end": "2024-12-13T06:30:00+00:00",
+    "value": 1,
+    "summary": "gym",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2024-12-13",
+    "new_start": "2024-12-13T05:30:00+00:00",
+    "new_end": "2024-12-13T06:30:00+00:00",
+    "id": "09433b72ad1a3afa3254bc2e2728509091e847818cd9caff1a24c9d732c28c2e",
+    "version_id": "f11e139cd202d9c6893f77089ae642f673996fd8a0359f6118da15b918700861",
     "status": "new"
   }
 ]
