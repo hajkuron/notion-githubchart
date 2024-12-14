@@ -13947,7 +13947,7 @@
     "new_end": "2024-09-23T11:00:00+00:00",
     "id": "62fa7bdc9b129512be75172815d10982ada13b35541ecbbb53aa5ffdf246ae79",
     "version_id": "661f4f1f32d449fc3c37126db9e0a318e57245e04d6d2e5105a4a0d0312bd02e",
-    "status": "new"
+    "status": "deleted"
   },
   {
     "date": "2024-09-25",
@@ -13962,7 +13962,7 @@
     "new_end": "2024-09-25T11:00:00+00:00",
     "id": "962219df6406d26d7d3ecd9ff554b8ae344f7cae50a3b5effb261db8d341211a",
     "version_id": "b0c8855af353de9259182799022cd7035e44e5b7c875d5309000b4db42f3ced0",
-    "status": "new"
+    "status": "deleted"
   },
   {
     "date": "2024-09-30",
@@ -13977,7 +13977,7 @@
     "new_end": "2024-09-30T11:00:00+00:00",
     "id": "8ce5a7b53a92e2dc7fd755761c52e376e2bd68b65dbd7bb1adf4452b3452e0df",
     "version_id": "2b1666348835b2f459f5911dfed94c1422d67506244204fe6a91ab2fd3fb52b4",
-    "status": "new"
+    "status": "deleted"
   },
   {
     "date": "2024-10-02",
@@ -13992,7 +13992,7 @@
     "new_end": "2024-10-02T11:00:00+00:00",
     "id": "ef1b4ec16923ceb446b7ee03b5eada4b10dbb227a259494417706557fb932352",
     "version_id": "f1af48a29cd9b8d9d3e121d6a92b883be2f3b4a6ce0252722d3566980575db0f",
-    "status": "new"
+    "status": "deleted"
   },
   {
     "date": "2024-10-07",
@@ -14007,7 +14007,7 @@
     "new_end": "2024-10-07T11:00:00+00:00",
     "id": "35d1557d7aea6526e2feaf051005dcb467b1b48bb20c1ffc6f1da29b0f98afeb",
     "version_id": "0a852a3ab62d9afbde07eb501033014be2bf37911b73f8fabd549887abaed12d",
-    "status": "new"
+    "status": "deleted"
   },
   {
     "date": "2024-10-11",
@@ -14022,7 +14022,7 @@
     "new_end": "2024-10-11T11:00:00+00:00",
     "id": "d6c1b910d181466614f21832b6b85e3789698458218c2387be567e3748e229b6",
     "version_id": "3bb34eaefc7dfbf0989c79e3565dd920f7827c253e1aa39d23e67992c586293b",
-    "status": "new"
+    "status": "deleted"
   },
   {
     "date": "2024-10-16",
@@ -14037,7 +14037,7 @@
     "new_end": "2024-10-16T11:00:00+00:00",
     "id": "70ad3d18156295d80f8a533bf3fb72d31d1e1c28ae9514c915c54a8cda4b0b9e",
     "version_id": "093cfe922cad83d293c20289053e702c35a962add3066da377288cd367b21425",
-    "status": "new"
+    "status": "deleted"
   },
   {
     "date": "2024-10-22",
@@ -14052,7 +14052,7 @@
     "new_end": "2024-10-22T09:00:00+00:00",
     "id": "cea9885fb2a42d293c0b8eabdb8cb51ff3aa016c9e6031126dcb084ce413e383",
     "version_id": "302a8a0ac6d77e58c2b3d598a0b9f2f60eec7689221fc18ebdfd06f01466f6c6",
-    "status": "new"
+    "status": "deleted"
   },
   {
     "date": "2024-10-28",
@@ -14067,7 +14067,7 @@
     "new_end": "2024-10-28T10:00:00+00:00",
     "id": "f5284c11f3244dee3a15ba62174aec2738efc2a65c76c9a0234b13489afc6e00",
     "version_id": "0d18a350bfb19bc271b4bd86350ff5df53751ffa3766f5c4f062e1ea4b3df4a4",
-    "status": "new"
+    "status": "deleted"
   },
   {
     "date": "2024-10-30",
@@ -14082,7 +14082,7 @@
     "new_end": "2024-10-30T12:00:00+00:00",
     "id": "573172c15b34c2397be6f15d76866827c76271c594fedfde3e83d086a9d27f7a",
     "version_id": "b2d9d51c527e64fb455b7eaeee58003637ef99b53906b3f9a9bc246f484384a7",
-    "status": "new"
+    "status": "deleted"
   },
   {
     "date": "2024-10-31",
@@ -14097,7 +14097,7 @@
     "new_end": "2024-10-31T12:00:00+00:00",
     "id": "e97de835c94f696de0a21542e6a9c2a789e88fbf710fdcf3ad5e65cca154b965",
     "version_id": "7abe1e8dc7494fcd6612a1c326ebe6fffe7a319f9c2c525f9788517cebe67e04",
-    "status": "new"
+    "status": "deleted"
   },
   {
     "date": "2024-11-04",
@@ -14112,7 +14112,7 @@
     "new_end": "2024-11-04T16:00:00+00:00",
     "id": "7111d92f73587f45b0315c7d29c4d30872e50086ddbde78866dff63b6c04abe9",
     "version_id": "677e45296255b4f0388ff86497630a8e66546730395be466b1b252042a8f2a61",
-    "status": "new"
+    "status": "deleted"
   },
   {
     "date": "2024-11-05",
@@ -14127,7 +14127,7 @@
     "new_end": "2024-11-05T16:00:00+00:00",
     "id": "a1985e8a0261dad3e7afa249e795556b2713b37e8bfb82168134be0e5f1b98eb",
     "version_id": "6282cb3922c2d13547440670b6c6b3f6d4d4816312cd72773bd79fcd91171510",
-    "status": "new"
+    "status": "deleted"
   },
   {
     "date": "2024-11-06",
@@ -14142,7 +14142,7 @@
     "new_end": "2024-11-06T12:00:00+00:00",
     "id": "965b5e621bd8f932bf9c49948e67f2f9f2ffbf55a9860d9d9563080595d6c194",
     "version_id": "1c89f2c6d6066661d0bf03445a82cc30f557517cfa4d652bf3658b3b1729ff81",
-    "status": "new"
+    "status": "deleted"
   },
   {
     "date": "2024-11-11",
@@ -14157,7 +14157,7 @@
     "new_end": "2024-11-11T10:00:00+00:00",
     "id": "7bcacc6ef3dde54fabdcdd00bc54e45eec2987b9bb8f1515cbc928d6cec315eb",
     "version_id": "8da0d2749996056b097fea692355de2c03649bbdbfffa4afde2474551360a8ff",
-    "status": "new"
+    "status": "deleted"
   },
   {
     "date": "2024-11-13",
@@ -14172,7 +14172,7 @@
     "new_end": "2024-11-13T12:00:00+00:00",
     "id": "e0674fef2c46cdd6bd60b4c4319b42dd5bfe0a6c8d657c2a7f0687dc1f5ddb2f",
     "version_id": "69893283b817fdf8708e7b0603a8fe5cce175fd2dd565f393aa0e0046ada8a1c",
-    "status": "new"
+    "status": "deleted"
   },
   {
     "date": "2024-11-13",
@@ -14187,7 +14187,7 @@
     "new_end": "2024-11-13T16:15:00+00:00",
     "id": "cdac91b1f8741f918f0c1584ef293292d0c1b27ea397f5be23f251f40e37fef1",
     "version_id": "f841e8ee186ba395cb922f3bccda24f5bcf8d2cf464f05a2e7c205e99f1263f8",
-    "status": "new"
+    "status": "deleted"
   },
   {
     "date": "2024-11-13",
@@ -14202,7 +14202,7 @@
     "new_end": "2024-11-13T16:30:01+00:00",
     "id": "77dd8d9b24ccdacdf412522c9398e4abd7524fbb01bee795d69137ddca14d6e3",
     "version_id": "d0de019db94eea01103baf5d80347f3448a3fb8006a5dd70bbbd3657dee1a3f0",
-    "status": "new"
+    "status": "deleted"
   },
   {
     "date": "2024-11-18",
@@ -14217,7 +14217,7 @@
     "new_end": "2024-11-18T16:00:00+00:00",
     "id": "f7119fe1d2b33deeab33ca44d90010b70ffcc4fa350c2f467ed6055c9c6790a3",
     "version_id": "3ac2d023a0fe6e261098b356f098ff9ff7f6203e2baecf88cf420a646092df64",
-    "status": "new"
+    "status": "deleted"
   },
   {
     "date": "2024-11-19",
@@ -14232,7 +14232,7 @@
     "new_end": "2024-11-19T16:00:00+00:00",
     "id": "794983841313ef87d21933c4e6e8a5f97fec44c01413a8e568f055b2de33b571",
     "version_id": "edc962ea8c52d31ed4fedf44325b357ccc76233b2d5b52126596303658df4d48",
-    "status": "new"
+    "status": "deleted"
   },
   {
     "date": "2024-11-20",
@@ -14247,7 +14247,7 @@
     "new_end": "2024-11-20T09:00:01+00:00",
     "id": "8791fadab82e293ed794f08b43f4978cd04027a375ca82422b33d9df73c0b252",
     "version_id": "d0bf5fc91a0f54471d11eb7c6705228d8410f3ffb8bdfe6c9199f5e9b8e6c621",
-    "status": "new"
+    "status": "deleted"
   },
   {
     "date": "2024-11-20",
@@ -14262,7 +14262,7 @@
     "new_end": "2024-11-20T12:00:00+00:00",
     "id": "01377083088033820fadad89a47ef88691db5a8892758df9790b36cdab5e3868",
     "version_id": "e40e4b76813519d36d39e9e464ad004395e5fe1a66f9002961298b1138638369",
-    "status": "new"
+    "status": "deleted"
   },
   {
     "date": "2024-11-24",
@@ -14277,7 +14277,7 @@
     "new_end": "2024-11-25T00:00:00+00:00",
     "id": "611c2a94c38c2ed893117dd83116926e4e71990b9b0a05e2b500823621fa09d8",
     "version_id": "5c88d8852c706aa4b665d9f73ed8f14af4c7968a034ed70baff6f09e2e4b613f",
-    "status": "new"
+    "status": "deleted"
   },
   {
     "date": "2024-11-25",
@@ -14292,7 +14292,7 @@
     "new_end": "2024-11-25T16:00:00+00:00",
     "id": "3c50baf329d2df5c266bb39566120f47ae65a9ff5e9e6d18b5f7d5c8ec25293b",
     "version_id": "7f245db62ac2f80496fea79a4fed4f77acd23e27049ce4681bc42f7c34aefd11",
-    "status": "new"
+    "status": "deleted"
   },
   {
     "date": "2024-11-27",
@@ -14307,7 +14307,7 @@
     "new_end": "2024-11-27T12:00:00+00:00",
     "id": "bc12e060a4943ffc8d9230d1aae8f71b3ea16357c52e812c2ced8fdc5ee79c09",
     "version_id": "2e7c272690ddac86a0f8b8e1d0b59d50268c52def78d35d57cb0e4e1f43ca00e",
-    "status": "new"
+    "status": "deleted"
   },
   {
     "date": "2024-11-27",
@@ -14322,7 +14322,7 @@
     "new_end": "2024-11-27T16:15:00+00:00",
     "id": "c49d8a7de4ee090c75b8c43c178ddc66c1d2930214b3f965dd2c1c8ef1ea2c88",
     "version_id": "2b69e00b6db899c91c9c182e9c1cd53ce890165827307d5aa1f895580d3b5427",
-    "status": "new"
+    "status": "deleted"
   },
   {
     "date": "2024-12-02",
@@ -14337,7 +14337,7 @@
     "new_end": "2024-12-02T16:00:00+00:00",
     "id": "aa8cce0e68f660fd16bebbbfa50e5280bba6968d9fc7d085930bd8bd1b205159",
     "version_id": "20abcc7228b71ca801484b1c21c9e475bfa2e7be897a39988b8cda52a6715e76",
-    "status": "new"
+    "status": "deleted"
   },
   {
     "date": "2024-12-03",
@@ -14352,7 +14352,7 @@
     "new_end": "2024-12-03T16:00:00+00:00",
     "id": "457e108ee2b935e44cbcf14ad68c44495f10be4c46c5ad6b537620341b5dd12c",
     "version_id": "5bd82cbce1a618fa6db179e356849c0970a3a21b19e6351e1e943f993f1898de",
-    "status": "new"
+    "status": "deleted"
   },
   {
     "date": "2024-12-04",
@@ -14367,7 +14367,7 @@
     "new_end": "2024-12-04T09:00:01+00:00",
     "id": "8c9999fdc19b4dcabdb64490733df80f9f80b9b761e72dfc0f1426192e57a15f",
     "version_id": "f8b7a3f918f666a4df822d25ee75b11ce9d826832283ba23424ca78b51950c2c",
-    "status": "new"
+    "status": "deleted"
   },
   {
     "date": "2024-12-04",
@@ -14382,7 +14382,7 @@
     "new_end": "2024-12-04T12:00:00+00:00",
     "id": "c6929f6cad027436227a2739195ed9c8af5186033fa2b3bf10ac89a3f7450c1b",
     "version_id": "1cd54f1e8f327b56a0ee3d943fceb5859564eba7ca5a0eaa809ff28369186377",
-    "status": "new"
+    "status": "deleted"
   },
   {
     "date": "2024-12-05",
@@ -14397,7 +14397,7 @@
     "new_end": "2024-12-05T12:00:00+00:00",
     "id": "89ee6d273e93195bc2a1e189acaad45134f2fb0b272e6499b4cc295e682742d0",
     "version_id": "196ddfa72a43e040affa39a3e13cc1aa93fad6b683054493d3a8ee2584d5395b",
-    "status": "new"
+    "status": "deleted"
   },
   {
     "date": "2024-12-05",
@@ -14412,7 +14412,7 @@
     "new_end": "2024-12-05T09:00:01+00:00",
     "id": "05c977d7c9f62ac8841aaf3dcc863ce10fb549096d27a8cdd100b5c2fd2ff7ef",
     "version_id": "78a32988510b136a7e4798b057bc3251680855d3b26a04a1c8a965acf941c7ee",
-    "status": "new"
+    "status": "deleted"
   },
   {
     "date": "2024-12-13",
@@ -14427,6 +14427,486 @@
     "new_end": "2024-12-14T00:00:00+00:00",
     "id": "d5a359cfa44864c92ec264913c78e398f6435dd6bb66e38d9d9fbaeb6c31464c",
     "version_id": "8088df7a5800a9782916eb4a64bdd6286ca634e308693910e5b341804eec024a",
+    "status": "deleted"
+  },
+  {
+    "date": "2024-09-23",
+    "start": "2024-09-23T09:00:00+00:00",
+    "end": "2024-09-23T11:00:00+00:00",
+    "value": 1,
+    "summary": "The Entrepreneurial Individual",
+    "description": "Type: Lecture\n\nCourse code: 6314MA046Y\n\nLocation(s):\nExtern Crea Theaterzaal: https://rooster.uva.nl/entity?type=location&key=Extern%20BOL%20Crea%20Theaterzaal&source=2024\n\nStaff member(s): Obschonka, prof. dr. M.\n\nSize: 130\n\nStudy guide: https://studiegids.uva.nl/xmlpages/plspub/redirect?studiegidsnummer=6314MA046Y&jaar=2024-2025\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2024-12-14 at 15:20 CET",
+    "calendar_name": "University of Amsterdam - Personal timetable: 13597698@uva.nl",
+    "new_date": "2024-09-23",
+    "new_start": "2024-09-23T09:00:00+00:00",
+    "new_end": "2024-09-23T11:00:00+00:00",
+    "id": "bfe3ebd61cc4aebcaaa788e5acf9a5a655122951f57ee54e18cdf19646511ee5",
+    "version_id": "de6de81d0444dceab652701207e8298398ca92e0466ff4febd1c4bbc72c5867f",
+    "status": "new"
+  },
+  {
+    "date": "2024-09-25",
+    "start": "2024-09-25T09:00:00+00:00",
+    "end": "2024-09-25T11:00:00+00:00",
+    "value": 1,
+    "summary": "The Entrepreneurial Individual",
+    "description": "Type: Seminar\n\nCourse code: 6314MA046Y\n\nLocation(s):\nREC L2.03: https://rooster.uva.nl/entity?type=location&key=354%20L2.03&source=2024\n\nGroup(s): Group 2\n\nGroup 2\n\nSize: 35\n\nStudy guide: https://studiegids.uva.nl/xmlpages/plspub/redirect?studiegidsnummer=6314MA046Y&jaar=2024-2025\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2024-12-14 at 15:20 CET",
+    "calendar_name": "University of Amsterdam - Personal timetable: 13597698@uva.nl",
+    "new_date": "2024-09-25",
+    "new_start": "2024-09-25T09:00:00+00:00",
+    "new_end": "2024-09-25T11:00:00+00:00",
+    "id": "0647ebed3ae8b4bc739c935e167238359a24cf9a98b13339b2a5555d1e4b6d9c",
+    "version_id": "81fbf21a8edc4590a9abe3a20758c6c2eed2eff05129d905e5119909de8f2ee4",
+    "status": "new"
+  },
+  {
+    "date": "2024-09-30",
+    "start": "2024-09-30T09:00:00+00:00",
+    "end": "2024-09-30T11:00:00+00:00",
+    "value": 1,
+    "summary": "The Entrepreneurial Individual",
+    "description": "Type: Lecture\n\nCourse code: 6314MA046Y\n\nLocation(s):\nExtern Crea Theaterzaal: https://rooster.uva.nl/entity?type=location&key=Extern%20BOL%20Crea%20Theaterzaal&source=2024\n\nStaff member(s): Obschonka, prof. dr. M.\n\nSize: 130\n\nStudy guide: https://studiegids.uva.nl/xmlpages/plspub/redirect?studiegidsnummer=6314MA046Y&jaar=2024-2025\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2024-12-14 at 15:20 CET",
+    "calendar_name": "University of Amsterdam - Personal timetable: 13597698@uva.nl",
+    "new_date": "2024-09-30",
+    "new_start": "2024-09-30T09:00:00+00:00",
+    "new_end": "2024-09-30T11:00:00+00:00",
+    "id": "4bdbe9af2aa7903152f70389bc343ae97d06e681317349a632dae6432151f867",
+    "version_id": "f177b434466ca0e3212545706de94eb46fa8901d97243c6fb6dc2e83250c7253",
+    "status": "new"
+  },
+  {
+    "date": "2024-10-02",
+    "start": "2024-10-02T09:00:00+00:00",
+    "end": "2024-10-02T11:00:00+00:00",
+    "value": 1,
+    "summary": "The Entrepreneurial Individual",
+    "description": "Type: Seminar\n\nCourse code: 6314MA046Y\n\nLocation(s):\nREC L2.03: https://rooster.uva.nl/entity?type=location&key=354%20L2.03&source=2024\n\nGroup(s): Group 2\n\nGroup 2\n\nSize: 35\n\nStudy guide: https://studiegids.uva.nl/xmlpages/plspub/redirect?studiegidsnummer=6314MA046Y&jaar=2024-2025\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2024-12-14 at 15:20 CET",
+    "calendar_name": "University of Amsterdam - Personal timetable: 13597698@uva.nl",
+    "new_date": "2024-10-02",
+    "new_start": "2024-10-02T09:00:00+00:00",
+    "new_end": "2024-10-02T11:00:00+00:00",
+    "id": "3f96380b62a33f748fba61ea6a79d5e45d4c1137c9c345f67f59cf8780800fca",
+    "version_id": "e0ac328f8ef3c0124068c7aa7750cbb26af5fde54d599f87cf637736654d4e99",
+    "status": "new"
+  },
+  {
+    "date": "2024-10-07",
+    "start": "2024-10-07T09:00:00+00:00",
+    "end": "2024-10-07T11:00:00+00:00",
+    "value": 1,
+    "summary": "The Entrepreneurial Individual",
+    "description": "Type: Lecture\n\nCourse code: 6314MA046Y\n\nLocation(s):\nExtern Crea Theaterzaal: https://rooster.uva.nl/entity?type=location&key=Extern%20BOL%20Crea%20Theaterzaal&source=2024\n\nStaff member(s): Obschonka, prof. dr. M.\n\nSize: 130\n\nStudy guide: https://studiegids.uva.nl/xmlpages/plspub/redirect?studiegidsnummer=6314MA046Y&jaar=2024-2025\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2024-12-14 at 15:20 CET",
+    "calendar_name": "University of Amsterdam - Personal timetable: 13597698@uva.nl",
+    "new_date": "2024-10-07",
+    "new_start": "2024-10-07T09:00:00+00:00",
+    "new_end": "2024-10-07T11:00:00+00:00",
+    "id": "64ecf71b0eaab702250fd2482f350f34470b0d253b1234416d1badcf1eba441f",
+    "version_id": "040165edb2e826d887f2f85b9fb6acc9b9bb3687dcd16a23509d24e7f56f30fa",
+    "status": "new"
+  },
+  {
+    "date": "2024-10-11",
+    "start": "2024-10-11T09:00:00+00:00",
+    "end": "2024-10-11T11:00:00+00:00",
+    "value": 1,
+    "summary": "The Entrepreneurial Individual",
+    "description": "Type: Seminar\n\nCourse code: 6314MA046Y\n\nLocation(s):\nREC A2.10: https://rooster.uva.nl/entity?type=location&key=310.A%20A2.10&source=2024\n\nGroup(s): Group 2\n\nGroup 2\n\nSize: 35\n\nStudy guide: https://studiegids.uva.nl/xmlpages/plspub/redirect?studiegidsnummer=6314MA046Y&jaar=2024-2025\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2024-12-14 at 15:20 CET",
+    "calendar_name": "University of Amsterdam - Personal timetable: 13597698@uva.nl",
+    "new_date": "2024-10-11",
+    "new_start": "2024-10-11T09:00:00+00:00",
+    "new_end": "2024-10-11T11:00:00+00:00",
+    "id": "9488f60656aa56b1fe047d6a588ffd78fee907af4b1c262270941c52a8ec6eba",
+    "version_id": "187e862fbb16d9d08234c065d2a831d8a0bc3c88002fbbf7a83394ceb5aa5122",
+    "status": "new"
+  },
+  {
+    "date": "2024-10-16",
+    "start": "2024-10-16T09:00:00+00:00",
+    "end": "2024-10-16T11:00:00+00:00",
+    "value": 1,
+    "summary": "The Startup Project",
+    "description": "Type: Tutorial\n\nCourse code: 6314MA021Y\n\nStaff member(s): Kuijken, dr. B.\n\nIndividual pitch your idea session + matchmaking + team formation\n\nLocation: REC Impact Event Space\n\nSize: 80\n\nStudy guide: https://studiegids.uva.nl/xmlpages/plspub/redirect?studiegidsnummer=6314MA021Y&jaar=2024-2025\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2024-12-14 at 15:20 CET",
+    "calendar_name": "University of Amsterdam - Personal timetable: 13597698@uva.nl",
+    "new_date": "2024-10-16",
+    "new_start": "2024-10-16T09:00:00+00:00",
+    "new_end": "2024-10-16T11:00:00+00:00",
+    "id": "793e21dbbef233a84c9f11628561db394a12ce77adfaaa6cbe80774151943554",
+    "version_id": "b677b87cbe5eca340bfac28d8514fb16deca5663852946ff4679a0410466e126",
+    "status": "new"
+  },
+  {
+    "date": "2024-10-22",
+    "start": "2024-10-22T07:00:00+00:00",
+    "end": "2024-10-22T09:00:00+00:00",
+    "value": 1,
+    "summary": "The Entrepreneurial Individual",
+    "description": "Type: Computer-based examination\n\nCourse code: 6314MA046Y\n\nLocation(s):\nIWO 4.04A (Rood): https://rooster.uva.nl/entity?type=location&key=829%204.04A%20(Rood)&source=2024\n\nStaff member(s): Obschonka, prof. dr. M.\n\nSize: 145\n\nStudy guide: https://studiegids.uva.nl/xmlpages/plspub/redirect?studiegidsnummer=6314MA046Y&jaar=2024-2025\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2024-12-14 at 15:20 CET",
+    "calendar_name": "University of Amsterdam - Personal timetable: 13597698@uva.nl",
+    "new_date": "2024-10-22",
+    "new_start": "2024-10-22T07:00:00+00:00",
+    "new_end": "2024-10-22T09:00:00+00:00",
+    "id": "1ef16734859221f9bdd079139fa3faf56fec71833493a8fbab8aa75026d27582",
+    "version_id": "98ecf03f2650d95fd2b55246e81464ae7cb9a08b4ba98d02651310d448dfc9a9",
+    "status": "new"
+  },
+  {
+    "date": "2024-10-28",
+    "start": "2024-10-28T08:00:00+00:00",
+    "end": "2024-10-28T10:00:00+00:00",
+    "value": 1,
+    "summary": "The Startup Project",
+    "description": "Type: Lecture\n\nCourse code: 6314MA021Y\n\nLocation(s):\nREC A1.03: https://rooster.uva.nl/entity?type=location&key=310.A%20A1.03&source=2024\n\nStaff member(s): Kuijken, dr. B.\n\nIntroduction to Design thinking and Lean startup\n\nSize: 130\n\nStudy guide: https://studiegids.uva.nl/xmlpages/plspub/redirect?studiegidsnummer=6314MA021Y&jaar=2024-2025\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2024-12-14 at 15:20 CET",
+    "calendar_name": "University of Amsterdam - Personal timetable: 13597698@uva.nl",
+    "new_date": "2024-10-28",
+    "new_start": "2024-10-28T08:00:00+00:00",
+    "new_end": "2024-10-28T10:00:00+00:00",
+    "id": "f3a3b077e2aad0af7d326946dc1eb7683c5999edb85c782c201ce16c33d42c7b",
+    "version_id": "b5377de29b41326518f489a9bab15a1dc31d21a3533846c88d870e02531368d3",
+    "status": "new"
+  },
+  {
+    "date": "2024-10-30",
+    "start": "2024-10-30T10:00:00+00:00",
+    "end": "2024-10-30T12:00:00+00:00",
+    "value": 1,
+    "summary": "Entrepreneurship in Science & Technology",
+    "description": "Type: Lecture\n\nCourse code: 6314MA008Y\n\nLocation(s):\nREC E0.04: https://rooster.uva.nl/entity?type=location&key=331%20E0.04&source=2024\n\nStaff member(s): De Cuyper, L.M.C.\n\nSize: 35\n\nStudy guide: https://studiegids.uva.nl/xmlpages/plspub/redirect?studiegidsnummer=6314MA008Y&jaar=2024-2025\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2024-12-14 at 15:20 CET",
+    "calendar_name": "University of Amsterdam - Personal timetable: 13597698@uva.nl",
+    "new_date": "2024-10-30",
+    "new_start": "2024-10-30T10:00:00+00:00",
+    "new_end": "2024-10-30T12:00:00+00:00",
+    "id": "7b951788a9a03360e655dc016a07838529f5d10412930b6135e9bb62f6a383b0",
+    "version_id": "e989fddb18915b2825b5bd6121d573f074eafc0178d3ba81f79cdab04093a636",
+    "status": "new"
+  },
+  {
+    "date": "2024-10-31",
+    "start": "2024-10-31T10:00:00+00:00",
+    "end": "2024-10-31T12:00:00+00:00",
+    "value": 1,
+    "summary": "Entrepreneurship in Science & Technology",
+    "description": "Type: Tutorial\n\nCourse code: 6314MA008Y\n\nLocation(s):\nREC JKB.46: https://rooster.uva.nl/entity?type=location&key=341.O%20B.46&source=2024\n\nStaff member(s): De Cuyper, L.M.C.\n\nGroup 1\n\nSize: 35\n\nStudy guide: https://studiegids.uva.nl/xmlpages/plspub/redirect?studiegidsnummer=6314MA008Y&jaar=2024-2025\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2024-12-14 at 15:20 CET",
+    "calendar_name": "University of Amsterdam - Personal timetable: 13597698@uva.nl",
+    "new_date": "2024-10-31",
+    "new_start": "2024-10-31T10:00:00+00:00",
+    "new_end": "2024-10-31T12:00:00+00:00",
+    "id": "9fbbe6d85cfaaa95f0dcd3f4f7be603b415b253e79b1cab7ab6455052725417d",
+    "version_id": "374a90aa3f22674ceafde57960dd14a8fb97b1f8c2a849ac2865a76b81413970",
+    "status": "new"
+  },
+  {
+    "date": "2024-11-04",
+    "start": "2024-11-04T08:00:00+00:00",
+    "end": "2024-11-04T16:00:00+00:00",
+    "value": 1,
+    "summary": "The Startup Project",
+    "description": "Type: Tutorial\n\nCourse code: 6314MA021Y\n\nStaff member(s): Kuijken, dr. B.\n\nGroup(s): Group 1\n\nCoaching sessions (2 teams, 1 hour)\n\nLocation: REC Impact Event Space\n\nSize: 12\n\nStudy guide: https://studiegids.uva.nl/xmlpages/plspub/redirect?studiegidsnummer=6314MA021Y&jaar=2024-2025\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2024-12-14 at 15:20 CET",
+    "calendar_name": "University of Amsterdam - Personal timetable: 13597698@uva.nl",
+    "new_date": "2024-11-04",
+    "new_start": "2024-11-04T08:00:00+00:00",
+    "new_end": "2024-11-04T16:00:00+00:00",
+    "id": "85920666e4260265d8c02b0cd8f31dc275f7e822ea548a82bf76dbd1aab20b21",
+    "version_id": "f5374efcab034bc1c41a535dff2f120af470984a57647bacf400d8d1047e5ad7",
+    "status": "new"
+  },
+  {
+    "date": "2024-11-05",
+    "start": "2024-11-05T08:00:00+00:00",
+    "end": "2024-11-05T16:00:00+00:00",
+    "value": 1,
+    "summary": "The Startup Project",
+    "description": "Type: Tutorial\n\nCourse code: 6314MA021Y\n\nStaff member(s): Kuijken, dr. B.\n\nGroup(s): Group 1\n\nCoaching sessions (2 teams, 1 hour)\n\nLocation: REC Impact Event Space\n\nSize: 12\n\nStudy guide: https://studiegids.uva.nl/xmlpages/plspub/redirect?studiegidsnummer=6314MA021Y&jaar=2024-2025\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2024-12-14 at 15:20 CET",
+    "calendar_name": "University of Amsterdam - Personal timetable: 13597698@uva.nl",
+    "new_date": "2024-11-05",
+    "new_start": "2024-11-05T08:00:00+00:00",
+    "new_end": "2024-11-05T16:00:00+00:00",
+    "id": "e215bc44dee2e59e4592d9555fcac006d5297d968dde76839e9fdb6e79070f52",
+    "version_id": "9f8971788009f2f610156a06433df5fef2dbd91b51537df9f0544a6dd317614b",
+    "status": "new"
+  },
+  {
+    "date": "2024-11-06",
+    "start": "2024-11-06T10:00:00+00:00",
+    "end": "2024-11-06T12:00:00+00:00",
+    "value": 1,
+    "summary": "Entrepreneurship in Science & Technology",
+    "description": "Type: Lecture\n\nCourse code: 6314MA008Y\n\nLocation(s):\nREC E0.04: https://rooster.uva.nl/entity?type=location&key=331%20E0.04&source=2024\n\nStaff member(s): De Cuyper, L.M.C.\n\nSize: 35\n\nStudy guide: https://studiegids.uva.nl/xmlpages/plspub/redirect?studiegidsnummer=6314MA008Y&jaar=2024-2025\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2024-12-14 at 15:20 CET",
+    "calendar_name": "University of Amsterdam - Personal timetable: 13597698@uva.nl",
+    "new_date": "2024-11-06",
+    "new_start": "2024-11-06T10:00:00+00:00",
+    "new_end": "2024-11-06T12:00:00+00:00",
+    "id": "c312e970663220799664f730f788779665a7e1c3284a8c1ad1037212b35ab5d5",
+    "version_id": "10b8afb396bd080b466e0e955b314a6c84a154eef0c5bc5b3f00fcc22dcb3552",
+    "status": "new"
+  },
+  {
+    "date": "2024-11-11",
+    "start": "2024-11-11T08:00:00+00:00",
+    "end": "2024-11-11T10:00:00+00:00",
+    "value": 1,
+    "summary": "The Startup Project",
+    "description": "Type: Lecture\n\nCourse code: 6314MA021Y\n\nLocation(s):\nREC A1.03: https://rooster.uva.nl/entity?type=location&key=310.A%20A1.03&source=2024\n\nStaff member(s): Kuijken, dr. B.\n\nValidation plan session\n\nSize: 130\n\nStudy guide: https://studiegids.uva.nl/xmlpages/plspub/redirect?studiegidsnummer=6314MA021Y&jaar=2024-2025\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2024-12-14 at 15:20 CET",
+    "calendar_name": "University of Amsterdam - Personal timetable: 13597698@uva.nl",
+    "new_date": "2024-11-11",
+    "new_start": "2024-11-11T08:00:00+00:00",
+    "new_end": "2024-11-11T10:00:00+00:00",
+    "id": "fc081aab58dc1044f006b423b2658a0dc82367291e36c671172742755c180162",
+    "version_id": "da07b409f2fe35622fdb329e27a61c618242fedc254e3ce0424e530c34599bb2",
+    "status": "new"
+  },
+  {
+    "date": "2024-11-13",
+    "start": "2024-11-13T10:00:00+00:00",
+    "end": "2024-11-13T12:00:00+00:00",
+    "value": 1,
+    "summary": "Entrepreneurship in Science & Technology",
+    "description": "Type: Lecture\n\nCourse code: 6314MA008Y\n\nLocation(s):\nREC E0.04: https://rooster.uva.nl/entity?type=location&key=331%20E0.04&source=2024\n\nStaff member(s): De Cuyper, L.M.C.\n\nSize: 35\n\nStudy guide: https://studiegids.uva.nl/xmlpages/plspub/redirect?studiegidsnummer=6314MA008Y&jaar=2024-2025\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2024-12-14 at 15:20 CET",
+    "calendar_name": "University of Amsterdam - Personal timetable: 13597698@uva.nl",
+    "new_date": "2024-11-13",
+    "new_start": "2024-11-13T10:00:00+00:00",
+    "new_end": "2024-11-13T12:00:00+00:00",
+    "id": "6e3a1a4835d2763fd8766d021fbdff1a97db59ada70100439473d87a9c6f2ae1",
+    "version_id": "076aaf5aac524921e4976b87a9ff8112813209264c1c1694641e05a600eff8a6",
+    "status": "new"
+  },
+  {
+    "date": "2024-11-13",
+    "start": "2024-11-13T14:15:00+00:00",
+    "end": "2024-11-13T16:15:00+00:00",
+    "value": 1,
+    "summary": "Entrepreneurship in Science & Technology",
+    "description": "Type: Tutorial\n\nCourse code: 6314MA008Y\n\nLocation(s):\nREC JKT1.03: https://rooster.uva.nl/entity?type=location&key=341.O%20T1.03&source=2024\n\nStaff member(s): De Cuyper, L.M.C.\n\nGroup 1\n\nSize: 35\n\nStudy guide: https://studiegids.uva.nl/xmlpages/plspub/redirect?studiegidsnummer=6314MA008Y&jaar=2024-2025\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2024-12-14 at 15:20 CET",
+    "calendar_name": "University of Amsterdam - Personal timetable: 13597698@uva.nl",
+    "new_date": "2024-11-13",
+    "new_start": "2024-11-13T14:15:00+00:00",
+    "new_end": "2024-11-13T16:15:00+00:00",
+    "id": "7982a9b9205c12fd17cfec9b2cc2519060c30daee179e2b535740b06eae4201e",
+    "version_id": "077d05db25689e366cae52d34c3796effea640fdf12e96c5bcfab4d1bfb28469",
+    "status": "new"
+  },
+  {
+    "date": "2024-11-18",
+    "start": "2024-11-18T08:00:00+00:00",
+    "end": "2024-11-18T16:00:00+00:00",
+    "value": 1,
+    "summary": "The Startup Project",
+    "description": "Type: Tutorial\n\nCourse code: 6314MA021Y\n\nStaff member(s): Kuijken, dr. B.\n\nGroup(s): Group 1\n\nCoaching sessions (2 teams, 1 hour)\n\nLocation: REC Impact Event Space\n\nSize: 12\n\nStudy guide: https://studiegids.uva.nl/xmlpages/plspub/redirect?studiegidsnummer=6314MA021Y&jaar=2024-2025\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2024-12-14 at 15:20 CET",
+    "calendar_name": "University of Amsterdam - Personal timetable: 13597698@uva.nl",
+    "new_date": "2024-11-18",
+    "new_start": "2024-11-18T08:00:00+00:00",
+    "new_end": "2024-11-18T16:00:00+00:00",
+    "id": "a9fb9d68a4d9401c405f98ab1600a7e5a0b453b17fad89a9f6eaa7045c3140ec",
+    "version_id": "8e3fdbab1fadc5d873b085b9a9f1f12d05ad8a9540c822ff3c154dde08b6c083",
+    "status": "new"
+  },
+  {
+    "date": "2024-11-19",
+    "start": "2024-11-19T08:00:00+00:00",
+    "end": "2024-11-19T16:00:00+00:00",
+    "value": 1,
+    "summary": "The Startup Project",
+    "description": "Type: Tutorial\n\nCourse code: 6314MA021Y\n\nStaff member(s): Kuijken, dr. B.\n\nGroup(s): Group 1\n\nCoaching sessions (2 teams, 1 hour)\n\nLocation: REC Impact Event Space\n\nSize: 12\n\nStudy guide: https://studiegids.uva.nl/xmlpages/plspub/redirect?studiegidsnummer=6314MA021Y&jaar=2024-2025\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2024-12-14 at 15:20 CET",
+    "calendar_name": "University of Amsterdam - Personal timetable: 13597698@uva.nl",
+    "new_date": "2024-11-19",
+    "new_start": "2024-11-19T08:00:00+00:00",
+    "new_end": "2024-11-19T16:00:00+00:00",
+    "id": "c93af594672c2aed16047dde5ecff43d69d83ff010fef16d52b0412dd3e5eb6a",
+    "version_id": "b72cb2fd6a2d29326fd41c3537b4c03731ad1de88758967c60b402a62f191830",
+    "status": "new"
+  },
+  {
+    "date": "2024-11-20",
+    "start": "2024-11-20T09:00:00+00:00",
+    "end": "2024-11-20T09:00:01+00:00",
+    "value": 1,
+    "summary": "QAQC week 4 [6314MA008Y]",
+    "description": "Type: Canvas\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2024-12-14 at 15:20 CET",
+    "calendar_name": "University of Amsterdam - Personal timetable: 13597698@uva.nl",
+    "new_date": "2024-11-20",
+    "new_start": "2024-11-20T09:00:00+00:00",
+    "new_end": "2024-11-20T09:00:01+00:00",
+    "id": "1e1c5777228ef767939d86d0f04e39d6a5ca77c8de6cab432e1998e63f9aef4b",
+    "version_id": "e3f0e00d15a9db5f904f48d398b92825bc92a27d7a6fa18df340add15a8236c8",
+    "status": "new"
+  },
+  {
+    "date": "2024-11-20",
+    "start": "2024-11-20T10:00:00+00:00",
+    "end": "2024-11-20T12:00:00+00:00",
+    "value": 1,
+    "summary": "Entrepreneurship in Science & Technology",
+    "description": "Type: Lecture\n\nCourse code: 6314MA008Y\n\nLocation(s):\nREC E0.04: https://rooster.uva.nl/entity?type=location&key=331%20E0.04&source=2024\n\nStaff member(s): De Cuyper, L.M.C.\n\nSize: 35\n\nStudy guide: https://studiegids.uva.nl/xmlpages/plspub/redirect?studiegidsnummer=6314MA008Y&jaar=2024-2025\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2024-12-14 at 15:20 CET",
+    "calendar_name": "University of Amsterdam - Personal timetable: 13597698@uva.nl",
+    "new_date": "2024-11-20",
+    "new_start": "2024-11-20T10:00:00+00:00",
+    "new_end": "2024-11-20T12:00:00+00:00",
+    "id": "e93ceb341fa68dcdc511eb93fdbc1eacd82a5742776fdd1fb21546db481e27a0",
+    "version_id": "9ed815695c9809ca2bb81d6b22e459811eb8e0fdccaf65516e0298b2c2845af2",
+    "status": "new"
+  },
+  {
+    "date": "2024-11-24",
+    "start": "2024-11-24T00:00:00+00:00",
+    "end": "2024-11-25T00:00:00+00:00",
+    "value": 1,
+    "summary": "Validation Plan [6314MA021Y]",
+    "description": "Type: Canvas\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2024-12-14 at 15:20 CET",
+    "calendar_name": "University of Amsterdam - Personal timetable: 13597698@uva.nl",
+    "new_date": "2024-11-24",
+    "new_start": "2024-11-24T00:00:00+00:00",
+    "new_end": "2024-11-25T00:00:00+00:00",
+    "id": "3166339e56281c33eb9d2d6dfd92430482207d2e9df35e4d57fc8f0718d5d2fa",
+    "version_id": "9fa72a66ea23929f67d54a822cb8b5989a83eba07cf58be0a94a53a5d8e21b47",
+    "status": "new"
+  },
+  {
+    "date": "2024-11-25",
+    "start": "2024-11-25T08:00:00+00:00",
+    "end": "2024-11-25T16:00:00+00:00",
+    "value": 1,
+    "summary": "The Startup Project",
+    "description": "Type: Presentation\n\nCourse code: 6314MA021Y\n\nStaff member(s): Kuijken, dr. B.\n\nProgress pitch time\n\nLocation: REC Impact Event Space\n\nSize: 130\n\nStudy guide: https://studiegids.uva.nl/xmlpages/plspub/redirect?studiegidsnummer=6314MA021Y&jaar=2024-2025\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2024-12-14 at 15:20 CET",
+    "calendar_name": "University of Amsterdam - Personal timetable: 13597698@uva.nl",
+    "new_date": "2024-11-25",
+    "new_start": "2024-11-25T08:00:00+00:00",
+    "new_end": "2024-11-25T16:00:00+00:00",
+    "id": "e1cceeb4b0c16b1c479083ac6b35c2d33a16738cd6bb069cbea66ea9ecf46b67",
+    "version_id": "7aa8bf0f020459d5eccd6476365b93390434c7d4cfd0f1b4f6e4292e87ea3be3",
+    "status": "new"
+  },
+  {
+    "date": "2024-11-27",
+    "start": "2024-11-27T10:00:00+00:00",
+    "end": "2024-11-27T12:00:00+00:00",
+    "value": 1,
+    "summary": "Entrepreneurship in Science & Technology",
+    "description": "Type: Lecture\n\nCourse code: 6314MA008Y\n\nLocation(s):\nREC E0.04: https://rooster.uva.nl/entity?type=location&key=331%20E0.04&source=2024\n\nStaff member(s): De Cuyper, L.M.C.\n\nSize: 35\n\nStudy guide: https://studiegids.uva.nl/xmlpages/plspub/redirect?studiegidsnummer=6314MA008Y&jaar=2024-2025\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2024-12-14 at 15:20 CET",
+    "calendar_name": "University of Amsterdam - Personal timetable: 13597698@uva.nl",
+    "new_date": "2024-11-27",
+    "new_start": "2024-11-27T10:00:00+00:00",
+    "new_end": "2024-11-27T12:00:00+00:00",
+    "id": "984205d4b96766b35a163007b0fcd132e3672c86cb9da64ef4006d6d36f91429",
+    "version_id": "b11d3db65189430287d7ad675f3ce908e7783f742ad34008da2fb0309be23f61",
+    "status": "new"
+  },
+  {
+    "date": "2024-11-27",
+    "start": "2024-11-27T14:15:00+00:00",
+    "end": "2024-11-27T16:15:00+00:00",
+    "value": 1,
+    "summary": "Entrepreneurship in Science & Technology",
+    "description": "Type: Tutorial\n\nCourse code: 6314MA008Y\n\nLocation(s):\nREC JKT1.03: https://rooster.uva.nl/entity?type=location&key=341.O%20T1.03&source=2024\n\nStaff member(s): De Cuyper, L.M.C.\n\nGroup 1\n\nSize: 35\n\nStudy guide: https://studiegids.uva.nl/xmlpages/plspub/redirect?studiegidsnummer=6314MA008Y&jaar=2024-2025\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2024-12-14 at 15:20 CET",
+    "calendar_name": "University of Amsterdam - Personal timetable: 13597698@uva.nl",
+    "new_date": "2024-11-27",
+    "new_start": "2024-11-27T14:15:00+00:00",
+    "new_end": "2024-11-27T16:15:00+00:00",
+    "id": "81990b8c770b7a61947168434ef0f50aa7ee87a6e9f8069322aa2460f81cc80d",
+    "version_id": "9aa889a8134b95f938683d657822e5d23ce97133331c41a465a7c3ab77324645",
+    "status": "new"
+  },
+  {
+    "date": "2024-12-02",
+    "start": "2024-12-02T08:00:00+00:00",
+    "end": "2024-12-02T16:00:00+00:00",
+    "value": 1,
+    "summary": "The Startup Project",
+    "description": "Type: Tutorial\n\nCourse code: 6314MA021Y\n\nStaff member(s): Kuijken, dr. B.\n\nGroup(s): Group 1\n\nCoaching sessions (2 teams, 1 hour)\n\nLocation: REC Impact Event Space\n\nSize: 12\n\nStudy guide: https://studiegids.uva.nl/xmlpages/plspub/redirect?studiegidsnummer=6314MA021Y&jaar=2024-2025\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2024-12-14 at 15:20 CET",
+    "calendar_name": "University of Amsterdam - Personal timetable: 13597698@uva.nl",
+    "new_date": "2024-12-02",
+    "new_start": "2024-12-02T08:00:00+00:00",
+    "new_end": "2024-12-02T16:00:00+00:00",
+    "id": "f17d106faf3f30d92027a257cd93cacb60d60c586379d07e2deb36d1ca9d6f24",
+    "version_id": "9e994c41360167c008586b9b2e2d75d60e4c34b5de6f3b50906b6d71c1d2dd16",
+    "status": "new"
+  },
+  {
+    "date": "2024-12-03",
+    "start": "2024-12-03T08:00:00+00:00",
+    "end": "2024-12-03T16:00:00+00:00",
+    "value": 1,
+    "summary": "The Startup Project",
+    "description": "Type: Tutorial\n\nCourse code: 6314MA021Y\n\nStaff member(s): Kuijken, dr. B.\n\nGroup(s): Group 1\n\nCoaching sessions (2 teams, 1 hour)\n\nLocation: REC Impact Event Space\n\nSize: 12\n\nStudy guide: https://studiegids.uva.nl/xmlpages/plspub/redirect?studiegidsnummer=6314MA021Y&jaar=2024-2025\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2024-12-14 at 15:20 CET",
+    "calendar_name": "University of Amsterdam - Personal timetable: 13597698@uva.nl",
+    "new_date": "2024-12-03",
+    "new_start": "2024-12-03T08:00:00+00:00",
+    "new_end": "2024-12-03T16:00:00+00:00",
+    "id": "a2ed7939845cd1ae6d8d466e7edff13c72c9dec315d11e0c254b385b19eb01d9",
+    "version_id": "8abe06b8ac59917a5967b2222b9a3256778b854ed9f3e6afe4059a5ae48d1d0d",
+    "status": "new"
+  },
+  {
+    "date": "2024-12-04",
+    "start": "2024-12-04T09:00:00+00:00",
+    "end": "2024-12-04T09:00:01+00:00",
+    "value": 1,
+    "summary": "QAQC week 6 [6314MA008Y]",
+    "description": "Type: Canvas\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2024-12-14 at 15:20 CET",
+    "calendar_name": "University of Amsterdam - Personal timetable: 13597698@uva.nl",
+    "new_date": "2024-12-04",
+    "new_start": "2024-12-04T09:00:00+00:00",
+    "new_end": "2024-12-04T09:00:01+00:00",
+    "id": "dbe28d170e1b795569879aeead559aead42d91532583a17b8a7d6cdab2feca15",
+    "version_id": "764b341ea1625407ca05d9cae5fca83ab1d0f6af538ec57b1a2ab01b8490b4e7",
+    "status": "new"
+  },
+  {
+    "date": "2024-12-04",
+    "start": "2024-12-04T10:00:00+00:00",
+    "end": "2024-12-04T12:00:00+00:00",
+    "value": 1,
+    "summary": "Entrepreneurship in Science & Technology",
+    "description": "Type: Lecture\n\nCourse code: 6314MA008Y\n\nLocation(s):\nREC E0.04: https://rooster.uva.nl/entity?type=location&key=331%20E0.04&source=2024\n\nStaff member(s): De Cuyper, L.M.C.\n\nSize: 35\n\nStudy guide: https://studiegids.uva.nl/xmlpages/plspub/redirect?studiegidsnummer=6314MA008Y&jaar=2024-2025\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2024-12-14 at 15:20 CET",
+    "calendar_name": "University of Amsterdam - Personal timetable: 13597698@uva.nl",
+    "new_date": "2024-12-04",
+    "new_start": "2024-12-04T10:00:00+00:00",
+    "new_end": "2024-12-04T12:00:00+00:00",
+    "id": "3d25e7b349450b88dbdb7b8f7242f450136781c82d14988657cf138b20474111",
+    "version_id": "52672c06fa88199dd92d14da2568f0518f73b7614538c07e47dac5cb3fa610b6",
+    "status": "new"
+  },
+  {
+    "date": "2024-12-05",
+    "start": "2024-12-05T09:00:00+00:00",
+    "end": "2024-12-05T12:00:00+00:00",
+    "value": 1,
+    "summary": "Entrepreneurship in Science & Technology",
+    "description": "Type: Tutorial\n\nCourse code: 6314MA008Y\n\nLocation(s):\nREC JKB.46: https://rooster.uva.nl/entity?type=location&key=341.O%20B.46&source=2024\n\nStaff member(s): De Cuyper, L.M.C.\n\nGroup 1\n\nSize: 35\n\nStudy guide: https://studiegids.uva.nl/xmlpages/plspub/redirect?studiegidsnummer=6314MA008Y&jaar=2024-2025\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2024-12-14 at 15:20 CET",
+    "calendar_name": "University of Amsterdam - Personal timetable: 13597698@uva.nl",
+    "new_date": "2024-12-05",
+    "new_start": "2024-12-05T09:00:00+00:00",
+    "new_end": "2024-12-05T12:00:00+00:00",
+    "id": "d96b40f3111f728669e035034dd070f6bd87e2034c89888881b107766bbc526e",
+    "version_id": "7924ef2b248e791d5bb84a96183fbc5f93a7d5181438313f649b339795b3de96",
+    "status": "new"
+  },
+  {
+    "date": "2024-12-05",
+    "start": "2024-12-05T09:00:00+00:00",
+    "end": "2024-12-05T09:00:01+00:00",
+    "value": 1,
+    "summary": "Team Presentation  [6314MA008Y]",
+    "description": "Type: Canvas\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2024-12-14 at 15:20 CET",
+    "calendar_name": "University of Amsterdam - Personal timetable: 13597698@uva.nl",
+    "new_date": "2024-12-05",
+    "new_start": "2024-12-05T09:00:00+00:00",
+    "new_end": "2024-12-05T09:00:01+00:00",
+    "id": "7998fb67b5ffd957e560d061285342993159df3594ff8a4ea8308cf1d2a828f7",
+    "version_id": "860b88d670713963ce5811947ce9438d729d0167494d866f0584bdd9a2df95bb",
+    "status": "new"
+  },
+  {
+    "date": "2024-12-13",
+    "start": "2024-12-13T00:00:00+00:00",
+    "end": "2024-12-14T00:00:00+00:00",
+    "value": 1,
+    "summary": "Individual Report: Case Study with Interview [6314MA008Y]",
+    "description": "Type: Canvas\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2024-12-14 at 15:20 CET",
+    "calendar_name": "University of Amsterdam - Personal timetable: 13597698@uva.nl",
+    "new_date": "2024-12-13",
+    "new_start": "2024-12-13T00:00:00+00:00",
+    "new_end": "2024-12-14T00:00:00+00:00",
+    "id": "d8e0fa2582ca03a65827a0411c4f8c025a0da1ef21c3d5f92f7fab615b9527c7",
+    "version_id": "d983ca714d6b16cca536a105a03fe28e39a3fcb8a1c89183c8cf4b5db513ba60",
     "status": "new"
   },
   {
@@ -20442,7 +20922,7 @@
     "new_end": "2024-09-24T15:15:00+00:00",
     "id": "5f226b8779239f94a040e6bcee8a290461760e76433df1ea58c20fbb5311e223",
     "version_id": "8d2cddea35768ce8c9223d59dd4bdd113ada16099a2de3366512261150e2c469",
-    "status": "new"
+    "status": "deleted"
   },
   {
     "date": "2024-09-26",
@@ -20457,7 +20937,7 @@
     "new_end": "2024-09-26T10:45:00+00:00",
     "id": "315ceaf56f330702eff25af4fd0e6085a3b176d16580a57876d7de71eb944644",
     "version_id": "d6cced98b4932582acefd6ec5cc5d860369b306a2f79173ed5d1aab8a4342364",
-    "status": "new"
+    "status": "deleted"
   },
   {
     "date": "2024-10-01",
@@ -20472,7 +20952,7 @@
     "new_end": "2024-10-01T15:15:00+00:00",
     "id": "c08aa3f5a84b932be756faa5bdd3e7984b1f543c9c89ff1250d794c5d584eb79",
     "version_id": "554f248e9aa1f62e5cdadccaeb413df37fc1e2968fd38530274d5bea0b857403",
-    "status": "new"
+    "status": "deleted"
   },
   {
     "date": "2024-10-03",
@@ -20487,7 +20967,7 @@
     "new_end": "2024-10-03T10:45:00+00:00",
     "id": "3a375b2db0d13274a22761444dd950eb878497629620bacadc4b96430b3efff5",
     "version_id": "f3a7fab8244a0183de18b3e287d5638b8f2f6c3b7e6633a818f93c7e497b2b2b",
-    "status": "new"
+    "status": "deleted"
   },
   {
     "date": "2024-10-08",
@@ -20502,7 +20982,7 @@
     "new_end": "2024-10-08T15:15:00+00:00",
     "id": "c2a002b9c586291be0a99bb7db9dea4b655e983c209338be40b725c0f910f327",
     "version_id": "d403d208aae6fb80606fdf3ffdbbe422858be1c85dda1fc834fdfb076489f5e7",
-    "status": "new"
+    "status": "deleted"
   },
   {
     "date": "2024-10-10",
@@ -20517,7 +20997,7 @@
     "new_end": "2024-10-10T10:45:00+00:00",
     "id": "2e1b2717b71c79779a4e277e33690e14cb5e6b9437d1f10eaacc2cdd935018de",
     "version_id": "4e3df303d2208e0ee6e29ff84b3cda199c898c875cd29c69b87a5182e40f71c2",
-    "status": "new"
+    "status": "deleted"
   },
   {
     "date": "2024-10-15",
@@ -20532,7 +21012,7 @@
     "new_end": "2024-10-15T15:15:00+00:00",
     "id": "7771fbdab9b4c56097de7b68e343850cdbe361491b82a2ef5a516039d9adec3d",
     "version_id": "5a5f2d307d750868e4b9d846c9f0e55c7ba26104dc43625ba285fcbfa8e2e80e",
-    "status": "new"
+    "status": "deleted"
   },
   {
     "date": "2024-10-17",
@@ -20547,7 +21027,7 @@
     "new_end": "2024-10-17T10:45:00+00:00",
     "id": "a0f2696eab2b79f88648ad9af46d884649e63cc425c02f46b729d0212247407c",
     "version_id": "783c4d50fcb897ff4a224ef69de019d821539826e265d8fc73cac969ffcb5909",
-    "status": "new"
+    "status": "deleted"
   },
   {
     "date": "2024-10-24",
@@ -20562,6 +21042,141 @@
     "new_end": "2024-10-24T09:15:00+00:00",
     "id": "869782c6239bf80c79e22fa7f6a128541f19ea08e692c9be45da371476ac45a9",
     "version_id": "ed37121c1fe2e0f9b786c8dae47f3ddd96346998fb4ae998349bb3633077cda4",
+    "status": "deleted"
+  },
+  {
+    "date": "2024-09-24",
+    "start": "2024-09-24T13:30:00+00:00",
+    "end": "2024-09-24T15:15:00+00:00",
+    "value": 1,
+    "summary": "The Entrepreneurial Venture (HC)",
+    "description": "Registered for this activity: Yes\n\nType: Lecture\n\nCourse code: E_ENT_TEV\n\nLocation(s):\nTheater7-NU-4C11 (212/50T)\n\nStaff member(s): Masurel, E.\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2024-12-14 at 19:34 CET",
+    "calendar_name": "VU Amsterdam - Personal timetable: Kuhar, J. (Jon)",
+    "new_date": "2024-09-24",
+    "new_start": "2024-09-24T13:30:00+00:00",
+    "new_end": "2024-09-24T15:15:00+00:00",
+    "id": "ddff8a74bbf70b92e444570eb87b378e5b746d0b3b524caff736e9c51ff41b21",
+    "version_id": "d0de78efeec55348a0c81df7d277c1cd1a7c9dfb9812da4ab671157eb7bec1c2",
+    "status": "new"
+  },
+  {
+    "date": "2024-09-26",
+    "start": "2024-09-26T09:00:00+00:00",
+    "end": "2024-09-26T10:45:00+00:00",
+    "value": 1,
+    "summary": "The Entrepreneurial Venture (HC)",
+    "description": "Registered for this activity: Yes\n\nType: Lecture\n\nCourse code: E_ENT_TEV\n\nLocation(s):\nTheater7-NU-4C11 (212/50T)\n\nStaff member(s): Masurel, E.\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2024-12-14 at 19:34 CET",
+    "calendar_name": "VU Amsterdam - Personal timetable: Kuhar, J. (Jon)",
+    "new_date": "2024-09-26",
+    "new_start": "2024-09-26T09:00:00+00:00",
+    "new_end": "2024-09-26T10:45:00+00:00",
+    "id": "6f22f748c075aeebfc57797437314034cf4d5b064a4e9a070de1bbc249f62c88",
+    "version_id": "0b604acfa79d4a27eb6286f93a6ceca054146c30ede976df0b02f7a4cfad919a",
+    "status": "new"
+  },
+  {
+    "date": "2024-10-01",
+    "start": "2024-10-01T13:30:00+00:00",
+    "end": "2024-10-01T15:15:00+00:00",
+    "value": 1,
+    "summary": "The Entrepreneurial Venture (HC)",
+    "description": "Registered for this activity: Yes\n\nType: Lecture\n\nCourse code: E_ENT_TEV\n\nLocation(s):\nTheater7-NU-4C11 (212/50T)\n\nStaff member(s): Masurel, E.\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2024-12-14 at 19:34 CET",
+    "calendar_name": "VU Amsterdam - Personal timetable: Kuhar, J. (Jon)",
+    "new_date": "2024-10-01",
+    "new_start": "2024-10-01T13:30:00+00:00",
+    "new_end": "2024-10-01T15:15:00+00:00",
+    "id": "d66853539a672b54b766c8a811de924f5afbedf3d7e6883baa0a44bb0ec1fd8f",
+    "version_id": "2d9d8c1311c991ea9bf00af4ca4054a3001017b1353ad40a4f5547e270c72cbe",
+    "status": "new"
+  },
+  {
+    "date": "2024-10-03",
+    "start": "2024-10-03T09:00:00+00:00",
+    "end": "2024-10-03T10:45:00+00:00",
+    "value": 1,
+    "summary": "The Entrepreneurial Venture (HC)",
+    "description": "Registered for this activity: Yes\n\nType: Lecture\n\nCourse code: E_ENT_TEV\n\nLocation(s):\nHG-12A00 (200/50T)\n\nStaff member(s): Masurel, E.\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2024-12-14 at 19:34 CET",
+    "calendar_name": "VU Amsterdam - Personal timetable: Kuhar, J. (Jon)",
+    "new_date": "2024-10-03",
+    "new_start": "2024-10-03T09:00:00+00:00",
+    "new_end": "2024-10-03T10:45:00+00:00",
+    "id": "88df4a1c4cdeb263864727d92b75fb612f9b4bfadd91a60aba29ce67390ea582",
+    "version_id": "060f48414da521263c4894432593594da96851591420ccf5bc79d676dc7b354f",
+    "status": "new"
+  },
+  {
+    "date": "2024-10-08",
+    "start": "2024-10-08T13:30:00+00:00",
+    "end": "2024-10-08T15:15:00+00:00",
+    "value": 1,
+    "summary": "The Entrepreneurial Venture (HC)",
+    "description": "Registered for this activity: Yes\n\nType: Lecture\n\nCourse code: E_ENT_TEV\n\nLocation(s):\nTheater8-NU-4C47 (153/39T)\n\nStaff member(s): Masurel, E.\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2024-12-14 at 19:34 CET",
+    "calendar_name": "VU Amsterdam - Personal timetable: Kuhar, J. (Jon)",
+    "new_date": "2024-10-08",
+    "new_start": "2024-10-08T13:30:00+00:00",
+    "new_end": "2024-10-08T15:15:00+00:00",
+    "id": "8523a7faf0a1b9fc64e4958f50698930c378cfbb6a2f7e81e4c78de0a22b11c1",
+    "version_id": "90f55bf277c277919177a61de62d263400765abdc831c13445914d3ea4c157c1",
+    "status": "new"
+  },
+  {
+    "date": "2024-10-10",
+    "start": "2024-10-10T09:00:00+00:00",
+    "end": "2024-10-10T10:45:00+00:00",
+    "value": 1,
+    "summary": "The Entrepreneurial Venture (HC)",
+    "description": "Registered for this activity: Yes\n\nType: Lecture\n\nCourse code: E_ENT_TEV\n\nLocation(s):\nHG-10A00 (200/50T)\n\nStaff member(s): Masurel, E.\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2024-12-14 at 19:34 CET",
+    "calendar_name": "VU Amsterdam - Personal timetable: Kuhar, J. (Jon)",
+    "new_date": "2024-10-10",
+    "new_start": "2024-10-10T09:00:00+00:00",
+    "new_end": "2024-10-10T10:45:00+00:00",
+    "id": "5bf5c561171d488a49ac1a286aa8b8544ce2436a9f57979e6dd1dd328e701a9f",
+    "version_id": "3a0162e7a1abc51893819b8944e9bf1a6be51110644a43d780bb27a535fea17d",
+    "status": "new"
+  },
+  {
+    "date": "2024-10-15",
+    "start": "2024-10-15T13:30:00+00:00",
+    "end": "2024-10-15T15:15:00+00:00",
+    "value": 1,
+    "summary": "The Entrepreneurial Venture (HC)",
+    "description": "Registered for this activity: Yes\n\nType: Lecture\n\nCourse code: E_ENT_TEV\n\nLocation(s):\nTheater8-NU-4C47 (153/39T)\n\nStaff member(s): Masurel, E.\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2024-12-14 at 19:34 CET",
+    "calendar_name": "VU Amsterdam - Personal timetable: Kuhar, J. (Jon)",
+    "new_date": "2024-10-15",
+    "new_start": "2024-10-15T13:30:00+00:00",
+    "new_end": "2024-10-15T15:15:00+00:00",
+    "id": "5c8135c30d9c46fef2d9114c48377329a84b3acadc7ada78ec5f014cd5cec7ca",
+    "version_id": "3f9265af411d3710f9d6f20a576556c92d02553fc10ef8c76ec6f97601e0b52b",
+    "status": "new"
+  },
+  {
+    "date": "2024-10-17",
+    "start": "2024-10-17T09:00:00+00:00",
+    "end": "2024-10-17T10:45:00+00:00",
+    "value": 1,
+    "summary": "The Entrepreneurial Venture (HC)",
+    "description": "Registered for this activity: Yes\n\nType: Lecture\n\nCourse code: E_ENT_TEV\n\nLocation(s):\nHG-02A00 (200/50T)\n\nStaff member(s): Masurel, E.\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2024-12-14 at 19:34 CET",
+    "calendar_name": "VU Amsterdam - Personal timetable: Kuhar, J. (Jon)",
+    "new_date": "2024-10-17",
+    "new_start": "2024-10-17T09:00:00+00:00",
+    "new_end": "2024-10-17T10:45:00+00:00",
+    "id": "bab058c197dc48e5cbd7637e8505455c68b50ea435ea483d9376745d1c22e8a5",
+    "version_id": "42656ae82feeac36d03346759fa8386c40683ba11de4f3e568a32f0af986afd9",
+    "status": "new"
+  },
+  {
+    "date": "2024-10-24",
+    "start": "2024-10-24T06:30:00+00:00",
+    "end": "2024-10-24T09:15:00+00:00",
+    "value": 1,
+    "summary": "The Entrepreneurial Venture (DT)",
+    "description": "Registered for this activity: Yes\n\nType: Digital exam\n\nCourse code: E_ENT_TEV\n\nStaff member(s): Masurel, E.\n\nVIA CANVAS\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2024-12-14 at 19:34 CET",
+    "calendar_name": "VU Amsterdam - Personal timetable: Kuhar, J. (Jon)",
+    "new_date": "2024-10-24",
+    "new_start": "2024-10-24T06:30:00+00:00",
+    "new_end": "2024-10-24T09:15:00+00:00",
+    "id": "848ba2152a7037ab5fd2805d33dd064fc29c140c83260ed775ffa334baf50702",
+    "version_id": "3eb7b11fbfa33f3ee03458aa4b1cda3d57c0dfeb12512c0a12f4d49dd06d5099",
     "status": "new"
   },
   {
@@ -22317,7 +22932,7 @@
     "new_end": "2024-12-14T06:30:00+00:00",
     "id": "a2709fbd51ec136e25b262a1830949db8aa60dbef6186bec2a6317b2ade6596c",
     "version_id": "89069a311a6e2065401fca7c9c38742334c6e14887f47389fa083f6d6af228b6",
-    "status": "new"
+    "status": "unchanged"
   },
   {
     "date": "2024-09-11",
