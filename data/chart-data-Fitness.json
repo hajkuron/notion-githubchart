@@ -1118,5 +1118,20 @@
     "new_end": "",
     "id": "4d09679af4d783017b88a33446fa6cbf65e65727dc2ba3f9e5d5e78f7bfff283",
     "version_id": "32a7208a3f6690a544cd16c777003ad4188120df7b5cbda9db9e5985b5058fdb"
+  },
+  {
+    "date": "2024-12-29",
+    "start": "2024-12-29T12:00:00+00:00",
+    "end": "2024-12-29T14:00:00+00:00",
+    "value": 1,
+    "summary": "football",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2024-12-29",
+    "new_start": "2024-12-29T12:00:00+00:00",
+    "new_end": "2024-12-29T14:00:00+00:00",
+    "id": "7e60c8eaa2aecd99722b7eb7efed5fe3bb6b3953212f6036c7039e5deb349675",
+    "version_id": "c09e4f628ce79a5c13acb2dc6d674cfb5cd7474cd4a35e0b855e23f45fa5fdad",
+    "status": "new"
   }
 ]
