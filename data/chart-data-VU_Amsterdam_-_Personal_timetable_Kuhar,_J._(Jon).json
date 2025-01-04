@@ -1,32 +1,17 @@
 [
   {
-    "date": "2024-10-10",
-    "start": "2024-10-10T09:00:00+00:00",
-    "end": "2024-10-10T10:45:00+00:00",
-    "value": 1,
-    "summary": "The Entrepreneurial Venture (HC)",
-    "description": "Registered for this activity: Yes\n\nType: Lecture\n\nCourse code: E_ENT_TEV\n\nLocation(s):\nHG-10A00 (200/50T)\n\nStaff member(s): Masurel, E.\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2025-01-02 at 22:34 CET",
-    "calendar_name": "VU Amsterdam - Personal timetable: Kuhar, J. (Jon)",
-    "new_date": "2024-10-10",
-    "new_start": "2024-10-10T09:00:00+00:00",
-    "new_end": "2024-10-10T10:45:00+00:00",
-    "id": "8d73bf5f8b9b6ee28e2d5f63a9005324fc057ce2ce10231a4a43d15bc65ba6b4",
-    "version_id": "b640a64661fd71c8e407bbfe93c4235db282010691eb428ac38d563addbdea6f",
-    "status": "new"
-  },
-  {
     "date": "2024-10-15",
     "start": "2024-10-15T13:30:00+00:00",
     "end": "2024-10-15T15:15:00+00:00",
     "value": 1,
     "summary": "The Entrepreneurial Venture (HC)",
-    "description": "Registered for this activity: Yes\n\nType: Lecture\n\nCourse code: E_ENT_TEV\n\nLocation(s):\nTheater8-NU-4C47 (153/39T)\n\nStaff member(s): Masurel, E.\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2025-01-02 at 22:34 CET",
+    "description": "Registered for this activity: Yes\n\nType: Lecture\n\nCourse code: E_ENT_TEV\n\nLocation(s):\nTheater8-NU-4C47 (153/39T)\n\nStaff member(s): Masurel, E.\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2025-01-04 at 03:34 CET",
     "calendar_name": "VU Amsterdam - Personal timetable: Kuhar, J. (Jon)",
     "new_date": "2024-10-15",
     "new_start": "2024-10-15T13:30:00+00:00",
     "new_end": "2024-10-15T15:15:00+00:00",
-    "id": "7896ee8b80b2bba4be244a3226f492fc6659b0f57f31e42944c38f2ae7232f48",
-    "version_id": "e15377d1cd62dad7a19930a5e7c3e55d7c1a468436dd0cbe9b7a73bb2b674a6f",
+    "id": "36b6bbab227c68f373818d642747aff837b99d118f6dec65eb08b2143bd96c4f",
+    "version_id": "fc8dec92d5462c7767de45fcfa228d1e0106d092f16d51ab8b889a65c64f09d4",
     "status": "new"
   },
   {
@@ -35,13 +20,13 @@
     "end": "2024-10-17T10:45:00+00:00",
     "value": 1,
     "summary": "The Entrepreneurial Venture (HC)",
-    "description": "Registered for this activity: Yes\n\nType: Lecture\n\nCourse code: E_ENT_TEV\n\nLocation(s):\nHG-02A00 (200/50T)\n\nStaff member(s): Masurel, E.\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2025-01-02 at 22:34 CET",
+    "description": "Registered for this activity: Yes\n\nType: Lecture\n\nCourse code: E_ENT_TEV\n\nLocation(s):\nHG-02A00 (200/50T)\n\nStaff member(s): Masurel, E.\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2025-01-04 at 03:34 CET",
     "calendar_name": "VU Amsterdam - Personal timetable: Kuhar, J. (Jon)",
     "new_date": "2024-10-17",
     "new_start": "2024-10-17T09:00:00+00:00",
     "new_end": "2024-10-17T10:45:00+00:00",
-    "id": "4fa170b60dcec8f830661370fb47203434559668214d8adb2f64b46c449afe30",
-    "version_id": "749af4ada80e1d389591abc0f49bd185e129ced16fc76ad960ad8c44bab87f57",
+    "id": "0e5e6e442c91ad6b855799eddc99cbc7116e6df1fe08fd600cca81e5b53277cb",
+    "version_id": "1d2f0481dfefe98a1d0aa0893d5a835af7de1b07b19005419e250a39f0f2fdcb",
     "status": "new"
   },
   {
@@ -50,13 +35,13 @@
     "end": "2024-10-24T09:15:00+00:00",
     "value": 1,
     "summary": "The Entrepreneurial Venture (DT)",
-    "description": "Registered for this activity: Yes\n\nType: Digital exam\n\nCourse code: E_ENT_TEV\n\nStaff member(s): Masurel, E.\n\nVIA CANVAS\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2025-01-02 at 22:34 CET",
+    "description": "Registered for this activity: Yes\n\nType: Digital exam\n\nCourse code: E_ENT_TEV\n\nStaff member(s): Masurel, E.\n\nVIA CANVAS\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2025-01-04 at 03:34 CET",
     "calendar_name": "VU Amsterdam - Personal timetable: Kuhar, J. (Jon)",
     "new_date": "2024-10-24",
     "new_start": "2024-10-24T06:30:00+00:00",
     "new_end": "2024-10-24T09:15:00+00:00",
-    "id": "8dc97c20421e2edf7b4d189c67fe79df1fd82b3fec491c75ea584695d6f1db2e",
-    "version_id": "d9d45bac26f968e93df9678759c20843954c6165a79f4c1b74da407ec3448760",
+    "id": "3e56aa069b9a49098af8fa0881c8f1f2d63e7b1fc314a3c585f961c9a629513e",
+    "version_id": "c22b38bdfdbbe599618cad0cc1a1d376a6537bf1b722412d995418226c1998c7",
     "status": "new"
   }
 ]
