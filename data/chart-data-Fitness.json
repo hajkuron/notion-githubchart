@@ -1141,11 +1141,10 @@
     "summary": "football",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2025-01-05",
-    "new_start": "2025-01-05T12:00:00+00:00",
-    "new_end": "2025-01-05T14:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "b6bfb1ff1a06112b1f55e2e22ea2d347c8a874be521c539e734aa778051976e6",
-    "version_id": "a979d63566b51b4cfabf84c510cd447c9f688d1b33b04e6e595d540028011cdf",
-    "status": "new"
+    "version_id": "a979d63566b51b4cfabf84c510cd447c9f688d1b33b04e6e595d540028011cdf"
   }
 ]
