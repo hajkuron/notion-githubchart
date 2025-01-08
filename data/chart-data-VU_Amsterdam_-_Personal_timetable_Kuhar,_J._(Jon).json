@@ -1,32 +1,17 @@
 [
   {
-    "date": "2024-10-15",
-    "start": "2024-10-15T13:30:00+00:00",
-    "end": "2024-10-15T15:15:00+00:00",
-    "value": 1,
-    "summary": "The Entrepreneurial Venture (HC)",
-    "description": "Registered for this activity: Yes\n\nType: Lecture\n\nCourse code: E_ENT_TEV\n\nLocation(s):\nTheater8-NU-4C47 (153/39T)\n\nStaff member(s): Masurel, E.\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2025-01-07 at 00:34 CET",
-    "calendar_name": "VU Amsterdam - Personal timetable: Kuhar, J. (Jon)",
-    "new_date": "2024-10-15",
-    "new_start": "2024-10-15T13:30:00+00:00",
-    "new_end": "2024-10-15T15:15:00+00:00",
-    "id": "f575735f5fb4f1038b558e0943592d0bbe0e4ea4778a083c5665495204bd2d0b",
-    "version_id": "7fe57c4522d2685f01f33797f97dc3d140bd871965052e4d502ceb649624e7ec",
-    "status": "new"
-  },
-  {
     "date": "2024-10-17",
     "start": "2024-10-17T09:00:00+00:00",
     "end": "2024-10-17T10:45:00+00:00",
     "value": 1,
     "summary": "The Entrepreneurial Venture (HC)",
-    "description": "Registered for this activity: Yes\n\nType: Lecture\n\nCourse code: E_ENT_TEV\n\nLocation(s):\nHG-02A00 (200/50T)\n\nStaff member(s): Masurel, E.\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2025-01-07 at 00:34 CET",
+    "description": "Registered for this activity: Yes\n\nType: Lecture\n\nCourse code: E_ENT_TEV\n\nLocation(s):\nHG-02A00 (200/50T)\n\nStaff member(s): Masurel, E.\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2025-01-08 at 03:34 CET",
     "calendar_name": "VU Amsterdam - Personal timetable: Kuhar, J. (Jon)",
     "new_date": "2024-10-17",
     "new_start": "2024-10-17T09:00:00+00:00",
     "new_end": "2024-10-17T10:45:00+00:00",
-    "id": "11159a0db521ce6dccd11983577143320ceddf2451a7a66c91a72d8949261459",
-    "version_id": "6488366bd664f89a86c9bc4bdd206c59a710f62d209299ff91f96e81699c60a8",
+    "id": "cb95507a11d43c27d8d027b0326344a8675b5035dcdfa881f2eab0347eeb3a89",
+    "version_id": "1f475c17bd0777a9ac3d47d67d9f8fe7362d5bf752ae874f7cc7d171ed601105",
     "status": "new"
   },
   {
@@ -35,13 +20,13 @@
     "end": "2024-10-24T09:15:00+00:00",
     "value": 1,
     "summary": "The Entrepreneurial Venture (DT)",
-    "description": "Registered for this activity: Yes\n\nType: Digital exam\n\nCourse code: E_ENT_TEV\n\nStaff member(s): Masurel, E.\n\nVIA CANVAS\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2025-01-07 at 00:34 CET",
+    "description": "Registered for this activity: Yes\n\nType: Digital exam\n\nCourse code: E_ENT_TEV\n\nStaff member(s): Masurel, E.\n\nVIA CANVAS\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2025-01-08 at 03:34 CET",
     "calendar_name": "VU Amsterdam - Personal timetable: Kuhar, J. (Jon)",
     "new_date": "2024-10-24",
     "new_start": "2024-10-24T06:30:00+00:00",
     "new_end": "2024-10-24T09:15:00+00:00",
-    "id": "aeb209683e150d92ca41755ee4defcf49ec185917c9a38d6f6c193d3b822ba2c",
-    "version_id": "0043ce06d16552e44d2c338543f4b21d8f1a5afac4518e95995bcdd940bf5f25",
+    "id": "e057c530cdf00b41db4acaaeba328727ad9849b1b7954481da6ae8b6bfbaeac5",
+    "version_id": "9871f32ea4f937eb12659a15ce935ea60688ce7dadd15845011cd3be63317a8f",
     "status": "new"
   }
 ]

@@ -936,5 +936,20 @@
     "new_end": "",
     "id": "f9e71145614fd65c7ea91e243495ee2a5daed99355a1870972bd7f9f1ccd71b6",
     "version_id": "fa25c9437f9942ea5df5e89357603fb3ad464a8c5a7b4e7822dcc85f6c2057b7"
+  },
+  {
+    "date": "2025-01-07",
+    "start": "2025-01-07T15:15:00+00:00",
+    "end": "2025-01-07T16:30:00+00:00",
+    "value": 1,
+    "summary": "meeting",
+    "description": "(No description)",
+    "calendar_name": "University studying",
+    "new_date": "2025-01-07",
+    "new_start": "2025-01-07T15:15:00+00:00",
+    "new_end": "2025-01-07T16:30:00+00:00",
+    "id": "63eb0e31ff9d2008f78ac772ac2481164f0c3f2bfa69527d281481e24c841448",
+    "version_id": "40047dabb01ccb4bbbef120c2bf33be148ce3a358f4823dde206a04309f69150",
+    "status": "new"
   }
 ]

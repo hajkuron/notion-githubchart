@@ -866,5 +866,20 @@
     "new_end": "",
     "id": "3680463f8dd5cccbf48f4163099d7204110f479248a8dee50500cea98b8c77f7",
     "version_id": "9d0067c6edb33c370c9ac6688bc6048612334134cd16c79c53153faf172c2660"
+  },
+  {
+    "date": "2025-01-07",
+    "start": "2025-01-07T17:30:00+00:00",
+    "end": "2025-01-07T19:00:00+00:00",
+    "value": 1,
+    "summary": "meal planner",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2025-01-07",
+    "new_start": "2025-01-07T17:30:00+00:00",
+    "new_end": "2025-01-07T19:00:00+00:00",
+    "id": "7a12a9769f4087b3aa59192df06d103353fbb0a02153c86838e1087c7ca21064",
+    "version_id": "92d51124c3433c6012d4dc54498ebcf3524cbd0b141e86327fe7772e0bb71b8a",
+    "status": "new"
   }
 ]
