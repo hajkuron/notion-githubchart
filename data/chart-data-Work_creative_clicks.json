@@ -432,5 +432,20 @@
     "new_end": "",
     "id": "020a562e54bda9ee4cca111f92cd18796617343504761ef2bfd2c6a0ad7746c0",
     "version_id": "875dd9c2acda193f2da185534fc13116d1064264d2d8ed18313d869ef21439a0"
+  },
+  {
+    "date": "2025-01-09",
+    "start": "2025-01-09T07:00:00+00:00",
+    "end": "2025-01-09T15:00:00+00:00",
+    "value": 1,
+    "summary": "work",
+    "description": "(No description)",
+    "calendar_name": "Work creative clicks",
+    "new_date": "2025-01-09",
+    "new_start": "2025-01-09T07:00:00+00:00",
+    "new_end": "2025-01-09T15:00:00+00:00",
+    "id": "afcfacfc7ab4ee56b749075f5a39fb29fcec12a88d76df27cdd98c7e380bf001",
+    "version_id": "e5f60566b3ff1bc8393c21fcfeaedb547b1465fb43b51f1ad5f199c5af69e060",
+    "status": "new"
   }
 ]

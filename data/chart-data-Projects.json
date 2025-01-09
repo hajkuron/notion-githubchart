@@ -875,11 +875,25 @@
     "summary": "meal planner",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2025-01-07",
-    "new_start": "2025-01-07T17:30:00+00:00",
-    "new_end": "2025-01-07T19:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "7a12a9769f4087b3aa59192df06d103353fbb0a02153c86838e1087c7ca21064",
-    "version_id": "92d51124c3433c6012d4dc54498ebcf3524cbd0b141e86327fe7772e0bb71b8a",
+    "version_id": "92d51124c3433c6012d4dc54498ebcf3524cbd0b141e86327fe7772e0bb71b8a"
+  },
+  {
+    "date": "2025-01-09",
+    "start": "2025-01-09T18:00:00+00:00",
+    "end": "2025-01-09T19:00:00+00:00",
+    "value": 1,
+    "summary": "plan it out, you have to start man",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2025-01-09",
+    "new_start": "2025-01-09T18:00:00+00:00",
+    "new_end": "2025-01-09T19:00:00+00:00",
+    "id": "14d3a287286c7a94e006d96c8a2f038d13187752401270889331917148b2e2f6",
+    "version_id": "70ddf2706237a77097519b8c16ff910adf9426be5d070162911752f17611ee36",
     "status": "new"
   }
 ]
