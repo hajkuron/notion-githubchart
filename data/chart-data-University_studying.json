@@ -959,11 +959,25 @@
     "summary": "uni start ",
     "description": "(No description)",
     "calendar_name": "University studying",
-    "new_date": "2025-01-09",
-    "new_start": "2025-01-09T16:00:00+00:00",
-    "new_end": "2025-01-09T17:55:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "7dc7f5a2d4142668cff1abca38d2798b84bfecdbbef4ead92ce4eea645865845",
-    "version_id": "9f17307fad92b26af570f344dd5b5d2eabf994bef6e96f73a4926cbd8c9430b6",
+    "version_id": "9f17307fad92b26af570f344dd5b5d2eabf994bef6e96f73a4926cbd8c9430b6"
+  },
+  {
+    "date": "2025-01-10",
+    "start": "2025-01-10T16:00:00+00:00",
+    "end": "2025-01-10T17:55:00+00:00",
+    "value": 1,
+    "summary": "uni start ",
+    "description": "(No description)",
+    "calendar_name": "University studying",
+    "new_date": "2025-01-10",
+    "new_start": "2025-01-10T16:00:00+00:00",
+    "new_end": "2025-01-10T17:55:00+00:00",
+    "id": "a02761e4de676b99a99007e8d80014701366200be9d29b594df573351f3f5f9e",
+    "version_id": "c9e0e962148fde96490bb87c86879062be8562684b06c35091e6294ac37c72c4",
     "status": "new"
   }
 ]

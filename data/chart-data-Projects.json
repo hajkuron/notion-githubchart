@@ -889,11 +889,25 @@
     "summary": "plan it out, you have to start man",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2025-01-09",
-    "new_start": "2025-01-09T18:00:00+00:00",
-    "new_end": "2025-01-09T19:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "14d3a287286c7a94e006d96c8a2f038d13187752401270889331917148b2e2f6",
-    "version_id": "70ddf2706237a77097519b8c16ff910adf9426be5d070162911752f17611ee36",
+    "version_id": "70ddf2706237a77097519b8c16ff910adf9426be5d070162911752f17611ee36"
+  },
+  {
+    "date": "2025-01-10",
+    "start": "2025-01-10T18:00:00+00:00",
+    "end": "2025-01-10T19:00:00+00:00",
+    "value": 1,
+    "summary": "do shit",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2025-01-10",
+    "new_start": "2025-01-10T18:00:00+00:00",
+    "new_end": "2025-01-10T19:00:00+00:00",
+    "id": "04b81318f8f8866fb586f99faeb03b087e5401b66b125130892cdd2f9eebd29f",
+    "version_id": "3bd38aaf15c3793df4d709a6116b1693dde53b5736ea209beca218d1084fe6fb",
     "status": "new"
   }
 ]
