@@ -903,11 +903,25 @@
     "summary": "do shit",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2025-01-10",
-    "new_start": "2025-01-10T18:00:00+00:00",
-    "new_end": "2025-01-10T19:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "04b81318f8f8866fb586f99faeb03b087e5401b66b125130892cdd2f9eebd29f",
-    "version_id": "3bd38aaf15c3793df4d709a6116b1693dde53b5736ea209beca218d1084fe6fb",
+    "version_id": "3bd38aaf15c3793df4d709a6116b1693dde53b5736ea209beca218d1084fe6fb"
+  },
+  {
+    "date": "2025-01-11",
+    "start": "2025-01-11T07:00:00+00:00",
+    "end": "2025-01-11T17:00:00+00:00",
+    "value": 1,
+    "summary": "whole day work",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2025-01-11",
+    "new_start": "2025-01-11T07:00:00+00:00",
+    "new_end": "2025-01-11T17:00:00+00:00",
+    "id": "c1564abf69f2dbf70e3b6f2af68878943290b484a467681376495338a7e11160",
+    "version_id": "a09adb9e101d0e423501d326f9abe52915df47137ec6868924ab28da0fc2f089",
     "status": "new"
   }
 ]
