@@ -917,11 +917,10 @@
     "summary": "whole day work",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2025-01-11",
-    "new_start": "2025-01-11T07:00:00+00:00",
-    "new_end": "2025-01-11T17:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "c1564abf69f2dbf70e3b6f2af68878943290b484a467681376495338a7e11160",
-    "version_id": "a09adb9e101d0e423501d326f9abe52915df47137ec6868924ab28da0fc2f089",
-    "status": "new"
+    "version_id": "a09adb9e101d0e423501d326f9abe52915df47137ec6868924ab28da0fc2f089"
   }
 ]
