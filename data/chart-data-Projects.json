@@ -922,5 +922,20 @@
     "new_end": "",
     "id": "c1564abf69f2dbf70e3b6f2af68878943290b484a467681376495338a7e11160",
     "version_id": "a09adb9e101d0e423501d326f9abe52915df47137ec6868924ab28da0fc2f089"
+  },
+  {
+    "date": "2025-01-12",
+    "start": "2025-01-12T13:00:00+00:00",
+    "end": "2025-01-12T17:15:00+00:00",
+    "value": 1,
+    "summary": "project",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2025-01-12",
+    "new_start": "2025-01-12T13:00:00+00:00",
+    "new_end": "2025-01-12T17:15:00+00:00",
+    "id": "b83bab344c5657c6925c7927cf51bc7409eceed6f957ed17ecc40f45eee15a40",
+    "version_id": "fac82825a4953ce0c7dff8f2da59ca20afaa737502d8e8fa5a8b3ec2fba4eb20",
+    "status": "new"
   }
 ]

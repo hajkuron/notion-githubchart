@@ -978,5 +978,20 @@
     "new_end": "",
     "id": "a02761e4de676b99a99007e8d80014701366200be9d29b594df573351f3f5f9e",
     "version_id": "c9e0e962148fde96490bb87c86879062be8562684b06c35091e6294ac37c72c4"
+  },
+  {
+    "date": "2025-01-12",
+    "start": "2025-01-12T10:30:00+00:00",
+    "end": "2025-01-12T12:55:00+00:00",
+    "value": 1,
+    "summary": "uni",
+    "description": "(No description)",
+    "calendar_name": "University studying",
+    "new_date": "2025-01-12",
+    "new_start": "2025-01-12T10:30:00+00:00",
+    "new_end": "2025-01-12T12:55:00+00:00",
+    "id": "100d3733c33b77fbcf0cb4886c93ac2f274d9c323237588192466d64559850e9",
+    "version_id": "b4b99ccf271478a87a202fe5ed51a8bce6f25fb5c4b08287eec2a8468bc3d980",
+    "status": "new"
   }
 ]
