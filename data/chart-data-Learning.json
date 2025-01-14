@@ -133,11 +133,25 @@
     "summary": "read",
     "description": "(No description)",
     "calendar_name": "Learning",
-    "new_date": "2025-01-12",
-    "new_start": "2025-01-12T17:30:00+00:00",
-    "new_end": "2025-01-12T18:45:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "329f40873cdcc934e6f34c4aa9dcf6e3f154391850d5e64ebbe65cd401c9bde1",
-    "version_id": "8901729862bf420308a6d827622b5047469672e0bd36836fa6106d8df3d24b72",
+    "version_id": "8901729862bf420308a6d827622b5047469672e0bd36836fa6106d8df3d24b72"
+  },
+  {
+    "date": "2025-01-14",
+    "start": "2025-01-14T18:00:00+00:00",
+    "end": "2025-01-14T19:00:00+00:00",
+    "value": 1,
+    "summary": "audio book",
+    "description": "(No description)",
+    "calendar_name": "Learning",
+    "new_date": "2025-01-14",
+    "new_start": "2025-01-14T18:00:00+00:00",
+    "new_end": "2025-01-14T19:00:00+00:00",
+    "id": "1e9122d95af626145954f5f87b3712ec77f0066694203419dbfc1ecab273ae1d",
+    "version_id": "1274f69e254183b4449c664f7318263c15d50613c9546113490dc612b298a432",
     "status": "new"
   }
 ]
