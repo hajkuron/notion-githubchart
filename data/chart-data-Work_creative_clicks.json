@@ -469,11 +469,25 @@
     "summary": "work",
     "description": "(No description)",
     "calendar_name": "Work creative clicks",
-    "new_date": "2025-01-14",
-    "new_start": "2025-01-14T07:00:00+00:00",
-    "new_end": "2025-01-14T10:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "52a92d2234e46ed9a090510dcfff6115cf882df3d20edc94b46941bbebc5760a",
-    "version_id": "c5e49b3634f00bea49e84e347a8e1d1da0a96f0f0153396e90809584d80cf019",
+    "version_id": "c5e49b3634f00bea49e84e347a8e1d1da0a96f0f0153396e90809584d80cf019"
+  },
+  {
+    "date": "2025-01-15",
+    "start": "2025-01-15T07:00:00+00:00",
+    "end": "2025-01-15T10:00:00+00:00",
+    "value": 1,
+    "summary": "work",
+    "description": "- delete the old blobs\n- load the data into the tables\n- setup the stage to split the column for rcn and header file\n\n- leave up so only the key has to be determined\n",
+    "calendar_name": "Work creative clicks",
+    "new_date": "2025-01-15",
+    "new_start": "2025-01-15T07:00:00+00:00",
+    "new_end": "2025-01-15T10:00:00+00:00",
+    "id": "7a9d37227a6e037eadcbf139c8573375e60d71949ca57cd30be108adc00c9bc5",
+    "version_id": "4acf073166ac4ea25770fe1c481caadfc77a9e5976dc1d9a2c5e94d233faa448",
     "status": "new"
   }
 ]
