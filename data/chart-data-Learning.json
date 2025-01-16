@@ -140,18 +140,18 @@
     "version_id": "8901729862bf420308a6d827622b5047469672e0bd36836fa6106d8df3d24b72"
   },
   {
-    "date": "2025-01-15",
-    "start": "2025-01-15T17:00:00+00:00",
-    "end": "2025-01-15T19:00:00+00:00",
+    "date": "2025-01-16",
+    "start": "2025-01-16T18:00:00+00:00",
+    "end": "2025-01-16T19:00:00+00:00",
     "value": 1,
     "summary": "audio book",
     "description": "(No description)",
     "calendar_name": "Learning",
-    "new_date": "2025-01-15",
-    "new_start": "2025-01-15T17:00:00+00:00",
-    "new_end": "2025-01-15T19:00:00+00:00",
-    "id": "2c5398dd97a88e12012fa3423166d8c8084b0532476316a84670779ff60b7e4b",
-    "version_id": "2fe252d33e9aabe38a0b486b8187151d69ad7e4bfd3bb6a98a87dbeffdb56fe5",
+    "new_date": "2025-01-16",
+    "new_start": "2025-01-16T18:00:00+00:00",
+    "new_end": "2025-01-16T19:00:00+00:00",
+    "id": "c5d3753371fb96e1f0e06c3499645c9292de92b8d589691bdd3c84c52685206e",
+    "version_id": "fef038cbe0d6ff9deff14f21b26ea352c1b293d874e09bf57bd3edb4800c2ae6",
     "status": "new"
   }
 ]
