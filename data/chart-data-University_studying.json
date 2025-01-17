@@ -1029,11 +1029,25 @@
     "summary": "analysis",
     "description": "(No description)",
     "calendar_name": "University studying",
-    "new_date": "2025-01-16",
-    "new_start": "2025-01-16T15:45:00+00:00",
-    "new_end": "2025-01-16T17:25:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "c5c888be5da7894a626a0a86c1a1eba4005a2cabc9ab90febe1b3d1da895eecb",
-    "version_id": "06726fa1e3a067e9fd7871dc84a001a843f84b510ee919fc439b7a56fe5dc2c1",
+    "version_id": "06726fa1e3a067e9fd7871dc84a001a843f84b510ee919fc439b7a56fe5dc2c1"
+  },
+  {
+    "date": "2025-01-17",
+    "start": "2025-01-17T15:15:00+00:00",
+    "end": "2025-01-17T16:30:00+00:00",
+    "value": 1,
+    "summary": "personal reflection",
+    "description": "(No description)",
+    "calendar_name": "University studying",
+    "new_date": "2025-01-17",
+    "new_start": "2025-01-17T15:15:00+00:00",
+    "new_end": "2025-01-17T16:30:00+00:00",
+    "id": "3fb424cef4400d28ba51da33e758f81390d20ddaeed43ee768582a5166828a17",
+    "version_id": "eba7ecb310135acdb01e286324943274932cac31a68064c4c076c17f44d203a2",
     "status": "new"
   }
 ]
