@@ -26,9 +26,14 @@ def get_calendar_events(service, calendar_id='primary', time_min=None, time_max=
     if not time_max:
         time_max = (datetime.utcnow() + timedelta(days=7)).isoformat() + 'Z'
     
-    events_result = service.events().list(calendarId=calendar_id, timeMin=time_min,
-                                          timeMax=time_max, singleEvents=True,
-                                          orderBy='startTime').execute()
+    events_result = service.events().list(
+        calendarId=calendar_id, 
+        timeMin=time_min,
+        timeMax=time_max, 
+        singleEvents=True,
+        orderBy='startTime',
+        maxResults=2500
+    ).execute()
     events = events_result.get('items', [])
     
     # Get calendar name
