@@ -1057,11 +1057,10 @@
     "summary": "analysis",
     "description": "(No description)",
     "calendar_name": "University studying",
-    "new_date": "2025-01-18",
-    "new_start": "2025-01-18T08:45:00+00:00",
-    "new_end": "2025-01-18T13:55:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "53634ef88e51c70a77290a6a172cd844ac3ad328c3e031dcc9325b154d837d1a",
-    "version_id": "9b6df6593f226f91cbd37505c6761fc40fe9ee976a04497f1109e809e5f977d2",
-    "status": "new"
+    "version_id": "9b6df6593f226f91cbd37505c6761fc40fe9ee976a04497f1109e809e5f977d2"
   }
 ]

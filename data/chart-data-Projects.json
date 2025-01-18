@@ -987,12 +987,11 @@
     "summary": "gym",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2025-01-18",
-    "new_start": "2025-01-18T07:00:00+00:00",
-    "new_end": "2025-01-18T08:15:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "f6b46c9cb95de785bb08ea83dc0a6065904862fa03d59b51bd7c304e998b4026",
-    "version_id": "bd2127da178797f9876d24e1b8c673d3d1ed4745a25bffae2beb0ed8fd60d2ed",
-    "status": "new"
+    "version_id": "bd2127da178797f9876d24e1b8c673d3d1ed4745a25bffae2beb0ed8fd60d2ed"
   },
   {
     "date": "2025-01-18",
@@ -1002,11 +1001,10 @@
     "summary": "New Event",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2025-01-18",
-    "new_start": "2025-01-18T14:00:00+00:00",
-    "new_end": "2025-01-18T19:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "a92f43b31bd3e774f83d160282ae04ea51dd59080e02324251bcc6cab2abec79",
-    "version_id": "a606a93a116b3a57ee080c4da7103067f559045f418ef412d5ff255dbf221a28",
-    "status": "new"
+    "version_id": "a606a93a116b3a57ee080c4da7103067f559045f418ef412d5ff255dbf221a28"
   }
 ]
