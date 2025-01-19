@@ -1006,5 +1006,20 @@
     "new_end": "",
     "id": "a92f43b31bd3e774f83d160282ae04ea51dd59080e02324251bcc6cab2abec79",
     "version_id": "a606a93a116b3a57ee080c4da7103067f559045f418ef412d5ff255dbf221a28"
+  },
+  {
+    "date": "2025-01-19",
+    "start": "2025-01-19T15:00:00+00:00",
+    "end": "2025-01-19T17:00:00+00:00",
+    "value": 1,
+    "summary": "automation 1",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2025-01-19",
+    "new_start": "2025-01-19T15:00:00+00:00",
+    "new_end": "2025-01-19T17:00:00+00:00",
+    "id": "a1fdb654549d064b151609920bee0c3ca87bd3e360402515068bf49735e1dfef",
+    "version_id": "5f1758b94a146148d8dfe8ec156af419358c1ca02d6178a61b1700e331127681",
+    "status": "new"
   }
 ]
