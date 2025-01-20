@@ -1071,12 +1071,11 @@
     "summary": "analysis",
     "description": "(No description)",
     "calendar_name": "University studying",
-    "new_date": "2025-01-19",
-    "new_start": "2025-01-19T06:00:00+00:00",
-    "new_end": "2025-01-19T09:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "63ef63875ee7a883b83b547a00376bf64e59f8adc7c059e2132c809631068a37",
-    "version_id": "6fdebd5c6eb97ad7fdbfc4247ab0cf690aa39462ab4e84c85e557d2445481b49",
-    "status": "new"
+    "version_id": "6fdebd5c6eb97ad7fdbfc4247ab0cf690aa39462ab4e84c85e557d2445481b49"
   },
   {
     "date": "2025-01-19",
@@ -1086,11 +1085,25 @@
     "summary": "New Event",
     "description": "(No description)",
     "calendar_name": "University studying",
-    "new_date": "2025-01-19",
-    "new_start": "2025-01-19T09:30:00+00:00",
-    "new_end": "2025-01-19T10:45:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "3657dd4136b0f5991de186eb99e88acce79f9b4211c3470db92d708fd816077c",
-    "version_id": "a3221dff37a7c373a17963ca9fa947aefc32fa0dcff63a498c68f3b3ebbe73f8",
+    "version_id": "a3221dff37a7c373a17963ca9fa947aefc32fa0dcff63a498c68f3b3ebbe73f8"
+  },
+  {
+    "date": "2025-01-20",
+    "start": "2025-01-20T07:00:00+00:00",
+    "end": "2025-01-20T11:00:00+00:00",
+    "value": 1,
+    "summary": "analysis",
+    "description": "(No description)",
+    "calendar_name": "University studying",
+    "new_date": "2025-01-20",
+    "new_start": "2025-01-20T07:00:00+00:00",
+    "new_end": "2025-01-20T11:00:00+00:00",
+    "id": "bd215613542586b708e744e57522802891276b15841faa154607d39a23c24afb",
+    "version_id": "25c9f5d9c5f72d3f61d66a649f5271d3089bf088ee710c714e26269f0c1dac87",
     "status": "new"
   }
 ]

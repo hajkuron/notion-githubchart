@@ -1015,11 +1015,25 @@
     "summary": "automation 1",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2025-01-19",
-    "new_start": "2025-01-19T15:00:00+00:00",
-    "new_end": "2025-01-19T17:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "a1fdb654549d064b151609920bee0c3ca87bd3e360402515068bf49735e1dfef",
-    "version_id": "5f1758b94a146148d8dfe8ec156af419358c1ca02d6178a61b1700e331127681",
+    "version_id": "5f1758b94a146148d8dfe8ec156af419358c1ca02d6178a61b1700e331127681"
+  },
+  {
+    "date": "2025-01-20",
+    "start": "2025-01-20T15:00:00+00:00",
+    "end": "2025-01-20T17:00:00+00:00",
+    "value": 1,
+    "summary": "automation 1",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2025-01-20",
+    "new_start": "2025-01-20T15:00:00+00:00",
+    "new_end": "2025-01-20T17:00:00+00:00",
+    "id": "5dac6043be884c12ad90d4434df0ece523df68216a8a3ae125fbba2794b1e43f",
+    "version_id": "152939e890d572a68227ff68a4dd8f3d6c5d1c441392a0322dbddf6fe86ad668",
     "status": "new"
   }
 ]
