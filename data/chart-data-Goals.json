@@ -49,11 +49,10 @@
     "summary": "4",
     "description": "(No description)",
     "calendar_name": "Goals",
-    "new_date": "2025-01-19",
-    "new_start": "2025-01-19T21:00:00+00:00",
-    "new_end": "2025-01-19T21:15:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "40758e41d44ba2c5f08294136dddcf236194ddd1dd36140302e785f2ed8bfc94",
-    "version_id": "7126e254ce527193e8399cce3c94d7ca21c496bfcd0dd13f54930915610de64c",
-    "status": "new"
+    "version_id": "7126e254ce527193e8399cce3c94d7ca21c496bfcd0dd13f54930915610de64c"
   }
 ]
