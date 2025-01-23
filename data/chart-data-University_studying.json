@@ -1127,12 +1127,11 @@
     "summary": "analysis reviews",
     "description": "(No description)",
     "calendar_name": "University studying",
-    "new_date": "2025-01-22",
-    "new_start": "2025-01-22T12:00:00+00:00",
-    "new_end": "2025-01-22T14:55:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "1f835279caf6554d18e1276f18343df2b0cfe4ba8782fbe6f6d8e7d19ecc1cfe",
-    "version_id": "d0ade7905f9b2567b9b74f66acdafe502a3e933d8dba4896f3d72b5d958e6081",
-    "status": "new"
+    "version_id": "d0ade7905f9b2567b9b74f66acdafe502a3e933d8dba4896f3d72b5d958e6081"
   },
   {
     "date": "2025-01-22",
@@ -1142,11 +1141,25 @@
     "summary": "New Event",
     "description": "(No description)",
     "calendar_name": "University studying",
-    "new_date": "2025-01-22",
-    "new_start": "2025-01-22T16:15:00+00:00",
-    "new_end": "2025-01-22T17:45:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "9ee5d9867a05f467738657b4bf2a43f49e3a17af13cec44a8ab63e768cdbfb00",
-    "version_id": "2677f7156758f6a91b67bfc400521ea64b56537c225f16512dddf4d8bc8eac15",
+    "version_id": "2677f7156758f6a91b67bfc400521ea64b56537c225f16512dddf4d8bc8eac15"
+  },
+  {
+    "date": "2025-01-23",
+    "start": "2025-01-23T16:15:00+00:00",
+    "end": "2025-01-23T17:45:00+00:00",
+    "value": 1,
+    "summary": "consulting course",
+    "description": "(No description)",
+    "calendar_name": "University studying",
+    "new_date": "2025-01-23",
+    "new_start": "2025-01-23T16:15:00+00:00",
+    "new_end": "2025-01-23T17:45:00+00:00",
+    "id": "5d2e7be821c9298e33bba82bb8b402b3f485b4d44a2c614d016b19f16d0343e3",
+    "version_id": "abccb6bfbecb2498a9134b545583894c27a812678e9a3f7a9ef6ae81188807c1",
     "status": "new"
   }
 ]
