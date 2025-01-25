@@ -1169,11 +1169,25 @@
     "summary": "consulting course",
     "description": "(No description)",
     "calendar_name": "University studying",
-    "new_date": "2025-01-24",
-    "new_start": "2025-01-24T16:15:00+00:00",
-    "new_end": "2025-01-24T17:45:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "63de1edd96734e157ff7a6899754f354f07c9911c83a45a50c907c10be5462f9",
-    "version_id": "1565e848611bb1c02073028927a330a02f24bb73a8aabfa4023a0bbdbd94ef04",
+    "version_id": "1565e848611bb1c02073028927a330a02f24bb73a8aabfa4023a0bbdbd94ef04"
+  },
+  {
+    "date": "2025-01-25",
+    "start": "2025-01-25T16:00:00+00:00",
+    "end": "2025-01-25T17:30:00+00:00",
+    "value": 1,
+    "summary": "consulting course",
+    "description": "(No description)",
+    "calendar_name": "University studying",
+    "new_date": "2025-01-25",
+    "new_start": "2025-01-25T16:00:00+00:00",
+    "new_end": "2025-01-25T17:30:00+00:00",
+    "id": "f708be18f110b74b2d4433f5eb99de3f40decfeef9239491d8f6e71a54ef6679",
+    "version_id": "98a1a5bad2a494e302fdb6e06f93bf9ede11b79fbbae9717db07b31f9d802e1e",
     "status": "new"
   }
 ]

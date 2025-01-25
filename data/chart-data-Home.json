@@ -301,11 +301,10 @@
     "summary": "Hanci\u2764\ufe0f",
     "description": "(No description)",
     "calendar_name": "Home",
-    "new_date": "2025-01-24",
-    "new_start": "2025-01-24T10:00:00+00:00",
-    "new_end": "2025-01-24T10:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "85abaf492c18bce3933a5338ab62639bad610fc1bc305c01c985fd777b548b35",
-    "version_id": "70cc897634a466dd725ff0a89d4a5f9beda9de4a4217fcdb281aa5be23cf9f8e",
-    "status": "new"
+    "version_id": "70cc897634a466dd725ff0a89d4a5f9beda9de4a4217fcdb281aa5be23cf9f8e"
   }
 ]

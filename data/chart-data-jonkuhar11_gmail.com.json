@@ -5145,12 +5145,11 @@
     "summary": "Venture Challenge Project- Follow up",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-01-23",
-    "new_start": "2025-01-23T16:45:00+00:00",
-    "new_end": "2025-01-23T17:45:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "66dd3a62f5e310df6df671ba963ed8a03334223efd81a77c4d37464b1fe2c3ba",
-    "version_id": "c779bde398436a01acec54c8e26620f5d22008b79b9305b7b8e9e9726c2ff020",
-    "status": "new"
+    "version_id": "c779bde398436a01acec54c8e26620f5d22008b79b9305b7b8e9e9726c2ff020"
   },
   {
     "date": "2025-01-23",
@@ -5202,12 +5201,11 @@
     "summary": "wake up",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-01-24",
-    "new_start": "2025-01-24T05:00:00+00:00",
-    "new_end": "2025-01-24T05:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "4be7d1f53cda066db4870148d6a4e30d14ee176eef32205796bac7e042e56b18",
-    "version_id": "248f84e5329fce8b85c0e19b16febfd26d1065152e4ef0d278c5e7024468c9d0",
-    "status": "new"
+    "version_id": "248f84e5329fce8b85c0e19b16febfd26d1065152e4ef0d278c5e7024468c9d0"
   },
   {
     "date": "2025-01-24",
@@ -5217,12 +5215,11 @@
     "summary": "read",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-01-24",
-    "new_start": "2025-01-24T18:00:00+00:00",
-    "new_end": "2025-01-24T19:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "630082c2aafeb4596d78930776ead23764edd71fc2860a32b69ba9d4a7c060d0",
-    "version_id": "f1e5400166d7755b2981bbd00cc391fa13013eccc4e13a3161cebe4f6fa85a00",
-    "status": "new"
+    "version_id": "f1e5400166d7755b2981bbd00cc391fa13013eccc4e13a3161cebe4f6fa85a00"
   },
   {
     "date": "2025-01-24",
@@ -5232,12 +5229,11 @@
     "summary": "hanc",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-01-24",
-    "new_start": "2025-01-24T19:00:00+00:00",
-    "new_end": "2025-01-24T20:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "1834e313012e13a4de2a5f6ec452c2a577e371a42b70836d7269ef3df7357c21",
-    "version_id": "1006276290715e540675418bc237a7565f5d8757e15180734622136f0c5b39ad",
-    "status": "new"
+    "version_id": "1006276290715e540675418bc237a7565f5d8757e15180734622136f0c5b39ad"
   },
   {
     "date": "2025-01-25",
@@ -5247,11 +5243,70 @@
     "summary": "Daily 60*60*3",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-01-25",
-    "new_start": "2025-01-25T01:45:00+00:00",
-    "new_end": "2025-01-25T02:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "6c0a8044776c3a5d77bc09c81e8f8ef8096c0406f5c7c24a022b122f6beb5dcd",
-    "version_id": "6517b7f2e3b392051467f945af1bdc0f388e72d8120273a5cede6f4059269297",
+    "version_id": "6517b7f2e3b392051467f945af1bdc0f388e72d8120273a5cede6f4059269297"
+  },
+  {
+    "date": "2025-01-25",
+    "start": "2025-01-25T05:00:00+00:00",
+    "end": "2025-01-25T05:30:00+00:00",
+    "value": 1,
+    "summary": "wake up",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2025-01-25",
+    "new_start": "2025-01-25T05:00:00+00:00",
+    "new_end": "2025-01-25T05:30:00+00:00",
+    "id": "a9184e7704f79d6a20e38a9de410edfcdac2c99d9b306b4f1b18dd593e7afbc9",
+    "version_id": "03420ba11b49003804119a3beead0dc52678be68d2f6bc3bb940628127f037f6",
+    "status": "new"
+  },
+  {
+    "date": "2025-01-25",
+    "start": "2025-01-25T18:00:00+00:00",
+    "end": "2025-01-25T19:00:00+00:00",
+    "value": 1,
+    "summary": "read",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2025-01-25",
+    "new_start": "2025-01-25T18:00:00+00:00",
+    "new_end": "2025-01-25T19:00:00+00:00",
+    "id": "0e637bcb2e0c366ab16effb678d25c2b70485febf55fe5648efdfa91803a24ee",
+    "version_id": "71144e8cf7ac6dd4390d63f96b942cb4ff9323fb5a268d13bc254096e3f21da0",
+    "status": "new"
+  },
+  {
+    "date": "2025-01-25",
+    "start": "2025-01-25T19:00:00+00:00",
+    "end": "2025-01-25T20:30:00+00:00",
+    "value": 1,
+    "summary": "hanc",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2025-01-25",
+    "new_start": "2025-01-25T19:00:00+00:00",
+    "new_end": "2025-01-25T20:30:00+00:00",
+    "id": "e319f4941a5a486e7adf284cc9ec0e6acb8c406eb1170264ff70fee77c23e0e7",
+    "version_id": "9e5d87f78ae2dff2fb9c81efe27074fa9cf1408768f65ced473090abeeaffb4d",
+    "status": "new"
+  },
+  {
+    "date": "2025-01-26",
+    "start": "2025-01-26T01:45:00+00:00",
+    "end": "2025-01-26T02:00:00+00:00",
+    "value": 1,
+    "summary": "Daily 60*60*3",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2025-01-26",
+    "new_start": "2025-01-26T01:45:00+00:00",
+    "new_end": "2025-01-26T02:00:00+00:00",
+    "id": "10b4b2001775b9e786e3cce552b2a526a1232f98e74df32e1183d8a2655b9494",
+    "version_id": "808c514d5c4d101bb6465bdd93704a5a05de09686f24728e67311acb0651ff57",
     "status": "new"
   }
 ]
