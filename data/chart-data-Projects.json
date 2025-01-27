@@ -1076,5 +1076,20 @@
     "new_end": "",
     "id": "bacdc30b707ba05559553750117ba1ba6d0a0d999f7776480870a4f420f65dce",
     "version_id": "5c0978fc93a65c867efa2766cbccf8cf42380f0ad91259ddf5b4a3d3bdd2d673"
+  },
+  {
+    "date": "2025-01-27",
+    "start": "2025-01-27T08:00:00+00:00",
+    "end": "2025-01-27T10:30:00+00:00",
+    "value": 1,
+    "summary": "New Event",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2025-01-27",
+    "new_start": "2025-01-27T08:00:00+00:00",
+    "new_end": "2025-01-27T10:30:00+00:00",
+    "id": "588cff36b4c82bdc4c33fd0ca47819d806bc2d9ef20612eee5ea0afa9b1274e5",
+    "version_id": "c673a9ad3dacf4dbca011355bc7cb5888645eb517f740c13f475040ff346135b",
+    "status": "new"
   }
 ]
