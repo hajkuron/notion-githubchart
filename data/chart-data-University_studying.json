@@ -1197,12 +1197,11 @@
     "summary": "prepare a bit for presentatio",
     "description": "(No description)",
     "calendar_name": "University studying",
-    "new_date": "2025-01-27",
-    "new_start": "2025-01-27T10:30:00+00:00",
-    "new_end": "2025-01-27T11:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "77e14650db411b151ed28642e1e058fb4c630d37d82806de2fa64207fe6bfebf",
-    "version_id": "846820b8cc7de4f9abfc8c1c4648324070a54d617e2a0a8079b04658ba97a99e",
-    "status": "new"
+    "version_id": "846820b8cc7de4f9abfc8c1c4648324070a54d617e2a0a8079b04658ba97a99e"
   },
   {
     "date": "2025-01-27",
@@ -1212,11 +1211,25 @@
     "summary": "presentation",
     "description": "(No description)",
     "calendar_name": "University studying",
-    "new_date": "2025-01-27",
-    "new_start": "2025-01-27T12:00:00+00:00",
-    "new_end": "2025-01-27T13:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "07346c9110450765070f0825f62707ee0dd52a3ee6f77f7838975a6eaff105ec",
-    "version_id": "9be4c0e0aa5cc981c8fe033a3dc761ae27b7b83acfd77e087d937e9ecab1cc78",
+    "version_id": "9be4c0e0aa5cc981c8fe033a3dc761ae27b7b83acfd77e087d937e9ecab1cc78"
+  },
+  {
+    "date": "2025-01-28",
+    "start": "2025-01-28T15:00:00+00:00",
+    "end": "2025-01-28T16:30:00+00:00",
+    "value": 1,
+    "summary": "consulting course whole",
+    "description": "(No description)",
+    "calendar_name": "University studying",
+    "new_date": "2025-01-28",
+    "new_start": "2025-01-28T15:00:00+00:00",
+    "new_end": "2025-01-28T16:30:00+00:00",
+    "id": "9c7fccad44052a822701f8bfa209a094bd414d2a76f12aa5b7dddb37177e19b3",
+    "version_id": "b6fdddbd6851f43666c300ded97d0b45e47adb748af09eac22f505698cdc8277",
     "status": "new"
   }
 ]
