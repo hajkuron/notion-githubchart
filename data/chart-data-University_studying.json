@@ -1225,11 +1225,10 @@
     "summary": "consulting course whole",
     "description": "(No description)",
     "calendar_name": "University studying",
-    "new_date": "2025-01-28",
-    "new_start": "2025-01-28T15:00:00+00:00",
-    "new_end": "2025-01-28T16:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "9c7fccad44052a822701f8bfa209a094bd414d2a76f12aa5b7dddb37177e19b3",
-    "version_id": "b6fdddbd6851f43666c300ded97d0b45e47adb748af09eac22f505698cdc8277",
-    "status": "new"
+    "version_id": "b6fdddbd6851f43666c300ded97d0b45e47adb748af09eac22f505698cdc8277"
   }
 ]
