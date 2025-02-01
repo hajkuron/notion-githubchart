@@ -623,11 +623,10 @@
     "summary": "work cc",
     "description": "(No description)",
     "calendar_name": "Work creative clicks",
-    "new_date": "2025-01-31",
-    "new_start": "2025-01-31T08:00:00+00:00",
-    "new_end": "2025-01-31T11:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "d424f280b6b4705287204a8feec574e0c1e0e30bdcc38c53a3d7c1a0c23cd4ea",
-    "version_id": "d8cf44f9f5aee64aa1bea44bd5a9ecd0f2e12916f39d3c38d678f6b48fbcecac",
-    "status": "new"
+    "version_id": "d8cf44f9f5aee64aa1bea44bd5a9ecd0f2e12916f39d3c38d678f6b48fbcecac"
   }
 ]
