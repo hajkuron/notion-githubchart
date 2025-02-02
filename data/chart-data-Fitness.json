@@ -1309,12 +1309,11 @@
     "summary": "gym",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2025-02-01",
-    "new_start": "2025-02-01T06:00:00+00:00",
-    "new_end": "2025-02-01T07:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "e821983ce1378f4d2e5b0c8805889855c7f944abfd77c02f40324580e7c16c67",
-    "version_id": "e799466e46eb5bea66e435abbee8a58298b4f7d8c21b3a207f88effb27f60e0f",
-    "status": "new"
+    "version_id": "e799466e46eb5bea66e435abbee8a58298b4f7d8c21b3a207f88effb27f60e0f"
   },
   {
     "date": "2025-02-01",
@@ -1324,11 +1323,25 @@
     "summary": "padel",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2025-02-01",
-    "new_start": "2025-02-01T16:45:00+00:00",
-    "new_end": "2025-02-01T18:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "8e5fb8e6d21996f4be4138f3c4199baf46aa11f20048bd55f68d791324fa6b28",
-    "version_id": "bb2a78fd30b4b0da57a827c48faca46bcbe6395dc2fcf3fca06385d3bb9f3a0f",
+    "version_id": "bb2a78fd30b4b0da57a827c48faca46bcbe6395dc2fcf3fca06385d3bb9f3a0f"
+  },
+  {
+    "date": "2025-02-02",
+    "start": "2025-02-02T17:00:00+00:00",
+    "end": "2025-02-02T19:00:00+00:00",
+    "value": 1,
+    "summary": "football",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2025-02-02",
+    "new_start": "2025-02-02T17:00:00+00:00",
+    "new_end": "2025-02-02T19:00:00+00:00",
+    "id": "59093e04c08b898235444910155e90d196f4f5be65910a2509c1475f65b9ebdc",
+    "version_id": "3d81ad43c1adb08ba42eba83daa732e42522af0600c2fb74ec0bd20724b1d370",
     "status": "new"
   }
 ]
