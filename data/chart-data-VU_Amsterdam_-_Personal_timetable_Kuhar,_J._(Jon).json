@@ -5,13 +5,13 @@
     "end": "2025-02-04T14:15:00+00:00",
     "value": 1,
     "summary": "International Entrepreneurship (HC)",
-    "description": "Registered for this activity: Yes\n\nType: Lecture\n\nCourse code: E_ENT_IENT\n\nLocation(s):\nHG-10A00 (200/50T)\n\nStaff member(s): Bacco, F.\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2025-02-05 at 00:34 CET",
+    "description": "Registered for this activity: Yes\n\nType: Lecture\n\nCourse code: E_ENT_IENT\n\nLocation(s):\nHG-10A00 (200/50T)\n\nStaff member(s): Bacco, F.\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2025-02-06 at 03:34 CET",
     "calendar_name": "VU Amsterdam - Personal timetable: Kuhar, J. (Jon)",
     "new_date": "2025-02-04",
     "new_start": "2025-02-04T12:30:00+00:00",
     "new_end": "2025-02-04T14:15:00+00:00",
-    "id": "ac9eca9baf905fe102a575087397d096215ccf932466c71fb700f5f4affd86d1",
-    "version_id": "04e51e52d2b442f33f40181f8c3215893336c0ef85bb3ad5c7191af96f161ad5",
+    "id": "b2397f8ae5f060a0416096a02dc80c968ec3c8904f031b4c13144e1afbdef130",
+    "version_id": "dfaed5c8d81d9a3c508408d71c8a078314650c62766869a24d0a83b7449b0e34",
     "status": "new"
   },
   {
@@ -20,13 +20,13 @@
     "end": "2025-02-05T16:15:00+00:00",
     "value": 1,
     "summary": "International Entrepreneurship (WG)",
-    "description": "Registered for this activity: Yes\n\nType: Seminar group\n\nCourse code: E_ENT_IENT\n\nLocation(s):\nHG-10A41 (30/15T)\n\nWG04\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2025-02-05 at 00:34 CET",
+    "description": "Registered for this activity: Yes\n\nType: Seminar group\n\nCourse code: E_ENT_IENT\n\nLocation(s):\nHG-10A41 (30/15T)\n\nWG04\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2025-02-06 at 03:34 CET",
     "calendar_name": "VU Amsterdam - Personal timetable: Kuhar, J. (Jon)",
     "new_date": "2025-02-05",
     "new_start": "2025-02-05T14:30:00+00:00",
     "new_end": "2025-02-05T16:15:00+00:00",
-    "id": "d0a3bd6ba8988abd06ca1bdf92bf1b6516f1f73a87dbcecb98f2b8194dfa5229",
-    "version_id": "af539cf3e102fdcfd2bf56dc4548c88ea0c9ecc75bb71a1b54c3950b07bc7a4f",
+    "id": "04d97e0116b9c1156f87d8cb80b86937b1716bd9a7470330f9c2888f7810be40",
+    "version_id": "d968a143483c99b740aa2d1fc638652bc1eb81684e7545a3d2dec70047db7e86",
     "status": "new"
   }
 ]
