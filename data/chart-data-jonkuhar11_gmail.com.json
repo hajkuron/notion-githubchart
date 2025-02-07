@@ -5831,12 +5831,11 @@
     "summary": "Flight to Amsterdam (HV 6822)",
     "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DM0AtNsibry1xzZjRVfLlVVdMYYawgGozk\n",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-02-05",
-    "new_start": "2025-02-05T23:10:00+00:00",
-    "new_end": "2025-02-06T01:10:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "9a70f7a0fd491372be12e3e46848201ecfcd29482dd62d627fdc80da13f21a35",
-    "version_id": "a7ded6b0d360dc25670cff19cd9a6fa8460f5eb7753fae9f2c5c04947f15e09f",
-    "status": "new"
+    "version_id": "a7ded6b0d360dc25670cff19cd9a6fa8460f5eb7753fae9f2c5c04947f15e09f"
   },
   {
     "date": "2025-02-06",
@@ -5860,12 +5859,11 @@
     "summary": "wake up",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-02-06",
-    "new_start": "2025-02-06T05:00:00+00:00",
-    "new_end": "2025-02-06T05:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "cdaa9fad640130c591529f1239bc5915b4d72e687ab30b38b920541d8ab3858b",
-    "version_id": "2b810df054d90f011fba03f07cee755e4001cba469d0e3f21dc534c5104e354e",
-    "status": "new"
+    "version_id": "2b810df054d90f011fba03f07cee755e4001cba469d0e3f21dc534c5104e354e"
   },
   {
     "date": "2025-02-06",
@@ -5875,12 +5873,11 @@
     "summary": "hanc",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-02-06",
-    "new_start": "2025-02-06T19:00:00+00:00",
-    "new_end": "2025-02-06T20:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "fc3c5fd7ebdd5921b5c513daf7980c46aa9b5b00a06f574dc2a58c032ef509b8",
-    "version_id": "744dd0a2c7b158127559f100f30a3211d7675f02d75c6354c1de7dab193450de",
-    "status": "new"
+    "version_id": "744dd0a2c7b158127559f100f30a3211d7675f02d75c6354c1de7dab193450de"
   },
   {
     "date": "2025-02-07",
@@ -5890,11 +5887,55 @@
     "summary": "Daily 60*60*3",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-02-07",
-    "new_start": "2025-02-07T01:45:00+00:00",
-    "new_end": "2025-02-07T02:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "a70b3184172942214eef036f88aa85c608090c7bb3abc24c5c5c6b1bf60b0891",
-    "version_id": "40d9dcd59db5cfb53bf31496454a3c3288a48aa2770e263677e37147c08648d3",
+    "version_id": "40d9dcd59db5cfb53bf31496454a3c3288a48aa2770e263677e37147c08648d3"
+  },
+  {
+    "date": "2025-02-07",
+    "start": "2025-02-07T05:00:00+00:00",
+    "end": "2025-02-07T05:30:00+00:00",
+    "value": 1,
+    "summary": "wake up",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2025-02-07",
+    "new_start": "2025-02-07T05:00:00+00:00",
+    "new_end": "2025-02-07T05:30:00+00:00",
+    "id": "0db8032ae16b10ce2be4a7dbefc84a50e184716bcc0bcfce76c1bf193d53f5d1",
+    "version_id": "68a183ce7380cb933c03a61eee56a31400833669859b079b64ba4b6c7f08c5db",
+    "status": "new"
+  },
+  {
+    "date": "2025-02-07",
+    "start": "2025-02-07T19:00:00+00:00",
+    "end": "2025-02-07T20:30:00+00:00",
+    "value": 1,
+    "summary": "hanc",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2025-02-07",
+    "new_start": "2025-02-07T19:00:00+00:00",
+    "new_end": "2025-02-07T20:30:00+00:00",
+    "id": "5ea9b0f65e6931aec61bdac154267d0987aff0401389870137b37df534b784e0",
+    "version_id": "45e8ff1a53719d380e051f194988c211c9f6ad20191535d1465db37c9217e7c6",
+    "status": "new"
+  },
+  {
+    "date": "2025-02-08",
+    "start": "2025-02-08T01:45:00+00:00",
+    "end": "2025-02-08T02:00:00+00:00",
+    "value": 1,
+    "summary": "Daily 60*60*3",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2025-02-08",
+    "new_start": "2025-02-08T01:45:00+00:00",
+    "new_end": "2025-02-08T02:00:00+00:00",
+    "id": "778c48cb7da8fcaf908a05a64a6c8f4ed27840a28ae96a42d8d03b633d528791",
+    "version_id": "032d28f6376712d5b267c86a0eb7ab308d13aad0cf44e5971c6f5967e6fb7355",
     "status": "new"
   }
 ]
