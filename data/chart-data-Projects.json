@@ -1160,5 +1160,49 @@
     "new_end": "",
     "id": "7eb1c00b61305407c0451ba9305e553fcd8fbc3d826b648bd54b9338116680ae",
     "version_id": "3c0b3d09b49e606a57810171894edd05f7546fcd6719d2df2a4b2731685906ae"
+  },
+  {
+    "date": "2025-02-08",
+    "start": "2025-02-08T08:00:00+00:00",
+    "end": "2025-02-08T11:00:00+00:00",
+    "value": 1,
+    "summary": "Prompting course",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
+    "id": "8c89b242c118bdf31c6533ed9c37ffe0cd5a0dec9cacd8df122aa2de5baedf42",
+    "version_id": "6e005c9a9c5e5857da422e4b16f0b9b1badaeb31b9ea3888b776864f1d05bf33"
+  },
+  {
+    "date": "2025-02-08",
+    "start": "2025-02-08T12:00:00+00:00",
+    "end": "2025-02-08T13:00:00+00:00",
+    "value": 1,
+    "summary": "Prompting course",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2025-02-08",
+    "new_start": "2025-02-08T12:00:00+00:00",
+    "new_end": "2025-02-08T13:00:00+00:00",
+    "id": "8c89b242c118bdf31c6533ed9c37ffe0cd5a0dec9cacd8df122aa2de5baedf42",
+    "version_id": "93bbe8acbb439001c7602c300f2128daeeeae240064bec404f87983220e14801",
+    "status": "new"
+  },
+  {
+    "date": "2025-02-08",
+    "start": "2025-02-08T13:30:00+00:00",
+    "end": "2025-02-08T17:00:00+00:00",
+    "value": 1,
+    "summary": "AI agents course",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2025-02-08",
+    "new_start": "2025-02-08T13:30:00+00:00",
+    "new_end": "2025-02-08T17:00:00+00:00",
+    "id": "f933f7e4405ead116c3f0096912f0d62f6577552c640bce653d16f23d0ebe756",
+    "version_id": "b288317fe1c170dec142052e218b230891f3e50937e4e7714410956ca56e0ccb",
+    "status": "new"
   }
 ]
