@@ -1351,12 +1351,11 @@
     "summary": "walk",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2025-02-03",
-    "new_start": "2025-02-03T06:30:00+00:00",
-    "new_end": "2025-02-03T07:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "679075a882714947bb349fdc00439b5094bdf94f4c38e6736f3ac8729474334a",
-    "version_id": "d664c384158d6804a19e7cc652217ee3e0ef26b302ed32a5cd780fa42126441b",
-    "status": "new"
+    "version_id": "d664c384158d6804a19e7cc652217ee3e0ef26b302ed32a5cd780fa42126441b"
   },
   {
     "date": "2025-02-04",
@@ -1366,12 +1365,11 @@
     "summary": "walk",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2025-02-04",
-    "new_start": "2025-02-04T06:30:00+00:00",
-    "new_end": "2025-02-04T07:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "b92cd1a3f0f81316ce73dee9ce1821c5c5aa50a5d9ee37cacbc0006d4d218926",
-    "version_id": "6f5c8ff92e43ae508e94bf91edd040a00f85b19e1d2f9456f9b74d35bc79be43",
-    "status": "new"
+    "version_id": "6f5c8ff92e43ae508e94bf91edd040a00f85b19e1d2f9456f9b74d35bc79be43"
   },
   {
     "date": "2025-02-07",
@@ -1381,12 +1379,11 @@
     "summary": "gym",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2025-02-07",
-    "new_start": "2025-02-07T06:30:00+00:00",
-    "new_end": "2025-02-07T07:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "7b0de405fcec4dfbcb81e1177d2b318e843f41ce19fb8305d4ff23d137cce52e",
-    "version_id": "f60659b835c0f71079227cb01986cc9d9c37b0eea9986d010517dd999041213d",
-    "status": "new"
+    "version_id": "f60659b835c0f71079227cb01986cc9d9c37b0eea9986d010517dd999041213d"
   },
   {
     "date": "2025-02-08",
@@ -1396,11 +1393,25 @@
     "summary": "gym",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2025-02-08",
-    "new_start": "2025-02-08T06:00:00+00:00",
-    "new_end": "2025-02-08T07:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "6dc1768d365f02c210e587d2405d829146a7b11ee30ba17e77363d7500524876",
-    "version_id": "6e8d54bb6efc0cbed6c1e17e68475868bf3d306ec3c83139d0e4212bb83aba27",
+    "version_id": "6e8d54bb6efc0cbed6c1e17e68475868bf3d306ec3c83139d0e4212bb83aba27"
+  },
+  {
+    "date": "2025-02-09",
+    "start": "2025-02-09T14:30:00+00:00",
+    "end": "2025-02-09T16:30:00+00:00",
+    "value": 1,
+    "summary": "football",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2025-02-09",
+    "new_start": "2025-02-09T14:30:00+00:00",
+    "new_end": "2025-02-09T16:30:00+00:00",
+    "id": "4d297d9d90e974e7bec9f6a24435b435a102795a391d111509cccd6b2c7c1015",
+    "version_id": "8a1c2d4bea34639f4934a49be9666c50570b6dbf9e0238073b1f89f3408f325c",
     "status": "new"
   }
 ]

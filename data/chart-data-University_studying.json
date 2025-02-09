@@ -1230,5 +1230,20 @@
     "new_end": "",
     "id": "9c7fccad44052a822701f8bfa209a094bd414d2a76f12aa5b7dddb37177e19b3",
     "version_id": "b6fdddbd6851f43666c300ded97d0b45e47adb748af09eac22f505698cdc8277"
+  },
+  {
+    "date": "2025-02-09",
+    "start": "2025-02-09T06:00:00+00:00",
+    "end": "2025-02-09T08:00:00+00:00",
+    "value": 1,
+    "summary": "University figure out",
+    "description": "(No description)",
+    "calendar_name": "University studying",
+    "new_date": "2025-02-09",
+    "new_start": "2025-02-09T06:00:00+00:00",
+    "new_end": "2025-02-09T08:00:00+00:00",
+    "id": "737cc598a74930d151fac43e0e5f5aba09e55dc5266672766cf495a15bbc32b1",
+    "version_id": "a72e0ba92767994eedef4cfe35bca17d9ed7f603813781f592a518c2cd729470",
+    "status": "new"
   }
 ]
