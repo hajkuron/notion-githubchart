@@ -1211,12 +1211,11 @@
     "summary": "Building agent",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2025-02-09",
-    "new_start": "2025-02-09T08:00:00+00:00",
-    "new_end": "2025-02-09T13:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "f70146a2c858165b159750ec2d6debfc53ba74c6a6d2c5be66075113de99f6f4",
-    "version_id": "f87e16c35f0cadaca29cc8e6e57117121b07798389afa8e057535a20d44cc261",
-    "status": "new"
+    "version_id": "f87e16c35f0cadaca29cc8e6e57117121b07798389afa8e057535a20d44cc261"
   },
   {
     "date": "2025-02-09",
@@ -1226,11 +1225,25 @@
     "summary": "finish agent",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2025-02-09",
-    "new_start": "2025-02-09T18:30:00+00:00",
-    "new_end": "2025-02-09T20:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "401bc4bd0ac621be243ba1feb7d93b77cd34318323291201e30b1f055bed1962",
-    "version_id": "7d201817e6e46e25b79c822c8de4c8688bcf0aea1cd1399a5ff12cee7bceda63",
+    "version_id": "7d201817e6e46e25b79c822c8de4c8688bcf0aea1cd1399a5ff12cee7bceda63"
+  },
+  {
+    "date": "2025-02-10",
+    "start": "2025-02-10T10:30:00+00:00",
+    "end": "2025-02-10T15:00:00+00:00",
+    "value": 1,
+    "summary": "Building automation",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2025-02-10",
+    "new_start": "2025-02-10T10:30:00+00:00",
+    "new_end": "2025-02-10T15:00:00+00:00",
+    "id": "664395d24d5602343ef627210add9820438ccdd369a26d5bb27ea3e83e6a576c",
+    "version_id": "a1d8b3dfde675698bf2984a709902d397df33f5306a8f8d75f67ed61951ed7f5",
     "status": "new"
   }
 ]

@@ -6013,12 +6013,11 @@
     "summary": "Weekly check up of goals NOTION",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-02-09",
-    "new_start": "2025-02-09T03:30:00+00:00",
-    "new_end": "2025-02-09T03:45:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "765aeb010d77fce189dd8d464726c3dda62bb914240ec1a63ebb0302183b344d",
-    "version_id": "ad1bfa4c9fed0caf6095a74de9d0efd4cd06ed6b820ce1e6d0c1ac2ca1286146",
-    "status": "new"
+    "version_id": "ad1bfa4c9fed0caf6095a74de9d0efd4cd06ed6b820ce1e6d0c1ac2ca1286146"
   },
   {
     "date": "2025-02-09",
@@ -6028,12 +6027,11 @@
     "summary": "wake up",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-02-09",
-    "new_start": "2025-02-09T05:00:00+00:00",
-    "new_end": "2025-02-09T05:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "4b2aeb3028e1964aedc982bad9e39d87708f9d5dae18c3569ca1196b777fd5a6",
-    "version_id": "d1f19859c9a3aac18fe1857b6b196f93ca58f88aa76585b5209ec1f446896ddd",
-    "status": "new"
+    "version_id": "d1f19859c9a3aac18fe1857b6b196f93ca58f88aa76585b5209ec1f446896ddd"
   },
   {
     "date": "2025-02-09",
@@ -6043,12 +6041,11 @@
     "summary": "read",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-02-09",
-    "new_start": "2025-02-09T17:00:00+00:00",
-    "new_end": "2025-02-09T18:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "95a103db524657dd412354964471a2ebeb05fa3b3c482d27cf4cf5e4fedafa95",
-    "version_id": "c1c913f4a5859fd9dd05199c716da3e5a882472de94509017864c16c86e765b2",
-    "status": "new"
+    "version_id": "c1c913f4a5859fd9dd05199c716da3e5a882472de94509017864c16c86e765b2"
   },
   {
     "date": "2025-02-10",
@@ -6058,11 +6055,55 @@
     "summary": "Daily 60*60*3",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-02-10",
-    "new_start": "2025-02-10T01:45:00+00:00",
-    "new_end": "2025-02-10T02:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "2307e6673d13287529ff721d03126666b1c82254e0d91d7989d90065cfaea4f5",
-    "version_id": "7552e93cb990a49686f99584eccb0d7b8f41239f7b5586f8d91e198bed9f298f",
+    "version_id": "7552e93cb990a49686f99584eccb0d7b8f41239f7b5586f8d91e198bed9f298f"
+  },
+  {
+    "date": "2025-02-10",
+    "start": "2025-02-10T05:00:00+00:00",
+    "end": "2025-02-10T05:30:00+00:00",
+    "value": 1,
+    "summary": "wake up",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2025-02-10",
+    "new_start": "2025-02-10T05:00:00+00:00",
+    "new_end": "2025-02-10T05:30:00+00:00",
+    "id": "3faa509735392f4ebe9b4fe0c60bc72aeaac31075cbac975952f5ba6b8ba64fc",
+    "version_id": "9211eca5439cc6546c71a9add2957e66179cd013cc73a7c980f74743a2729d7c",
+    "status": "new"
+  },
+  {
+    "date": "2025-02-10",
+    "start": "2025-02-10T18:00:00+00:00",
+    "end": "2025-02-10T19:00:00+00:00",
+    "value": 1,
+    "summary": "read",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2025-02-10",
+    "new_start": "2025-02-10T18:00:00+00:00",
+    "new_end": "2025-02-10T19:00:00+00:00",
+    "id": "7d51896903b3836b0860de61b2de9ef30bd3589730d990bb1f0ea2ce2d552dd9",
+    "version_id": "5d7d759e5cbf506a5b7ff0bec3a67ce30cd23b3371d983f777ee3f6d79c48706",
+    "status": "new"
+  },
+  {
+    "date": "2025-02-11",
+    "start": "2025-02-11T01:45:00+00:00",
+    "end": "2025-02-11T02:00:00+00:00",
+    "value": 1,
+    "summary": "Daily 60*60*3",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2025-02-11",
+    "new_start": "2025-02-11T01:45:00+00:00",
+    "new_end": "2025-02-11T02:00:00+00:00",
+    "id": "a581aff27359475ee6697b7ae7d7d38805cfdab7bc4ecdbc9c7c7fbc68662243",
+    "version_id": "a9c5ce429208d00532d4107b6e96838d930be716dee2053c6053e41f013cf981",
     "status": "new"
   }
 ]
