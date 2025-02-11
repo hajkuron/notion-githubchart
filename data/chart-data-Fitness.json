@@ -1414,18 +1414,18 @@
     "version_id": "8a1c2d4bea34639f4934a49be9666c50570b6dbf9e0238073b1f89f3408f325c"
   },
   {
-    "date": "2025-02-10",
-    "start": "2025-02-10T06:00:00+00:00",
-    "end": "2025-02-10T07:00:00+00:00",
+    "date": "2025-02-11",
+    "start": "2025-02-11T06:00:00+00:00",
+    "end": "2025-02-11T07:00:00+00:00",
     "value": 1,
     "summary": "gym",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2025-02-10",
-    "new_start": "2025-02-10T06:00:00+00:00",
-    "new_end": "2025-02-10T07:00:00+00:00",
-    "id": "694c82acc803eb75b82605afe18e34d09dfdc521d0af562b521af9955be2010f",
-    "version_id": "258e89f251864503a42db28db8d0178dfbcd902f29d8240c56f925ed55de295c",
+    "new_date": "2025-02-11",
+    "new_start": "2025-02-11T06:00:00+00:00",
+    "new_end": "2025-02-11T07:00:00+00:00",
+    "id": "d601a705854bc87f06d81a4f9549d163ba579a3982a6ff3e176b04166f3956c7",
+    "version_id": "71f12ece23e894c5a8d8c15f9b8eeb221a76ef7413bceadff7cd404685019264",
     "status": "new"
   }
 ]

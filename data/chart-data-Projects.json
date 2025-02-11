@@ -1239,11 +1239,25 @@
     "summary": "Building automation",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2025-02-10",
-    "new_start": "2025-02-10T10:30:00+00:00",
-    "new_end": "2025-02-10T15:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "664395d24d5602343ef627210add9820438ccdd369a26d5bb27ea3e83e6a576c",
-    "version_id": "a1d8b3dfde675698bf2984a709902d397df33f5306a8f8d75f67ed61951ed7f5",
+    "version_id": "a1d8b3dfde675698bf2984a709902d397df33f5306a8f8d75f67ed61951ed7f5"
+  },
+  {
+    "date": "2025-02-11",
+    "start": "2025-02-11T15:00:00+00:00",
+    "end": "2025-02-11T17:00:00+00:00",
+    "value": 1,
+    "summary": "business side implementation",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2025-02-11",
+    "new_start": "2025-02-11T15:00:00+00:00",
+    "new_end": "2025-02-11T17:00:00+00:00",
+    "id": "05383db5ac97b2ca928c1fda866ac475ca53496daaba0b4e5605f141bcc9745c",
+    "version_id": "411fae9a9322d777854054df654112070249f86a5d18c007495b21136d809f16",
     "status": "new"
   }
 ]

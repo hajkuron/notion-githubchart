@@ -5,13 +5,13 @@
     "end": "2025-02-04T14:15:00+00:00",
     "value": 1,
     "summary": "International Entrepreneurship (HC)",
-    "description": "Registered for this activity: Yes\n\nType: Lecture\n\nCourse code: E_ENT_IENT\n\nLocation(s):\nHG-10A00 (200/50T)\n\nStaff member(s): Bacco, F.\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2025-02-09 at 12:35 CET",
+    "description": "Registered for this activity: Yes\n\nType: Lecture\n\nCourse code: E_ENT_IENT\n\nLocation(s):\nHG-10A00 (200/50T)\n\nStaff member(s): Bacco, F.\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2025-02-11 at 03:34 CET",
     "calendar_name": "VU Amsterdam - Personal timetable: Kuhar, J. (Jon)",
     "new_date": "2025-02-04",
     "new_start": "2025-02-04T12:30:00+00:00",
     "new_end": "2025-02-04T14:15:00+00:00",
-    "id": "738bb0ef5cc72e4873ce185fd51c1ca1e5cae574ca754cbfb4e406d6c5c8f4bc",
-    "version_id": "42e6d11b52bf6876b52a5eb7eaf2f2b4ce1a34fd7ef358e90b940a7ab9d0a1f6",
+    "id": "5019f955649e4e88bd734aaf81c668f4fd879f3857620097ac1fe0fa2c2fd1c9",
+    "version_id": "cea49de7f5266fc811f84602439a8aea690dd352a2a0a96c82f19208ba826132",
     "status": "new"
   },
   {
@@ -20,13 +20,28 @@
     "end": "2025-02-05T16:15:00+00:00",
     "value": 1,
     "summary": "International Entrepreneurship (WG)",
-    "description": "Registered for this activity: Yes\n\nType: Seminar group\n\nCourse code: E_ENT_IENT\n\nLocation(s):\nHG-10A41 (30/15T)\n\nWG04\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2025-02-09 at 12:35 CET",
+    "description": "Registered for this activity: Yes\n\nType: Seminar group\n\nCourse code: E_ENT_IENT\n\nLocation(s):\nHG-10A41 (30/15T)\n\nWG04\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2025-02-11 at 03:34 CET",
     "calendar_name": "VU Amsterdam - Personal timetable: Kuhar, J. (Jon)",
     "new_date": "2025-02-05",
     "new_start": "2025-02-05T14:30:00+00:00",
     "new_end": "2025-02-05T16:15:00+00:00",
-    "id": "1b425f0b8467d7488127438679de1fe82a1e1eaae562dcb34b9d54c9b1618431",
-    "version_id": "31ef86e195a2f968d1f2bdffb3d39d28e88a0f895506f8e238c84f3cf969a3d9",
+    "id": "3261b73dc8873e0c23791917524f29a2d606478d31f815c4da1787f8c29f0955",
+    "version_id": "4bc80e2649e7b23af39e955de880810d2f449dd27f19f217ef0f098e51eac201",
+    "status": "new"
+  },
+  {
+    "date": "2025-02-11",
+    "start": "2025-02-11T12:30:00+00:00",
+    "end": "2025-02-11T14:15:00+00:00",
+    "value": 1,
+    "summary": "International Entrepreneurship (HC)",
+    "description": "Registered for this activity: Yes\n\nType: Lecture\n\nCourse code: E_ENT_IENT\n\nLocation(s):\nHG-10A00 (200/50T)\n\nStaff member(s): Bacco, F.\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2025-02-11 at 03:34 CET",
+    "calendar_name": "VU Amsterdam - Personal timetable: Kuhar, J. (Jon)",
+    "new_date": "2025-02-11",
+    "new_start": "2025-02-11T12:30:00+00:00",
+    "new_end": "2025-02-11T14:15:00+00:00",
+    "id": "93c64ca4599baebc4cd8e1074b38173b363f49ef46aae7e9099a96ee928a47f0",
+    "version_id": "ccd9e12f7a9353d6c1b4651c6cef87e55f86e77a2a54d28aa8253da215f0674d",
     "status": "new"
   }
 ]
