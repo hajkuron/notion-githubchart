@@ -175,11 +175,10 @@
     "summary": "business side",
     "description": "(No description)",
     "calendar_name": "Learning",
-    "new_date": "2025-02-11",
-    "new_start": "2025-02-11T10:00:00+00:00",
-    "new_end": "2025-02-11T12:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "1c7f8b105ba0323999ffc90f7d294b45025bff58751a17d27df5a60029452592",
-    "version_id": "8e145cd2c6e010a459cba22b0ff67548f5d165228d1897de4a9349e92d1e373a",
-    "status": "new"
+    "version_id": "8e145cd2c6e010a459cba22b0ff67548f5d165228d1897de4a9349e92d1e373a"
   }
 ]
