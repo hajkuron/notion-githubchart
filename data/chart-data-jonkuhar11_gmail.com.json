@@ -6181,12 +6181,11 @@
     "summary": "wake up",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-02-13",
-    "new_start": "2025-02-13T05:00:00+00:00",
-    "new_end": "2025-02-13T05:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "7861e77fb93f496f18bd96748dfc04eded57d1f72f278dc401dad01876adf19e",
-    "version_id": "b3375140e95530249cd8a5bec188a406e33432a7fe4ebfb5d199dec225fa738c",
-    "status": "new"
+    "version_id": "b3375140e95530249cd8a5bec188a406e33432a7fe4ebfb5d199dec225fa738c"
   },
   {
     "date": "2025-02-14",
@@ -6196,11 +6195,40 @@
     "summary": "Daily 60*60*3",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-02-14",
-    "new_start": "2025-02-14T01:45:00+00:00",
-    "new_end": "2025-02-14T02:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "ab66fed05572c248e2ab69ff8b525b2aa2b801efebdcf842f8460020d290864a",
-    "version_id": "7584d787819cf3f8f232ed3aa57d4819c9de7c04adb238c9a560fadb44015fa8",
+    "version_id": "7584d787819cf3f8f232ed3aa57d4819c9de7c04adb238c9a560fadb44015fa8"
+  },
+  {
+    "date": "2025-02-14",
+    "start": "2025-02-14T05:00:00+00:00",
+    "end": "2025-02-14T05:30:00+00:00",
+    "value": 1,
+    "summary": "wake up",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2025-02-14",
+    "new_start": "2025-02-14T05:00:00+00:00",
+    "new_end": "2025-02-14T05:30:00+00:00",
+    "id": "5e3145ceaf00db466e979104f567b6a21dbcf6d2b371cc3967376cbf7ac9134d",
+    "version_id": "0b8eaff58d15cc9e5ae36bcbd6a19ac617f18f23dda5f708e9dd6888a61811b6",
+    "status": "new"
+  },
+  {
+    "date": "2025-02-15",
+    "start": "2025-02-15T01:45:00+00:00",
+    "end": "2025-02-15T02:00:00+00:00",
+    "value": 1,
+    "summary": "Daily 60*60*3",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2025-02-15",
+    "new_start": "2025-02-15T01:45:00+00:00",
+    "new_end": "2025-02-15T02:00:00+00:00",
+    "id": "c8b26e1ca04311a71ac7cee288c385173e311c4ac00ad627dfdea1c1bdd88bf0",
+    "version_id": "2030c349ff3555921e71f8e1c6f886ae8194a2821d39d4457c26b6d156e1288b",
     "status": "new"
   }
 ]
