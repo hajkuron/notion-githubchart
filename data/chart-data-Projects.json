@@ -1281,11 +1281,10 @@
     "summary": "finish and upload",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2025-02-15",
-    "new_start": "2025-02-15T08:00:00+00:00",
-    "new_end": "2025-02-15T13:55:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "98b182c3301c983b837121c0d1c6cca6e7e56ed6c2c51ffdbb6fbfbbc4e736a1",
-    "version_id": "53eb309b4c6b6a8439cd17409813e2523909a7ef748349fe734d2b14fc21d68b",
-    "status": "new"
+    "version_id": "53eb309b4c6b6a8439cd17409813e2523909a7ef748349fe734d2b14fc21d68b"
   }
 ]
