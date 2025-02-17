@@ -1244,5 +1244,20 @@
     "new_end": "",
     "id": "737cc598a74930d151fac43e0e5f5aba09e55dc5266672766cf495a15bbc32b1",
     "version_id": "a72e0ba92767994eedef4cfe35bca17d9ed7f603813781f592a518c2cd729470"
+  },
+  {
+    "date": "2025-02-17",
+    "start": "2025-02-17T17:30:00+00:00",
+    "end": "2025-02-17T18:30:00+00:00",
+    "value": 1,
+    "summary": "do assignemnt",
+    "description": "(No description)",
+    "calendar_name": "University studying",
+    "new_date": "2025-02-17",
+    "new_start": "2025-02-17T17:30:00+00:00",
+    "new_end": "2025-02-17T18:30:00+00:00",
+    "id": "fd998bb955d01f6cdae5b6c6cf65bf401d9059e95ebadd55776d126dd8d87df9",
+    "version_id": "ba39195aafb3b09e445ad59976e9ee83dcfbe225d30f5139213e47c87f02aff8",
+    "status": "new"
   }
 ]
