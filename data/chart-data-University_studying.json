@@ -1253,11 +1253,10 @@
     "summary": "do assignemnt",
     "description": "(No description)",
     "calendar_name": "University studying",
-    "new_date": "2025-02-17",
-    "new_start": "2025-02-17T17:30:00+00:00",
-    "new_end": "2025-02-17T18:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "fd998bb955d01f6cdae5b6c6cf65bf401d9059e95ebadd55776d126dd8d87df9",
-    "version_id": "ba39195aafb3b09e445ad59976e9ee83dcfbe225d30f5139213e47c87f02aff8",
-    "status": "new"
+    "version_id": "ba39195aafb3b09e445ad59976e9ee83dcfbe225d30f5139213e47c87f02aff8"
   }
 ]

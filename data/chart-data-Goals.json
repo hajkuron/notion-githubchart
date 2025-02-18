@@ -105,11 +105,10 @@
     "summary": "3",
     "description": "(No description)",
     "calendar_name": "Goals",
-    "new_date": "2025-02-16",
-    "new_start": "2025-02-16T19:45:00+00:00",
-    "new_end": "2025-02-16T20:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "cde182634e652a37dbc527887b9fd95d8a901f119778eebafdaa0d41e319a104",
-    "version_id": "4343580aefd6ba452168e36766ea06ebc8c0e4f9af7bb357c3bf4c420ba16112",
-    "status": "new"
+    "version_id": "4343580aefd6ba452168e36766ea06ebc8c0e4f9af7bb357c3bf4c420ba16112"
   }
 ]

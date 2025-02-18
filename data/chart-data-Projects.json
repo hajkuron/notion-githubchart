@@ -1295,12 +1295,11 @@
     "summary": "Finish case study, upload to twiiter",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2025-02-17",
-    "new_start": "2025-02-17T08:00:00+00:00",
-    "new_end": "2025-02-17T09:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "e870d0b2dbdbd934f4fda87245e0f953399c06bbbbd5a7a390ca8e0126a7f93f",
-    "version_id": "e2981008a529b0a52ef354ab0e758efb140392bb62ff41db0949bee837ddfdae",
-    "status": "new"
+    "version_id": "e2981008a529b0a52ef354ab0e758efb140392bb62ff41db0949bee837ddfdae"
   },
   {
     "date": "2025-02-17",
@@ -1310,12 +1309,11 @@
     "summary": "Testing different things",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2025-02-17",
-    "new_start": "2025-02-17T09:00:00+00:00",
-    "new_end": "2025-02-17T12:55:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "82df445212c679c01cea0c1c3290358ac47e599e1ecaa1bf381b6d679a3c33b8",
-    "version_id": "91d8480d470b4e1afb5f4da129cda05f584cc68d055147bd95e1117935d4afa0",
-    "status": "new"
+    "version_id": "91d8480d470b4e1afb5f4da129cda05f584cc68d055147bd95e1117935d4afa0"
   },
   {
     "date": "2025-02-17",
@@ -1325,11 +1323,40 @@
     "summary": "project or testing",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2025-02-17",
-    "new_start": "2025-02-17T15:00:00+00:00",
-    "new_end": "2025-02-17T17:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "bebd801ae3e22c10094dc82a9d0396d144fc7d4503f0f79854096a178d24a9c3",
-    "version_id": "d0e7e9b264ececbb77752cab27f94a7ebfc29dc6f1395cef9b01669cb772cdcf",
+    "version_id": "d0e7e9b264ececbb77752cab27f94a7ebfc29dc6f1395cef9b01669cb772cdcf"
+  },
+  {
+    "date": "2025-02-18",
+    "start": "2025-02-18T08:00:00+00:00",
+    "end": "2025-02-18T09:00:00+00:00",
+    "value": 1,
+    "summary": "Plan agent",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2025-02-18",
+    "new_start": "2025-02-18T08:00:00+00:00",
+    "new_end": "2025-02-18T09:00:00+00:00",
+    "id": "ff97d00d5baf5c439648df38fe5f9e790d219350b6b373b0208b058b45103161",
+    "version_id": "63d214632613937cfcaad87fbc8871995bb83fef46058038dfb3c893d72b3abd",
+    "status": "new"
+  },
+  {
+    "date": "2025-02-18",
+    "start": "2025-02-18T12:00:00+00:00",
+    "end": "2025-02-18T14:00:00+00:00",
+    "value": 1,
+    "summary": "build agent",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2025-02-18",
+    "new_start": "2025-02-18T12:00:00+00:00",
+    "new_end": "2025-02-18T14:00:00+00:00",
+    "id": "4c9eaa3b3bf826f3fdf74f97179910374ed979b50965ecdbce6522d5d6fc89ed",
+    "version_id": "026c2f6cf2731d5729c187c464f3cc4b76cc8277e8c5660d559541c2dc12c939",
     "status": "new"
   }
 ]
