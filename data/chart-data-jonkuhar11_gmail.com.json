@@ -6363,12 +6363,11 @@
     "summary": "wake up",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-02-18",
-    "new_start": "2025-02-18T05:00:00+00:00",
-    "new_end": "2025-02-18T05:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "427c27f2df59d270562db966da7bd754b4db1458bb85975de7b1f8a45484e4b0",
-    "version_id": "4fd57555741f352dbc01fbfe492b48dafa200a250dc703702c489ab88ac1ef98",
-    "status": "new"
+    "version_id": "4fd57555741f352dbc01fbfe492b48dafa200a250dc703702c489ab88ac1ef98"
   },
   {
     "date": "2025-02-18",
@@ -6378,12 +6377,11 @@
     "summary": "event",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-02-18",
-    "new_start": "2025-02-18T16:00:00+00:00",
-    "new_end": "2025-02-18T19:15:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "9b1a62b547b825c29cbca002ee98b18ef2c7984e2f6cb313b4f3ae159cb02bf3",
-    "version_id": "8bc4790aef61b71ce7b13835f5d23318f9e9f616c970473f6791787b3f62dde7",
-    "status": "new"
+    "version_id": "8bc4790aef61b71ce7b13835f5d23318f9e9f616c970473f6791787b3f62dde7"
   },
   {
     "date": "2025-02-19",
@@ -6393,11 +6391,55 @@
     "summary": "Daily 60*60*3",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-02-19",
-    "new_start": "2025-02-19T01:45:00+00:00",
-    "new_end": "2025-02-19T02:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "1fee12175034dbf12a166b9da4774b531b14d27b378261bcdf9ad565c438f864",
-    "version_id": "d25db5f64eacc5afc044cc7a24e32d0481c682f790804860b8b7eb2492e94457",
+    "version_id": "d25db5f64eacc5afc044cc7a24e32d0481c682f790804860b8b7eb2492e94457"
+  },
+  {
+    "date": "2025-02-19",
+    "start": "2025-02-19T05:00:00+00:00",
+    "end": "2025-02-19T05:30:00+00:00",
+    "value": 1,
+    "summary": "wake up",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2025-02-19",
+    "new_start": "2025-02-19T05:00:00+00:00",
+    "new_end": "2025-02-19T05:30:00+00:00",
+    "id": "e0a5d5916f9306f1d2e09c3a333c4d39e05faeb4c516c1ad175aa02bc6618f63",
+    "version_id": "a8970c2e8340a2be08905ce5306be264d7842206f50fa8aed7928dab5d835c71",
+    "status": "new"
+  },
+  {
+    "date": "2025-02-19",
+    "start": "2025-02-19T16:45:00+00:00",
+    "end": "2025-02-19T18:00:00+00:00",
+    "value": 1,
+    "summary": "read",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2025-02-19",
+    "new_start": "2025-02-19T16:45:00+00:00",
+    "new_end": "2025-02-19T18:00:00+00:00",
+    "id": "1e0689466e0e9a9350867c13bf65f78bdf6da47f8c3a6d6dff52b44144f82392",
+    "version_id": "546446987553f427df849b6b56190c0586f8e60cab9d83aae104d1b886e40d98",
+    "status": "new"
+  },
+  {
+    "date": "2025-02-20",
+    "start": "2025-02-20T01:45:00+00:00",
+    "end": "2025-02-20T02:00:00+00:00",
+    "value": 1,
+    "summary": "Daily 60*60*3",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2025-02-20",
+    "new_start": "2025-02-20T01:45:00+00:00",
+    "new_end": "2025-02-20T02:00:00+00:00",
+    "id": "a3336c4c0902b84b607bedf2acd3a494d9b1d61a98bf2f4f1e8601220a9dc66c",
+    "version_id": "9303ab48a0360bcfdc2a82c957d193191a6da84805d6f8169c14187889c83c99",
     "status": "new"
   }
 ]
