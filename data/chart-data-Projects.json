@@ -1365,11 +1365,10 @@
     "summary": "agent",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2025-02-19",
-    "new_start": "2025-02-19T10:15:00+00:00",
-    "new_end": "2025-02-19T14:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "0450d6656c86b0d0ecd1507c3bb417371a51ee1e7c1c705e8eb29dccd19ffc8b",
-    "version_id": "b6a29fa4d528f5414d59e94c0df0113f90669fb00ca29c078c6a694b929f5e73",
-    "status": "new"
+    "version_id": "b6a29fa4d528f5414d59e94c0df0113f90669fb00ca29c078c6a694b929f5e73"
   }
 ]
