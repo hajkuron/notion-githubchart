@@ -1575,11 +1575,10 @@
     "summary": "gym",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2025-02-21",
-    "new_start": "2025-02-21T06:00:00+00:00",
-    "new_end": "2025-02-21T07:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "e20e07ae9a1935ef54be989919250e478c1d89d35c4373cc396415561ae9de1a",
-    "version_id": "527cab85e30acb13277fb5437ac67d09b077931caffa1650965274416765e4da",
-    "status": "new"
+    "version_id": "527cab85e30acb13277fb5437ac67d09b077931caffa1650965274416765e4da"
   }
 ]
