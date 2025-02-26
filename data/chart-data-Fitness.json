@@ -1594,5 +1594,20 @@
     "new_end": "",
     "id": "b1e6d5be28d208a677ea0ce577bb480e2713b3cd045a820755c157c03e498263",
     "version_id": "174253f8742492e42021a48370ad13230ed9e7ec364ebdf6e0b5913a8247ad15"
+  },
+  {
+    "date": "2025-02-26",
+    "start": "2025-02-26T06:00:00+00:00",
+    "end": "2025-02-26T07:00:00+00:00",
+    "value": 1,
+    "summary": "gym",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2025-02-26",
+    "new_start": "2025-02-26T06:00:00+00:00",
+    "new_end": "2025-02-26T07:00:00+00:00",
+    "id": "3ea296b6626d2c11f0feb4e1d12628756e1aa4a2d9250096ba1f973644c01b43",
+    "version_id": "4399c74f3fddd0c5fc0f1111bf43a2e4b32b1b862e7faf02d77b99b63151f21f",
+    "status": "new"
   }
 ]
