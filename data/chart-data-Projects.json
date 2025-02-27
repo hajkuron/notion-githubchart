@@ -1379,12 +1379,11 @@
     "summary": "agent finish",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2025-02-25",
-    "new_start": "2025-02-25T17:00:00+00:00",
-    "new_end": "2025-02-25T20:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "fc8abe3375cdb3f253dfbb4538d6124bc199e81a9d78b6125a6f60a8aa8fe6d2",
-    "version_id": "73e9d602cdf1d04039c204a86b0acf7e4cca062d1bbfaa00f4812f3e97b6b159",
-    "status": "new"
+    "version_id": "73e9d602cdf1d04039c204a86b0acf7e4cca062d1bbfaa00f4812f3e97b6b159"
   },
   {
     "date": "2025-02-26",
@@ -1394,11 +1393,10 @@
     "summary": "work",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2025-02-26",
-    "new_start": "2025-02-26T10:00:00+00:00",
-    "new_end": "2025-02-26T14:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "6044d1a2a1621abf661beb73f354933ab268f9f2a35f28ee8f9f3837850c11ea",
-    "version_id": "dcf6fc819928211301ae2790a5466a547481ce673a16876f6006580e85b67a34",
-    "status": "new"
+    "version_id": "dcf6fc819928211301ae2790a5466a547481ce673a16876f6006580e85b67a34"
   }
 ]
