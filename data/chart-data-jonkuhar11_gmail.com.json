@@ -6671,12 +6671,11 @@
     "summary": "read",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-02-27",
-    "new_start": "2025-02-27T17:00:00+00:00",
-    "new_end": "2025-02-27T18:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "7553e44da05aefe673d6ac8c0f1cfe6a9454bffe915fd93e328d86f65ef0f17b",
-    "version_id": "34a75cd103bd542a37dbc548f6bbb67412c6cb6caf6a64542625fe79adb2247e",
-    "status": "new"
+    "version_id": "34a75cd103bd542a37dbc548f6bbb67412c6cb6caf6a64542625fe79adb2247e"
   },
   {
     "date": "2025-02-28",
@@ -6686,11 +6685,40 @@
     "summary": "Daily 60*60*3",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-02-28",
-    "new_start": "2025-02-28T01:45:00+00:00",
-    "new_end": "2025-02-28T02:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "e68fcb1199fd5526f25d7169c1e938ce48c1e660581e232cd4621163ffd27cd2",
-    "version_id": "f78e2fd6b3d7e027fc79e8b22a205d64471a84b9e5b4117ea084b5ad27a09d47",
+    "version_id": "f78e2fd6b3d7e027fc79e8b22a205d64471a84b9e5b4117ea084b5ad27a09d47"
+  },
+  {
+    "date": "2025-02-28",
+    "start": "2025-02-28T17:00:00+00:00",
+    "end": "2025-02-28T18:00:00+00:00",
+    "value": 1,
+    "summary": "read",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2025-02-28",
+    "new_start": "2025-02-28T17:00:00+00:00",
+    "new_end": "2025-02-28T18:00:00+00:00",
+    "id": "c174ce178a4b856ff1652c08c65ce93ec3e3abbb711cb43a1e3f6e919126be55",
+    "version_id": "8e3b4510a573161a6eda1a301ea227f49113cf5bb85d6e6563cba7d84224b03a",
+    "status": "new"
+  },
+  {
+    "date": "2025-03-01",
+    "start": "2025-03-01T01:45:00+00:00",
+    "end": "2025-03-01T02:00:00+00:00",
+    "value": 1,
+    "summary": "Daily 60*60*3",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2025-03-01",
+    "new_start": "2025-03-01T01:45:00+00:00",
+    "new_end": "2025-03-01T02:00:00+00:00",
+    "id": "3eb6d3da82fc95654aade89f4c9c43cb7e9633bbd01f8e872189510c44d13e5a",
+    "version_id": "8174554b9adc73eefecb00798ab3939697fc9efcf9a054a81be86deb7604c3cd",
     "status": "new"
   }
 ]

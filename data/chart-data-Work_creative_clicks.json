@@ -721,11 +721,25 @@
     "summary": "work",
     "description": "(No description)",
     "calendar_name": "Work creative clicks",
-    "new_date": "2025-02-27",
-    "new_start": "2025-02-27T08:00:00+00:00",
-    "new_end": "2025-02-27T15:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "3363295ccb99dd31523f024ed96abe712bc1ee92bbc90cb41751595c96f7866a",
-    "version_id": "16ee6b6efb5ae9a1042a8709c444c8b71fb29cd63ca453ae3234bff1086d4247",
+    "version_id": "16ee6b6efb5ae9a1042a8709c444c8b71fb29cd63ca453ae3234bff1086d4247"
+  },
+  {
+    "date": "2025-02-28",
+    "start": "2025-02-28T08:00:00+00:00",
+    "end": "2025-02-28T15:00:00+00:00",
+    "value": 1,
+    "summary": "work",
+    "description": "(No description)",
+    "calendar_name": "Work creative clicks",
+    "new_date": "2025-02-28",
+    "new_start": "2025-02-28T08:00:00+00:00",
+    "new_end": "2025-02-28T15:00:00+00:00",
+    "id": "4e6d942e7a0e84b4875965de67df2a1c9836bb79555ec2b2fae202d871a010d8",
+    "version_id": "fe20d41e769c2bf2a163ccedb558299a674c4ffab1514d9de2f25a6bd56cbaa8",
     "status": "new"
   }
 ]
