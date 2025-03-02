@@ -1610,20 +1610,6 @@
     "version_id": "4399c74f3fddd0c5fc0f1111bf43a2e4b32b1b862e7faf02d77b99b63151f21f"
   },
   {
-    "date": "2025-02-27",
-    "start": "2025-02-27T06:00:00+00:00",
-    "end": "2025-02-27T07:00:00+00:00",
-    "value": 1,
-    "summary": "gym",
-    "description": "(No description)",
-    "calendar_name": "Fitness",
-    "new_date": "",
-    "new_start": "",
-    "new_end": "",
-    "id": "92bf7b51860a5e4eb6eede0e8ecdd1231a77f20641cd6d17e54d0105bcffb589",
-    "version_id": "a1262ef03015dd3c2dbd90a96d24ee7f3f3748d95c0edec9f3d40c1a11b91bfa"
-  },
-  {
     "date": "2025-02-28",
     "start": "2025-02-28T06:00:00+00:00",
     "end": "2025-02-28T07:00:00+00:00",
@@ -1645,11 +1631,39 @@
     "summary": "gym",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2025-03-01",
-    "new_start": "2025-03-01T06:00:00+00:00",
-    "new_end": "2025-03-01T07:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "2d5d48e11da2bb6b8c47a9a496fbfef80a02a2814d77ca4bdf79693a9dfeec7d",
-    "version_id": "865c7eef4d8aa450675f4c687b2a9db305083e4b2e4357b9c422961dbd56cbc4",
+    "version_id": "865c7eef4d8aa450675f4c687b2a9db305083e4b2e4357b9c422961dbd56cbc4"
+  },
+  {
+    "date": "2025-03-01",
+    "start": "2025-03-01T15:30:00+00:00",
+    "end": "2025-03-01T16:30:00+00:00",
+    "value": 1,
+    "summary": "gym",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
+    "id": "2d5d48e11da2bb6b8c47a9a496fbfef80a02a2814d77ca4bdf79693a9dfeec7d",
+    "version_id": "267b757c943b565966c979bce2b111e92b7f51d8d34ec5685b1094d037f1a528"
+  },
+  {
+    "date": "2025-03-02",
+    "start": "2025-03-02T12:00:00+00:00",
+    "end": "2025-03-02T14:00:00+00:00",
+    "value": 1,
+    "summary": "football",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2025-03-02",
+    "new_start": "2025-03-02T12:00:00+00:00",
+    "new_end": "2025-03-02T14:00:00+00:00",
+    "id": "61a3fe150ec68369d3a52813a30cf9e1b7b0de2112b5cf080862985a14007ed5",
+    "version_id": "945845ce38f391a71d0a9a07de962228ede3d8e6008b8ec9ea4ebcab1b43fc87",
     "status": "new"
   }
 ]
