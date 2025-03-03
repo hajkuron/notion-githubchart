@@ -1407,12 +1407,11 @@
     "summary": "python export screen time",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2025-03-01",
-    "new_start": "2025-03-01T08:30:00+00:00",
-    "new_end": "2025-03-01T09:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "643029bf4bee9e3a15af0b36740199221e03a8752d87208083de83328507534c",
-    "version_id": "ab6edacdf42ff4f216f1e7eef4c39b841d446e08e6e7bed02ea1c4a81e2b3228",
-    "status": "new"
+    "version_id": "ab6edacdf42ff4f216f1e7eef4c39b841d446e08e6e7bed02ea1c4a81e2b3228"
   },
   {
     "date": "2025-03-01",
@@ -1422,12 +1421,11 @@
     "summary": "python dashboard",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2025-03-01",
-    "new_start": "2025-03-01T10:30:00+00:00",
-    "new_end": "2025-03-01T11:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "21a95763ec37897c2d01bd93ddc3debd0c02f45fda770259affb2f4c130cabd1",
-    "version_id": "324180ddd030d727ff9abbc18da2fabb9eccadf799df1b27b8ea3adf7fea9e29",
-    "status": "new"
+    "version_id": "324180ddd030d727ff9abbc18da2fabb9eccadf799df1b27b8ea3adf7fea9e29"
   },
   {
     "date": "2025-03-01",
@@ -1437,11 +1435,55 @@
     "summary": "agent",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2025-03-01",
-    "new_start": "2025-03-01T16:30:00+00:00",
-    "new_end": "2025-03-01T19:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "8cb90d98001950da12a8eddd10ecdd17f38c355704b2cff935c0988dca254bcd",
-    "version_id": "10404c7d6295ab418a2c87900a8558843333c4a85e0df967e0b57f5eaf636e03",
+    "version_id": "10404c7d6295ab418a2c87900a8558843333c4a85e0df967e0b57f5eaf636e03"
+  },
+  {
+    "date": "2025-03-02",
+    "start": "2025-03-02T08:00:00+00:00",
+    "end": "2025-03-02T09:00:00+00:00",
+    "value": 1,
+    "summary": "Telegram bot",
+    "description": "Finish the bot ",
+    "calendar_name": "Projects",
+    "new_date": "2025-03-02",
+    "new_start": "2025-03-02T08:00:00+00:00",
+    "new_end": "2025-03-02T09:00:00+00:00",
+    "id": "e5cf4bfbcb3afd8de447e954992e6412b02e26c59c5cbc2df3ef13536963101a",
+    "version_id": "b91cdfe1e8ef7f6088506fb340013d6ebb72c891927913a556b297dcdc48646c",
+    "status": "new"
+  },
+  {
+    "date": "2025-03-03",
+    "start": "2025-03-03T16:00:00+00:00",
+    "end": "2025-03-03T17:00:00+00:00",
+    "value": 1,
+    "summary": "read",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2025-03-03",
+    "new_start": "2025-03-03T16:00:00+00:00",
+    "new_end": "2025-03-03T17:00:00+00:00",
+    "id": "01e10dbcc20258c39a623e9174af7cc412695eadfacda455df9b98c0ffc0d15c",
+    "version_id": "d3e3fb7977c188d30c75515ca668162f154bbaefe768a8a320818f049fbed2a5",
+    "status": "new"
+  },
+  {
+    "date": "2025-03-03",
+    "start": "2025-03-03T17:00:00+00:00",
+    "end": "2025-03-03T18:55:00+00:00",
+    "value": 1,
+    "summary": "agent",
+    "description": "finish and publish the content agent",
+    "calendar_name": "Projects",
+    "new_date": "2025-03-03",
+    "new_start": "2025-03-03T17:00:00+00:00",
+    "new_end": "2025-03-03T18:55:00+00:00",
+    "id": "05e5caf402c04f5a7bd2ade27df98a0e747540d70976d8ab83143abbe1833d48",
+    "version_id": "6925dc10c415d0679581f9cd1c66d5cf324c3a1631c22a7306ed9c32a0abdb36",
     "status": "new"
   }
 ]

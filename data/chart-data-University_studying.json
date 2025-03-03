@@ -1267,12 +1267,11 @@
     "summary": "do assignment",
     "description": "(No description)",
     "calendar_name": "University studying",
-    "new_date": "2025-03-01",
-    "new_start": "2025-03-01T11:00:00+00:00",
-    "new_end": "2025-03-01T13:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "ee9cad5113ac5857a9ce1a253d398ea55dc3d5ff83a4bd247bbe59451f40574f",
-    "version_id": "094a0583dc4f706fbcc05aa09b7b888c1e53c05eb8f903e772e9d1b7703f1cda",
-    "status": "new"
+    "version_id": "094a0583dc4f706fbcc05aa09b7b888c1e53c05eb8f903e772e9d1b7703f1cda"
   },
   {
     "date": "2025-03-01",
@@ -1282,11 +1281,25 @@
     "summary": "look for thesis send email to supervisor",
     "description": "(No description)",
     "calendar_name": "University studying",
-    "new_date": "2025-03-01",
-    "new_start": "2025-03-01T13:00:00+00:00",
-    "new_end": "2025-03-01T14:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "8718e4987005f5d1774c008973ef29736b5c38bf1cec32ba38b739769f59fbc2",
-    "version_id": "fb36086da4f391cb71cea141bec35a3aa502f0607806c5f9ad056c01bb6a5587",
+    "version_id": "fb36086da4f391cb71cea141bec35a3aa502f0607806c5f9ad056c01bb6a5587"
+  },
+  {
+    "date": "2025-03-03",
+    "start": "2025-03-03T14:00:00+00:00",
+    "end": "2025-03-03T16:00:00+00:00",
+    "value": 1,
+    "summary": "thesis",
+    "description": "FIrst write email for first meeting with supervisor, prepare soemthing in advance\nStart and finish the assignment for the next day",
+    "calendar_name": "University studying",
+    "new_date": "2025-03-03",
+    "new_start": "2025-03-03T14:00:00+00:00",
+    "new_end": "2025-03-03T16:00:00+00:00",
+    "id": "407a9e9a55585cf09b69af1fee71e15d86ff02f773d8cdf9ec139d1a165c4ee9",
+    "version_id": "df103633010dd95e431cfa96a2897c5b80ff2968ed49176e6b2299cd10c5f6b7",
     "status": "new"
   }
 ]
