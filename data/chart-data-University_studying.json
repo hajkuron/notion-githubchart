@@ -1295,11 +1295,10 @@
     "summary": "thesis",
     "description": "FIrst write email for first meeting with supervisor, prepare soemthing in advance\nStart and finish the assignment for the next day",
     "calendar_name": "University studying",
-    "new_date": "2025-03-03",
-    "new_start": "2025-03-03T14:00:00+00:00",
-    "new_end": "2025-03-03T16:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "407a9e9a55585cf09b69af1fee71e15d86ff02f773d8cdf9ec139d1a165c4ee9",
-    "version_id": "df103633010dd95e431cfa96a2897c5b80ff2968ed49176e6b2299cd10c5f6b7",
-    "status": "new"
+    "version_id": "df103633010dd95e431cfa96a2897c5b80ff2968ed49176e6b2299cd10c5f6b7"
   }
 ]
