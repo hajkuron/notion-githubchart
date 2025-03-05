@@ -1288,17 +1288,18 @@
     "version_id": "fb36086da4f391cb71cea141bec35a3aa502f0607806c5f9ad056c01bb6a5587"
   },
   {
-    "date": "2025-03-03",
-    "start": "2025-03-03T14:00:00+00:00",
-    "end": "2025-03-03T16:00:00+00:00",
+    "date": "2025-03-04",
+    "start": "2025-03-04T09:45:00+00:00",
+    "end": "2025-03-04T11:45:00+00:00",
     "value": 1,
     "summary": "thesis",
     "description": "FIrst write email for first meeting with supervisor, prepare soemthing in advance\nStart and finish the assignment for the next day",
     "calendar_name": "University studying",
-    "new_date": "",
-    "new_start": "",
-    "new_end": "",
-    "id": "407a9e9a55585cf09b69af1fee71e15d86ff02f773d8cdf9ec139d1a165c4ee9",
-    "version_id": "df103633010dd95e431cfa96a2897c5b80ff2968ed49176e6b2299cd10c5f6b7"
+    "new_date": "2025-03-04",
+    "new_start": "2025-03-04T09:45:00+00:00",
+    "new_end": "2025-03-04T11:45:00+00:00",
+    "id": "b48424679b9ec5247d093daa9cd42fe9f60dc3e87aa437370cde14642295d096",
+    "version_id": "8005302976dc7d8cac46dc8c9eacef518de804ed6e7099cd2003b8d38230b455",
+    "status": "new"
   }
 ]
