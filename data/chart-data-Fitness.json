@@ -1734,5 +1734,20 @@
     "new_end": "",
     "id": "4ea8472cefb5becfbeefa564fe164cbe1bc330daa5bb74297e389584a73ad70e",
     "version_id": "9eeaccd497a4f65494b0e5501ef73c991d6d487d334592914ee2a7c2fdd8d9a6"
+  },
+  {
+    "date": "2025-03-08",
+    "start": "2025-03-08T14:30:00+00:00",
+    "end": "2025-03-08T15:30:00+00:00",
+    "value": 1,
+    "summary": "gym",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2025-03-08",
+    "new_start": "2025-03-08T14:30:00+00:00",
+    "new_end": "2025-03-08T15:30:00+00:00",
+    "id": "1f568875cf6cb908fe5e9b48a9543df7d3cbfc833181f5d626ebe0871dd8436d",
+    "version_id": "953297f297e0d81f4cb6346997f608550866a24801e35854e3597e7eec879269",
+    "status": "new"
   }
 ]
