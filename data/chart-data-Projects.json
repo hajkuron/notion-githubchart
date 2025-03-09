@@ -1603,12 +1603,11 @@
     "summary": "MCP course",
     "description": "complete the MCP course",
     "calendar_name": "Projects",
-    "new_date": "2025-03-08",
-    "new_start": "2025-03-08T06:30:00+00:00",
-    "new_end": "2025-03-08T10:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "8cec2a1a05f9fb6a002fbda2f0b28b9043490c2412bf3fada75a4d62d5073aac",
-    "version_id": "18e8b2f67a7f3537bb6579dca92f3cf44d763c8823d9978ed53adc98bcb49136",
-    "status": "new"
+    "version_id": "18e8b2f67a7f3537bb6579dca92f3cf44d763c8823d9978ed53adc98bcb49136"
   },
   {
     "date": "2025-03-08",
@@ -1618,12 +1617,11 @@
     "summary": "Fix AI coach",
     "description": "Fix Ai coach script. \nImprove the prompt,\nImprove the input to the model",
     "calendar_name": "Projects",
-    "new_date": "2025-03-08",
-    "new_start": "2025-03-08T13:00:00+00:00",
-    "new_end": "2025-03-08T14:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "f78f1a807b055bd123e16f8471bc992a716e7c5f22ef5f627fbfbabbc53e4617",
-    "version_id": "892c9379d8cd8baa69af984a7ce3cf7ab9de7b40f88f5a1f4c33240d780f20c5",
-    "status": "new"
+    "version_id": "892c9379d8cd8baa69af984a7ce3cf7ab9de7b40f88f5a1f4c33240d780f20c5"
   },
   {
     "date": "2025-03-08",
@@ -1633,11 +1631,25 @@
     "summary": "read",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2025-03-08",
-    "new_start": "2025-03-08T17:00:00+00:00",
-    "new_end": "2025-03-08T18:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "5841fe4e4d380b12a81cd5ddd8b5e0eb56db9601b662f78efe28cb3f852af987",
-    "version_id": "fb22ebb8339dcb8d8f66710f63503545a3f96c1f9917a53ea06bb0b5995d7a0f",
+    "version_id": "fb22ebb8339dcb8d8f66710f63503545a3f96c1f9917a53ea06bb0b5995d7a0f"
+  },
+  {
+    "date": "2025-03-09",
+    "start": "2025-03-09T06:00:00+00:00",
+    "end": "2025-03-09T11:00:00+00:00",
+    "value": 1,
+    "summary": "SAAS app",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2025-03-09",
+    "new_start": "2025-03-09T06:00:00+00:00",
+    "new_end": "2025-03-09T11:00:00+00:00",
+    "id": "935d3f97a1d6df033bf6514e1996451fb0635fe464d478eca394c1bdb64b2c32",
+    "version_id": "c3189f5d02de4b8cb25aeec32917db1bb8c1261d3bde1c231351bac67eb759e5",
     "status": "new"
   }
 ]

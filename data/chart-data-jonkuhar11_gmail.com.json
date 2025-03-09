@@ -6181,11 +6181,25 @@
     "summary": "Appointment",
     "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DNVhvVQ0VwM8wpIxlfP_oYEY25PGM0u6Lg\n",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-03-08",
-    "new_start": "2025-03-08T10:30:00+00:00",
-    "new_end": "2025-03-08T11:15:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "12bbcdf8ee25b42591f652be0647527c82f7164138c62a6a9652a8096d185e86",
-    "version_id": "458a3f921f8a3d5f887339d62f1efce02ce665d5110a6b27039b2000427f506b",
+    "version_id": "458a3f921f8a3d5f887339d62f1efce02ce665d5110a6b27039b2000427f506b"
+  },
+  {
+    "date": "2025-03-09",
+    "start": "2025-03-09T03:30:00+00:00",
+    "end": "2025-03-09T03:45:00+00:00",
+    "value": 1,
+    "summary": "Weekly check up of goals NOTION",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2025-03-09",
+    "new_start": "2025-03-09T03:30:00+00:00",
+    "new_end": "2025-03-09T03:45:00+00:00",
+    "id": "4e53390bc043a1782051c23509b3733f9e4480b7a1412018c6a3bf59d02bd94c",
+    "version_id": "61f043b35947731f9d4e880338cd4252e367f374f3ef0e469b31986db26e1ae9",
     "status": "new"
   }
 ]
