@@ -1300,5 +1300,20 @@
     "new_end": "",
     "id": "b48424679b9ec5247d093daa9cd42fe9f60dc3e87aa437370cde14642295d096",
     "version_id": "8005302976dc7d8cac46dc8c9eacef518de804ed6e7099cd2003b8d38230b455"
+  },
+  {
+    "date": "2025-03-11",
+    "start": "2025-03-11T06:30:00+00:00",
+    "end": "2025-03-11T08:00:00+00:00",
+    "value": 1,
+    "summary": "university work",
+    "description": "create presentation slides\ndo a part of thesis assignment\n",
+    "calendar_name": "University studying",
+    "new_date": "2025-03-11",
+    "new_start": "2025-03-11T06:30:00+00:00",
+    "new_end": "2025-03-11T08:00:00+00:00",
+    "id": "00312d773fecd5cac630fdf3a166f6a9b24f2004a60eac2cf097d457891225ab",
+    "version_id": "62d9f4613813a6c89a473920ab1cd4d14526c7a5e87cec270f1f602be3b93705",
+    "status": "new"
   }
 ]
