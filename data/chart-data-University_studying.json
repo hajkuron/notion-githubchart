@@ -1309,11 +1309,10 @@
     "summary": "university work",
     "description": "create presentation slides\ndo a part of thesis assignment\n",
     "calendar_name": "University studying",
-    "new_date": "2025-03-11",
-    "new_start": "2025-03-11T06:30:00+00:00",
-    "new_end": "2025-03-11T08:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "00312d773fecd5cac630fdf3a166f6a9b24f2004a60eac2cf097d457891225ab",
-    "version_id": "62d9f4613813a6c89a473920ab1cd4d14526c7a5e87cec270f1f602be3b93705",
-    "status": "new"
+    "version_id": "62d9f4613813a6c89a473920ab1cd4d14526c7a5e87cec270f1f602be3b93705"
   }
 ]

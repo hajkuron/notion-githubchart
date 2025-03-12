@@ -1659,11 +1659,10 @@
     "summary": "SAAS app",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2025-03-11",
-    "new_start": "2025-03-11T08:00:00+00:00",
-    "new_end": "2025-03-11T12:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "46191e830fd10c53a97e1868f2bcf8a0a9f14663f42e6fb162ad4245fd422ed9",
-    "version_id": "59c4c7dfcdf99aa7f9211d1832be2ed6727e2a28c7efd22be7f6ad9a353390b3",
-    "status": "new"
+    "version_id": "59c4c7dfcdf99aa7f9211d1832be2ed6727e2a28c7efd22be7f6ad9a353390b3"
   }
 ]
