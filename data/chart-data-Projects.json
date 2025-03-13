@@ -1664,5 +1664,20 @@
     "new_end": "",
     "id": "46191e830fd10c53a97e1868f2bcf8a0a9f14663f42e6fb162ad4245fd422ed9",
     "version_id": "59c4c7dfcdf99aa7f9211d1832be2ed6727e2a28c7efd22be7f6ad9a353390b3"
+  },
+  {
+    "date": "2025-03-12",
+    "start": "2025-03-12T11:00:00+00:00",
+    "end": "2025-03-12T12:00:00+00:00",
+    "value": 1,
+    "summary": "ai coach",
+    "description": "fix the AI coach to give better response \n",
+    "calendar_name": "Projects",
+    "new_date": "2025-03-12",
+    "new_start": "2025-03-12T11:00:00+00:00",
+    "new_end": "2025-03-12T12:00:00+00:00",
+    "id": "c4a56cc611fffe7f77e9c00a07e25630680f449d4336494d0f61b047316e4111",
+    "version_id": "d48bd2534e0ea45c77577a3fdf1f0b015c0f70621ae12e8dcc59426b35df95ef",
+    "status": "new"
   }
 ]

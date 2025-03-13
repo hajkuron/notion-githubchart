@@ -1765,6 +1765,20 @@
   },
   {
     "date": "2025-03-11",
+    "start": "2025-03-11T04:30:00+00:00",
+    "end": "2025-03-11T05:15:00+00:00",
+    "value": 1,
+    "summary": "gym",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
+    "id": "70976bea93b26bb9a674caa463b76c85806f5cf40eadac3a26884677d5067930",
+    "version_id": "97470fe908e3720bdf603ce2345f3fa732acb8def01f34aa8f65f8ad29a1162f"
+  },
+  {
+    "date": "2025-03-11",
     "start": "2025-03-11T19:00:00+00:00",
     "end": "2025-03-11T20:00:00+00:00",
     "value": 1,

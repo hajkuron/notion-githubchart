@@ -782,5 +782,20 @@
     "new_end": "",
     "id": "d494115b698f993afe841616dad7cbbe2a336c3633b4f7c6c01045f3167c1f64",
     "version_id": "4817724ab9841cd6a2f5565443d6fc8fee3a3c4dee52559882744cc95d481085"
+  },
+  {
+    "date": "2025-03-13",
+    "start": "2025-03-13T07:00:00+00:00",
+    "end": "2025-03-13T15:00:00+00:00",
+    "value": 1,
+    "summary": "work",
+    "description": "(No description)",
+    "calendar_name": "Work creative clicks",
+    "new_date": "2025-03-13",
+    "new_start": "2025-03-13T07:00:00+00:00",
+    "new_end": "2025-03-13T15:00:00+00:00",
+    "id": "3209c3211ac7dcd41150dfc2b9d35cd667a35102e55682dcc1dcb2662fe281e9",
+    "version_id": "b628be89b49b7e6a58096f6999c1bd4ace6e7414d5836ca03eafb6ebe3255bbc",
+    "status": "new"
   }
 ]

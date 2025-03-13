@@ -1314,5 +1314,34 @@
     "new_end": "",
     "id": "00312d773fecd5cac630fdf3a166f6a9b24f2004a60eac2cf097d457891225ab",
     "version_id": "62d9f4613813a6c89a473920ab1cd4d14526c7a5e87cec270f1f602be3b93705"
+  },
+  {
+    "date": "2025-03-12",
+    "start": "2025-03-12T13:00:00+00:00",
+    "end": "2025-03-12T14:30:00+00:00",
+    "value": 1,
+    "summary": "university",
+    "description": "(No description)",
+    "calendar_name": "University studying",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
+    "id": "4f3ac9d5f6f6d6c3fc053bcc8816bb71a31261560590c01af3a7b188f635bc27",
+    "version_id": "53d932fe3a07aab4a6b5588fa70a3aeda181faecdb447ff104c320ed982b660f"
+  },
+  {
+    "date": "2025-03-12",
+    "start": "2025-03-12T17:00:00+00:00",
+    "end": "2025-03-12T18:30:00+00:00",
+    "value": 1,
+    "summary": "university",
+    "description": "(No description)",
+    "calendar_name": "University studying",
+    "new_date": "2025-03-12",
+    "new_start": "2025-03-12T17:00:00+00:00",
+    "new_end": "2025-03-12T18:30:00+00:00",
+    "id": "4f3ac9d5f6f6d6c3fc053bcc8816bb71a31261560590c01af3a7b188f635bc27",
+    "version_id": "a57ed60206db07f8714292c5f2afd4080f79221b1d485a8504a94fbb8901968b",
+    "status": "new"
   }
 ]
