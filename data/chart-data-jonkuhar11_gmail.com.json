@@ -6209,12 +6209,11 @@
     "summary": "dinner",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-03-13",
-    "new_start": "2025-03-13T19:00:00+00:00",
-    "new_end": "2025-03-13T20:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "7da761a38c2437e7c9541a14758102c07a380e4f1e2c0aa8fa6f82a71e6f4221",
-    "version_id": "16366bb5fe944af0ea448893f4cdcd27a593419526ba159f12ba6bbf7acddd39",
-    "status": "new"
+    "version_id": "16366bb5fe944af0ea448893f4cdcd27a593419526ba159f12ba6bbf7acddd39"
   },
   {
     "date": "2025-03-14",
@@ -6224,11 +6223,25 @@
     "summary": "Stay at Serra do Pilar Porto Suites",
     "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DNFEi62Bh_vOoY182081312wIduRzjYbew\n",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-03-14",
-    "new_start": "2025-03-14T00:00:00+00:00",
-    "new_end": "2025-03-17T00:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "caf34f41d62d553196ee610db076719276c959398bae51ff48cdb35b5f6628b8",
-    "version_id": "902eea003b01345e83b7eb0e2e0b516f4f2225c2d5e0420dd0d67332c500e3db",
+    "version_id": "902eea003b01345e83b7eb0e2e0b516f4f2225c2d5e0420dd0d67332c500e3db"
+  },
+  {
+    "date": "2025-03-14",
+    "start": "2025-03-14T05:30:00+00:00",
+    "end": "2025-03-14T08:15:00+00:00",
+    "value": 1,
+    "summary": "Flight to Porto (HV 6007)",
+    "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DMyouaqjhBeAfxvE1v-9xWnEP8OoepmdX0\n",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2025-03-14",
+    "new_start": "2025-03-14T05:30:00+00:00",
+    "new_end": "2025-03-14T08:15:00+00:00",
+    "id": "af70b070bc70154fcbf9ef886b0dbcfe4d51103851b4d417886954f1e3907032",
+    "version_id": "00b4146cf89f3e4f631458182aa4b593eeae9760ad30004247dd2f2ea3b8d850",
     "status": "new"
   }
 ]

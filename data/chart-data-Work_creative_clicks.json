@@ -785,17 +785,17 @@
   },
   {
     "date": "2025-03-13",
-    "start": "2025-03-13T07:00:00+00:00",
-    "end": "2025-03-13T15:00:00+00:00",
+    "start": "2025-03-13T11:00:00+00:00",
+    "end": "2025-03-13T14:00:00+00:00",
     "value": 1,
     "summary": "work",
-    "description": "(No description)",
+    "description": "Work on the dashboard. Start doing the backend. Figure out what the database format and structure is going to be. ",
     "calendar_name": "Work creative clicks",
     "new_date": "2025-03-13",
-    "new_start": "2025-03-13T07:00:00+00:00",
-    "new_end": "2025-03-13T15:00:00+00:00",
-    "id": "3209c3211ac7dcd41150dfc2b9d35cd667a35102e55682dcc1dcb2662fe281e9",
-    "version_id": "b628be89b49b7e6a58096f6999c1bd4ace6e7414d5836ca03eafb6ebe3255bbc",
+    "new_start": "2025-03-13T11:00:00+00:00",
+    "new_end": "2025-03-13T14:00:00+00:00",
+    "id": "b652e331e7cb871aca1ce5cfe308be3ee834eef60b47c385ced55e144e6fd46f",
+    "version_id": "cf7ffe1dfc24e6986cbffc5cc4662a793eaae65fadbe95c3de55c511d566e0ae",
     "status": "new"
   }
 ]

@@ -1673,11 +1673,10 @@
     "summary": "ai coach",
     "description": "fix the AI coach to give better response \n",
     "calendar_name": "Projects",
-    "new_date": "2025-03-12",
-    "new_start": "2025-03-12T11:00:00+00:00",
-    "new_end": "2025-03-12T12:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "c4a56cc611fffe7f77e9c00a07e25630680f449d4336494d0f61b047316e4111",
-    "version_id": "d48bd2534e0ea45c77577a3fdf1f0b015c0f70621ae12e8dcc59426b35df95ef",
-    "status": "new"
+    "version_id": "d48bd2534e0ea45c77577a3fdf1f0b015c0f70621ae12e8dcc59426b35df95ef"
   }
 ]
