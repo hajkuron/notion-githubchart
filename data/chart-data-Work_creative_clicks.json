@@ -791,11 +791,10 @@
     "summary": "work",
     "description": "Work on the dashboard. Start doing the backend. Figure out what the database format and structure is going to be. ",
     "calendar_name": "Work creative clicks",
-    "new_date": "2025-03-13",
-    "new_start": "2025-03-13T11:00:00+00:00",
-    "new_end": "2025-03-13T14:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "b652e331e7cb871aca1ce5cfe308be3ee834eef60b47c385ced55e144e6fd46f",
-    "version_id": "cf7ffe1dfc24e6986cbffc5cc4662a793eaae65fadbe95c3de55c511d566e0ae",
-    "status": "new"
+    "version_id": "cf7ffe1dfc24e6986cbffc5cc4662a793eaae65fadbe95c3de55c511d566e0ae"
   }
 ]
