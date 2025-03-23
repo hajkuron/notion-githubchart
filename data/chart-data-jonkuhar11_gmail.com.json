@@ -6279,11 +6279,25 @@
     "summary": "Bus to Lisbon (Oriente)",
     "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DPUM0PlVcuxg1UKjQFq0Ovn8L_Muh3Canw\n",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-03-21",
-    "new_start": "2025-03-21T17:00:00+00:00",
-    "new_end": "2025-03-21T18:20:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "bde695874335baea64dca31d0db757debeebd8a32f825ffce7e78d186b3982fa",
-    "version_id": "22b713c75487f30cf6de7f8fa9f548141d6891ee4f2533259d03c4b187e66c14",
+    "version_id": "22b713c75487f30cf6de7f8fa9f548141d6891ee4f2533259d03c4b187e66c14"
+  },
+  {
+    "date": "2025-03-23",
+    "start": "2025-03-23T03:30:00+00:00",
+    "end": "2025-03-23T03:45:00+00:00",
+    "value": 1,
+    "summary": "Weekly check up of goals NOTION",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2025-03-23",
+    "new_start": "2025-03-23T03:30:00+00:00",
+    "new_end": "2025-03-23T03:45:00+00:00",
+    "id": "790a450ce2be9487eea8a233d6b73993778fb3a75710f75eaf4ea17dcd1294f7",
+    "version_id": "8b869b68291661a108d4bdadbb4253dbc3215c4b8d6c5618c49989d76aec158f",
     "status": "new"
   }
 ]
