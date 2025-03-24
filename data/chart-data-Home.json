@@ -1,8 +1,8 @@
 [
   {
     "date": "2024-09-17",
-    "start": "2024-09-17T16:00:00+00:00",
-    "end": "2024-09-17T19:00:00+00:00",
+    "start": "2024-09-17T15:00:00+00:00",
+    "end": "2024-09-17T18:00:00+00:00",
     "value": 1,
     "summary": "Mindstone Amsterdam AI Meetup",
     "description": "View in app: meetup://mindstone-amsterdam-ai-meetup/events/301614752",
@@ -11,12 +11,12 @@
     "new_start": "",
     "new_end": "",
     "id": "7b06643de6c9a66f6791b270d9b629135c03fee91e5a9ad707d416d3cb875e56",
-    "version_id": "acb0616ee4d2eb18b0a1a41f0485118dc42d656b3d1432d50ae03783aa7343a8"
+    "version_id": "7bd7019bf78cb69defd3a1fc1feeb85b1e238d501fd5dfdb07a2332de9d70c8d"
   },
   {
     "date": "2024-09-21",
-    "start": "2024-09-21T17:30:00+00:00",
-    "end": "2024-09-21T18:30:00+00:00",
+    "start": "2024-09-21T16:30:00+00:00",
+    "end": "2024-09-21T17:30:00+00:00",
     "value": 1,
     "summary": "kosilo",
     "description": "(No description)",
@@ -25,12 +25,12 @@
     "new_start": "",
     "new_end": "",
     "id": "05c9f81e7cefaa50c5e4841e68778764ae37d3c07e3bbfc0ae42f21d550280a9",
-    "version_id": "de88ac56e2d3641dd2fef84b57c984d3fe6e5b082f61f08f266eb1d74d1d4d67"
+    "version_id": "f8924ede540df8f305262c251a1e075f90f45669b8fec35fa29c06ce0c554146"
   },
   {
     "date": "2024-09-22",
-    "start": "2024-09-22T11:00:00+00:00",
-    "end": "2024-09-22T12:00:00+00:00",
+    "start": "2024-09-22T10:00:00+00:00",
+    "end": "2024-09-22T11:00:00+00:00",
     "value": 1,
     "summary": "kosilo",
     "description": "(No description)",
@@ -39,12 +39,12 @@
     "new_start": "",
     "new_end": "",
     "id": "e22ca6a5b9cfdbb9516ed771164858c5c7882979bf305319209b098e2e1d7f02",
-    "version_id": "8fcb514b28e9703e3d50da0f3e06c0cf8bb7164791ca284d8c828e0f351d4396"
+    "version_id": "7da47e87b5f824f5a1b7024d2549e75354627a36556ca6c001c3abb0eb25a440"
   },
   {
     "date": "2024-09-22",
-    "start": "2024-09-22T19:45:00+00:00",
-    "end": "2024-09-22T21:45:00+00:00",
+    "start": "2024-09-22T18:45:00+00:00",
+    "end": "2024-09-22T20:45:00+00:00",
     "value": 1,
     "summary": "hanc",
     "description": "(No description)",
@@ -53,12 +53,12 @@
     "new_start": "",
     "new_end": "",
     "id": "8271b922f9bbf3fb9eae0cf04fd14028bbbab42553fcce2d73a4a49e92c03a69",
-    "version_id": "c39f010f8e850974070cb1658ec96b36b0b266605de6a08587f5aa9c4f64d9e6"
+    "version_id": "25405f37b2967398a1206e9672222fcad82248ab9658831b4dc5d879d4adb417"
   },
   {
     "date": "2024-09-23",
-    "start": "2024-09-23T17:00:00+00:00",
-    "end": "2024-09-23T19:00:00+00:00",
+    "start": "2024-09-23T16:00:00+00:00",
+    "end": "2024-09-23T18:00:00+00:00",
     "value": 1,
     "summary": "hanc",
     "description": "(No description)",
@@ -67,12 +67,12 @@
     "new_start": "",
     "new_end": "",
     "id": "91ecc0d7041cea2f817cf91f9f3b3ba81bd2cb792b5263a2e890e9dd1af1cad2",
-    "version_id": "d1e5c86fe04505c901b5cafa7517c22a38b5a02e5322e21fd73283728d63881d"
+    "version_id": "6057e523c13838ac426dac684e5c8a5dabd1e38551428f11d441c6cf490a93ab"
   },
   {
     "date": "2024-09-23",
-    "start": "2024-09-23T23:00:00+00:00",
-    "end": "2024-09-23T23:59:00+00:00",
+    "start": "2024-09-23T22:00:00+00:00",
+    "end": "2024-09-23T22:59:00+00:00",
     "value": 1,
     "summary": "Hanci\u2764\ufe0f",
     "description": "(No description)",
@@ -81,12 +81,12 @@
     "new_start": "",
     "new_end": "",
     "id": "3387b88388557bed8613e5b067144ef09aeb9681979ddce04dd89333cb4a2125",
-    "version_id": "e868df47ae6548372cc1811c32d093457072395e1f423e65129d179a26774c08"
+    "version_id": "020babe644fb324a2018541c6dfb82c55395a3fb50d6fc54651ad0d167ee2791"
   },
   {
     "date": "2024-09-24",
-    "start": "2024-09-24T09:00:00+00:00",
-    "end": "2024-09-24T09:00:00+00:00",
+    "start": "2024-09-24T08:00:00+00:00",
+    "end": "2024-09-24T08:00:00+00:00",
     "value": 1,
     "summary": "Hanci\u2764\ufe0f",
     "description": "(No description)",
@@ -95,12 +95,12 @@
     "new_start": "",
     "new_end": "",
     "id": "0ca8477ca7648502de3a9bc065cbe74c108bcb25ed90b1d25ffa56b2f26d7b9f",
-    "version_id": "302178f20798cfdaad4dae96e4c77153b371c493d65c5f55655b8a531d397b4c"
+    "version_id": "15aa1d719e482b291eca8a1d1f384a15c0bc6a8a107f03233032bf33d5125812"
   },
   {
     "date": "2024-09-24",
-    "start": "2024-09-24T15:15:00+00:00",
-    "end": "2024-09-24T17:15:00+00:00",
+    "start": "2024-09-24T14:15:00+00:00",
+    "end": "2024-09-24T16:15:00+00:00",
     "value": 1,
     "summary": "hanc",
     "description": "(No description)",
@@ -109,12 +109,12 @@
     "new_start": "",
     "new_end": "",
     "id": "7846f3b57a2f2f3d43eecb7e0791d4363e2a4649b8e1d38eeae33097534ecbfa",
-    "version_id": "69857f32f45d929f1cd4c251a7c217665c119b6e334bc38d8ed70ed52ad5a74e"
+    "version_id": "fe30299d224a055ec7d04d551380ea6a44b9bb949ab700a4e24ec8f43a470bac"
   },
   {
     "date": "2024-10-02",
-    "start": "2024-10-02T13:00:00+00:00",
-    "end": "2024-10-02T13:15:00+00:00",
+    "start": "2024-10-02T12:00:00+00:00",
+    "end": "2024-10-02T12:15:00+00:00",
     "value": 1,
     "summary": "New Event",
     "description": "(No description)",
@@ -123,12 +123,12 @@
     "new_start": "",
     "new_end": "",
     "id": "0a168c9dd0249e1d17b98c5a41e0ba27f892fa6592c1feec56648dcc4c8c9e2c",
-    "version_id": "9cd46d713a3d8f1ec87d193fd7d911d300b717cc1ccccb5bd8a01b93bf89c3ea"
+    "version_id": "afdd0f01c32ec2566a39216cc95e7f1a2d278cf14fc2a1462e0a6332afa05be9"
   },
   {
     "date": "2024-10-03",
-    "start": "2024-10-03T15:50:00+00:00",
-    "end": "2024-10-03T18:23:00+00:00",
+    "start": "2024-10-03T14:50:00+00:00",
+    "end": "2024-10-03T17:23:00+00:00",
     "value": 1,
     "summary": "Joker: Folie \u00e0 Deux",
     "description": "Film: Joker: Folie \u00e0 Deux\nBioscoop: Path\u00e9 De Munt\nZaal: Zaal 13\nBarcode: WXTT8M4",
@@ -137,12 +137,12 @@
     "new_start": "",
     "new_end": "",
     "id": "5632d10e575385f59c1a0dc411699cadd3cee1cdc1ee3a80a7834b22c4e9a163",
-    "version_id": "e08636a198211fdf9a47512cb322991597cb068d69df181c59585457e2e9b68d"
+    "version_id": "e0ae0201728c8b8b4d270c47264c39251ac137c4c6d2479d5e5a86fc2cba78b2"
   },
   {
     "date": "2024-10-05",
-    "start": "2024-10-05T09:00:00+00:00",
-    "end": "2024-10-05T09:50:00+00:00",
+    "start": "2024-10-05T08:00:00+00:00",
+    "end": "2024-10-05T08:50:00+00:00",
     "value": 1,
     "summary": "The ImoveAmsterdam Reformer Pilates Experience @ ImoveAmsterdam Boutique - Reformer Pilates",
     "description": "How to get there: imoveAmsterdam - Reformer Pilates is located at Houthavenweg 105, Amsterdam, 1013 ZV.\n\nAmenities: Lockers, Showers\n\nHow to prepare: Wear comfortable clothing you can move freely in, most classes are held barefoot and some people use socks with grip on them. Bring water if you'd like.\n\nWhen to arrive: 15 minutes before\n\nAbout this class: Our 50-minute Pilates Reformer group class. Elevate your fitness experience with a dynamic, full-body workout. Designed to strengthen, tone, and improve flexibility, this class targets every muscle with precision and control. Get ready to push your limits, feel empowered, and leave the studio stronger than ever!\n\nAbout this studio: Let's Elevate Together! At ImoveAmsterdam Boutique Reformer Pilates Studio we are on a mission to Elevate your fitness experience. Offering  mind&body boosting Reformer Pilates Classes. Lets make some magic happen together.  \n\n",
@@ -151,12 +151,12 @@
     "new_start": "",
     "new_end": "",
     "id": "7de331ccfe1b6f8f9f95e14aa46061e45b8fbb6f2d12abaee0cb29f8186a697b",
-    "version_id": "40d6c35d554c4df2ff19ba43449c6f8c6737367783d9c7062003a3813a246fc6"
+    "version_id": "0cf06b81dfdde335154ab51e4b9f3fd43e636b8562c6a1ab3dd47d4e0b678dd4"
   },
   {
     "date": "2024-10-07",
-    "start": "2024-10-07T13:15:00+00:00",
-    "end": "2024-10-07T15:15:00+00:00",
+    "start": "2024-10-07T12:15:00+00:00",
+    "end": "2024-10-07T14:15:00+00:00",
     "value": 1,
     "summary": "mm",
     "description": "(No description)",
@@ -165,12 +165,12 @@
     "new_start": "",
     "new_end": "",
     "id": "d0405e0b2091ceb8c547ac74773dde27001276a880ba7a8c7adce3eac180ba52",
-    "version_id": "22603fec206c89627310e4bd5526af87872cee459d196354560b8e36b32ff158"
+    "version_id": "9d01b1e759dbd94771aa20be9a6a4baf154f16bd52dce51b55b77000817b5038"
   },
   {
     "date": "2024-10-12",
-    "start": "2024-10-12T08:30:00+00:00",
-    "end": "2024-10-12T08:45:00+00:00",
+    "start": "2024-10-12T07:30:00+00:00",
+    "end": "2024-10-12T07:45:00+00:00",
     "value": 1,
     "summary": "New Event",
     "description": "(No description)",
@@ -179,12 +179,12 @@
     "new_start": "",
     "new_end": "",
     "id": "6026ec0eead66704c733ba368606d98e38ca707c6dde851a2e06b60ee887e7cf",
-    "version_id": "a34e03015bcd2bfbb3476955b16f08a092ce11bd03be2d615fed91c09f272ee3"
+    "version_id": "9bc1e8a14b4caacbb66519a818ed8d40fa6c3c5fe95e11f4b7944094194e1b95"
   },
   {
     "date": "2024-10-13",
-    "start": "2024-10-13T18:00:00+00:00",
-    "end": "2024-10-13T18:15:00+00:00",
+    "start": "2024-10-13T17:00:00+00:00",
+    "end": "2024-10-13T17:15:00+00:00",
     "value": 1,
     "summary": "Weekly check up of goals NOTION",
     "description": "Go through all the goals set in notion, write some \n\n\u2014\u2014\u2014\n(Reminder ID \u2022 Keep for sync \u25e6\u25e6 31. 12. 23, 23:44:03 CET \u25e6\u25e6 )",
@@ -193,12 +193,12 @@
     "new_start": "",
     "new_end": "",
     "id": "2ba473914a93e1bc4237b1bbfeea1825bc28418827e1be14ddd7a7e04bb7ded1",
-    "version_id": "c9239aef94d0775f939a6ff1f0a2574104991446c5101e583c76f42ad215baa7"
+    "version_id": "5fc8dc44f33fc38b68a1cd5191ec2b01f419a51405fa5aa594dc8df5c75ef43a"
   },
   {
     "date": "2024-10-14",
-    "start": "2024-10-14T08:00:00+00:00",
-    "end": "2024-10-14T09:00:00+00:00",
+    "start": "2024-10-14T07:00:00+00:00",
+    "end": "2024-10-14T08:00:00+00:00",
     "value": 1,
     "summary": "New Event",
     "description": "(No description)",
@@ -207,12 +207,12 @@
     "new_start": "",
     "new_end": "",
     "id": "3c731bb47f24e28fda39a822addf358d6c42a32b81713fdd3f556ed3335fd885",
-    "version_id": "dd3d64ee7c64fe1d8d0cd5ba5bf6147c582fbb67150059235759745eb5ca3bd6"
+    "version_id": "1aa5d19136de75a7e6975a6a103ee0ed7a053ce8e2328912a3a0f22f8de5d442"
   },
   {
     "date": "2024-10-14",
-    "start": "2024-10-14T11:15:00+00:00",
-    "end": "2024-10-14T11:30:00+00:00",
+    "start": "2024-10-14T10:15:00+00:00",
+    "end": "2024-10-14T10:30:00+00:00",
     "value": 1,
     "summary": "belastingdients",
     "description": "(No description)",
@@ -221,12 +221,12 @@
     "new_start": "",
     "new_end": "",
     "id": "9330ed741dab6c38f87f566ce98644b2d790f05351e37a79717f164bb2bc55e9",
-    "version_id": "b371e1ef9f0f61c5415a996ac5d11092313c2f6b272d6f073a92204df9d51976"
+    "version_id": "fa6c125aeda9345c88f45760d763b521b97d56260df04304bd07df3e3f7aec58"
   },
   {
     "date": "2024-10-19",
-    "start": "2024-10-19T16:15:00+00:00",
-    "end": "2024-10-19T17:45:00+00:00",
+    "start": "2024-10-19T15:15:00+00:00",
+    "end": "2024-10-19T16:45:00+00:00",
     "value": 1,
     "summary": "notion goals ",
     "description": "go through the goals for this week\nwrite some feedback on yourself in notebook\ncreate the goals for next week\nplan your next week fully\n",
@@ -235,12 +235,12 @@
     "new_start": "",
     "new_end": "",
     "id": "13b91ebd0bb6ca85ad5f8a5e71431c126a8ea05144310fa4080ee32acf78787a",
-    "version_id": "4ea3af31bb02bac5d7600cc4905443edd60ad316b53ef66bdbc975c8329b53c1"
+    "version_id": "b56a5bbdb0eefccf329792e6def7d4963bf16c82b69d1d189c98fe4106053d93"
   },
   {
     "date": "2024-10-24",
-    "start": "2024-10-24T09:00:00+00:00",
-    "end": "2024-10-24T09:00:00+00:00",
+    "start": "2024-10-24T08:00:00+00:00",
+    "end": "2024-10-24T08:00:00+00:00",
     "value": 1,
     "summary": "Hanci\u2764\ufe0f",
     "description": "(No description)",
@@ -249,7 +249,7 @@
     "new_start": "",
     "new_end": "",
     "id": "8a9557fbb5e879c745b32d3f26cec5050462880fcb99dd4c1804ed087c37a4fd",
-    "version_id": "80ed9994f5939f88fef33c89d2d00c07572adc4b9082856f3020fe4953e62e68"
+    "version_id": "03eb6d396f7ede310287c70024420c724922d50298e90b05abe0acdce3145aca"
   },
   {
     "date": "2024-11-04",
@@ -362,5 +362,20 @@
     "new_end": "",
     "id": "042fc8e8304f32660a52c756e0b73a8703ccd4d45faf07fdbadf489683c5b8f9",
     "version_id": "1b0c19fff2613778c0730f42eba5483257ff61ab76ca0e49b986bf8875523f68"
+  },
+  {
+    "date": "2025-03-24",
+    "start": "2025-03-24T10:00:00+00:00",
+    "end": "2025-03-24T10:00:00+00:00",
+    "value": 1,
+    "summary": "Hanci\u2764\ufe0f",
+    "description": "(No description)",
+    "calendar_name": "Home",
+    "new_date": "2025-03-24",
+    "new_start": "2025-03-24T10:00:00+00:00",
+    "new_end": "2025-03-24T10:00:00+00:00",
+    "id": "ea65ebbacb015d22524f5b83b9c252d10693427c2865eeff95360dcce9216df0",
+    "version_id": "8f7783c59dec9c389a473bfadc1d78a0460798e1703e5de2ad3685a6ff9c601d",
+    "status": "new"
   }
 ]

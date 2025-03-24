@@ -8,6 +8,22 @@ def load_historical_data():
     with open('data/updated_historical_data.json', 'r') as f:
         return json.load(f)
 
+def get_recent_date_range():
+    # Get current date and time
+    now = datetime.now()
+    # Calculate date 5 days ago
+    five_days_ago = now - timedelta(days=5)
+    # Set time to midnight for the start date
+    start_date = datetime.combine(five_days_ago.date(), time.min)
+    return start_date
+
+def filter_recent_data(df):
+    start_date = get_recent_date_range()
+    # Convert date column to datetime if it's not already
+    df['date'] = pd.to_datetime(df['date'])
+    # Filter data newer than 5 days
+    return df[df['date'] >= start_date]
+
 def prepare_data_for_supabase(historical_data):
     # Define university calendars
     university_calendars = [
@@ -41,6 +57,9 @@ def prepare_data_for_supabase(historical_data):
     
     # Remove duplicates, keeping the first occurrence
     df = df.drop_duplicates(subset=['id'], keep='first')
+    
+    # Filter for recent data only (newer than 5 days)
+    df = filter_recent_data(df)
 
     return df
 
@@ -56,7 +75,7 @@ if __name__ == "__main__":
     historical_data = load_historical_data()
     prepared_df = prepare_data_for_supabase(historical_data)
     save_prepared_data(prepared_df)
-    print("Data prepared and saved successfully.")
+    print("Data from the last 5 days prepared and saved successfully.")
 
 
 # %%
