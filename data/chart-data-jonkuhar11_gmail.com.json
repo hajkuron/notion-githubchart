@@ -42,9 +42,9 @@
     "version_id": "da8b3ab9588763dd61cd23cfc30685ddd0e8258747ddfba9effc149afc34309b"
   },
   {
-    "date": "2024-09-05",
-    "start": "2024-09-05T23:00:00+00:00",
-    "end": "2024-09-06T23:00:00+00:00",
+    "date": "2024-09-06",
+    "start": "2024-09-06T00:00:00+00:00",
+    "end": "2024-09-07T00:00:00+00:00",
     "value": 1,
     "summary": "assignment",
     "description": "(No description)",
@@ -52,8 +52,8 @@
     "new_date": "",
     "new_start": "",
     "new_end": "",
-    "id": "ebe66f622fb121e89f458cb3ee28e41dde674b49af89b31722ab9f926b5dace5",
-    "version_id": "0b1129324787e99ce4b6713df7da513a9fa26309f9a369219ef3c59e663e8aef"
+    "id": "93f1bbf8b1838fab779f67b7c1f6c68415590f3924543c45781af2ff03e13cb5",
+    "version_id": "5f54db60a5e30c57bf2be8c5c99a6c312c7dff0f78e351e168764c2bde11b0b9"
   },
   {
     "date": "2024-09-07",
@@ -6307,12 +6307,11 @@
     "summary": "Portugal vs Denmark - Nations League",
     "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DMoZDnEkLhPTcRomF54RpB9lRRdXglABDw\n",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-03-23",
-    "new_start": "2025-03-23T19:45:00+00:00",
-    "new_end": "2025-03-23T20:45:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "feaab2d8911ee611c60bc77c62f6efd25ff6cd8485551eb27ee17b2c2408bcf6",
-    "version_id": "5b1dd30185bf6d4da1ca112e8742b51be126ee32f63a61b2a8155ae168430a99",
-    "status": "new"
+    "version_id": "5b1dd30185bf6d4da1ca112e8742b51be126ee32f63a61b2a8155ae168430a99"
   },
   {
     "date": "2025-03-24",
@@ -6322,11 +6321,10 @@
     "summary": "Bus to Coimbra (Rua do Padrao)",
     "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DNjGORTzloWlIFk4DUD_v1a8aXo5Zpa580\n",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-03-24",
-    "new_start": "2025-03-24T15:45:00+00:00",
-    "new_end": "2025-03-24T18:05:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "d48a470596c583c6e6f424debe35780cddff6b5e94ef441095d465357cf92833",
-    "version_id": "0a1bd79c4a284fe79ef4b9df5b17ad6973f4094ed1614fca2aba5425265dedaf",
-    "status": "new"
+    "version_id": "0a1bd79c4a284fe79ef4b9df5b17ad6973f4094ed1614fca2aba5425265dedaf"
   }
 ]
