@@ -6326,5 +6326,20 @@
     "new_end": "",
     "id": "d48a470596c583c6e6f424debe35780cddff6b5e94ef441095d465357cf92833",
     "version_id": "0a1bd79c4a284fe79ef4b9df5b17ad6973f4094ed1614fca2aba5425265dedaf"
+  },
+  {
+    "date": "2025-03-25",
+    "start": "2025-03-25T18:40:00+00:00",
+    "end": "2025-03-25T20:55:00+00:00",
+    "value": 1,
+    "summary": "Bus to Lisbon (Oriente)",
+    "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DNjGORTzloWlIFk4DUD_v1a8aXo5Zpa580\n",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2025-03-25",
+    "new_start": "2025-03-25T18:40:00+00:00",
+    "new_end": "2025-03-25T20:55:00+00:00",
+    "id": "b2b1a146de54962d1031b2ffca689c6bbd9ab959bc3b19a0076edb3c21d79e5b",
+    "version_id": "08507467eb14b53af44c09ce64636d9089ffb3e0902b1543aadacfcf6bb9e8a5",
+    "status": "new"
   }
 ]
