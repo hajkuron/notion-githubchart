@@ -1687,12 +1687,11 @@
     "summary": "plan out + lunch",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2025-03-29",
-    "new_start": "2025-03-29T13:00:00+00:00",
-    "new_end": "2025-03-29T14:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "64f06a4ed04777b2339535953d65c04531b239bbd94cdd952b9aeb1ae581c2b9",
-    "version_id": "2a9e27fc3b2c85f43936c55bc5643e2003b61f65875d14ee75e516af8225ad17",
-    "status": "new"
+    "version_id": "2a9e27fc3b2c85f43936c55bc5643e2003b61f65875d14ee75e516af8225ad17"
   },
   {
     "date": "2025-03-29",
@@ -1702,12 +1701,11 @@
     "summary": "work on planned or plan",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2025-03-29",
-    "new_start": "2025-03-29T18:00:00+00:00",
-    "new_end": "2025-03-29T20:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "ec0a2e0d5340fedcf5824da239f54564d5d05f5303f961505fdcb092862ee5eb",
-    "version_id": "c6b6bf0151c1954b9074f053ae405b80c81f054f8c56299e4da73b3600ff2ae9",
-    "status": "new"
+    "version_id": "c6b6bf0151c1954b9074f053ae405b80c81f054f8c56299e4da73b3600ff2ae9"
   },
   {
     "date": "2025-03-30",
@@ -1717,11 +1715,25 @@
     "summary": "work",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2025-03-30",
-    "new_start": "2025-03-30T15:00:00+00:00",
-    "new_end": "2025-03-30T19:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "4b791ee07af2875f7b91bd32f0593031f98039f2b9d7f41cb594097f03a8ec9c",
-    "version_id": "3708e0b29792ada752f204a3dbf4e7f53d508cd3c6f02b397e5880f382ed99b6",
+    "version_id": "3708e0b29792ada752f204a3dbf4e7f53d508cd3c6f02b397e5880f382ed99b6"
+  },
+  {
+    "date": "2025-03-31",
+    "start": "2025-03-31T17:15:00+00:00",
+    "end": "2025-03-31T19:00:00+00:00",
+    "value": 1,
+    "summary": "work",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2025-03-31",
+    "new_start": "2025-03-31T17:15:00+00:00",
+    "new_end": "2025-03-31T19:00:00+00:00",
+    "id": "d1e0fcec278142268a5fc080a7d60d7f4cc52f0ca83f2e9ece906146a9ce92e3",
+    "version_id": "10737cca3fa2459ec69771ddf16b43563705aa4a4b7cebccc16bb47c872164b1",
     "status": "new"
   }
 ]

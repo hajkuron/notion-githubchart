@@ -805,11 +805,25 @@
     "summary": "work CC",
     "description": "finish the whole dahsboard\n",
     "calendar_name": "Work creative clicks",
-    "new_date": "2025-03-30",
-    "new_start": "2025-03-30T06:30:00+00:00",
-    "new_end": "2025-03-30T10:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "fabc78a6ea1f12ad926161ca59e3515a52795b47c8d1bf295c2030a008546caf",
-    "version_id": "eaa62b133758f41f72e3fe8303457d4a369b505f00d456902c33336d184c31af",
+    "version_id": "eaa62b133758f41f72e3fe8303457d4a369b505f00d456902c33336d184c31af"
+  },
+  {
+    "date": "2025-03-31",
+    "start": "2025-03-31T11:30:00+00:00",
+    "end": "2025-03-31T15:00:00+00:00",
+    "value": 1,
+    "summary": "wrok CC",
+    "description": "(No description)",
+    "calendar_name": "Work creative clicks",
+    "new_date": "2025-03-31",
+    "new_start": "2025-03-31T11:30:00+00:00",
+    "new_end": "2025-03-31T15:00:00+00:00",
+    "id": "57afc2190f9bdae6bfb3d6e2001759add3e948c32b930aa4289196bb63d92839",
+    "version_id": "1c479f80845cbaa5fc187e17b239c91669fec3845dd030f96b69c04e1b01d1e2",
     "status": "new"
   }
 ]
