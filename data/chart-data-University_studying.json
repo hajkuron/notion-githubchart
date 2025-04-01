@@ -1356,5 +1356,20 @@
     "new_end": "",
     "id": "2cc79d391ad9c7fcca5d5419d8819752169a004adc659a1086370972eebfce93",
     "version_id": "692bc484e94039d4d25a9c7e156d7b58048a49b8859528205760cca3a24ae95a"
+  },
+  {
+    "date": "2025-03-31",
+    "start": "2025-03-31T11:00:00+00:00",
+    "end": "2025-03-31T12:00:00+00:00",
+    "value": 1,
+    "summary": "thesis fix + send to supervisor",
+    "description": "(No description)",
+    "calendar_name": "University studying",
+    "new_date": "2025-03-31",
+    "new_start": "2025-03-31T11:00:00+00:00",
+    "new_end": "2025-03-31T12:00:00+00:00",
+    "id": "ac0b1e2c63724f0fe87f60929d4b6add8e5ef69fd099bafbf3997e53d33a4277",
+    "version_id": "9d485da684a4b0c4a010bb7a7cb96a4bda453296a19da108fb2f0c24e03517ab",
+    "status": "new"
   }
 ]

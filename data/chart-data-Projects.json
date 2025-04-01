@@ -1729,11 +1729,25 @@
     "summary": "work",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2025-03-31",
-    "new_start": "2025-03-31T17:15:00+00:00",
-    "new_end": "2025-03-31T19:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "d1e0fcec278142268a5fc080a7d60d7f4cc52f0ca83f2e9ece906146a9ce92e3",
-    "version_id": "10737cca3fa2459ec69771ddf16b43563705aa4a4b7cebccc16bb47c872164b1",
+    "version_id": "10737cca3fa2459ec69771ddf16b43563705aa4a4b7cebccc16bb47c872164b1"
+  },
+  {
+    "date": "2025-04-01",
+    "start": "2025-04-01T16:45:00+00:00",
+    "end": "2025-04-01T18:30:00+00:00",
+    "value": 1,
+    "summary": "work",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2025-04-01",
+    "new_start": "2025-04-01T16:45:00+00:00",
+    "new_end": "2025-04-01T18:30:00+00:00",
+    "id": "035f699afe0c978ed413ff3c0cf7d44fbe8a1546065eb73f4e910f245e3a9119",
+    "version_id": "31129b16e399678d0752785a3f4e1fee77e601cafc61aba1a32252c87b4b2b71",
     "status": "new"
   }
 ]

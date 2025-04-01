@@ -819,11 +819,25 @@
     "summary": "wrok CC",
     "description": "(No description)",
     "calendar_name": "Work creative clicks",
-    "new_date": "2025-03-31",
-    "new_start": "2025-03-31T11:30:00+00:00",
-    "new_end": "2025-03-31T15:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "57afc2190f9bdae6bfb3d6e2001759add3e948c32b930aa4289196bb63d92839",
-    "version_id": "1c479f80845cbaa5fc187e17b239c91669fec3845dd030f96b69c04e1b01d1e2",
+    "version_id": "1c479f80845cbaa5fc187e17b239c91669fec3845dd030f96b69c04e1b01d1e2"
+  },
+  {
+    "date": "2025-04-01",
+    "start": "2025-04-01T07:00:00+00:00",
+    "end": "2025-04-01T14:00:00+00:00",
+    "value": 1,
+    "summary": "wrok CC",
+    "description": "(No description)",
+    "calendar_name": "Work creative clicks",
+    "new_date": "2025-04-01",
+    "new_start": "2025-04-01T07:00:00+00:00",
+    "new_end": "2025-04-01T14:00:00+00:00",
+    "id": "8d17fe39790b1d8a9b68c0cd710aca43752aa08174c0aeda0f2b9c2dd5208e97",
+    "version_id": "5c963d5d3724c017a8c5efd69b44c5891454619571d9f5f55147ad94326a4922",
     "status": "new"
   }
 ]
