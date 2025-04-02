@@ -35,11 +35,10 @@
     "summary": "test",
     "description": "\n\nNotion page: https://notion.so/1c5fd573fcec80a5a2fbfd4497d49495",
     "calendar_name": "NOTION",
-    "new_date": "2025-04-02",
-    "new_start": "2025-04-02T01:00:00+00:00",
-    "new_end": "2025-04-02T01:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "652732346bb2f59d286ec664f9c4f980f5e4d777d28529e90d7946f0ef4f8bda",
-    "version_id": "3ebe60b2b60441502a301b3250712ee7e37167eb880a51a6f44d00b4e3ee855a",
-    "status": "new"
+    "version_id": "3ebe60b2b60441502a301b3250712ee7e37167eb880a51a6f44d00b4e3ee855a"
   }
 ]
