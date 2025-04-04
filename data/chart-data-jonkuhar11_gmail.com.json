@@ -6419,11 +6419,10 @@
     "summary": "read",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-04-03",
-    "new_start": "2025-04-03T15:30:00+00:00",
-    "new_end": "2025-04-03T16:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "6c0e04e55cf7e293d5c604dcbebd085c1a80392a372b561f874b17f0ea9d7228",
-    "version_id": "4dd641e380c69360896aa4149e077b43da75317546430184813871911220ab89",
-    "status": "new"
+    "version_id": "4dd641e380c69360896aa4149e077b43da75317546430184813871911220ab89"
   }
 ]

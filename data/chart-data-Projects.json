@@ -1743,11 +1743,10 @@
     "summary": "work",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2025-04-03",
-    "new_start": "2025-04-03T17:00:00+00:00",
-    "new_end": "2025-04-03T18:45:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "62c60851234a7a33792bd36709bf10c7cd6cc5a8744a78005d6f4d5595a4efca",
-    "version_id": "608122bff018e51ee4213692c79d6ab88be64cb835d1da3be01f1fa14dbb4c56",
-    "status": "new"
+    "version_id": "608122bff018e51ee4213692c79d6ab88be64cb835d1da3be01f1fa14dbb4c56"
   }
 ]
