@@ -1939,11 +1939,10 @@
     "summary": "gym",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2025-04-04",
-    "new_start": "2025-04-04T05:00:00+00:00",
-    "new_end": "2025-04-04T06:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "b94a5840a07f63a96cabb3a9b28d829db340c9dd09b5d16e9ac7648c1802bc3b",
-    "version_id": "65c4cf8cc5875122a1f7d0964e6bcb26dd593b0673c7eab1a3e6a64a834c3706",
-    "status": "new"
+    "version_id": "65c4cf8cc5875122a1f7d0964e6bcb26dd593b0673c7eab1a3e6a64a834c3706"
   }
 ]
