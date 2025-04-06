@@ -6433,11 +6433,10 @@
     "summary": "Weekly check up of goals NOTION",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-04-06",
-    "new_start": "2025-04-06T02:30:00+00:00",
-    "new_end": "2025-04-06T02:45:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "9c812b76261deea7cd2e8d8b003be2ea33f6365e0a39d4784cd452d45c8daad2",
-    "version_id": "7ef9a2f49c5ec29bdd4e1647fc729cf35ee42539ccddf9882122c0abb35730af",
-    "status": "new"
+    "version_id": "7ef9a2f49c5ec29bdd4e1647fc729cf35ee42539ccddf9882122c0abb35730af"
   }
 ]

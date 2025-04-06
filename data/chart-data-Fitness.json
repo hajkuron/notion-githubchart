@@ -1944,5 +1944,20 @@
     "new_end": "",
     "id": "b94a5840a07f63a96cabb3a9b28d829db340c9dd09b5d16e9ac7648c1802bc3b",
     "version_id": "65c4cf8cc5875122a1f7d0964e6bcb26dd593b0673c7eab1a3e6a64a834c3706"
+  },
+  {
+    "date": "2025-04-06",
+    "start": "2025-04-06T11:00:00+00:00",
+    "end": "2025-04-06T13:00:00+00:00",
+    "value": 1,
+    "summary": "football",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2025-04-06",
+    "new_start": "2025-04-06T11:00:00+00:00",
+    "new_end": "2025-04-06T13:00:00+00:00",
+    "id": "417ba50a27feb83052ee7ce5ba9cb6878de4f47502989546044143a50f284c55",
+    "version_id": "4c20f2d9fd87a8cf636f9ea5347bfabeb9640f4365f57562601767481a4873bb",
+    "status": "new"
   }
 ]
