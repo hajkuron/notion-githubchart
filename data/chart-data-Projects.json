@@ -1748,5 +1748,35 @@
     "new_end": "",
     "id": "62c60851234a7a33792bd36709bf10c7cd6cc5a8744a78005d6f4d5595a4efca",
     "version_id": "608122bff018e51ee4213692c79d6ab88be64cb835d1da3be01f1fa14dbb4c56"
+  },
+  {
+    "date": "2025-04-06",
+    "start": "2025-04-06T13:00:00+00:00",
+    "end": "2025-04-06T14:00:00+00:00",
+    "value": 1,
+    "summary": "plan out whole business, exact days, projects",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2025-04-06",
+    "new_start": "2025-04-06T13:00:00+00:00",
+    "new_end": "2025-04-06T14:00:00+00:00",
+    "id": "55574a75f7f274906489abc78e5c994ed142be33789e505115e57fe9aca536e7",
+    "version_id": "3d7f73ce7777fcdb70f521defb90c78f264a0223b1e83b9139d7d0d252523214",
+    "status": "new"
+  },
+  {
+    "date": "2025-04-06",
+    "start": "2025-04-06T14:00:00+00:00",
+    "end": "2025-04-06T15:00:00+00:00",
+    "value": 1,
+    "summary": "start working on it",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2025-04-06",
+    "new_start": "2025-04-06T14:00:00+00:00",
+    "new_end": "2025-04-06T15:00:00+00:00",
+    "id": "f52d758b0e2ff1dc7cd73b8b421c41b74e7ab110e00903c5b4ad1f52949349b7",
+    "version_id": "4dd079979c830a167d7902b9b7d21036bd2e4f3bcd63e13776834022c168b772",
+    "status": "new"
   }
 ]
