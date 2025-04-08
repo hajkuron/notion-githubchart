@@ -40,5 +40,35 @@
     "new_end": "",
     "id": "652732346bb2f59d286ec664f9c4f980f5e4d777d28529e90d7946f0ef4f8bda",
     "version_id": "3ebe60b2b60441502a301b3250712ee7e37167eb880a51a6f44d00b4e3ee855a"
+  },
+  {
+    "date": "2025-04-08",
+    "start": "2025-04-08T15:00:00+00:00",
+    "end": "2025-04-08T16:00:00+00:00",
+    "value": 1,
+    "summary": "Read 50 pages",
+    "description": "\n\nNotion page: https://notion.so/1cefd573fcec80e6a0fcc595df667c22",
+    "calendar_name": "NOTION",
+    "new_date": "2025-04-08",
+    "new_start": "2025-04-08T15:00:00+00:00",
+    "new_end": "2025-04-08T16:00:00+00:00",
+    "id": "75c7f32d7b0a5f3b5d330d0669da2beb70fa4238bfc273f2a3d1c0993e882e20",
+    "version_id": "02c93f9c4eb888a8387a845a1703f744bc8ee5353e8ee6d24bdafdef4ff8232c",
+    "status": "new"
+  },
+  {
+    "date": "2025-04-08",
+    "start": "2025-04-08T17:00:00+00:00",
+    "end": "2025-04-08T18:00:00+00:00",
+    "value": 1,
+    "summary": "Demo automation example 1",
+    "description": "\n\nNotion page: https://notion.so/1ce81cb7859080b99bd3f8f56300cb47",
+    "calendar_name": "NOTION",
+    "new_date": "2025-04-08",
+    "new_start": "2025-04-08T17:00:00+00:00",
+    "new_end": "2025-04-08T18:00:00+00:00",
+    "id": "d27d7b30718c3b7aa102abc357f2535b495c4b28bca6282caee521d37329150f",
+    "version_id": "636f57ba72f8f6b2f89b6c803faede0f32dab6dff1a318eee8d87e8304cf35c4",
+    "status": "new"
   }
 ]
