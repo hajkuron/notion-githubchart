@@ -77,12 +77,11 @@
     "summary": "Demo automation example 2",
     "description": "\n\nNotion page: https://notion.so/1ce81cb7859080289fd9c55d38329e2b",
     "calendar_name": "NOTION",
-    "new_date": "2025-04-09",
-    "new_start": "2025-04-09T11:00:00+00:00",
-    "new_end": "2025-04-09T14:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "87809d98ccb19d2bcd7e7efb2890f786f2d9825df099b7859e8602aa6628d956",
-    "version_id": "89b7596322461a455fb4d466ca492b4a6c7b568f54076ace75331af54e58d56d",
-    "status": "new"
+    "version_id": "89b7596322461a455fb4d466ca492b4a6c7b568f54076ace75331af54e58d56d"
   },
   {
     "date": "2025-04-09",
@@ -92,11 +91,40 @@
     "summary": "Read 50 pages ",
     "description": "\n\nNotion page: https://notion.so/1cefd573fcec8010898ad9a15ff9388a",
     "calendar_name": "NOTION",
-    "new_date": "2025-04-09",
-    "new_start": "2025-04-09T15:00:00+00:00",
-    "new_end": "2025-04-09T16:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "bbcb6a22fe5806cff5f816e35d81a6c5d8300ce2e87881ef548d5788f1cf9d18",
-    "version_id": "4afd27bcd030a56d7c31a64cb1339f9349a68ac28e3d453dc179dfa9662d58cf",
+    "version_id": "4afd27bcd030a56d7c31a64cb1339f9349a68ac28e3d453dc179dfa9662d58cf"
+  },
+  {
+    "date": "2025-04-10",
+    "start": "2025-04-10T15:00:00+00:00",
+    "end": "2025-04-10T16:00:00+00:00",
+    "value": 1,
+    "summary": "Read 50 pages",
+    "description": "\n\nNotion page: https://notion.so/1cefd573fcec80659d5dca02188ee57e",
+    "calendar_name": "NOTION",
+    "new_date": "2025-04-10",
+    "new_start": "2025-04-10T15:00:00+00:00",
+    "new_end": "2025-04-10T16:00:00+00:00",
+    "id": "2aabf63269e895577bf9787afaa7c77123f896777f517d0385bb4cb320158e41",
+    "version_id": "5ec44a7999c6d221c70b66a3a49a44c48f81af7a2f6455ec4f1fa8cc312c7830",
+    "status": "new"
+  },
+  {
+    "date": "2025-04-10",
+    "start": "2025-04-10T17:00:00+00:00",
+    "end": "2025-04-10T18:00:00+00:00",
+    "value": 1,
+    "summary": "Demo automation example 3",
+    "description": "\n\nNotion page: https://notion.so/1ce81cb7859080d48b1ef887afc37755",
+    "calendar_name": "NOTION",
+    "new_date": "2025-04-10",
+    "new_start": "2025-04-10T17:00:00+00:00",
+    "new_end": "2025-04-10T18:00:00+00:00",
+    "id": "c2a4a3bf36394b4fb31501fa8b8292608b8c09a170a950239bf85483dadad918",
+    "version_id": "e66438faaf06f788d93406dd1e304d9c815f5cd561e8db0a5d1979d4535736d3",
     "status": "new"
   }
 ]
