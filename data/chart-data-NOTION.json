@@ -105,12 +105,11 @@
     "summary": "Read 50 pages",
     "description": "\n\nNotion page: https://notion.so/1cefd573fcec80659d5dca02188ee57e",
     "calendar_name": "NOTION",
-    "new_date": "2025-04-10",
-    "new_start": "2025-04-10T15:00:00+00:00",
-    "new_end": "2025-04-10T16:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "2aabf63269e895577bf9787afaa7c77123f896777f517d0385bb4cb320158e41",
-    "version_id": "5ec44a7999c6d221c70b66a3a49a44c48f81af7a2f6455ec4f1fa8cc312c7830",
-    "status": "new"
+    "version_id": "5ec44a7999c6d221c70b66a3a49a44c48f81af7a2f6455ec4f1fa8cc312c7830"
   },
   {
     "date": "2025-04-10",
@@ -120,11 +119,25 @@
     "summary": "Demo automation example 3",
     "description": "\n\nNotion page: https://notion.so/1ce81cb7859080d48b1ef887afc37755",
     "calendar_name": "NOTION",
-    "new_date": "2025-04-10",
-    "new_start": "2025-04-10T17:00:00+00:00",
-    "new_end": "2025-04-10T18:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "c2a4a3bf36394b4fb31501fa8b8292608b8c09a170a950239bf85483dadad918",
-    "version_id": "e66438faaf06f788d93406dd1e304d9c815f5cd561e8db0a5d1979d4535736d3",
+    "version_id": "e66438faaf06f788d93406dd1e304d9c815f5cd561e8db0a5d1979d4535736d3"
+  },
+  {
+    "date": "2025-04-11",
+    "start": "2025-04-11T12:00:00+00:00",
+    "end": "2025-04-11T13:00:00+00:00",
+    "value": 1,
+    "summary": "Naredi izpiske",
+    "description": "\n\nNotion page: https://notion.so/1cefd573fcec8034b457daa6e6ef827d",
+    "calendar_name": "NOTION",
+    "new_date": "2025-04-11",
+    "new_start": "2025-04-11T12:00:00+00:00",
+    "new_end": "2025-04-11T13:00:00+00:00",
+    "id": "76f25d78d7df05748fc9260d825a30243db2d8fd947d908c8e9f73de1be2941d",
+    "version_id": "8a28b7a4a56207a65bd92c2c861baaf424afbd34361b42a1c86dcf09ee707193",
     "status": "new"
   }
 ]
