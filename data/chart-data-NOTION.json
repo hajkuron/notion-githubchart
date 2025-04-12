@@ -133,11 +133,25 @@
     "summary": "Naredi izpiske",
     "description": "\n\nNotion page: https://notion.so/1cefd573fcec8034b457daa6e6ef827d",
     "calendar_name": "NOTION",
-    "new_date": "2025-04-11",
-    "new_start": "2025-04-11T12:00:00+00:00",
-    "new_end": "2025-04-11T13:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "76f25d78d7df05748fc9260d825a30243db2d8fd947d908c8e9f73de1be2941d",
-    "version_id": "8a28b7a4a56207a65bd92c2c861baaf424afbd34361b42a1c86dcf09ee707193",
+    "version_id": "8a28b7a4a56207a65bd92c2c861baaf424afbd34361b42a1c86dcf09ee707193"
+  },
+  {
+    "date": "2025-04-12",
+    "start": "2025-04-12T12:00:00+00:00",
+    "end": "2025-04-12T13:00:00+00:00",
+    "value": 1,
+    "summary": "Do the course",
+    "description": "\n\nNotion page: https://notion.so/17ffd573fcec8090a5d3ef8b2112b594",
+    "calendar_name": "NOTION",
+    "new_date": "2025-04-12",
+    "new_start": "2025-04-12T12:00:00+00:00",
+    "new_end": "2025-04-12T13:00:00+00:00",
+    "id": "36545f92dafbf3dd27115ce07fe3e9675eddd6c441bc2473e08090276773f015",
+    "version_id": "e98fdaa1c2ffea33e69b0fa095f28ec33038aa14a02a272e5c58a5ae5adf6c18",
     "status": "new"
   }
 ]
