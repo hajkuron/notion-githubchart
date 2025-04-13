@@ -147,11 +147,10 @@
     "summary": "Do the course",
     "description": "\n\nNotion page: https://notion.so/17ffd573fcec8090a5d3ef8b2112b594",
     "calendar_name": "NOTION",
-    "new_date": "2025-04-12",
-    "new_start": "2025-04-12T12:00:00+00:00",
-    "new_end": "2025-04-12T13:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "36545f92dafbf3dd27115ce07fe3e9675eddd6c441bc2473e08090276773f015",
-    "version_id": "e98fdaa1c2ffea33e69b0fa095f28ec33038aa14a02a272e5c58a5ae5adf6c18",
-    "status": "new"
+    "version_id": "e98fdaa1c2ffea33e69b0fa095f28ec33038aa14a02a272e5c58a5ae5adf6c18"
   }
 ]
