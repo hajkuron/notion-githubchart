@@ -2121,26 +2121,24 @@
     "summary": "gym",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2025-04-18",
-    "new_start": "2025-04-18T04:45:00+00:00",
-    "new_end": "2025-04-18T06:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "d2c9a398a6c8e87a57a1a717e1b63f33745da80b110e9b146d2d579f3848db49",
-    "version_id": "c278b02eb28cb7537cf7ad6c8458e05550e8008f6db9f1568023d8492fe29524",
-    "status": "new"
+    "version_id": "c278b02eb28cb7537cf7ad6c8458e05550e8008f6db9f1568023d8492fe29524"
   },
   {
     "date": "2025-04-20",
-    "start": "2025-04-20T11:00:00+00:00",
-    "end": "2025-04-20T13:00:00+00:00",
+    "start": "2025-04-20T03:00:00+00:00",
+    "end": "2025-04-20T05:00:00+00:00",
     "value": 1,
     "summary": "football",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2025-04-20",
-    "new_start": "2025-04-20T11:00:00+00:00",
-    "new_end": "2025-04-20T13:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "4811911109929111535a1be1cafd94749c0cfbd7503ce3f6098ea5114160dae9",
-    "version_id": "3f2bc9395124fb63a08d3007b02ee25860249237de04761e6b827c931c38c879",
-    "status": "new"
+    "version_id": "4bf0a0d9bc664081f50b3083218266527645ee01e0d00eab295132dc6bb07777"
   }
 ]
