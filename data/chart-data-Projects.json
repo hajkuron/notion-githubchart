@@ -1776,5 +1776,20 @@
     "new_end": "",
     "id": "f52d758b0e2ff1dc7cd73b8b421c41b74e7ab110e00903c5b4ad1f52949349b7",
     "version_id": "4dd079979c830a167d7902b9b7d21036bd2e4f3bcd63e13776834022c168b772"
+  },
+  {
+    "date": "2025-04-28",
+    "start": "2025-04-28T15:00:00+00:00",
+    "end": "2025-04-28T19:00:00+00:00",
+    "value": 1,
+    "summary": "New Event",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2025-04-28",
+    "new_start": "2025-04-28T15:00:00+00:00",
+    "new_end": "2025-04-28T19:00:00+00:00",
+    "id": "3abfa6d238cac80963a7e3b1d411eed5bdee804a1ba34c0c592e76d5c357b621",
+    "version_id": "92b1707aa09980e837fff114ea92b967b0700bf85efa1ea9b7e7e50945c91814",
+    "status": "new"
   }
 ]

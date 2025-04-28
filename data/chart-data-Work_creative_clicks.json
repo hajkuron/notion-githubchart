@@ -908,5 +908,20 @@
     "new_end": "",
     "id": "864a59b9b13bc52a8ab30cf264ccac8ec1d96ff6c6ab785706dd67d9b0923677",
     "version_id": "f7920ffbe2c895206178b9cb83945efe9a773bf31e3ec7ac28fa4fd091544f7a"
+  },
+  {
+    "date": "2025-04-28",
+    "start": "2025-04-28T08:00:00+00:00",
+    "end": "2025-04-28T11:00:00+00:00",
+    "value": 1,
+    "summary": "work",
+    "description": "(No description)",
+    "calendar_name": "Work creative clicks",
+    "new_date": "2025-04-28",
+    "new_start": "2025-04-28T08:00:00+00:00",
+    "new_end": "2025-04-28T11:00:00+00:00",
+    "id": "683199e26fbdd4b8b616eaae9f0e31cf3b2afc75f03a3ddf4bf99229f43f19a6",
+    "version_id": "ee3ace2ac652312d4e03120677e8276de1d8a82988f59ddff95bca2a46ae043a",
+    "status": "new"
   }
 ]
