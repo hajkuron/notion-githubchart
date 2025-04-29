@@ -152,5 +152,35 @@
     "new_end": "",
     "id": "36545f92dafbf3dd27115ce07fe3e9675eddd6c441bc2473e08090276773f015",
     "version_id": "e98fdaa1c2ffea33e69b0fa095f28ec33038aa14a02a272e5c58a5ae5adf6c18"
+  },
+  {
+    "date": "2025-04-28",
+    "start": "2025-04-28T15:00:00+00:00",
+    "end": "2025-04-28T19:00:00+00:00",
+    "value": 1,
+    "summary": "Gather all profiles that are relevant",
+    "description": "\n\nNotion page: https://notion.so/1e281cb78590809f9ea4f73705a5bcdb",
+    "calendar_name": "NOTION",
+    "new_date": "2025-04-28",
+    "new_start": "2025-04-28T15:00:00+00:00",
+    "new_end": "2025-04-28T19:00:00+00:00",
+    "id": "d1c76a2c88dcd4b582b36b81b3363e57972efde0a48dfba54eaa6c171b928fb1",
+    "version_id": "9ec33822f38f9bf08e7b794b5549b7661a6c35623946167ba9c384352070a2ad",
+    "status": "new"
+  },
+  {
+    "date": "2025-04-29",
+    "start": "2025-04-29T12:00:00+00:00",
+    "end": "2025-04-29T13:00:00+00:00",
+    "value": 1,
+    "summary": "Plan ( Arundel partners)",
+    "description": "\n\nNotion page: https://notion.so/1e3fd573fcec800aa593d54507abdac9",
+    "calendar_name": "NOTION",
+    "new_date": "2025-04-29",
+    "new_start": "2025-04-29T12:00:00+00:00",
+    "new_end": "2025-04-29T13:00:00+00:00",
+    "id": "236168db5f70feeef2f8a232c2ba90460c37096509419fe2be4f3cc77182d1ec",
+    "version_id": "cd6e06b4a682a36d870ece5754f053e118d588ea098513ac3098f5f5c4bbe8eb",
+    "status": "new"
   }
 ]
