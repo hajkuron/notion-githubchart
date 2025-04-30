@@ -1393,11 +1393,25 @@
     "summary": "New Event",
     "description": "(No description)",
     "calendar_name": "University studying",
-    "new_date": "2025-04-29",
-    "new_start": "2025-04-29T15:00:00+00:00",
-    "new_end": "2025-04-29T17:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "adaca47ae537966d4c63e35a9648b673c7ab3166b4c89daf1380c494476413ab",
-    "version_id": "0557ffb440d3bc567e625c01b12117029396481f104d82a31a5b38ccda259458",
+    "version_id": "0557ffb440d3bc567e625c01b12117029396481f104d82a31a5b38ccda259458"
+  },
+  {
+    "date": "2025-04-30",
+    "start": "2025-04-30T12:00:00+00:00",
+    "end": "2025-04-30T15:00:00+00:00",
+    "value": 1,
+    "summary": "New Event",
+    "description": "(No description)",
+    "calendar_name": "University studying",
+    "new_date": "2025-04-30",
+    "new_start": "2025-04-30T12:00:00+00:00",
+    "new_end": "2025-04-30T15:00:00+00:00",
+    "id": "4d7c39bc8dd5e17d96c19b59dc7f99544ccaa6daf5ef9b462e7e75a8bfb1c15d",
+    "version_id": "43ce6fe8cf6f741d0f891f3d910256aecadcd167303c32a56c9785f2ed3e3a90",
     "status": "new"
   }
 ]
