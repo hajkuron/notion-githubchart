@@ -189,12 +189,11 @@
     "summary": "Plan interview with \u017duni\u010d, create all questions ",
     "description": "\n\nNotion page: https://notion.so/1e2fd573fcec800ba5f7ebc484e9b2c3",
     "calendar_name": "NOTION",
-    "new_date": "2025-04-30",
-    "new_start": "2025-04-30T12:00:00+00:00",
-    "new_end": "2025-04-30T13:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "830a96f906d4a3333edd11939f348b7d5f33f726e4a05dbed631f82909ba5a6e",
-    "version_id": "2690e781eee1c6fa9286998be61dab2bca2e95100224d370b77cf7208db2da4c",
-    "status": "new"
+    "version_id": "2690e781eee1c6fa9286998be61dab2bca2e95100224d370b77cf7208db2da4c"
   },
   {
     "date": "2025-04-30",
@@ -204,12 +203,11 @@
     "summary": "Finish Arundel partrners",
     "description": "\n\nNotion page: https://notion.so/1e3fd573fcec80df8f0ae6475ba1acfb",
     "calendar_name": "NOTION",
-    "new_date": "2025-04-30",
-    "new_start": "2025-04-30T12:00:00+00:00",
-    "new_end": "2025-04-30T13:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "c6aa71f9c89a17ae9f6cbd92b341b42bc1d30614e7813e56735a9d1ef617b727",
-    "version_id": "b1dd3ba7ec501585e92eb68c37323be834ba2e92b3ab50a261998d16a6f58afa",
-    "status": "new"
+    "version_id": "b1dd3ba7ec501585e92eb68c37323be834ba2e92b3ab50a261998d16a6f58afa"
   },
   {
     "date": "2025-04-30",
@@ -219,11 +217,40 @@
     "summary": "Analyze how they post stuff ( when, what type, how often, which pillars) ( use that profile from screenshot)",
     "description": "\n\nNotion page: https://notion.so/1e281cb7859080a59d58ca14de0d65f7",
     "calendar_name": "NOTION",
-    "new_date": "2025-04-30",
-    "new_start": "2025-04-30T16:00:00+00:00",
-    "new_end": "2025-04-30T18:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "3ef0a739b0d0c58ce3ae12a73cf189541a1042cfd5149ea978e53a0e08f15c45",
-    "version_id": "53983af1b8a902d0b561342840982b0893fc6353310c35749b5bbbd7c714ca13",
+    "version_id": "53983af1b8a902d0b561342840982b0893fc6353310c35749b5bbbd7c714ca13"
+  },
+  {
+    "date": "2025-05-01",
+    "start": "2025-05-01T12:00:00+00:00",
+    "end": "2025-05-01T13:00:00+00:00",
+    "value": 1,
+    "summary": "Generate plan, what you are going to post + create agents to help you with that stuff",
+    "description": "\n\nNotion page: https://notion.so/1e281cb7859080719003efae54231fb0",
+    "calendar_name": "NOTION",
+    "new_date": "2025-05-01",
+    "new_start": "2025-05-01T12:00:00+00:00",
+    "new_end": "2025-05-01T13:00:00+00:00",
+    "id": "464c398867391b8dee2932a9fa557d7fd3bd084fdada189f66142302113f57a7",
+    "version_id": "e1be8e1d77e59a870d6491349e6fba344ee03c18640b1903c8680fbb823471d5",
+    "status": "new"
+  },
+  {
+    "date": "2025-05-01",
+    "start": "2025-05-01T12:00:00+00:00",
+    "end": "2025-05-01T13:00:00+00:00",
+    "value": 1,
+    "summary": "Plan what exactly you are going to research now ( similar to what it is, but diff)",
+    "description": "\n\nNotion page: https://notion.so/1e2fd573fcec80abab52d6e31556f750",
+    "calendar_name": "NOTION",
+    "new_date": "2025-05-01",
+    "new_start": "2025-05-01T12:00:00+00:00",
+    "new_end": "2025-05-01T13:00:00+00:00",
+    "id": "a585731aaf9ff308ec528d9f93c44ab3836a9eb3f0a352375c0d88ee049ba4a7",
+    "version_id": "885d2665a426fd7f2098822aa42e922d82b5b4c2f07fc57b50d83b942c33ddd2",
     "status": "new"
   }
 ]
