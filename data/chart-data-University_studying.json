@@ -1412,5 +1412,20 @@
     "new_end": "",
     "id": "4d7c39bc8dd5e17d96c19b59dc7f99544ccaa6daf5ef9b462e7e75a8bfb1c15d",
     "version_id": "43ce6fe8cf6f741d0f891f3d910256aecadcd167303c32a56c9785f2ed3e3a90"
+  },
+  {
+    "date": "2025-05-02",
+    "start": "2025-05-02T12:00:00+00:00",
+    "end": "2025-05-02T16:00:00+00:00",
+    "value": 1,
+    "summary": "New Event",
+    "description": "(No description)",
+    "calendar_name": "University studying",
+    "new_date": "2025-05-02",
+    "new_start": "2025-05-02T12:00:00+00:00",
+    "new_end": "2025-05-02T16:00:00+00:00",
+    "id": "9401ea7ad07b749fd574de9c65a467b02a3b1ed94c5374672d18abd40cd75533",
+    "version_id": "730cc90246b6ccf0e72fa4bf77a65c880133dddfe44cb6d19632237e1d1f2018",
+    "status": "new"
   }
 ]

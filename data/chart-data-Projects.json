@@ -1827,11 +1827,25 @@
     "summary": "New Event",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2025-05-01",
-    "new_start": "2025-05-01T16:00:00+00:00",
-    "new_end": "2025-05-01T19:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "5b5257f2916e5cbe230d7877d169675b2974b9facb52d66a1d591ab10afc08a5",
-    "version_id": "d7c0d066ed7fe57fe75e6d3d2f4a867083799cea8298a390426399e9509f2079",
+    "version_id": "d7c0d066ed7fe57fe75e6d3d2f4a867083799cea8298a390426399e9509f2079"
+  },
+  {
+    "date": "2025-05-02",
+    "start": "2025-05-02T16:00:00+00:00",
+    "end": "2025-05-02T19:00:00+00:00",
+    "value": 1,
+    "summary": "New Event",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2025-05-02",
+    "new_start": "2025-05-02T16:00:00+00:00",
+    "new_end": "2025-05-02T19:00:00+00:00",
+    "id": "0cbdc4abda47bdf95d3397f261eebaae0275a1cead31218a44eb78eabc4a96d6",
+    "version_id": "a6fd8a7a8533ccddc41c37239d071645d3b3f872f0ddb4e58caff9075d96d4d8",
     "status": "new"
   }
 ]
