@@ -259,11 +259,10 @@
     "summary": "For certain types of posts you ca already schedule them",
     "description": "\n\nNotion page: https://notion.so/1e281cb7859080b3a265dc5c0e361fa2",
     "calendar_name": "NOTION",
-    "new_date": "2025-05-02",
-    "new_start": "2025-05-02T12:00:00+00:00",
-    "new_end": "2025-05-02T13:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "bca334d6b95012fc7ec7e239d464fe27430e131c4e61333ab4cf199448f63863",
-    "version_id": "871981bb20810d868de59b280806d93c522da3adee178d2b1db0c53424425588",
-    "status": "new"
+    "version_id": "871981bb20810d868de59b280806d93c522da3adee178d2b1db0c53424425588"
   }
 ]
