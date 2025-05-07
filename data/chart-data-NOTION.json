@@ -245,12 +245,11 @@
     "summary": "Plan + start with writing (Voltage battery)",
     "description": "\n\nNotion page: https://notion.so/1e2fd573fcec80f4ab9adaca2790c205",
     "calendar_name": "NOTION",
-    "new_date": "2025-05-06",
-    "new_start": "2025-05-06T09:30:00+00:00",
-    "new_end": "2025-05-06T11:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "704193154445fece820494c6d9ab7935fc187d1ecf452911baad1a151dfbb7ba",
-    "version_id": "1816577b5dbf2be9ec300d798ec6039779769a182d4ff72b2291039ddfd323eb",
-    "status": "new"
+    "version_id": "1816577b5dbf2be9ec300d798ec6039779769a182d4ff72b2291039ddfd323eb"
   },
   {
     "date": "2025-05-06",
@@ -260,12 +259,11 @@
     "summary": "Finish the writing ( Voltage battery)",
     "description": "\n\nNotion page: https://notion.so/1e2fd573fcec807ca06ec9bb4443d797",
     "calendar_name": "NOTION",
-    "new_date": "2025-05-06",
-    "new_start": "2025-05-06T11:30:00+00:00",
-    "new_end": "2025-05-06T12:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "0e6e2ef0d89a03c07f871ac5ac4ecb4ecb62bd49966f9965acf7405e42b156ec",
-    "version_id": "3dac6bab254ad649c040ff8d7a5d895f944d861e33a9a040b3c17ed27dcef5bf",
-    "status": "new"
+    "version_id": "3dac6bab254ad649c040ff8d7a5d895f944d861e33a9a040b3c17ed27dcef5bf"
   },
   {
     "date": "2025-05-06",
@@ -275,11 +273,25 @@
     "summary": "Generate plan, what you are going to post + create agents to help you with that stuff",
     "description": "\n\nNotion page: https://notion.so/1e281cb7859080719003efae54231fb0",
     "calendar_name": "NOTION",
-    "new_date": "2025-05-06",
-    "new_start": "2025-05-06T13:00:00+00:00",
-    "new_end": "2025-05-06T14:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "fb8b8bc0ee9a6b85703a1593fe0cbbb7cf5ffc6da8ca78e56fc69ae579a25721",
-    "version_id": "ae2b5719886b26a1f5add05fd193929951ce275e318266871e219dda2464a5de",
+    "version_id": "ae2b5719886b26a1f5add05fd193929951ce275e318266871e219dda2464a5de"
+  },
+  {
+    "date": "2025-05-07",
+    "start": "2025-05-07T13:00:00+00:00",
+    "end": "2025-05-07T14:00:00+00:00",
+    "value": 1,
+    "summary": "Plan interview with \u017duni\u010d, create all questions ",
+    "description": "\n\nNotion page: https://notion.so/1e2fd573fcec800ba5f7ebc484e9b2c3",
+    "calendar_name": "NOTION",
+    "new_date": "2025-05-07",
+    "new_start": "2025-05-07T13:00:00+00:00",
+    "new_end": "2025-05-07T14:00:00+00:00",
+    "id": "c3a3dd0d16e5fea38d84cc3cf111416f9524e7fa08a96b466a479342903450ed",
+    "version_id": "2e805965739de3470089a2e2e1d4a910e9a7d578c88c3304aa63ee516c0ff48d",
     "status": "new"
   }
 ]
