@@ -287,11 +287,10 @@
     "summary": "Plan interview with \u017duni\u010d, create all questions ",
     "description": "\n\nNotion page: https://notion.so/1e2fd573fcec800ba5f7ebc484e9b2c3",
     "calendar_name": "NOTION",
-    "new_date": "2025-05-07",
-    "new_start": "2025-05-07T13:00:00+00:00",
-    "new_end": "2025-05-07T14:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "c3a3dd0d16e5fea38d84cc3cf111416f9524e7fa08a96b466a479342903450ed",
-    "version_id": "2e805965739de3470089a2e2e1d4a910e9a7d578c88c3304aa63ee516c0ff48d",
-    "status": "new"
+    "version_id": "2e805965739de3470089a2e2e1d4a910e9a7d578c88c3304aa63ee516c0ff48d"
   }
 ]
