@@ -1897,11 +1897,25 @@
     "summary": "building",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2025-05-08",
-    "new_start": "2025-05-08T15:00:00+00:00",
-    "new_end": "2025-05-08T18:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "a13c847f08c0cfeea96f5a12b172ac70f018e06ac106b8af529abb9a9399b6f8",
-    "version_id": "4be476eac11b4ee4e4325226a9c44e4739ae95a939b8a165163572f0729b5aa6",
+    "version_id": "4be476eac11b4ee4e4325226a9c44e4739ae95a939b8a165163572f0729b5aa6"
+  },
+  {
+    "date": "2025-05-09",
+    "start": "2025-05-09T15:00:00+00:00",
+    "end": "2025-05-09T18:00:00+00:00",
+    "value": 1,
+    "summary": "building",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2025-05-09",
+    "new_start": "2025-05-09T15:00:00+00:00",
+    "new_end": "2025-05-09T18:00:00+00:00",
+    "id": "9acf1fe0e17b34f74e506791dbef89fe1d95866578130488c409320e7ce24a4f",
+    "version_id": "2f0884ecf1d79563b18936ea227f6c8b18e92d8a26a24ed2ba614cda2edf0824",
     "status": "new"
   }
 ]
