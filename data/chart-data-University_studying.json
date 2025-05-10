@@ -1426,5 +1426,20 @@
     "new_end": "",
     "id": "9401ea7ad07b749fd574de9c65a467b02a3b1ed94c5374672d18abd40cd75533",
     "version_id": "730cc90246b6ccf0e72fa4bf77a65c880133dddfe44cb6d19632237e1d1f2018"
+  },
+  {
+    "date": "2025-05-10",
+    "start": "2025-05-10T06:30:00+00:00",
+    "end": "2025-05-10T09:00:00+00:00",
+    "value": 1,
+    "summary": "uni",
+    "description": "go through arundel partners, hand in\nfinish voltage batter + create presentation",
+    "calendar_name": "University studying",
+    "new_date": "2025-05-10",
+    "new_start": "2025-05-10T06:30:00+00:00",
+    "new_end": "2025-05-10T09:00:00+00:00",
+    "id": "023513647bcfc645ff7d85e11c86eec15de932301bdf25986e28d79e47d73c82",
+    "version_id": "f635275c1ddf0c8b446a1afd1a8a4d74e7a30cedc96bc0bd7059a1bfa5c2a12b",
+    "status": "new"
   }
 ]

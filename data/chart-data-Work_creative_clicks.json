@@ -1015,11 +1015,10 @@
     "summary": "work CC",
     "description": "(No description)",
     "calendar_name": "Work creative clicks",
-    "new_date": "2025-05-09",
-    "new_start": "2025-05-09T07:00:00+00:00",
-    "new_end": "2025-05-09T14:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "16d8b607784ce3464d5f34cf0f4f19b9c6ae3219dd681ad2797b2e2645277a19",
-    "version_id": "22644f3dcce2f144c96002d55948ab0557d32143c8042e49871ce156e4d2ea57",
-    "status": "new"
+    "version_id": "22644f3dcce2f144c96002d55948ab0557d32143c8042e49871ce156e4d2ea57"
   }
 ]
