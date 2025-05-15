@@ -399,11 +399,10 @@
     "summary": "New Event",
     "description": "(No description)",
     "calendar_name": "Home",
-    "new_date": "2025-05-14",
-    "new_start": "2025-05-14T11:15:00+00:00",
-    "new_end": "2025-05-14T11:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "5107e752294db1c407fcd8da65d9d452ee59a20ee00c81753298e19ad73f4506",
-    "version_id": "f9843489cadd0887d5b7dab7a2d09e8fe1a4b929c503cc2a73e055e6b668906e",
-    "status": "new"
+    "version_id": "f9843489cadd0887d5b7dab7a2d09e8fe1a4b929c503cc2a73e055e6b668906e"
   }
 ]
