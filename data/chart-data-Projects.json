@@ -1925,12 +1925,11 @@
     "summary": "work",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2025-05-17",
-    "new_start": "2025-05-17T14:00:00+00:00",
-    "new_end": "2025-05-17T18:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "b47994f996e2c669eadb4c911abb95136173d7933b5e2adc7c9d98c885507dd8",
-    "version_id": "3e5b022e95bd24a13c7ada1e1bd42d84d287d9edd0e061c26a62848d7ae1131d",
-    "status": "new"
+    "version_id": "3e5b022e95bd24a13c7ada1e1bd42d84d287d9edd0e061c26a62848d7ae1131d"
   },
   {
     "date": "2025-05-18",
@@ -1940,11 +1939,25 @@
     "summary": "work",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2025-05-18",
-    "new_start": "2025-05-18T15:00:00+00:00",
-    "new_end": "2025-05-18T18:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "9e2c1f13ab07b4fe05755bf1d28b3918c5835d72d88f2fe7d3c24ae152506d7a",
-    "version_id": "6e2193c1ec3b942142d6ca6732133f73849ff97b3d781882541288db6615dfd5",
+    "version_id": "6e2193c1ec3b942142d6ca6732133f73849ff97b3d781882541288db6615dfd5"
+  },
+  {
+    "date": "2025-05-19",
+    "start": "2025-05-19T12:00:00+00:00",
+    "end": "2025-05-19T18:00:00+00:00",
+    "value": 1,
+    "summary": "work",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2025-05-19",
+    "new_start": "2025-05-19T12:00:00+00:00",
+    "new_end": "2025-05-19T18:00:00+00:00",
+    "id": "3ebdbf4aeccec1cbe0762e74b5d8b459022daed2ede28feab541ceaa9116f7b8",
+    "version_id": "9b3f0de8604b5395e92c05e838073a0cecfcb4f613e9cc3349128353eaac3ecd",
     "status": "new"
   }
 ]
