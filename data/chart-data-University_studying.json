@@ -1477,11 +1477,25 @@
     "summary": "exam",
     "description": "(No description)",
     "calendar_name": "University studying",
-    "new_date": "2025-05-19",
-    "new_start": "2025-05-19T07:00:00+00:00",
-    "new_end": "2025-05-19T11:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "8c4a28fbf9bbc02ee0ac5178c7c73e9b389086517f51b7e92f9b5348a4ca11b3",
-    "version_id": "68951972b85f8f9b989e1cae0e216210d5728164c02928a31c49970586ab6302",
+    "version_id": "68951972b85f8f9b989e1cae0e216210d5728164c02928a31c49970586ab6302"
+  },
+  {
+    "date": "2025-05-20",
+    "start": "2025-05-20T15:00:00+00:00",
+    "end": "2025-05-20T17:00:00+00:00",
+    "value": 1,
+    "summary": "exam",
+    "description": "(No description)",
+    "calendar_name": "University studying",
+    "new_date": "2025-05-20",
+    "new_start": "2025-05-20T15:00:00+00:00",
+    "new_end": "2025-05-20T17:00:00+00:00",
+    "id": "63740dbd061828309411b8f85b46217f7621f1b36887e3ed754e7c7290f0e8d1",
+    "version_id": "a398cd5dc59083388d21b91a248a33b14310c5f3c04ed7795e49586a2890caef",
     "status": "new"
   }
 ]

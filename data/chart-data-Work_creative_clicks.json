@@ -1034,5 +1034,20 @@
     "new_end": "",
     "id": "f39f9f63338a455851e2508b5f9016ba2a88b90c47ec0e1cb5442679d7f89131",
     "version_id": "683dda090f65e371a2634a5b23d8b8d5511d6e698aaa963de283ab4f73f1d0e1"
+  },
+  {
+    "date": "2025-05-20",
+    "start": "2025-05-20T07:00:00+00:00",
+    "end": "2025-05-20T14:00:00+00:00",
+    "value": 1,
+    "summary": "New Event",
+    "description": "(No description)",
+    "calendar_name": "Work creative clicks",
+    "new_date": "2025-05-20",
+    "new_start": "2025-05-20T07:00:00+00:00",
+    "new_end": "2025-05-20T14:00:00+00:00",
+    "id": "960b7fd223ddf5896e455733283a00171660ed5f48aec81da5d87cf94a2bf9ac",
+    "version_id": "a9ae2e6174c301b8831ac6176c8a5da1eb09a84aa494fe8236a3ea0f240aa3c8",
+    "status": "new"
   }
 ]
