@@ -1967,11 +1967,10 @@
     "summary": "work",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2025-05-21",
-    "new_start": "2025-05-21T12:00:00+00:00",
-    "new_end": "2025-05-21T17:55:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "a62dfa8f8e0e54b8d682532ee2d26430397d54710a379008a09e7e9f072fd020",
-    "version_id": "21ad23f1e9f5b6a49974caf5e2796964cca0bd6bb7b86197d64bd62c167e7443",
-    "status": "new"
+    "version_id": "21ad23f1e9f5b6a49974caf5e2796964cca0bd6bb7b86197d64bd62c167e7443"
   }
 ]
