@@ -6559,11 +6559,10 @@
     "summary": "Appointment",
     "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DNPip6FvfJv4bAhfqY3OdwZCugrXnz4bxc\n",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-05-22",
-    "new_start": "2025-05-22T13:20:00+00:00",
-    "new_end": "2025-05-22T14:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "cfeb1cfab25096bc12e7940d66a0efa5260c5ae72dec7bef7de9d4c181d14bd5",
-    "version_id": "fcd3940058986a88d913682d645b7eac815cb88ceb3ec704f6e81d2500bec67a",
-    "status": "new"
+    "version_id": "fcd3940058986a88d913682d645b7eac815cb88ceb3ec704f6e81d2500bec67a"
   }
 ]

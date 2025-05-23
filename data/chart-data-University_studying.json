@@ -1519,11 +1519,10 @@
     "summary": "exam",
     "description": "(No description)",
     "calendar_name": "University studying",
-    "new_date": "2025-05-22",
-    "new_start": "2025-05-22T06:00:00+00:00",
-    "new_end": "2025-05-22T09:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "b85c01f6ebc7e8c7e83beef962196023fcc29c5dd9348e305cc2529b68bc8afc",
-    "version_id": "69a52a5ddf644308cfe1c0ca5f80255014e8e7d82bb07ea6979d3558351448c0",
-    "status": "new"
+    "version_id": "69a52a5ddf644308cfe1c0ca5f80255014e8e7d82bb07ea6979d3558351448c0"
   }
 ]
