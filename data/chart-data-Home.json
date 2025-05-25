@@ -413,11 +413,10 @@
     "summary": "Hanci\u2764\ufe0f",
     "description": "(No description)",
     "calendar_name": "Home",
-    "new_date": "2025-05-24",
-    "new_start": "2025-05-24T09:00:00+00:00",
-    "new_end": "2025-05-24T09:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "0c1065f933efae7e5ce4b87a8e061fe73d1a3ef0164317f51f5210cb8bc51eec",
-    "version_id": "ee997fba6a89f99f6c4906c79478a5dfd40096bb578c86e2fb758c01ec3c24be",
-    "status": "new"
+    "version_id": "ee997fba6a89f99f6c4906c79478a5dfd40096bb578c86e2fb758c01ec3c24be"
   }
 ]
