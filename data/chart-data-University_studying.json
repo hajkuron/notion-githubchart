@@ -1524,5 +1524,20 @@
     "new_end": "",
     "id": "b85c01f6ebc7e8c7e83beef962196023fcc29c5dd9348e305cc2529b68bc8afc",
     "version_id": "69a52a5ddf644308cfe1c0ca5f80255014e8e7d82bb07ea6979d3558351448c0"
+  },
+  {
+    "date": "2025-05-27",
+    "start": "2025-05-27T15:30:00+00:00",
+    "end": "2025-05-27T17:45:00+00:00",
+    "value": 1,
+    "summary": "thesis",
+    "description": "get the dataset:\n- form crunchbase\n- founder data ",
+    "calendar_name": "University studying",
+    "new_date": "2025-05-27",
+    "new_start": "2025-05-27T15:30:00+00:00",
+    "new_end": "2025-05-27T17:45:00+00:00",
+    "id": "d3aa76def433fe51af8f1b8199bab29760ff46d5d78bb01b5d139b73adc70bc2",
+    "version_id": "0541b3a2bfebcc3545d91a94659297ad2aceb952a3071da1ab455e443ba0ed2d",
+    "status": "new"
   }
 ]
