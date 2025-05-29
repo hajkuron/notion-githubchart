@@ -6629,11 +6629,10 @@
     "summary": "pakiranje",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-05-28",
-    "new_start": "2025-05-28T15:00:00+00:00",
-    "new_end": "2025-05-28T17:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "9ff2e06ebd62ead4020cd62248461fe89c6c0ddd72729cd54a8040c4f8009d91",
-    "version_id": "23d63c27a2bd4bfcf3dff5aa7c7c7ba81e0bf2730b8e945b89ddf64e9b8b32fc",
-    "status": "new"
+    "version_id": "23d63c27a2bd4bfcf3dff5aa7c7c7ba81e0bf2730b8e945b89ddf64e9b8b32fc"
   }
 ]
