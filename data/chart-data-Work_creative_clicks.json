@@ -1071,11 +1071,10 @@
     "summary": "New Event",
     "description": "(No description)",
     "calendar_name": "Work creative clicks",
-    "new_date": "2025-05-29",
-    "new_start": "2025-05-29T06:00:00+00:00",
-    "new_end": "2025-05-29T14:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "880a96c97198016847dca9d75dbba8f856396c6b25cf0c1ca2a6fe35098cf0eb",
-    "version_id": "a63f116263c9e959585d608298385d6709ca201ec6cf49f667d4f3d36e7d038c",
-    "status": "new"
+    "version_id": "a63f116263c9e959585d608298385d6709ca201ec6cf49f667d4f3d36e7d038c"
   }
 ]
