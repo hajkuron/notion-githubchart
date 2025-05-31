@@ -6634,5 +6634,20 @@
     "new_end": "",
     "id": "9ff2e06ebd62ead4020cd62248461fe89c6c0ddd72729cd54a8040c4f8009d91",
     "version_id": "23d63c27a2bd4bfcf3dff5aa7c7c7ba81e0bf2730b8e945b89ddf64e9b8b32fc"
+  },
+  {
+    "date": "2025-06-01",
+    "start": "2025-06-01T02:30:00+00:00",
+    "end": "2025-06-01T02:45:00+00:00",
+    "value": 1,
+    "summary": "Weekly check up of goals NOTION",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2025-06-01",
+    "new_start": "2025-06-01T02:30:00+00:00",
+    "new_end": "2025-06-01T02:45:00+00:00",
+    "id": "2d9b5ed41a04e9d9d04875262971afe662a0b9788eb3520adce0f91492632fe6",
+    "version_id": "fac18032061fcb14f6c358d33898f62656ff0cac2f7ba808836c8c2075066e2c",
+    "status": "new"
   }
 ]

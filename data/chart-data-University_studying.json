@@ -1561,11 +1561,10 @@
     "summary": "thesis",
     "description": "get the dataset:\n- form crunchbase\n- founder data ",
     "calendar_name": "University studying",
-    "new_date": "2025-05-30",
-    "new_start": "2025-05-30T06:30:00+00:00",
-    "new_end": "2025-05-30T10:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "cb4f3454f04273a1436f709903d7781eaa82c126e4cbfbda7bb0cee1b495809a",
-    "version_id": "98ab8f2a9ad59c2d6cb1cc5e4c92f650bb4f28876dc14e11ae1cb61b914924df",
-    "status": "new"
+    "version_id": "98ab8f2a9ad59c2d6cb1cc5e4c92f650bb4f28876dc14e11ae1cb61b914924df"
   }
 ]
