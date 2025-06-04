@@ -1,32 +1,17 @@
 [
   {
-    "date": "2025-03-11",
-    "start": "2025-03-11T12:30:00+00:00",
-    "end": "2025-03-11T14:15:00+00:00",
-    "value": 1,
-    "summary": "International Entrepreneurship (HC)",
-    "description": "Registered for this activity: Yes\n\nType: Lecture\n\nCourse code: E_ENT_IENT\n\nLocation(s):\nHG-10A00 (200/50T)\n\nStaff member(s): Bacco, F.\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2025-06-03 at 04:34 CEST",
-    "calendar_name": "VU Amsterdam - Personal timetable: Kuhar, J. (Jon)",
-    "new_date": "2025-03-11",
-    "new_start": "2025-03-11T12:30:00+00:00",
-    "new_end": "2025-03-11T14:15:00+00:00",
-    "id": "f3ae80af3d778101fb70e9ec4b5093cf6aa0e25ac5bc754710320fa7e86a1ec4",
-    "version_id": "38183e20026eb4efa717b2d0b58dedff9c148579095619d7707b9074ed6dd7cb",
-    "status": "new"
-  },
-  {
     "date": "2025-03-12",
     "start": "2025-03-12T08:00:00+00:00",
     "end": "2025-03-12T09:45:00+00:00",
     "value": 1,
     "summary": "Thesis Proposal Entrepreneurship (WG)",
-    "description": "Registered for this activity: Yes\n\nType: Seminar group\n\nCourse code: E_ENT_TPE\n\nLocation(s):\nNU-4A06 (60/22T)\n\nStaff member(s): Mulhuijzen, M.\n\nWG01\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2025-06-03 at 04:34 CEST",
+    "description": "Registered for this activity: Yes\n\nType: Seminar group\n\nCourse code: E_ENT_TPE\n\nLocation(s):\nNU-4A06 (60/22T)\n\nStaff member(s): Mulhuijzen, M.\n\nWG01\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2025-06-04 at 03:34 CEST",
     "calendar_name": "VU Amsterdam - Personal timetable: Kuhar, J. (Jon)",
     "new_date": "2025-03-12",
     "new_start": "2025-03-12T08:00:00+00:00",
     "new_end": "2025-03-12T09:45:00+00:00",
-    "id": "182d0e7893c4490211dc2b775547025a649911db987b64f39618d03e3ac10fa6",
-    "version_id": "999e722f9c7045ffd92f4760711bc00f99e92b322c7de9b134f523bf52761598",
+    "id": "8d2dfe81770af87b973c6280344e6b446db4a762fcf09fb715fc486e61a114ba",
+    "version_id": "cdf4132065ae3b8941061e45d52e0469a7d753e1b1521b60f8f7bd34335cbef0",
     "status": "new"
   },
   {
@@ -35,13 +20,13 @@
     "end": "2025-03-12T16:15:00+00:00",
     "value": 1,
     "summary": "International Entrepreneurship (WG)",
-    "description": "Registered for this activity: Yes\n\nType: Seminar group\n\nCourse code: E_ENT_IENT\n\nLocation(s):\nHG-10A41 (30/15T)\n\nWG04\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2025-06-03 at 04:34 CEST",
+    "description": "Registered for this activity: Yes\n\nType: Seminar group\n\nCourse code: E_ENT_IENT\n\nLocation(s):\nHG-10A41 (30/15T)\n\nWG04\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2025-06-04 at 03:34 CEST",
     "calendar_name": "VU Amsterdam - Personal timetable: Kuhar, J. (Jon)",
     "new_date": "2025-03-12",
     "new_start": "2025-03-12T14:30:00+00:00",
     "new_end": "2025-03-12T16:15:00+00:00",
-    "id": "b69f4ed4f10a0c375095ba4003bdc675d450a7f34374399c4db7b3c2ae5657dc",
-    "version_id": "f57f551ff96890d9d2621ae1b48b068fac3224ba828076204e456499743c0d0d",
+    "id": "007094f644033b801da716e3b4c83d68b903fd1f9fbd3ce71b26d8fffb910d62",
+    "version_id": "94c1f89f399f5f9c9ad5d00eb0059623caa56a31933372cffcb1e8067a01d36e",
     "status": "new"
   },
   {
@@ -50,13 +35,13 @@
     "end": "2025-03-14T09:45:00+00:00",
     "value": 1,
     "summary": "Thesis Proposal Entrepreneurship (WG)",
-    "description": "Registered for this activity: Yes\n\nType: Seminar group\n\nCourse code: E_ENT_TPE\n\nLocation(s):\nNU-3A57 (54/27T)\n\nStaff member(s): Mulhuijzen, M.\n\nWG01\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2025-06-03 at 04:34 CEST",
+    "description": "Registered for this activity: Yes\n\nType: Seminar group\n\nCourse code: E_ENT_TPE\n\nLocation(s):\nNU-3A57 (54/27T)\n\nStaff member(s): Mulhuijzen, M.\n\nWG01\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2025-06-04 at 03:34 CEST",
     "calendar_name": "VU Amsterdam - Personal timetable: Kuhar, J. (Jon)",
     "new_date": "2025-03-14",
     "new_start": "2025-03-14T08:00:00+00:00",
     "new_end": "2025-03-14T09:45:00+00:00",
-    "id": "846ccb400a53ac7accbb6e90bb134d55158d84c88ad36817af6134344641fe99",
-    "version_id": "84be6e94814874c73f1c73ec2d2bc8245bef2b430ef7fdabd7226136daf0f3c3",
+    "id": "0954e86d8bacfbeea9ef7aba02ad223a94ce70ae9a9f6d1eb2e2c605abf2545b",
+    "version_id": "483f66869f67bdd777044692357e48e696b31448a4198c87b669e41d7a203c38",
     "status": "new"
   },
   {
@@ -65,13 +50,13 @@
     "end": "2025-03-25T20:00:00+00:00",
     "value": 1,
     "summary": "International Entrepreneurship (DT)",
-    "description": "Registered for this activity: Yes\n\nType: Digital exam\n\nCourse code: E_ENT_IENT\n\nLocation(s):\n(T) TenT blok 7 Geel (44)\n(T) TenT blok 8 Zwart (107)\n\nStaff member(s): Bacco, F.\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2025-06-03 at 04:34 CEST",
+    "description": "Registered for this activity: Yes\n\nType: Digital exam\n\nCourse code: E_ENT_IENT\n\nLocation(s):\n(T) TenT blok 7 Geel (44)\n(T) TenT blok 8 Zwart (107)\n\nStaff member(s): Bacco, F.\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2025-06-04 at 03:34 CEST",
     "calendar_name": "VU Amsterdam - Personal timetable: Kuhar, J. (Jon)",
     "new_date": "2025-03-25",
     "new_start": "2025-03-25T17:45:00+00:00",
     "new_end": "2025-03-25T20:00:00+00:00",
-    "id": "550638d688429f2ab7e97eaa441adaa392d60b8ea44eec72fab44e27ecb703d9",
-    "version_id": "4f14ac71534c0192bb82c4663220d52cc130f92562580f365a116683429ea0b7",
+    "id": "52cec1b86e89fe427fcfbbb6d8c7c8b130eae1e8d002e7f2a133a0236e4aec17",
+    "version_id": "62831a7136f3bf006dffd21507f717511544e4df15d2d26306a0026244a7f23e",
     "status": "new"
   },
   {
@@ -80,13 +65,13 @@
     "end": "2025-05-22T12:30:00+00:00",
     "value": 1,
     "summary": "International Entrepreneurship (DHT)",
-    "description": "Registered for this activity: Yes\n\nType: Digital resit\n\nCourse code: E_ENT_IENT\n\nLocation(s):\n(T) HG-02B02-J (23)\n\nStaff member(s): Bacco, F.\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2025-06-03 at 04:34 CEST",
+    "description": "Registered for this activity: Yes\n\nType: Digital resit\n\nCourse code: E_ENT_IENT\n\nLocation(s):\n(T) HG-02B02-J (23)\n\nStaff member(s): Bacco, F.\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2025-06-04 at 03:34 CEST",
     "calendar_name": "VU Amsterdam - Personal timetable: Kuhar, J. (Jon)",
     "new_date": "2025-05-22",
     "new_start": "2025-05-22T10:15:00+00:00",
     "new_end": "2025-05-22T12:30:00+00:00",
-    "id": "b200d7a635c3e2461a62490fa38058f0384a3f4615a06a1653b65308ddd7c909",
-    "version_id": "a89b5a6c70e60ea37cc6108b959a068d6cfa509afcc291ec7ddcaf97b4598827",
+    "id": "f7d9460ab09afbebf8466f1af906ce5fe15fd0ea76d2336e90646e8daea2ee06",
+    "version_id": "7263a5218e630936fb38c79ac1fb3d71e13d71daa14ed79434465ae01216c460",
     "status": "new"
   }
 ]
