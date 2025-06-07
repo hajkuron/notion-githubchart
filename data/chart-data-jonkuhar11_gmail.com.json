@@ -6685,11 +6685,25 @@
     "summary": "1 Percurso with Family Golf Park",
     "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DP8UL4HwxzCGRNItiwkL9YAtlXt5H8LmRA\n",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-06-04",
-    "new_start": "2025-06-04T23:00:00+00:00",
-    "new_end": "2025-06-05T23:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "da33b50de1d11b54973b204dc7f8aa6d045473633c239f039ee4750ffb066edb",
-    "version_id": "5688cf190beafcb39c06c9a13cab10176bf0273bd1395b085e441df4c628b080",
+    "version_id": "5688cf190beafcb39c06c9a13cab10176bf0273bd1395b085e441df4c628b080"
+  },
+  {
+    "date": "2025-06-08",
+    "start": "2025-06-08T02:30:00+00:00",
+    "end": "2025-06-08T02:45:00+00:00",
+    "value": 1,
+    "summary": "Weekly check up of goals NOTION",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2025-06-08",
+    "new_start": "2025-06-08T02:30:00+00:00",
+    "new_end": "2025-06-08T02:45:00+00:00",
+    "id": "550ae7a912ae6dbec6753dfeaa698a0dffb4f9efc376a51d149c6917768ac7d7",
+    "version_id": "42a0ff358040c6c5d9635fde6df5b96eb9b97cb75099ff98b4e0f23a6228ca8f",
     "status": "new"
   }
 ]
