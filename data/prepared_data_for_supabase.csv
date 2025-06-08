@@ -1,8 +1,5 @@
 date,start,end,value,summary,description,calendar_name,new_date,new_start,new_end,id,version_id,status,duration,deleted
-2025-06-02,2025-06-02T16:20:00+00:00,2025-06-02T19:05:00+00:00,1.0,Flight to Porto (HV 6001),"To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
-
-This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DOuO5Xw6EWyn7FKKCauJGXeXaf9oXKPOeI
-",jonkuhar11@gmail.com,2025-06-02,2025-06-02T16:20:00+00:00,2025-06-02T19:05:00+00:00,cd6a9f4dceb3b02775f4726d9598ed63fe1335b403b95f804da09d338dde6311,956e8e6904e32ff22100594e4e2753ab8246806b1c785c92b3d8f1da8fe709a0,unchanged,165.0,False
+2025-06-08,2025-06-08T11:00:00+00:00,2025-06-08T13:00:00+00:00,1.0,football,(No description),Fitness,2025-06-08,2025-06-08T11:00:00+00:00,2025-06-08T13:00:00+00:00,a5d1dd3047e1e042b8aa6e66f256766e3ada14cd6c37402333a637f0574cb561,342c89663a0494839198816c181298cccfb5fa4ac373e24e83fba23967393e5e,new,120.0,False
 2025-06-04,2025-06-04T06:00:00+00:00,2025-06-04T06:30:00+00:00,1.0,Forough Zarea's Zoom Meeting,"Hi Jon,
 Please check if this time/date works for.you.
 
@@ -47,4 +44,4 @@ Passcode: 270357
 
 This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DP8UL4HwxzCGRNItiwkL9YAtlXt5H8LmRA
 ",jonkuhar11@gmail.com,2025-06-04,2025-06-04T23:00:00+00:00,2025-06-05T23:00:00+00:00,da33b50de1d11b54973b204dc7f8aa6d045473633c239f039ee4750ffb066edb,5688cf190beafcb39c06c9a13cab10176bf0273bd1395b085e441df4c628b080,unchanged,1440.0,False
-2025-06-08,2025-06-08T02:30:00+00:00,2025-06-08T02:45:00+00:00,1.0,Weekly check up of goals NOTION,(No description),jonkuhar11@gmail.com,2025-06-08,2025-06-08T02:30:00+00:00,2025-06-08T02:45:00+00:00,550ae7a912ae6dbec6753dfeaa698a0dffb4f9efc376a51d149c6917768ac7d7,42a0ff358040c6c5d9635fde6df5b96eb9b97cb75099ff98b4e0f23a6228ca8f,new,15.0,False
+2025-06-08,2025-06-08T02:30:00+00:00,2025-06-08T02:45:00+00:00,1.0,Weekly check up of goals NOTION,(No description),jonkuhar11@gmail.com,2025-06-08,2025-06-08T02:30:00+00:00,2025-06-08T02:45:00+00:00,550ae7a912ae6dbec6753dfeaa698a0dffb4f9efc376a51d149c6917768ac7d7,42a0ff358040c6c5d9635fde6df5b96eb9b97cb75099ff98b4e0f23a6228ca8f,unchanged,15.0,False
