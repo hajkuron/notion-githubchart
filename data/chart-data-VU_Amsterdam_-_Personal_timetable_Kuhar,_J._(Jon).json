@@ -5,13 +5,13 @@
     "end": "2025-03-25T20:00:00+00:00",
     "value": 1,
     "summary": "International Entrepreneurship (DT)",
-    "description": "Registered for this activity: Yes\n\nType: Digital exam\n\nCourse code: E_ENT_IENT\n\nLocation(s):\n(T) TenT blok 7 Geel (44)\n(T) TenT blok 8 Zwart (107)\n\nStaff member(s): Bacco, F.\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2025-06-09 at 21:34 CEST",
+    "description": "Registered for this activity: Yes\n\nType: Digital exam\n\nCourse code: E_ENT_IENT\n\nLocation(s):\n(T) TenT blok 7 Geel (44)\n(T) TenT blok 8 Zwart (107)\n\nStaff member(s): Bacco, F.\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2025-06-11 at 01:34 CEST",
     "calendar_name": "VU Amsterdam - Personal timetable: Kuhar, J. (Jon)",
     "new_date": "2025-03-25",
     "new_start": "2025-03-25T17:45:00+00:00",
     "new_end": "2025-03-25T20:00:00+00:00",
-    "id": "a4aaa40c1c6f7d4581a2ac4ddb02261df771a8cb471c33b9e5692978b0cce91d",
-    "version_id": "617a0f726856cd18bfed820f88f15d843b1c328e23d94ae8e1d3a27aa97a85c6",
+    "id": "6d3b37345d02d3a364e21d3216d5131d0812800d4668cdd2f3e32e2e760c6d86",
+    "version_id": "bcf01af45ef4f0f3027e9450ebc0874e1003bc273354da1ffe15d80bcf0ed1b1",
     "status": "new"
   },
   {
@@ -20,13 +20,13 @@
     "end": "2025-05-22T12:30:00+00:00",
     "value": 1,
     "summary": "International Entrepreneurship (DHT)",
-    "description": "Registered for this activity: Yes\n\nType: Digital resit\n\nCourse code: E_ENT_IENT\n\nLocation(s):\n(T) HG-02B02-J (23)\n\nStaff member(s): Bacco, F.\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2025-06-09 at 21:34 CEST",
+    "description": "Registered for this activity: Yes\n\nType: Digital resit\n\nCourse code: E_ENT_IENT\n\nLocation(s):\n(T) HG-02B02-J (23)\n\nStaff member(s): Bacco, F.\n\nThis appointment is managed by VU Timetable.\n\nLast synchronised on 2025-06-11 at 01:34 CEST",
     "calendar_name": "VU Amsterdam - Personal timetable: Kuhar, J. (Jon)",
     "new_date": "2025-05-22",
     "new_start": "2025-05-22T10:15:00+00:00",
     "new_end": "2025-05-22T12:30:00+00:00",
-    "id": "22c145046682109000bc11c0e505ef2903cc082e684d3fb64ebd4f36b32cfa14",
-    "version_id": "9f048bd7120ff197bb564f05d4212cd4b68846f7b6b3c5ce4ec28dbec40f4690",
+    "id": "7b319127aa1f24830986931de1235bef50f7fc150911610a70d286eecef8d783",
+    "version_id": "707f353eeb0a8575ca67fdc07b7b33ae7bbaa02090b3c4c8d0a47ec3e02e26a8",
     "status": "new"
   }
 ]
