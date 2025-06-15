@@ -1,10 +1,3 @@
 date,start,end,value,summary,description,calendar_name,new_date,new_start,new_end,id,version_id,status,duration,deleted
-2025-06-09,2025-06-09T16:25:00+00:00,2025-06-09T18:15:00+00:00,1.0,Bus to Porto (Airport),"To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
-
-This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DOKS4ZjadN7D6VciJz44ICdWdaJzndYoKE
-",jonkuhar11@gmail.com,2025-06-09,2025-06-09T16:25:00+00:00,2025-06-09T18:15:00+00:00,821aaa32627d1f3bbfa963a03f1711459d556421a350ccb6c3cea3461db41822,03de69c53095d2488d902eac3d6d891cec6deb4a697ed5aff3790ce81369c682,unchanged,110.0,False
-2025-06-09,2025-06-09T19:55:00+00:00,2025-06-09T22:30:00+00:00,1.0,Flight to Amsterdam (HV 6002),"To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
-
-This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DOuO5Xw6EWyn7FKKCauJGXeXaf9oXKPOeI
-",jonkuhar11@gmail.com,2025-06-09,2025-06-09T19:55:00+00:00,2025-06-09T22:30:00+00:00,c90e0e4fa052960ca1592a09947b2c210d014eaf98803c3df6512505467edc99,c63e0f460c667f7a9ac0245629194191f7f4cb0469cf5d5bb7bd7e93f5e7e7ac,unchanged,155.0,False
-2025-06-15,2025-06-15T02:30:00+00:00,2025-06-15T02:45:00+00:00,1.0,Weekly check up of goals NOTION,(No description),jonkuhar11@gmail.com,2025-06-15,2025-06-15T02:30:00+00:00,2025-06-15T02:45:00+00:00,e832ebf797486973e02ef9e64b86e99882b330ea1996d4ae2709718786ba11c3,2ffbc5db37e56bd02a435c27797693233dd110b8023af07cdb57bd4848aa3a66,new,15.0,False
+2025-06-15,2025-06-15T11:00:00+00:00,2025-06-15T13:00:00+00:00,1.0,football,(No description),Fitness,2025-06-15,2025-06-15T11:00:00+00:00,2025-06-15T13:00:00+00:00,9e6f8c913cf6d32b440fc1fcdfe0b19ba1245be07adab50f4c76dd23b6dadc81,e741d727af4029da08483bd34795fc54903b4456b829c6fb9f97c190a1947cbf,new,120.0,False
+2025-06-15,2025-06-15T02:30:00+00:00,2025-06-15T02:45:00+00:00,1.0,Weekly check up of goals NOTION,(No description),jonkuhar11@gmail.com,2025-06-15,2025-06-15T02:30:00+00:00,2025-06-15T02:45:00+00:00,e832ebf797486973e02ef9e64b86e99882b330ea1996d4ae2709718786ba11c3,2ffbc5db37e56bd02a435c27797693233dd110b8023af07cdb57bd4848aa3a66,unchanged,15.0,False
