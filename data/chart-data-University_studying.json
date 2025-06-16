@@ -1566,5 +1566,20 @@
     "new_end": "",
     "id": "cb4f3454f04273a1436f709903d7781eaa82c126e4cbfbda7bb0cee1b495809a",
     "version_id": "98ab8f2a9ad59c2d6cb1cc5e4c92f650bb4f28876dc14e11ae1cb61b914924df"
+  },
+  {
+    "date": "2025-06-16",
+    "start": "2025-06-16T06:00:00+00:00",
+    "end": "2025-06-16T10:00:00+00:00",
+    "value": 1,
+    "summary": "koncej diplomsko, napis use",
+    "description": "(No description)",
+    "calendar_name": "University studying",
+    "new_date": "2025-06-16",
+    "new_start": "2025-06-16T06:00:00+00:00",
+    "new_end": "2025-06-16T10:00:00+00:00",
+    "id": "27e366200ba3dcde20e5749bf9e0e3734078bacebcaa483d5d3aadb2b5672310",
+    "version_id": "a839e3241b3251555f7d301933b9477d6acdeb9a4b2f96b163456f2d946bed97",
+    "status": "new"
   }
 ]
