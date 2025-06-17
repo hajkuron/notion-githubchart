@@ -6755,12 +6755,11 @@
     "summary": "motor deregistracija",
     "description": "najprej do trafike ce pa nebo se pa zafuri drgm\n",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-06-16",
-    "new_start": "2025-06-16T12:00:00+00:00",
-    "new_end": "2025-06-16T13:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "4b7fcf196433080ef4fe8db935f1e2064710630d369ae1d2a2e4338277a77c44",
-    "version_id": "429419cd0301a4c26e55ba500faa0b0502d5ee7eb06c91e6dcc0485b8580236b",
-    "status": "new"
+    "version_id": "429419cd0301a4c26e55ba500faa0b0502d5ee7eb06c91e6dcc0485b8580236b"
   },
   {
     "date": "2025-06-16",
@@ -6770,12 +6769,11 @@
     "summary": "prijav se na naslov, izpolv use",
     "description": "najprej do trafike ce pa nebo se pa zafuri drgm\n",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-06-16",
-    "new_start": "2025-06-16T13:00:00+00:00",
-    "new_end": "2025-06-16T14:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "108f5073818121872c72111c4432d8b73514f5d60d541505c40b4fb462167785",
-    "version_id": "f93edbeede53ce66bf569d23dddc388b5ae97ff7cdc0ddadddd3d624beacec5a",
-    "status": "new"
+    "version_id": "f93edbeede53ce66bf569d23dddc388b5ae97ff7cdc0ddadddd3d624beacec5a"
   },
   {
     "date": "2025-06-16",
@@ -6785,11 +6783,25 @@
     "summary": "pospravljanje",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-06-16",
-    "new_start": "2025-06-16T15:00:00+00:00",
-    "new_end": "2025-06-16T16:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "316259f67f472957ed30e8498f8850a98c8ad6ef59c96be1a28ad52b42701db0",
-    "version_id": "a7521a6a20658894c6a276ff6cd2cb444dce6898d3eab080f310470a3edaff14",
+    "version_id": "a7521a6a20658894c6a276ff6cd2cb444dce6898d3eab080f310470a3edaff14"
+  },
+  {
+    "date": "2025-06-17",
+    "start": "2025-06-17T17:00:00+00:00",
+    "end": "2025-06-17T18:00:00+00:00",
+    "value": 1,
+    "summary": "tarok",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2025-06-17",
+    "new_start": "2025-06-17T17:00:00+00:00",
+    "new_end": "2025-06-17T18:00:00+00:00",
+    "id": "64510090138027638f8cbfed50112a3ae863aaccd8a0afe6fd40590d2104a76f",
+    "version_id": "51f80cbc246b27018f6fe64526ccec874af6126f5370e116b4ba0491f0b9145e",
     "status": "new"
   }
 ]

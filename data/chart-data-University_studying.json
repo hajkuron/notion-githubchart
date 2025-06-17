@@ -1575,11 +1575,25 @@
     "summary": "koncej diplomsko, napis use",
     "description": "(No description)",
     "calendar_name": "University studying",
-    "new_date": "2025-06-16",
-    "new_start": "2025-06-16T06:00:00+00:00",
-    "new_end": "2025-06-16T10:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "27e366200ba3dcde20e5749bf9e0e3734078bacebcaa483d5d3aadb2b5672310",
-    "version_id": "a839e3241b3251555f7d301933b9477d6acdeb9a4b2f96b163456f2d946bed97",
+    "version_id": "a839e3241b3251555f7d301933b9477d6acdeb9a4b2f96b163456f2d946bed97"
+  },
+  {
+    "date": "2025-06-17",
+    "start": "2025-06-17T15:00:00+00:00",
+    "end": "2025-06-17T16:00:00+00:00",
+    "value": 1,
+    "summary": "predstavitev mal ponovi",
+    "description": "(No description)",
+    "calendar_name": "University studying",
+    "new_date": "2025-06-17",
+    "new_start": "2025-06-17T15:00:00+00:00",
+    "new_end": "2025-06-17T16:00:00+00:00",
+    "id": "382801a6821493a12113dab436387a0f9ab228235f1039ef3fb7059763acc4fc",
+    "version_id": "79da5419330549e266881dcf262362a4711f19749fc17d7d467600e1d768df9f",
     "status": "new"
   }
 ]
