@@ -1583,17 +1583,16 @@
   },
   {
     "date": "2025-06-17",
-    "start": "2025-06-17T15:00:00+00:00",
-    "end": "2025-06-17T16:00:00+00:00",
+    "start": "2025-06-17T14:00:00+00:00",
+    "end": "2025-06-17T15:00:00+00:00",
     "value": 1,
     "summary": "predstavitev mal ponovi",
     "description": "(No description)",
     "calendar_name": "University studying",
-    "new_date": "2025-06-17",
-    "new_start": "2025-06-17T15:00:00+00:00",
-    "new_end": "2025-06-17T16:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "382801a6821493a12113dab436387a0f9ab228235f1039ef3fb7059763acc4fc",
-    "version_id": "79da5419330549e266881dcf262362a4711f19749fc17d7d467600e1d768df9f",
-    "status": "new"
+    "version_id": "95c181778303f0a719b19281c25dfe151f2c2670abad88d893b35cb1050e8e95"
   }
 ]
