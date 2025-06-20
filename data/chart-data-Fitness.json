@@ -2597,11 +2597,10 @@
     "summary": "gym",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2025-06-19",
-    "new_start": "2025-06-19T06:00:00+00:00",
-    "new_end": "2025-06-19T07:15:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "a2efad901728150b88b6f8fa3ad5bab85c772f479b261d39f204c379531d6452",
-    "version_id": "35c10b8c31bf64147a4be97b2817a310da140da3c65956d033678a34964ec4b4",
-    "status": "new"
+    "version_id": "35c10b8c31bf64147a4be97b2817a310da140da3c65956d033678a34964ec4b4"
   }
 ]

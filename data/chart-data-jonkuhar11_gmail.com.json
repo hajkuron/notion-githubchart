@@ -6825,12 +6825,11 @@
     "summary": "packing everything",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-06-19",
-    "new_start": "2025-06-19T08:00:00+00:00",
-    "new_end": "2025-06-19T09:15:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "baadf4c06f84322b1c325e782a8dc2cd79b18105f62af30948ed48fa572140ad",
-    "version_id": "a3447c31d9ff0a09859ec421394ebee57c2e4d8bd7bdc396b863af9a370151f8",
-    "status": "new"
+    "version_id": "a3447c31d9ff0a09859ec421394ebee57c2e4d8bd7bdc396b863af9a370151f8"
   },
   {
     "date": "2025-06-19",
@@ -6840,12 +6839,11 @@
     "summary": "cleaning everything",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-06-19",
-    "new_start": "2025-06-19T09:30:00+00:00",
-    "new_end": "2025-06-19T13:15:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "5f8f439957e6d8c78fc3209288aca77fcd79486dd44c24c1d2e453e35cf81f8e",
-    "version_id": "55ba3021b5ca6b0ce7c9f4964e3264522d9b2acd87dce5f0d69abf24a16fa4a2",
-    "status": "new"
+    "version_id": "55ba3021b5ca6b0ce7c9f4964e3264522d9b2acd87dce5f0d69abf24a16fa4a2"
   },
   {
     "date": "2025-06-19",
@@ -6855,11 +6853,25 @@
     "summary": "Appointment",
     "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DMsAr9N4lf3z3AvHC2aLJ3OicppbbhWxyU\n",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-06-19",
-    "new_start": "2025-06-19T15:10:00+00:00",
-    "new_end": "2025-06-19T15:50:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "863203d00dbae326150c35ec6a63c0a804a58ef436a6403867df95dfc38f6d07",
-    "version_id": "fc34fad2211ea2a38bbcabc3e43d2005e42c4ae99efa81713c9a55cd51457b2f",
+    "version_id": "fc34fad2211ea2a38bbcabc3e43d2005e42c4ae99efa81713c9a55cd51457b2f"
+  },
+  {
+    "date": "2025-06-20",
+    "start": "2025-06-20T04:30:00+00:00",
+    "end": "2025-06-20T06:15:00+00:00",
+    "value": 1,
+    "summary": "Flight to Ljubljana (HV 6819)",
+    "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DNEuqHADQudHhEIewFlmDRHiUfSM1QiXRg\n",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2025-06-20",
+    "new_start": "2025-06-20T04:30:00+00:00",
+    "new_end": "2025-06-20T06:15:00+00:00",
+    "id": "77c099499ad4fd0214aba4ffe19801b3b639b4f37159bd9aab600ba43922f365",
+    "version_id": "24d020fad04ac05eb54f25aaac9b99aa76115f36e2e19478d596227fbef1ddb1",
     "status": "new"
   }
 ]
