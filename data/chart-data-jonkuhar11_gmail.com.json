@@ -6867,11 +6867,25 @@
     "summary": "Flight to Ljubljana (HV 6819)",
     "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DNEuqHADQudHhEIewFlmDRHiUfSM1QiXRg\n",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-06-20",
-    "new_start": "2025-06-20T04:30:00+00:00",
-    "new_end": "2025-06-20T06:15:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "77c099499ad4fd0214aba4ffe19801b3b639b4f37159bd9aab600ba43922f365",
-    "version_id": "24d020fad04ac05eb54f25aaac9b99aa76115f36e2e19478d596227fbef1ddb1",
+    "version_id": "24d020fad04ac05eb54f25aaac9b99aa76115f36e2e19478d596227fbef1ddb1"
+  },
+  {
+    "date": "2025-06-22",
+    "start": "2025-06-22T02:30:00+00:00",
+    "end": "2025-06-22T02:45:00+00:00",
+    "value": 1,
+    "summary": "Weekly check up of goals NOTION",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2025-06-22",
+    "new_start": "2025-06-22T02:30:00+00:00",
+    "new_end": "2025-06-22T02:45:00+00:00",
+    "id": "25ca297661def32b0bce0a13012a2bec6c8f0d28a26a35ea5b62f8dd646db429",
+    "version_id": "8e31aa9e50effc4e3bc9f9a3c3b55fadbaea137c87dec3661eba3ee1d0ae6421",
     "status": "new"
   }
 ]
