@@ -1,47 +1,7 @@
 date,start,end,value,summary,description,calendar_name,new_date,new_start,new_end,id,version_id,status,duration,deleted
-2025-06-18,2025-06-18T07:30:00+00:00,2025-06-18T14:00:00+00:00,1.0,workl,(No description),Work creative clicks,2025-06-18,2025-06-18T07:30:00+00:00,2025-06-18T14:00:00+00:00,159d0ce779fe1158c03acaef4a1d4e28380ebae21c49fd9c059cd0e56f72e374,09a8ecf627aa426f335ec3041f32f4f91d07f45d4f845e01a9d420ed955de014,unchanged,390.0,False
 2025-06-19,2025-06-19T06:00:00+00:00,2025-06-19T07:15:00+00:00,1.0,gym,(No description),Fitness,2025-06-19,2025-06-19T06:00:00+00:00,2025-06-19T07:15:00+00:00,a2efad901728150b88b6f8fa3ad5bab85c772f479b261d39f204c379531d6452,35c10b8c31bf64147a4be97b2817a310da140da3c65956d033678a34964ec4b4,unchanged,75.0,False
 2025-06-22,2025-06-22T11:00:00+00:00,2025-06-22T13:00:00+00:00,1.0,football,(No description),Fitness,2025-06-22,2025-06-22T11:00:00+00:00,2025-06-22T13:00:00+00:00,7c2bbd035c86ed3efc2e5537e6acf79274ee40732d8dcec26777ebeb8722bf16,0dc8ce8dc313cae5fa5eb7beb2b7c5e06b94f78206fa37e1c4366abb9ebe9542,unchanged,120.0,False
-2025-06-18,2025-06-18T06:00:00+00:00,2025-06-18T07:00:00+00:00,1.0,Forough Zarea's Zoom Meeting,"Please join zoom on your booked time slots. There is a waiting room. Please wait till I let you in. I will be notified that you are in the waiting room but might not have finished with the previous student.
-
-
- Hi there,
-Forough Zarea is inviting you to a scheduled Zoom meeting.
-
-Join Zoom Meeting
-https://qut.zoom.us/j/84078591052?pwd=rmgs0lvgOpZ2aRqHUZaPwYRsjnb8Hh.1&from=addon
-
-Meeting ID: 840 7859 1052
-Passcode: 181210
-
----
-
-One tap mobile
-+61861193900,,84078591052#,,,,*181210# Australia
-+61871501149,,84078591052#,,,,*181210# Australia
-
----
-
-Dial by your location
-• +61 8 6119 3900 Australia
-• +61 8 7150 1149 Australia
-• +61 2 8015 6011 Australia
-• +61 3 7018 2005 Australia
-• +61 7 3185 3730 Australia
-
-Meeting ID: 840 7859 1052
-Passcode: 181210
-
-Find your local number: https://qut.zoom.us/u/kboVMilKu5
-
----
-
-Join by SIP or H.323
-84078591052@global.zoomcrc.com<mailto:84078591052@global.zoomcrc.com>
-
-Meeting ID: 840 7859 1052
-Passcode: 181210
-",jonkuhar11@gmail.com,2025-06-18,2025-06-18T06:00:00+00:00,2025-06-18T07:00:00+00:00,c248b9c8e19aba5b565cceecf2b141911639eb9d9ede076ee4eecfd38a9f19c8,988c5975bf4ae797341f88127db9ce552a0be67ef6176b7c5dfd5c21ae121987,unchanged,60.0,False
+2025-06-24,2025-06-24T09:00:00+00:00,2025-06-24T09:00:00+00:00,1.0,Hanci❤️,(No description),Home,2025-06-24,2025-06-24T09:00:00+00:00,2025-06-24T09:00:00+00:00,ebd2e977b058741bbe03e381d3f6c83632e567b085152c29665d0ab27de6661a,a7264e7219bc6611d7b57ec9fe2c3ae8b317585b81980c0aca0053d34e837f89,new,0.0,False
 2025-06-19,2025-06-19T08:00:00+00:00,2025-06-19T09:15:00+00:00,1.0,packing everything,(No description),jonkuhar11@gmail.com,2025-06-19,2025-06-19T08:00:00+00:00,2025-06-19T09:15:00+00:00,baadf4c06f84322b1c325e782a8dc2cd79b18105f62af30948ed48fa572140ad,a3447c31d9ff0a09859ec421394ebee57c2e4d8bd7bdc396b863af9a370151f8,unchanged,75.0,False
 2025-06-19,2025-06-19T09:30:00+00:00,2025-06-19T13:15:00+00:00,1.0,cleaning everything,(No description),jonkuhar11@gmail.com,2025-06-19,2025-06-19T09:30:00+00:00,2025-06-19T13:15:00+00:00,5f8f439957e6d8c78fc3209288aca77fcd79486dd44c24c1d2e453e35cf81f8e,55ba3021b5ca6b0ce7c9f4964e3264522d9b2acd87dce5f0d69abf24a16fa4a2,unchanged,225.0,False
 2025-06-19,2025-06-19T15:10:00+00:00,2025-06-19T15:50:00+00:00,1.0,Appointment,"To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
