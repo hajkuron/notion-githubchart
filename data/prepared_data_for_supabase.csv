@@ -1,8 +1,4 @@
 date,start,end,value,summary,description,calendar_name,new_date,new_start,new_end,id,version_id,status,duration,deleted
 2025-06-22,2025-06-22T11:00:00+00:00,2025-06-22T13:00:00+00:00,1.0,football,(No description),Fitness,2025-06-22,2025-06-22T11:00:00+00:00,2025-06-22T13:00:00+00:00,7c2bbd035c86ed3efc2e5537e6acf79274ee40732d8dcec26777ebeb8722bf16,0dc8ce8dc313cae5fa5eb7beb2b7c5e06b94f78206fa37e1c4366abb9ebe9542,unchanged,120.0,False
 2025-06-24,2025-06-24T09:00:00+00:00,2025-06-24T09:00:00+00:00,1.0,Hanci❤️,(No description),Home,2025-06-24,2025-06-24T09:00:00+00:00,2025-06-24T09:00:00+00:00,ebd2e977b058741bbe03e381d3f6c83632e567b085152c29665d0ab27de6661a,a7264e7219bc6611d7b57ec9fe2c3ae8b317585b81980c0aca0053d34e837f89,unchanged,0.0,False
-2025-06-20,2025-06-20T04:30:00+00:00,2025-06-20T06:15:00+00:00,1.0,Flight to Ljubljana (HV 6819),"To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
-
-This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DNEuqHADQudHhEIewFlmDRHiUfSM1QiXRg
-",jonkuhar11@gmail.com,2025-06-20,2025-06-20T04:30:00+00:00,2025-06-20T06:15:00+00:00,77c099499ad4fd0214aba4ffe19801b3b639b4f37159bd9aab600ba43922f365,24d020fad04ac05eb54f25aaac9b99aa76115f36e2e19478d596227fbef1ddb1,unchanged,105.0,False
 2025-06-22,2025-06-22T02:30:00+00:00,2025-06-22T02:45:00+00:00,1.0,Weekly check up of goals NOTION,(No description),jonkuhar11@gmail.com,2025-06-22,2025-06-22T02:30:00+00:00,2025-06-22T02:45:00+00:00,25ca297661def32b0bce0a13012a2bec6c8f0d28a26a35ea5b62f8dd646db429,8e31aa9e50effc4e3bc9f9a3c3b55fadbaea137c87dec3661eba3ee1d0ae6421,unchanged,15.0,False
