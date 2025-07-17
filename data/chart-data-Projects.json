@@ -1995,11 +1995,10 @@
     "summary": "figure out next steps",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2025-07-15",
-    "new_start": "2025-07-15T14:00:00+00:00",
-    "new_end": "2025-07-15T16:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "f8d548bf5315bf7dd822ae5136d66db52a4141f1d8cc71dabb279937d536c3eb",
-    "version_id": "7681d4b8e9bf19ff2ead2f40d9b92f2268eec06bfc031f99837cae50cd272395",
-    "status": "new"
+    "version_id": "7681d4b8e9bf19ff2ead2f40d9b92f2268eec06bfc031f99837cae50cd272395"
   }
 ]

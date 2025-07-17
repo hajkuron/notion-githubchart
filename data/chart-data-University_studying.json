@@ -1603,12 +1603,11 @@
     "summary": "thesis",
     "description": "work on thesis fixes",
     "calendar_name": "University studying",
-    "new_date": "2025-07-15",
-    "new_start": "2025-07-15T09:00:00+00:00",
-    "new_end": "2025-07-15T11:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "430288cd0aeac2b848acb2560e27589481e90455159cf06f93c9011d2b72a821",
-    "version_id": "0767341b33e7ead66f1a3262a8233cbf52a8b8832968f84971ca34ce9f09a855",
-    "status": "new"
+    "version_id": "0767341b33e7ead66f1a3262a8233cbf52a8b8832968f84971ca34ce9f09a855"
   },
   {
     "date": "2025-07-16",
@@ -1618,11 +1617,10 @@
     "summary": "thesis",
     "description": "work on thesis fixes",
     "calendar_name": "University studying",
-    "new_date": "2025-07-16",
-    "new_start": "2025-07-16T10:00:00+00:00",
-    "new_end": "2025-07-16T12:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "bdfdc227cf0aa5c9384819cd69809c8fc80b55b0de398f794d9ed34b3cbe2b21",
-    "version_id": "01c6ea303aef0a3b21d8b11a9de2ac07c3d0a0df8871cd80c601c95366cca2bd",
-    "status": "new"
+    "version_id": "01c6ea303aef0a3b21d8b11a9de2ac07c3d0a0df8871cd80c601c95366cca2bd"
   }
 ]

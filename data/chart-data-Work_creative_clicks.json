@@ -1113,12 +1113,11 @@
     "summary": "work CC",
     "description": "- work on paynt to stage ",
     "calendar_name": "Work creative clicks",
-    "new_date": "2025-07-15",
-    "new_start": "2025-07-15T07:00:00+00:00",
-    "new_end": "2025-07-15T09:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "c10ced878294347aa097e619a7b3d02e932df002f61dba629f814a2bc560e14a",
-    "version_id": "1b4d0083e3499bec4105062763f12f21a37daaed21a7931eb88210499a79c11e",
-    "status": "new"
+    "version_id": "1b4d0083e3499bec4105062763f12f21a37daaed21a7931eb88210499a79c11e"
   },
   {
     "date": "2025-07-16",
@@ -1128,11 +1127,10 @@
     "summary": "work CC",
     "description": "- work on paynt to stage ",
     "calendar_name": "Work creative clicks",
-    "new_date": "2025-07-16",
-    "new_start": "2025-07-16T07:00:00+00:00",
-    "new_end": "2025-07-16T10:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "f0a03b8c4baf5c40f3e144add1e6076444116d02511d6713fbac15920776b1a3",
-    "version_id": "88b1ee9a467dbc3bc8b8dd9abd6295f148d8c7f798358f6cf104456f7e1a1c32",
-    "status": "new"
+    "version_id": "88b1ee9a467dbc3bc8b8dd9abd6295f148d8c7f798358f6cf104456f7e1a1c32"
   }
 ]
