@@ -6928,5 +6928,20 @@
     "new_end": "",
     "id": "ac9cf383564ac46bf5c38cbd13c46f83c6c4133e0e6782690bd8c61288a41055",
     "version_id": "b2ed6cf12aa9685bfb577e2057df790e7e6b6eacf2d054e7688d4afdfe5855bf"
+  },
+  {
+    "date": "2025-07-20",
+    "start": "2025-07-20T02:30:00+00:00",
+    "end": "2025-07-20T02:45:00+00:00",
+    "value": 1,
+    "summary": "Weekly check up of goals NOTION",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2025-07-20",
+    "new_start": "2025-07-20T02:30:00+00:00",
+    "new_end": "2025-07-20T02:45:00+00:00",
+    "id": "15bb18f11de0b0ef23bdd21b9ee70b3ce071990c39f969e8ea64a1f71720c75a",
+    "version_id": "e4a2e8f81038868e53045b4abc692c80eb9a1a6749ac4d098b7ffe6861421e20",
+    "status": "new"
   }
 ]
