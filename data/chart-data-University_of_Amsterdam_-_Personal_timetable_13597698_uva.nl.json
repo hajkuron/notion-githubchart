@@ -1,32 +1,17 @@
 [
   {
-    "date": "2025-05-13",
-    "start": "2025-05-13T07:00:00+00:00",
-    "end": "2025-05-13T10:00:00+00:00",
-    "value": 1,
-    "summary": "Entrepreneurial Finance",
-    "description": "Type: Tutorial\n\nCourse code: 6314M0161Y\n\nLocation(s):\nREC JKB.11: https://rooster.uva.nl/entity?type=location&key=341.O%20B.11&source=2024\n\nGroup(s): Group 1\n\nGroup 1\n\nSize: 30\n\nStudy guide: https://studiegids.uva.nl/xmlpages/plspub/redirect?studiegidsnummer=6314M0161Y&jaar=2024-2025\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2025-08-05 at 05:20 CEST",
-    "calendar_name": "University of Amsterdam - Personal timetable: 13597698@uva.nl",
-    "new_date": "2025-05-13",
-    "new_start": "2025-05-13T07:00:00+00:00",
-    "new_end": "2025-05-13T10:00:00+00:00",
-    "id": "51902b0fe205d2eb0274e01366568c28b997d4633e53b385b7a0520585aa3e3d",
-    "version_id": "4bd3d2bce3739d8a30a51c1e565cf68547021811ecfba25ec2a509484d114f90",
-    "status": "new"
-  },
-  {
     "date": "2025-05-14",
     "start": "2025-05-14T07:00:00+00:00",
     "end": "2025-05-14T10:00:00+00:00",
     "value": 1,
     "summary": "Entrepreneurial Finance",
-    "description": "Type: Tutorial\n\nCourse code: 6314M0161Y\n\nLocation(s):\nREC JKB.25: https://rooster.uva.nl/entity?type=location&key=341.O%20B.25&source=2024\n\nGroup(s): Group 1\n\nGroup 1\n\nSize: 30\n\nStudy guide: https://studiegids.uva.nl/xmlpages/plspub/redirect?studiegidsnummer=6314M0161Y&jaar=2024-2025\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2025-08-05 at 05:20 CEST",
+    "description": "Type: Tutorial\n\nCourse code: 6314M0161Y\n\nLocation(s):\nREC JKB.25: https://rooster.uva.nl/entity?type=location&key=341.O%20B.25&source=2024\n\nGroup(s): Group 1\n\nGroup 1\n\nSize: 30\n\nStudy guide: https://studiegids.uva.nl/xmlpages/plspub/redirect?studiegidsnummer=6314M0161Y&jaar=2024-2025\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2025-08-06 at 02:20 CEST",
     "calendar_name": "University of Amsterdam - Personal timetable: 13597698@uva.nl",
     "new_date": "2025-05-14",
     "new_start": "2025-05-14T07:00:00+00:00",
     "new_end": "2025-05-14T10:00:00+00:00",
-    "id": "54805eb9ba8a5033f0387abc368eee4bab5b307ff48efd42d44f7824801fa57b",
-    "version_id": "193e62a5b2b917a3cce51c94090b5eb4b207d607469a2f1504e2f350a5e68a55",
+    "id": "644b17996de20077fb46b0381c732e85e5166cca1434e159e335d7dc505f0966",
+    "version_id": "4eceede4845960d78c064a907d875b89e152ceea95d321304f6392ca44e3069f",
     "status": "new"
   },
   {
@@ -35,13 +20,13 @@
     "end": "2025-05-30T07:00:00+00:00",
     "value": 1,
     "summary": "Entrepreneurial Finance",
-    "description": "Type: Examination\n\nCourse code: 6314M0161Y\n\nStaff member(s): dr. V.N. Vladimirov\n\nAssignment / Paper\n\nThe times of the exams may be subject to change. Be available for the entire week.\n\nSize: 0\n\nStudy guide: https://studiegids.uva.nl/xmlpages/plspub/redirect?studiegidsnummer=6314M0161Y&jaar=2024-2025\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2025-08-05 at 05:20 CEST",
+    "description": "Type: Examination\n\nCourse code: 6314M0161Y\n\nStaff member(s): dr. V.N. Vladimirov\n\nAssignment / Paper\n\nThe times of the exams may be subject to change. Be available for the entire week.\n\nSize: 0\n\nStudy guide: https://studiegids.uva.nl/xmlpages/plspub/redirect?studiegidsnummer=6314M0161Y&jaar=2024-2025\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2025-08-06 at 02:20 CEST",
     "calendar_name": "University of Amsterdam - Personal timetable: 13597698@uva.nl",
     "new_date": "2025-05-30",
     "new_start": "2025-05-30T06:00:00+00:00",
     "new_end": "2025-05-30T07:00:00+00:00",
-    "id": "f317959fb7af79cfc52adc8911db6129376395c6915a4fe31598e288aa4d7b6f",
-    "version_id": "bb2339b7ea179daf7f8afeba599c1e8fa1ddcd6e400bcd3cccf4b78b21987a9b",
+    "id": "49a27f41cd8a14bb2cc64a3f5ef7e90157c49a214438cda9a9b3ff8b306d4b4e",
+    "version_id": "caab84848ddfe73ed188e96cb87ca228c8a91ee89ef6e07a396023805c318c2c",
     "status": "new"
   },
   {
@@ -50,13 +35,13 @@
     "end": "2025-07-04T07:00:00+00:00",
     "value": 1,
     "summary": "Entrepreneurial Finance",
-    "description": "Type: Resit\n\nCourse code: 6314M0161Y\n\nStaff member(s): dr. V.N. Vladimirov\n\nAssignment / Paper\n\nThe times of the exams may be subject to change. Be available for the entire week.\n\nSize: 0\n\nStudy guide: https://studiegids.uva.nl/xmlpages/plspub/redirect?studiegidsnummer=6314M0161Y&jaar=2024-2025\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2025-08-05 at 05:20 CEST",
+    "description": "Type: Resit\n\nCourse code: 6314M0161Y\n\nStaff member(s): dr. V.N. Vladimirov\n\nAssignment / Paper\n\nThe times of the exams may be subject to change. Be available for the entire week.\n\nSize: 0\n\nStudy guide: https://studiegids.uva.nl/xmlpages/plspub/redirect?studiegidsnummer=6314M0161Y&jaar=2024-2025\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2025-08-06 at 02:20 CEST",
     "calendar_name": "University of Amsterdam - Personal timetable: 13597698@uva.nl",
     "new_date": "2025-07-04",
     "new_start": "2025-07-04T06:00:00+00:00",
     "new_end": "2025-07-04T07:00:00+00:00",
-    "id": "a50f3d4a6bec38d0f2bab2bbe96118309342fcf1b19f908d0382661eae348aa2",
-    "version_id": "a4fe66d306ee18c851a853f876e9d182783adb74f6fb0f9c8c1d1553772dcc84",
+    "id": "40a208d2aabdc1fe2f17a5ef2eab27ff36fc7fb511d5020ec11dfa7ac4a0e264",
+    "version_id": "abc34384ef2a84db7ec926cae4cb909927ce43317cc4905af1ac59bdfea07226",
     "status": "new"
   }
 ]
