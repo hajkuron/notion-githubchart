@@ -1,32 +1,17 @@
 [
   {
-    "date": "2025-05-14",
-    "start": "2025-05-14T07:00:00+00:00",
-    "end": "2025-05-14T10:00:00+00:00",
-    "value": 1,
-    "summary": "Entrepreneurial Finance",
-    "description": "Type: Tutorial\n\nCourse code: 6314M0161Y\n\nLocation(s):\nREC JKB.25: https://rooster.uva.nl/entity?type=location&key=341.O%20B.25&source=2024\n\nGroup(s): Group 1\n\nGroup 1\n\nSize: 30\n\nStudy guide: https://studiegids.uva.nl/xmlpages/plspub/redirect?studiegidsnummer=6314M0161Y&jaar=2024-2025\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2025-08-06 at 02:20 CEST",
-    "calendar_name": "University of Amsterdam - Personal timetable: 13597698@uva.nl",
-    "new_date": "2025-05-14",
-    "new_start": "2025-05-14T07:00:00+00:00",
-    "new_end": "2025-05-14T10:00:00+00:00",
-    "id": "644b17996de20077fb46b0381c732e85e5166cca1434e159e335d7dc505f0966",
-    "version_id": "4eceede4845960d78c064a907d875b89e152ceea95d321304f6392ca44e3069f",
-    "status": "new"
-  },
-  {
     "date": "2025-05-30",
     "start": "2025-05-30T06:00:00+00:00",
     "end": "2025-05-30T07:00:00+00:00",
     "value": 1,
     "summary": "Entrepreneurial Finance",
-    "description": "Type: Examination\n\nCourse code: 6314M0161Y\n\nStaff member(s): dr. V.N. Vladimirov\n\nAssignment / Paper\n\nThe times of the exams may be subject to change. Be available for the entire week.\n\nSize: 0\n\nStudy guide: https://studiegids.uva.nl/xmlpages/plspub/redirect?studiegidsnummer=6314M0161Y&jaar=2024-2025\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2025-08-06 at 02:20 CEST",
+    "description": "Type: Examination\n\nCourse code: 6314M0161Y\n\nStaff member(s): dr. V.N. Vladimirov\n\nAssignment / Paper\n\nThe times of the exams may be subject to change. Be available for the entire week.\n\nSize: 0\n\nStudy guide: https://studiegids.uva.nl/xmlpages/plspub/redirect?studiegidsnummer=6314M0161Y&jaar=2024-2025\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2025-08-07 at 03:24 CEST",
     "calendar_name": "University of Amsterdam - Personal timetable: 13597698@uva.nl",
     "new_date": "2025-05-30",
     "new_start": "2025-05-30T06:00:00+00:00",
     "new_end": "2025-05-30T07:00:00+00:00",
-    "id": "49a27f41cd8a14bb2cc64a3f5ef7e90157c49a214438cda9a9b3ff8b306d4b4e",
-    "version_id": "caab84848ddfe73ed188e96cb87ca228c8a91ee89ef6e07a396023805c318c2c",
+    "id": "9270d81e31dc29509895c6e894684506c6d1cddc963f78938c4d042748d879d2",
+    "version_id": "d23e329bae807e3c9216563641da6842de2e6f4778fc4ccf590a24f26ba3ba6f",
     "status": "new"
   },
   {
@@ -35,13 +20,13 @@
     "end": "2025-07-04T07:00:00+00:00",
     "value": 1,
     "summary": "Entrepreneurial Finance",
-    "description": "Type: Resit\n\nCourse code: 6314M0161Y\n\nStaff member(s): dr. V.N. Vladimirov\n\nAssignment / Paper\n\nThe times of the exams may be subject to change. Be available for the entire week.\n\nSize: 0\n\nStudy guide: https://studiegids.uva.nl/xmlpages/plspub/redirect?studiegidsnummer=6314M0161Y&jaar=2024-2025\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2025-08-06 at 02:20 CEST",
+    "description": "Type: Resit\n\nCourse code: 6314M0161Y\n\nStaff member(s): dr. V.N. Vladimirov\n\nAssignment / Paper\n\nThe times of the exams may be subject to change. Be available for the entire week.\n\nSize: 0\n\nStudy guide: https://studiegids.uva.nl/xmlpages/plspub/redirect?studiegidsnummer=6314M0161Y&jaar=2024-2025\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2025-08-07 at 03:24 CEST",
     "calendar_name": "University of Amsterdam - Personal timetable: 13597698@uva.nl",
     "new_date": "2025-07-04",
     "new_start": "2025-07-04T06:00:00+00:00",
     "new_end": "2025-07-04T07:00:00+00:00",
-    "id": "40a208d2aabdc1fe2f17a5ef2eab27ff36fc7fb511d5020ec11dfa7ac4a0e264",
-    "version_id": "abc34384ef2a84db7ec926cae4cb909927ce43317cc4905af1ac59bdfea07226",
+    "id": "70504e564a44905f4eb84f228091027e0140999789c28909b6fb672fb32ffd62",
+    "version_id": "fb3936f2e1517491991389dc607ffec68b3b1aa5d31b6e3251374bc6b14f2137",
     "status": "new"
   }
 ]
