@@ -2728,5 +2728,20 @@
     "new_end": "",
     "id": "4e12fe716b4351ce9f4f1b8e6f3bf5d1a5315432c02073e9b3d45326229cd1ea",
     "version_id": "1321d25b7efd615e416eda4f8b5d8b9b09739d21b441f75c7d87bbcd74890cee"
+  },
+  {
+    "date": "2025-08-10",
+    "start": "2025-08-10T11:00:00+00:00",
+    "end": "2025-08-10T13:00:00+00:00",
+    "value": 1,
+    "summary": "football",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2025-08-10",
+    "new_start": "2025-08-10T11:00:00+00:00",
+    "new_end": "2025-08-10T13:00:00+00:00",
+    "id": "863bc968e448fc2ded431ca94e49fbd747e3c6d533d4134182bfc87fa84c7cf2",
+    "version_id": "6849a591e865025fbd476fea7c00ed7c9ab484a85c5044ec079dd2d9245563c9",
+    "status": "new"
   }
 ]

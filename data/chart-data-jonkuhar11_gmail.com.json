@@ -7021,11 +7021,10 @@
     "summary": "Weekly check up of goals NOTION",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-08-10",
-    "new_start": "2025-08-10T02:30:00+00:00",
-    "new_end": "2025-08-10T02:45:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "677dc9a3238e9a125e92c7884b6d5fd84bf0a9abc13b17bfd7310430dbef322f",
-    "version_id": "4f55609afc012e13f6f9ed5ebbfdc751cb5de2bdac8b116d0d82d013ed415215",
-    "status": "new"
+    "version_id": "4f55609afc012e13f6f9ed5ebbfdc751cb5de2bdac8b116d0d82d013ed415215"
   }
 ]
