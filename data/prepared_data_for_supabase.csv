@@ -1,3 +1,7 @@
 date,start,end,value,summary,description,calendar_name,new_date,new_start,new_end,id,version_id,status,duration,deleted
 2025-08-10,2025-08-10T11:00:00+00:00,2025-08-10T13:00:00+00:00,1.0,football,(No description),Fitness,2025-08-10,2025-08-10T11:00:00+00:00,2025-08-10T13:00:00+00:00,863bc968e448fc2ded431ca94e49fbd747e3c6d533d4134182bfc87fa84c7cf2,6849a591e865025fbd476fea7c00ed7c9ab484a85c5044ec079dd2d9245563c9,unchanged,120.0,False
 2025-08-10,2025-08-10T02:30:00+00:00,2025-08-10T02:45:00+00:00,1.0,Weekly check up of goals NOTION,(No description),jonkuhar11@gmail.com,2025-08-10,2025-08-10T02:30:00+00:00,2025-08-10T02:45:00+00:00,677dc9a3238e9a125e92c7884b6d5fd84bf0a9abc13b17bfd7310430dbef322f,4f55609afc012e13f6f9ed5ebbfdc751cb5de2bdac8b116d0d82d013ed415215,unchanged,15.0,False
+2025-08-15,2025-08-15T07:10:00+00:00,2025-08-15T19:55:00+00:00,1.0,Flight to ISTANBUL (TK 16),"To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
+
+This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DOGI5HY8UauNtujygw4ua5wTpLP2wfe2ks
+",jonkuhar11@gmail.com,2025-08-15,2025-08-15T07:10:00+00:00,2025-08-15T19:55:00+00:00,506448f3165de74d96805c91577bcf5dac44322f276268e118e51aa6527a7fb0,a632896c8bb3440c057ac7197853dfc829b4f15c7092c2977946ad17bb4416e6,new,765.0,False
