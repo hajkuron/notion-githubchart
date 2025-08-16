@@ -7035,11 +7035,25 @@
     "summary": "Flight to ISTANBUL (TK 16)",
     "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DOGI5HY8UauNtujygw4ua5wTpLP2wfe2ks\n",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-08-15",
-    "new_start": "2025-08-15T07:10:00+00:00",
-    "new_end": "2025-08-15T19:55:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "506448f3165de74d96805c91577bcf5dac44322f276268e118e51aa6527a7fb0",
-    "version_id": "a632896c8bb3440c057ac7197853dfc829b4f15c7092c2977946ad17bb4416e6",
+    "version_id": "a632896c8bb3440c057ac7197853dfc829b4f15c7092c2977946ad17bb4416e6"
+  },
+  {
+    "date": "2025-08-17",
+    "start": "2025-08-17T02:30:00+00:00",
+    "end": "2025-08-17T02:45:00+00:00",
+    "value": 1,
+    "summary": "Weekly check up of goals NOTION",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2025-08-17",
+    "new_start": "2025-08-17T02:30:00+00:00",
+    "new_end": "2025-08-17T02:45:00+00:00",
+    "id": "9e5dd853299fa89c13dc92529f0e0cd8d68cc45dc50b4ff4e873c9bbe6c0e099",
+    "version_id": "34d2763b598f94aae551d3aadc4f6a963aa63c28bea28ac4a4e386c9b28a5686",
     "status": "new"
   }
 ]

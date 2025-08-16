@@ -16,7 +16,7 @@ Calendar ID: 6c79752aa115392f94e22af271b66006926f2048ea758f51e3f61f32485b9d3b@gr
 Calendar ID: jonkuhar11@gmail.com, Name: jonkuhar11@gmail.com
 Found 15 calendars.
 Fetched 2 events from calendar: University of Amsterdam - Personal timetable: 13597698@uva.nl
-Fetched 1 events from calendar: VU Amsterdam - Personal timetable: Kuhar, J. (Jon)
+No events fetched from calendar: VU Amsterdam - Personal timetable: Kuhar, J. (Jon)
 Fetched 81 events from calendar: Work creative clicks
 Fetched 196 events from calendar: Fitness
 Fetched 13 events from calendar: Learning
@@ -29,10 +29,9 @@ Fetched 10 events from calendar: Goals
 Fetched 143 events from calendar: Projects
 Fetched 21 events from calendar: NOTION
 No events fetched from calendar: Business
-Fetched 503 events from calendar: jonkuhar11@gmail.com
-Fetched events from 13 calendars.
+Fetched 504 events from calendar: jonkuhar11@gmail.com
+Fetched events from 12 calendars.
 Saved data for calendar "University of Amsterdam - Personal timetable: 13597698@uva.nl" to data/chart-data-University_of_Amsterdam_-_Personal_timetable_13597698_uva.nl.json
-Saved data for calendar "VU Amsterdam - Personal timetable: Kuhar, J. (Jon)" to data/chart-data-VU_Amsterdam_-_Personal_timetable_Kuhar,_J._(Jon).json
 Saved data for calendar "Work creative clicks" to data/chart-data-Work_creative_clicks.json
 Saved data for calendar "Fitness" to data/chart-data-Fitness.json
 Saved data for calendar "Learning" to data/chart-data-Learning.json
