@@ -5,13 +5,13 @@
     "end": "2025-05-30T07:00:00+00:00",
     "value": 1,
     "summary": "Entrepreneurial Finance",
-    "description": "Type: Examination\n\nCourse code: 6314M0161Y\n\nStaff member(s): dr. V.N. Vladimirov\n\nAssignment / Paper\n\nThe times of the exams may be subject to change. Be available for the entire week.\n\nSize: 0\n\nStudy guide: https://studiegids.uva.nl/xmlpages/plspub/redirect?studiegidsnummer=6314M0161Y&jaar=2024-2025\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2025-08-16 at 01:20 CEST",
+    "description": "Type: Examination\n\nCourse code: 6314M0161Y\n\nStaff member(s): dr. V.N. Vladimirov\n\nAssignment / Paper\n\nThe times of the exams may be subject to change. Be available for the entire week.\n\nSize: 0\n\nStudy guide: https://studiegids.uva.nl/xmlpages/plspub/redirect?studiegidsnummer=6314M0161Y&jaar=2024-2025\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2025-08-17 at 01:20 CEST",
     "calendar_name": "University of Amsterdam - Personal timetable: 13597698@uva.nl",
     "new_date": "2025-05-30",
     "new_start": "2025-05-30T06:00:00+00:00",
     "new_end": "2025-05-30T07:00:00+00:00",
-    "id": "a809620bad715852ce01e768c0bb05cf83e5eb7948b23d1ea58b810933b4f346",
-    "version_id": "6c4a8b9f794549b4f240a0d451ecb8e470ccb910f165d8cdde314ff001bbbfc5",
+    "id": "e8cd53a33ddea5fddd8963cb71f3c538ece010fbfbe6cd045f5458d5a00e5246",
+    "version_id": "9715b149e821ce7f0c5a5f96de927e5aa09d1a29cbd6aeee459e318c8140cdbd",
     "status": "new"
   },
   {
@@ -20,13 +20,28 @@
     "end": "2025-07-04T07:00:00+00:00",
     "value": 1,
     "summary": "Entrepreneurial Finance",
-    "description": "Type: Resit\n\nCourse code: 6314M0161Y\n\nStaff member(s): dr. V.N. Vladimirov\n\nAssignment / Paper\n\nThe times of the exams may be subject to change. Be available for the entire week.\n\nSize: 0\n\nStudy guide: https://studiegids.uva.nl/xmlpages/plspub/redirect?studiegidsnummer=6314M0161Y&jaar=2024-2025\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2025-08-16 at 01:20 CEST",
+    "description": "Type: Resit\n\nCourse code: 6314M0161Y\n\nStaff member(s): dr. V.N. Vladimirov\n\nAssignment / Paper\n\nThe times of the exams may be subject to change. Be available for the entire week.\n\nSize: 0\n\nStudy guide: https://studiegids.uva.nl/xmlpages/plspub/redirect?studiegidsnummer=6314M0161Y&jaar=2024-2025\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2025-08-17 at 01:20 CEST",
     "calendar_name": "University of Amsterdam - Personal timetable: 13597698@uva.nl",
     "new_date": "2025-07-04",
     "new_start": "2025-07-04T06:00:00+00:00",
     "new_end": "2025-07-04T07:00:00+00:00",
-    "id": "b58af765b09eff33d2d8a33973144c763d4b3c58189ff014025693eb0f54e46b",
-    "version_id": "ff989a9dfa9cefba821c174080c07a015f4a834272ac45b1e891d719826f1462",
+    "id": "7a5f3950d6227a410ce3ac953ea10485198f95a16057113d9897d77a2458158b",
+    "version_id": "5c156d45008661ba85926b775469025719e9684feda8d3bc50564444b6f14445",
+    "status": "new"
+  },
+  {
+    "date": "2025-08-18",
+    "start": "2025-08-18T00:00:00+00:00",
+    "end": "2025-08-19T00:00:00+00:00",
+    "value": 1,
+    "summary": "RESIT: Upload your thesis [6314MA011Y]",
+    "description": "Type: Canvas\n\nThis appointment is managed by MyTimetable.\n\nLast synchronised on 2025-08-17 at 01:20 CEST",
+    "calendar_name": "University of Amsterdam - Personal timetable: 13597698@uva.nl",
+    "new_date": "2025-08-18",
+    "new_start": "2025-08-18T00:00:00+00:00",
+    "new_end": "2025-08-19T00:00:00+00:00",
+    "id": "a04d384c6898ba08476bb7e0a5c1b7fbbb602855b4119b2712973c2935464f1c",
+    "version_id": "96874c8b1937c18a839a0037e0c69918a68b897851d2743448882e76ba34dbf7",
     "status": "new"
   }
 ]
