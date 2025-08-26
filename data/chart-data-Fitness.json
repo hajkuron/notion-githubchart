@@ -2779,11 +2779,25 @@
     "summary": "gym",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2025-08-25",
-    "new_start": "2025-08-25T11:00:00+00:00",
-    "new_end": "2025-08-25T12:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "03c88cee8808c10bed2f9a4addcd9646fb78f32c2638764ae4de348c79157fdc",
-    "version_id": "f08d6c12b08a8407efa292e24fcc52ba14abd541dcba84cc9b98de1ce051ae1b",
+    "version_id": "f08d6c12b08a8407efa292e24fcc52ba14abd541dcba84cc9b98de1ce051ae1b"
+  },
+  {
+    "date": "2025-08-26",
+    "start": "2025-08-26T11:00:00+00:00",
+    "end": "2025-08-26T12:00:00+00:00",
+    "value": 1,
+    "summary": "gym",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2025-08-26",
+    "new_start": "2025-08-26T11:00:00+00:00",
+    "new_end": "2025-08-26T12:00:00+00:00",
+    "id": "3e24a45300592e55479a00ecddf07984496c7c5f4fa7fa369288cb6a1389c830",
+    "version_id": "d6fa04ce6fa4103391119983e25b50838bcb28a714f1f2de56a3a0cba70c1271",
     "status": "new"
   }
 ]

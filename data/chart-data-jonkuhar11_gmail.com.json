@@ -7077,11 +7077,25 @@
     "summary": "supplements",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-08-25",
-    "new_start": "2025-08-25T06:00:00+00:00",
-    "new_end": "2025-08-25T06:15:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "e67750da8e2a760694eb0a317598987490a930b7ba4c21af22643e26ed845db9",
-    "version_id": "ff5209414c51c3f8f956d9091fd33caf93c91e6c1fb35438f23e2462c48e5d24",
+    "version_id": "ff5209414c51c3f8f956d9091fd33caf93c91e6c1fb35438f23e2462c48e5d24"
+  },
+  {
+    "date": "2025-08-26",
+    "start": "2025-08-26T06:00:00+00:00",
+    "end": "2025-08-26T06:15:00+00:00",
+    "value": 1,
+    "summary": "supplements",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2025-08-26",
+    "new_start": "2025-08-26T06:00:00+00:00",
+    "new_end": "2025-08-26T06:15:00+00:00",
+    "id": "8fa8df66a75b6379610d58f38456a266ae30faa91d03e16e723f7ff21582b710",
+    "version_id": "df2f844c6073e5a05fb4baf19e49cfa8f8a3feeb443362ad9bffedeaf11f937f",
     "status": "new"
   }
 ]
