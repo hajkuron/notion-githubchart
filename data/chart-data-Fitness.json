@@ -2807,11 +2807,25 @@
     "summary": "gym",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2025-08-27",
-    "new_start": "2025-08-27T11:00:00+00:00",
-    "new_end": "2025-08-27T12:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "25796143a3a4da404c858e1d1603145b2098cc4938e28f26bbf7e69105841d2c",
-    "version_id": "2c5c6e6240b99ec94a1f996ab32e8dce66c5ca4267be481a58350096d08e98c7",
+    "version_id": "2c5c6e6240b99ec94a1f996ab32e8dce66c5ca4267be481a58350096d08e98c7"
+  },
+  {
+    "date": "2025-08-28",
+    "start": "2025-08-28T11:00:00+00:00",
+    "end": "2025-08-28T12:00:00+00:00",
+    "value": 1,
+    "summary": "basketball",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2025-08-28",
+    "new_start": "2025-08-28T11:00:00+00:00",
+    "new_end": "2025-08-28T12:00:00+00:00",
+    "id": "3bdc82d104bd53c59281268d37aec71d61843390ca029a8e53b4e5a96cb86fb7",
+    "version_id": "51453fde89fdd15f561b92ec722d86abd1753172884110758d258ddb6dc14500",
     "status": "new"
   }
 ]
