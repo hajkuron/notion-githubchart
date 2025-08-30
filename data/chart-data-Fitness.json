@@ -2835,11 +2835,10 @@
     "summary": "hyrox",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2025-08-29",
-    "new_start": "2025-08-29T11:00:00+00:00",
-    "new_end": "2025-08-29T12:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "da5be428ae75d4dd8cae13a768a9793cf669aca2e1eb0c8950cdd6d65d5a060f",
-    "version_id": "0bdf635a0b5a4b006aac1e811a3c25e9d6233a6f7dd24e44c5dcf2043a55a2b4",
-    "status": "new"
+    "version_id": "0bdf635a0b5a4b006aac1e811a3c25e9d6233a6f7dd24e44c5dcf2043a55a2b4"
   }
 ]
