@@ -138,5 +138,20 @@
     "new_end": "",
     "id": "b1eaecfa00199bef137761c575867ab53b3a80cdbb0039efb4f5d96e4fe9dddd",
     "version_id": "bdd121414184b9b07e39261be9f2a7f5a7e5af66cf5e4aa7147d80f718645f5d"
+  },
+  {
+    "date": "2025-08-31",
+    "start": "2025-08-31T11:15:00+00:00",
+    "end": "2025-08-31T12:45:00+00:00",
+    "value": 1,
+    "summary": "planning",
+    "description": "(No description)",
+    "calendar_name": "Goals",
+    "new_date": "2025-08-31",
+    "new_start": "2025-08-31T11:15:00+00:00",
+    "new_end": "2025-08-31T12:45:00+00:00",
+    "id": "8a53f71047fa645849ad7c08b821a0ddf7803fcd6bc24e047993bb61f7537691",
+    "version_id": "f055247f11e51fc1a3eea4bb631afd91ad2b3b27ad463c77ad4d1d337459e64d",
+    "status": "new"
   }
 ]
