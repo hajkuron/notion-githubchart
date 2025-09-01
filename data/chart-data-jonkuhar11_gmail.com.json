@@ -7175,11 +7175,10 @@
     "summary": "supplements",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-08-31",
-    "new_start": "2025-08-31T06:00:00+00:00",
-    "new_end": "2025-08-31T06:15:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "f0ce45244a1968c1cccc65a2b9487c9eaa4a9d12e53e947bdef3487faa533927",
-    "version_id": "ddb52709c1cd4a7136726a8e65aa5c1abe72260107bb90f4244144e59ce986f8",
-    "status": "new"
+    "version_id": "ddb52709c1cd4a7136726a8e65aa5c1abe72260107bb90f4244144e59ce986f8"
   }
 ]
