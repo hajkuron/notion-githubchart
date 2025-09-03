@@ -7189,11 +7189,10 @@
     "summary": "Data, odprtje sp",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-09-02",
-    "new_start": "2025-09-02T07:00:00+00:00",
-    "new_end": "2025-09-02T08:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "cec564f8e1ef7e66d2e8785d90c445fbb5d6f17e7aa280b00c808e8ecbc58e5c",
-    "version_id": "2d936fa340c722af841744661d7ca7fbc7f6b772027a6a0b3a15aa91b2e9260a",
-    "status": "new"
+    "version_id": "2d936fa340c722af841744661d7ca7fbc7f6b772027a6a0b3a15aa91b2e9260a"
   }
 ]
