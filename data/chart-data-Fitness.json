@@ -2863,11 +2863,10 @@
     "summary": "football",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2025-09-07",
-    "new_start": "2025-09-07T16:30:00+00:00",
-    "new_end": "2025-09-07T18:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "c8d187ec3915179409506624bf59d2518fd4d89c42304a8b86725c9830a08075",
-    "version_id": "67ba553f3f9518b10b0cb3a157593ded7c02b95572a50f50452b60197027cacf",
-    "status": "new"
+    "version_id": "67ba553f3f9518b10b0cb3a157593ded7c02b95572a50f50452b60197027cacf"
   }
 ]
