@@ -2868,5 +2868,20 @@
     "new_end": "",
     "id": "c8d187ec3915179409506624bf59d2518fd4d89c42304a8b86725c9830a08075",
     "version_id": "67ba553f3f9518b10b0cb3a157593ded7c02b95572a50f50452b60197027cacf"
+  },
+  {
+    "date": "2025-09-09",
+    "start": "2025-09-09T17:00:00+00:00",
+    "end": "2025-09-09T19:00:00+00:00",
+    "value": 1,
+    "summary": "Apple Event",
+    "description": "Please join us for a special Apple Event. Watch it online at\u00a0apple.com.",
+    "calendar_name": "Fitness",
+    "new_date": "2025-09-09",
+    "new_start": "2025-09-09T17:00:00+00:00",
+    "new_end": "2025-09-09T19:00:00+00:00",
+    "id": "5c2d21bf3c80e1eb197321dfcdeaa2fd34a2b96e810acca1790dfbc68d188530",
+    "version_id": "e18f2d6a8c6dc0be9277e32dc8bc4733421fd588006a96b4802dd01d609bb4de",
+    "status": "new"
   }
 ]
