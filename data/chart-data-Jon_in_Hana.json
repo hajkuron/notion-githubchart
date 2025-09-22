@@ -49,11 +49,10 @@
     "summary": "gym",
     "description": "(No description)",
     "calendar_name": "Jon in Hana",
-    "new_date": "2025-09-21",
-    "new_start": "2025-09-21T06:00:00+00:00",
-    "new_end": "2025-09-21T07:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "fbb7e283f5f4487e77972804bdc25d7500aa320b40e70ab72c26a632d1ca6756",
-    "version_id": "048ab15901712992ff2718f9ce1940e23b25ed714e176e8725d5d2f0d8ab4c48",
-    "status": "new"
+    "version_id": "048ab15901712992ff2718f9ce1940e23b25ed714e176e8725d5d2f0d8ab4c48"
   }
 ]
