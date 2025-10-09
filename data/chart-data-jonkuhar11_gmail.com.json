@@ -7194,5 +7194,20 @@
     "new_end": "",
     "id": "40eb9691a4d987ff2daead535746c30aec2ba80f590ca25190844930e7608231",
     "version_id": "5b629dbe8bd3fe815f23de48aed15b712c4b2cb6ce724ac11a75429417d4b003"
+  },
+  {
+    "date": "2025-10-09",
+    "start": "2025-10-09T16:00:00+00:00",
+    "end": "2025-10-09T18:00:00+00:00",
+    "value": 1,
+    "summary": "Building Bulletproof AI Applications: Lessons from Billions of Tokens",
+    "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DOKl3bxorN6OZWp4L2Dq0CNfp5-GPXoNBY\n",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2025-10-09",
+    "new_start": "2025-10-09T16:00:00+00:00",
+    "new_end": "2025-10-09T18:00:00+00:00",
+    "id": "f8e93611d751098f78c471c78fe0ca48bf59526c64f7c23d94eefaccacad577e",
+    "version_id": "8bbd4a46102f0fff74567d85deab54105f46726a43746bca9a2ec5aa456f16a9",
+    "status": "new"
   }
 ]
