@@ -1,4 +1,5 @@
 date,start,end,value,summary,description,calendar_name,new_date,new_start,new_end,id,version_id,status,duration,deleted
+2025-10-12,2025-10-12T18:00:00+00:00,2025-10-12T20:00:00+00:00,1.0,football,(No description),Fitness,2025-10-12,2025-10-12T18:00:00+00:00,2025-10-12T20:00:00+00:00,3db8d15eabbee2d63e3ef125e94c58fbb7414bc896ba72ca8323bdaf050b8cf6,70413402b0e486596039195c439ec43d2c558446d4bb5137165ef694943a1a99,new,120.0,False
 2025-10-09,2025-10-09T16:00:00+00:00,2025-10-09T18:00:00+00:00,1.0,Building Bulletproof AI Applications: Lessons from Billions of Tokens,"To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
 
 This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DOKl3bxorN6OZWp4L2Dq0CNfp5-GPXoNBY
