@@ -3036,5 +3036,20 @@
     "new_end": "",
     "id": "342d4e8ec48b706b459df0ab72ad023f856a270666d5ae102ca443bfec552886",
     "version_id": "63e813d79f394976b48e02eabfe01e0b0f337ffcda1a602d1f62c7aeaaf77b4a"
+  },
+  {
+    "date": "2025-10-26",
+    "start": "2025-10-26T19:00:00+00:00",
+    "end": "2025-10-26T21:00:00+00:00",
+    "value": 1,
+    "summary": "football",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2025-10-26",
+    "new_start": "2025-10-26T19:00:00+00:00",
+    "new_end": "2025-10-26T21:00:00+00:00",
+    "id": "455a0a97e4775c7b038a9eb5c732cc2b63fbe799e6251b9724dab77f8a9b4a61",
+    "version_id": "a24429e8edd2726e490d2a88b22574aa0b67eaa38cafaf6ef30ff09f5d71c4b0",
+    "status": "new"
   }
 ]
