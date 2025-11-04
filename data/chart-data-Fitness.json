@@ -3064,5 +3064,50 @@
     "new_end": "",
     "id": "615e919bd1f66b2080a561a52c206b4b3b05ecce621bdbb31bbb1088744f9709",
     "version_id": "a68edcabf55cf6d07e1f8da31a916c621e98a4f96aaf6ea0e27c23158f7dc09f"
+  },
+  {
+    "date": "2025-11-03",
+    "start": "2025-11-03T06:00:00+00:00",
+    "end": "2025-11-03T07:00:00+00:00",
+    "value": 1,
+    "summary": "work",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2025-11-03",
+    "new_start": "2025-11-03T06:00:00+00:00",
+    "new_end": "2025-11-03T07:00:00+00:00",
+    "id": "12db99ad36251a4e283ded546d2b4d9d64372ca3165f3097bd59e5e6aceb1074",
+    "version_id": "efcde88778f21f15aac9a0e36e424628492aa97c10ddcdff12c25edfee564abe",
+    "status": "new"
+  },
+  {
+    "date": "2025-11-04",
+    "start": "2025-11-04T06:00:00+00:00",
+    "end": "2025-11-04T07:00:00+00:00",
+    "value": 1,
+    "summary": "gym",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2025-11-04",
+    "new_start": "2025-11-04T06:00:00+00:00",
+    "new_end": "2025-11-04T07:00:00+00:00",
+    "id": "01dd9dfd0ec8b032c5c29458399323a3231dc8abfff06f38f91686362a591b18",
+    "version_id": "c7f28249898f11a48ca56d8d26bde6318f7b65337d7fbda0c51b6922bf62360b",
+    "status": "new"
+  },
+  {
+    "date": "2025-11-04",
+    "start": "2025-11-04T13:30:00+00:00",
+    "end": "2025-11-04T15:30:00+00:00",
+    "value": 1,
+    "summary": "basket",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2025-11-04",
+    "new_start": "2025-11-04T13:30:00+00:00",
+    "new_end": "2025-11-04T15:30:00+00:00",
+    "id": "4a0e32d06e5f47aee37d783d55cb2dfb38d31d7448385fadf375edbe73dcb817",
+    "version_id": "9f958f93451205924debcf1e9d2e5c2acf621fd43f52dac6119ee91ccef6f3b5",
+    "status": "new"
   }
 ]
