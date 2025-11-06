@@ -2037,12 +2037,11 @@
     "summary": "explore woop apps",
     "description": "dont need to be perfect just needs to be right, looks nice",
     "calendar_name": "Projects",
-    "new_date": "2025-11-05",
-    "new_start": "2025-11-05T16:00:00+00:00",
-    "new_end": "2025-11-05T18:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "6f8f1f5f3c02d34995121562906e799f72fd532d74b4b87e9bf05ec89bc3d6bb",
-    "version_id": "2f8333f1175a8846f3443516a647eb7def3426232fa5195b89cc4c3e33879253",
-    "status": "new"
+    "version_id": "2f8333f1175a8846f3443516a647eb7def3426232fa5195b89cc4c3e33879253"
   },
   {
     "date": "2025-11-05",
@@ -2052,11 +2051,40 @@
     "summary": "some useful video",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2025-11-05",
-    "new_start": "2025-11-05T18:00:00+00:00",
-    "new_end": "2025-11-05T18:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "e0de2f572d706f47adf7f4e709b36b79b465a77575cde7e2f2d9f9bf482c8a8d",
-    "version_id": "4a7c3ceb1f4293ec7daeb3fcaf4143fa9bd690af3cb6d2d46b3df1023f5fbd6b",
+    "version_id": "4a7c3ceb1f4293ec7daeb3fcaf4143fa9bd690af3cb6d2d46b3df1023f5fbd6b"
+  },
+  {
+    "date": "2025-11-06",
+    "start": "2025-11-06T13:30:00+00:00",
+    "end": "2025-11-06T17:00:00+00:00",
+    "value": 1,
+    "summary": "publish woop app",
+    "description": "dont need to be perfect just needs to be right, looks nice",
+    "calendar_name": "Projects",
+    "new_date": "2025-11-06",
+    "new_start": "2025-11-06T13:30:00+00:00",
+    "new_end": "2025-11-06T17:00:00+00:00",
+    "id": "76803c54f2b87174b250767f71ca965b774708ab4334b4bd9470aa61247d8fb3",
+    "version_id": "219fbf4908cfbd5d5641f901ff13c646a212b54b8c2ad3c890042b75b5f2ed57",
+    "status": "new"
+  },
+  {
+    "date": "2025-11-06",
+    "start": "2025-11-06T17:00:00+00:00",
+    "end": "2025-11-06T17:55:00+00:00",
+    "value": 1,
+    "summary": "some useful video or ai tool",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2025-11-06",
+    "new_start": "2025-11-06T17:00:00+00:00",
+    "new_end": "2025-11-06T17:55:00+00:00",
+    "id": "1c58c696ad0a80fb7ec9cbc8f17dad1723c9a8290c43a375a56443beb1889d98",
+    "version_id": "9e4ee24e5e5c431e8266a06af6f00d31d2a31768ac76a5346510674519b0acbf",
     "status": "new"
   }
 ]
