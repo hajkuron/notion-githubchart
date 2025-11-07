@@ -2065,12 +2065,11 @@
     "summary": "publish woop app",
     "description": "dont need to be perfect just needs to be right, looks nice",
     "calendar_name": "Projects",
-    "new_date": "2025-11-06",
-    "new_start": "2025-11-06T13:30:00+00:00",
-    "new_end": "2025-11-06T17:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "76803c54f2b87174b250767f71ca965b774708ab4334b4bd9470aa61247d8fb3",
-    "version_id": "219fbf4908cfbd5d5641f901ff13c646a212b54b8c2ad3c890042b75b5f2ed57",
-    "status": "new"
+    "version_id": "219fbf4908cfbd5d5641f901ff13c646a212b54b8c2ad3c890042b75b5f2ed57"
   },
   {
     "date": "2025-11-06",
@@ -2080,11 +2079,25 @@
     "summary": "some useful video or ai tool",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2025-11-06",
-    "new_start": "2025-11-06T17:00:00+00:00",
-    "new_end": "2025-11-06T17:55:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "1c58c696ad0a80fb7ec9cbc8f17dad1723c9a8290c43a375a56443beb1889d98",
-    "version_id": "9e4ee24e5e5c431e8266a06af6f00d31d2a31768ac76a5346510674519b0acbf",
+    "version_id": "9e4ee24e5e5c431e8266a06af6f00d31d2a31768ac76a5346510674519b0acbf"
+  },
+  {
+    "date": "2025-11-07",
+    "start": "2025-11-07T06:00:00+00:00",
+    "end": "2025-11-07T10:55:00+00:00",
+    "value": 1,
+    "summary": "publish woop app",
+    "description": "dont need to be perfect just needs to be right, looks nice",
+    "calendar_name": "Projects",
+    "new_date": "2025-11-07",
+    "new_start": "2025-11-07T06:00:00+00:00",
+    "new_end": "2025-11-07T10:55:00+00:00",
+    "id": "56f5efdb51602aa956b7cfd0f18fa1be492e059c9f1d6039ad81347793bbedd7",
+    "version_id": "3fc75eb0ae9d6ffd8ad69aeb9190fd1d66016650e014dcf362bad55cdbd4c94a",
     "status": "new"
   }
 ]
