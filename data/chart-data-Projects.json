@@ -2093,11 +2093,10 @@
     "summary": "publish woop app",
     "description": "dont need to be perfect just needs to be right, looks nice",
     "calendar_name": "Projects",
-    "new_date": "2025-11-07",
-    "new_start": "2025-11-07T06:00:00+00:00",
-    "new_end": "2025-11-07T10:55:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "56f5efdb51602aa956b7cfd0f18fa1be492e059c9f1d6039ad81347793bbedd7",
-    "version_id": "3fc75eb0ae9d6ffd8ad69aeb9190fd1d66016650e014dcf362bad55cdbd4c94a",
-    "status": "new"
+    "version_id": "3fc75eb0ae9d6ffd8ad69aeb9190fd1d66016650e014dcf362bad55cdbd4c94a"
   }
 ]
