@@ -7231,12 +7231,11 @@
     "summary": "GLS Delivery: Parcel 7101585607",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-11-11",
-    "new_start": "2025-11-11T07:00:00+00:00",
-    "new_end": "2025-11-11T11:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "e2704536b988f428cdba91913a302e2f1ec2a4c828c1ffa06091528381dff26e",
-    "version_id": "748be25384db376381534518bc92e71666dbd08b698fc819883a781667e3f0ab",
-    "status": "new"
+    "version_id": "748be25384db376381534518bc92e71666dbd08b698fc819883a781667e3f0ab"
   },
   {
     "date": "2025-11-12",
@@ -7246,11 +7245,10 @@
     "summary": "fizio",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-11-12",
-    "new_start": "2025-11-12T09:30:00+00:00",
-    "new_end": "2025-11-12T11:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "74bfbc5530a3c1ad40332b0cc26108b70bdf6ba44e328014a5bcf154c435fc14",
-    "version_id": "2edf986971d1813ad3fccbb6bcd0a053b46710b106cf94a4283b899728f61859",
-    "status": "new"
+    "version_id": "2edf986971d1813ad3fccbb6bcd0a053b46710b106cf94a4283b899728f61859"
   }
 ]
