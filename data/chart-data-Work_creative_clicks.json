@@ -1309,11 +1309,10 @@
     "summary": "work",
     "description": "(No description)",
     "calendar_name": "Work creative clicks",
-    "new_date": "2025-11-13",
-    "new_start": "2025-11-13T07:00:00+00:00",
-    "new_end": "2025-11-13T13:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "f56daecaea5af2fe05d58035911c8cf10c043a8b4217cd2778f2350a97e551c7",
-    "version_id": "570dc6aaf09aea3ba7a09867d84f7c4db46d7da070113373dc266c398d12489d",
-    "status": "new"
+    "version_id": "570dc6aaf09aea3ba7a09867d84f7c4db46d7da070113373dc266c398d12489d"
   }
 ]
