@@ -3176,5 +3176,20 @@
     "new_end": "",
     "id": "6ede0326e2daad2681d2ccc62b76e4823675a7d943e1e7ddce01d2046b027baa",
     "version_id": "1e7d96f0e60c0ad03f099a5ce0b8d19d8b8fca1a3448ffefc51e00de53e1f28b"
+  },
+  {
+    "date": "2025-11-16",
+    "start": "2025-11-16T19:00:00+00:00",
+    "end": "2025-11-16T21:00:00+00:00",
+    "value": 1,
+    "summary": "football",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2025-11-16",
+    "new_start": "2025-11-16T19:00:00+00:00",
+    "new_end": "2025-11-16T21:00:00+00:00",
+    "id": "ef590819c030f838504baf0ebb6891ed520fbf6eb7442073033a6300e630b79e",
+    "version_id": "a1435762c54289ef249f5a6abb7530727e96235acd69dd88c008f21a6ceaf87f",
+    "status": "new"
   }
 ]
