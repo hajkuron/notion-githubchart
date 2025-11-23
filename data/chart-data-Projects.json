@@ -1793,6 +1793,20 @@
   },
   {
     "date": "2025-04-29",
+    "start": "2025-04-29T07:00:00+00:00",
+    "end": "2025-04-29T08:00:00+00:00",
+    "value": 1,
+    "summary": "New Event",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
+    "id": "6d2838ce3326af28738075e67da99966708b334cb665a75d0285c94838efce5e",
+    "version_id": "0e14aa471d094b4a53d7e684f782ebb44a8aadd68253f0de7bd40bea5d7d87c7"
+  },
+  {
+    "date": "2025-04-29",
     "start": "2025-04-29T17:00:00+00:00",
     "end": "2025-04-29T19:00:00+00:00",
     "value": 1,
