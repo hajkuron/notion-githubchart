@@ -7250,5 +7250,20 @@
     "new_end": "",
     "id": "74bfbc5530a3c1ad40332b0cc26108b70bdf6ba44e328014a5bcf154c435fc14",
     "version_id": "2edf986971d1813ad3fccbb6bcd0a053b46710b106cf94a4283b899728f61859"
+  },
+  {
+    "date": "2025-11-25",
+    "start": "2025-11-25T10:00:00+00:00",
+    "end": "2025-11-25T10:30:00+00:00",
+    "value": 1,
+    "summary": "gume",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2025-11-25",
+    "new_start": "2025-11-25T10:00:00+00:00",
+    "new_end": "2025-11-25T10:30:00+00:00",
+    "id": "fc88bdecd6c7a304f3fc046ba0891d900d1e8797748e9d5f66b3804d5ce3327a",
+    "version_id": "bc685471ccf37ed5755a6cef53f150c08c0ab961c7160beb1539c795a0291143",
+    "status": "new"
   }
 ]

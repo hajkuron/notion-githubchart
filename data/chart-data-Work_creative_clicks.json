@@ -1323,11 +1323,39 @@
     "summary": "work",
     "description": "(No description)",
     "calendar_name": "Work creative clicks",
-    "new_date": "2025-11-24",
-    "new_start": "2025-11-24T07:00:00+00:00",
-    "new_end": "2025-11-24T13:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "ed0e8d162947be7d6d50053897a9d932bd698e03de8071037eb4101b3ae6315b",
-    "version_id": "32990923553a381abdeeef38bfa3749aa0ace9cac69311c8ed9e00cc2187f064",
+    "version_id": "32990923553a381abdeeef38bfa3749aa0ace9cac69311c8ed9e00cc2187f064"
+  },
+  {
+    "date": "2025-11-25",
+    "start": "2025-11-25T07:00:00+00:00",
+    "end": "2025-11-25T09:30:00+00:00",
+    "value": 1,
+    "summary": "work",
+    "description": "(No description)",
+    "calendar_name": "Work creative clicks",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
+    "id": "d5c0d7791a1e0f82d9f69904ee8c1e419cc462624d63b948680e1baf486cfcaa",
+    "version_id": "4cbdb49dc84fd1a7282c603b9c34c810b246f7a52402ba393ce1288ee8c4606c"
+  },
+  {
+    "date": "2025-11-25",
+    "start": "2025-11-25T11:00:00+00:00",
+    "end": "2025-11-25T14:00:00+00:00",
+    "value": 1,
+    "summary": "work",
+    "description": "(No description)",
+    "calendar_name": "Work creative clicks",
+    "new_date": "2025-11-25",
+    "new_start": "2025-11-25T11:00:00+00:00",
+    "new_end": "2025-11-25T14:00:00+00:00",
+    "id": "d5c0d7791a1e0f82d9f69904ee8c1e419cc462624d63b948680e1baf486cfcaa",
+    "version_id": "ff56ad6784292ca0c03f5895a83a4b84728dabcd8856d68c7acaa2eb4e572305",
     "status": "new"
   }
 ]
