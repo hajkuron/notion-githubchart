@@ -2121,11 +2121,25 @@
     "summary": "productized service",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2025-11-25",
-    "new_start": "2025-11-25T15:00:00+00:00",
-    "new_end": "2025-11-25T17:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "2f26e688cf6ec4b4cd3c85cf1481e82abc89b308bf5bee2abb8171a6aa266a78",
-    "version_id": "e532a4028e860433cd87c3cd24c981d138513051971537ba40d9e1bb90ac8bd6",
+    "version_id": "e532a4028e860433cd87c3cd24c981d138513051971537ba40d9e1bb90ac8bd6"
+  },
+  {
+    "date": "2025-11-26",
+    "start": "2025-11-26T15:00:00+00:00",
+    "end": "2025-11-26T17:00:00+00:00",
+    "value": 1,
+    "summary": "productized service",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2025-11-26",
+    "new_start": "2025-11-26T15:00:00+00:00",
+    "new_end": "2025-11-26T17:00:00+00:00",
+    "id": "3b4454a1b8c95fd857cb0986c65e4412c0d890bcacdc9aa83222e322c4d957f9",
+    "version_id": "97ee94612d090ffb5ef093cc1ca37e4dda77d045b6d40d346c4b7b8e38f5ff6c",
     "status": "new"
   }
 ]

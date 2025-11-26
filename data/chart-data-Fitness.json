@@ -3227,12 +3227,11 @@
     "summary": "tnes",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2025-11-25",
-    "new_start": "2025-11-25T05:30:00+00:00",
-    "new_end": "2025-11-25T06:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "a547768fefe9a999fb4ceed3368920c68c2ce992b0e197fc2544cb5f82d5d8d2",
-    "version_id": "9550da602bd5627118609704f7a9a4ad056113c3128e085a640a8389d695ece0",
-    "status": "new"
+    "version_id": "9550da602bd5627118609704f7a9a4ad056113c3128e085a640a8389d695ece0"
   },
   {
     "date": "2025-11-25",
@@ -3242,11 +3241,25 @@
     "summary": "short workout",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2025-11-25",
-    "new_start": "2025-11-25T12:00:00+00:00",
-    "new_end": "2025-11-25T12:15:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "b0d28ab7a57649235ee0bf75fc6b999955c5f1cc3857d45df5685dcce05470dc",
-    "version_id": "df648dc33600b8a15e92cd9a3b11c1a512bfd859fba0b5cd511c076a369b0288",
+    "version_id": "df648dc33600b8a15e92cd9a3b11c1a512bfd859fba0b5cd511c076a369b0288"
+  },
+  {
+    "date": "2025-11-26",
+    "start": "2025-11-26T05:30:00+00:00",
+    "end": "2025-11-26T06:30:00+00:00",
+    "value": 1,
+    "summary": "tnes",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2025-11-26",
+    "new_start": "2025-11-26T05:30:00+00:00",
+    "new_end": "2025-11-26T06:30:00+00:00",
+    "id": "63a6b49fc581c38e9d2014c90c0e7e4c56d93595c54a7e52ed69b5a2a1709915",
+    "version_id": "86cb37780bb0ba26f65fe3a4491e4cf88f8c560f675cfb943174eb2bd555017a",
     "status": "new"
   }
 ]

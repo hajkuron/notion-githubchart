@@ -7259,11 +7259,10 @@
     "summary": "gume",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2025-11-25",
-    "new_start": "2025-11-25T10:00:00+00:00",
-    "new_end": "2025-11-25T10:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "fc88bdecd6c7a304f3fc046ba0891d900d1e8797748e9d5f66b3804d5ce3327a",
-    "version_id": "bc685471ccf37ed5755a6cef53f150c08c0ab961c7160beb1539c795a0291143",
-    "status": "new"
+    "version_id": "bc685471ccf37ed5755a6cef53f150c08c0ab961c7160beb1539c795a0291143"
   }
 ]
