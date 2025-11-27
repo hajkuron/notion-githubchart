@@ -3255,11 +3255,25 @@
     "summary": "tnes",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2025-11-26",
-    "new_start": "2025-11-26T05:30:00+00:00",
-    "new_end": "2025-11-26T06:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "63a6b49fc581c38e9d2014c90c0e7e4c56d93595c54a7e52ed69b5a2a1709915",
-    "version_id": "86cb37780bb0ba26f65fe3a4491e4cf88f8c560f675cfb943174eb2bd555017a",
+    "version_id": "86cb37780bb0ba26f65fe3a4491e4cf88f8c560f675cfb943174eb2bd555017a"
+  },
+  {
+    "date": "2025-11-27",
+    "start": "2025-11-27T05:30:00+00:00",
+    "end": "2025-11-27T06:30:00+00:00",
+    "value": 1,
+    "summary": "tnes",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2025-11-27",
+    "new_start": "2025-11-27T05:30:00+00:00",
+    "new_end": "2025-11-27T06:30:00+00:00",
+    "id": "f68ec9d640af261cc2633fcb30620b0709e16b90ea48c2aa630167ae80cc5a2f",
+    "version_id": "b773578f7d543e8e1a535c31a5751de482cb8ffa1d505598b78f1041c47dd63e",
     "status": "new"
   }
 ]
