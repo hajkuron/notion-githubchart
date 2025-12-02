@@ -7264,5 +7264,20 @@
     "new_end": "",
     "id": "fc88bdecd6c7a304f3fc046ba0891d900d1e8797748e9d5f66b3804d5ce3327a",
     "version_id": "bc685471ccf37ed5755a6cef53f150c08c0ab961c7160beb1539c795a0291143"
+  },
+  {
+    "date": "2025-12-02",
+    "start": "2025-12-02T11:50:00+00:00",
+    "end": "2025-12-02T13:45:00+00:00",
+    "value": 1,
+    "summary": "Flight to Amsterdam (KL 1990)",
+    "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DM-cO84UwvGa2YPVZikiV82wu3T4ab55WU\n",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2025-12-02",
+    "new_start": "2025-12-02T11:50:00+00:00",
+    "new_end": "2025-12-02T13:45:00+00:00",
+    "id": "1e3dbcfa3967a2f1ea98da556520eab44dab01b7a45b259e1a1a1eabd4c610d0",
+    "version_id": "33ab37a2e99fd4cb6ae2185ce511a8e9d15c5723ebe0627aa40e766eb759eec4",
+    "status": "new"
   }
 ]
