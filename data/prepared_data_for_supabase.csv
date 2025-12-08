@@ -1,10 +1,6 @@
 date,start,end,value,summary,description,calendar_name,new_date,new_start,new_end,id,version_id,status,duration,deleted
-2025-12-07,2025-12-07T19:00:00+00:00,2025-12-07T21:00:00+00:00,1.0,football,(No description),Fitness,2025-12-07,2025-12-07T19:00:00+00:00,2025-12-07T21:00:00+00:00,2fb8695ee45f3b4050c784e6820030d31e33c24e1b289882ae463a58701a397d,16fcee85f8caf46e6ac424a3918490a2a77a829264c83f7499aeeb75f9b195aa,new,120.0,False
-2025-12-02,2025-12-02T11:50:00+00:00,2025-12-02T13:45:00+00:00,1.0,Flight to Amsterdam (KL 1990),"To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
-
-This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DM-cO84UwvGa2YPVZikiV82wu3T4ab55WU
-",jonkuhar11@gmail.com,2025-12-02,2025-12-02T12:15:00+00:00,2025-12-02T14:10:00+00:00,1e3dbcfa3967a2f1ea98da556520eab44dab01b7a45b259e1a1a1eabd4c610d0,e0a432cb3463bda27ecfb53282321d41597c6bb0e378022dcf13602cf95cae0a,modified,115.0,False
+2025-12-07,2025-12-07T19:00:00+00:00,2025-12-07T21:00:00+00:00,1.0,football,(No description),Fitness,2025-12-07,2025-12-07T19:00:00+00:00,2025-12-07T21:00:00+00:00,2fb8695ee45f3b4050c784e6820030d31e33c24e1b289882ae463a58701a397d,16fcee85f8caf46e6ac424a3918490a2a77a829264c83f7499aeeb75f9b195aa,unchanged,120.0,False
 2025-12-07,2025-12-07T09:20:00+00:00,2025-12-07T11:15:00+00:00,1.0,Flight to Ljubljana (KL 1989),"To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
 
 This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DM-cO84UwvGa2YPVZikiV82wu3T4ab55WU
-",jonkuhar11@gmail.com,2025-12-07,2025-12-07T09:20:00+00:00,2025-12-07T11:15:00+00:00,f81f5ddef361d44eb3d43f8f51d926a448fbd08d04fe73da63c942035634f114,2352705c7b349e0f785b60efa82b7b6187009cd1360523a648c5c201c34daa54,new,115.0,False
+",jonkuhar11@gmail.com,2025-12-07,2025-12-07T09:20:00+00:00,2025-12-07T11:15:00+00:00,f81f5ddef361d44eb3d43f8f51d926a448fbd08d04fe73da63c942035634f114,2352705c7b349e0f785b60efa82b7b6187009cd1360523a648c5c201c34daa54,unchanged,115.0,False
