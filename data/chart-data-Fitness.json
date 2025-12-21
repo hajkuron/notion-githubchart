@@ -3316,5 +3316,20 @@
     "new_end": "",
     "id": "5bfeb977169f9400e6592e84f9733786f7804ce0ad9b2d437dbee704a3ffcbbe",
     "version_id": "825c16232b1cfcb58927ee0eb64b0daee426e4da0b8114920bc5065a422b9e08"
+  },
+  {
+    "date": "2025-12-21",
+    "start": "2025-12-21T19:00:00+00:00",
+    "end": "2025-12-21T21:00:00+00:00",
+    "value": 1,
+    "summary": "football",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2025-12-21",
+    "new_start": "2025-12-21T19:00:00+00:00",
+    "new_end": "2025-12-21T21:00:00+00:00",
+    "id": "372838f4373f0ef733c93083d5d10ea03468f23fac135ede8b4cbe1d2d682731",
+    "version_id": "8815487d45efdabb74a41f5e9949aa15341c32b437ef8c69e12ee374185715ff",
+    "status": "new"
   }
 ]
