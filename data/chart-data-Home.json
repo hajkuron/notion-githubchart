@@ -502,5 +502,20 @@
     "new_end": "",
     "id": "9956bad30ff4f48b7430c6083e8204b8e37287caf2ad0ddca858495f58fa9221",
     "version_id": "c31c45af802f5ef8eb41cbbf9855e2d092398a072139c874a15f35c8c8228c7b"
+  },
+  {
+    "date": "2025-12-24",
+    "start": "2025-12-24T10:00:00+00:00",
+    "end": "2025-12-24T10:00:00+00:00",
+    "value": 1,
+    "summary": "Hanci\u2764\ufe0f",
+    "description": "(No description)",
+    "calendar_name": "Home",
+    "new_date": "2025-12-24",
+    "new_start": "2025-12-24T10:00:00+00:00",
+    "new_end": "2025-12-24T10:00:00+00:00",
+    "id": "edd8bd23256c51b98766b5581dc5a7b2d99d438c664a275ccae28f9e902477ae",
+    "version_id": "ced671b5a3f9d2736692dadcfbb45d7cbf3c85e8f5f8da055042de987fc2f597",
+    "status": "new"
   }
 ]
