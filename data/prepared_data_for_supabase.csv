@@ -1,9 +1,4 @@
 date,start,end,value,summary,description,calendar_name,new_date,new_start,new_end,id,version_id,status,duration,deleted
-2025-12-28,2025-12-28T19:00:00+00:00,2025-12-28T21:00:00+00:00,1.0,football,(No description),Fitness,2025-12-28,2025-12-28T19:00:00+00:00,2025-12-28T21:00:00+00:00,893e16f18ebb44a8352347a8362ff705cae1ba86f2b5e5fbfeac8c129e7e8e34,1ee579eab03ad88a6daec48329b6ed0c23ee5e545fe3ee9da70739cad52f1529,unchanged,120.0,False
-2025-12-28,2025-12-28T12:45:00+00:00,2025-12-28T13:45:00+00:00,1.0,Reservation at The Cadogan Arms,"To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
-
-This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DOBRQpdwjA5OwYTVwJmt08MDfQSaveyDpg
-",jonkuhar11@gmail.com,2025-12-28,2025-12-28T12:45:00+00:00,2025-12-28T13:45:00+00:00,79c605dd6ae30b0459af896fd507b192f89214bdd753c500133e93e111105a03,5d9259aa02d6fe05b83bfb901a54bcdeecb3bb206f07436e3954d91a59c29ba1,unchanged,60.0,False
 2025-12-30,2025-12-30T17:10:00+00:00,2025-12-30T19:20:00+00:00,1.0,Flight to Ljubljana (EZY 8841),"To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
 
 This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DN9aNVFOlde08zuDa-VE8whaUO1cIPsCqs
