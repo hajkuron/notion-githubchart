@@ -2168,5 +2168,20 @@
     "new_end": "",
     "id": "bb1f63e2fdda668d239ae1723a60d74bf4deff0a2f3785bee9fba37c2a30591e",
     "version_id": "a3123e5f108445f7930dbe2fbc2ca10cc3fd695bb30257ae03e412e9340df342"
+  },
+  {
+    "date": "2026-01-06",
+    "start": "2026-01-06T13:00:00+00:00",
+    "end": "2026-01-06T16:00:00+00:00",
+    "value": 1,
+    "summary": "Course start",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2026-01-06",
+    "new_start": "2026-01-06T13:00:00+00:00",
+    "new_end": "2026-01-06T16:00:00+00:00",
+    "id": "a78c252d9bf5dec8996bc34d64f710012779d847db980376015b9e37da465a8c",
+    "version_id": "53c228c35d8c07619c79f1b6088da5a8e559e3c0bc4187dac2204518a133062e",
+    "status": "new"
   }
 ]
