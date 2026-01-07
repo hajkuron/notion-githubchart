@@ -182,18 +182,18 @@
     "version_id": "8e145cd2c6e010a459cba22b0ff67548f5d165228d1897de4a9349e92d1e373a"
   },
   {
-    "date": "2026-01-06",
-    "start": "2026-01-06T16:30:00+00:00",
-    "end": "2026-01-06T17:00:00+00:00",
+    "date": "2026-01-07",
+    "start": "2026-01-07T16:30:00+00:00",
+    "end": "2026-01-07T17:00:00+00:00",
     "value": 1,
     "summary": "learning",
     "description": "(No description)",
     "calendar_name": "Learning",
-    "new_date": "2026-01-06",
-    "new_start": "2026-01-06T16:30:00+00:00",
-    "new_end": "2026-01-06T17:00:00+00:00",
-    "id": "037a2f72d760854553d683441daa95eb2694a3f489e4392f06a895b6db593c62",
-    "version_id": "a51975ef26bb175f6dcd342c73c7229b2e53f9889246cf16537ddf68cc568427",
+    "new_date": "2026-01-07",
+    "new_start": "2026-01-07T16:30:00+00:00",
+    "new_end": "2026-01-07T17:00:00+00:00",
+    "id": "2a3e08030be47221398258eb916fd4ebfb1b55e3a2fab4fe4877c5c52f660301",
+    "version_id": "55672308ad2c52e5016ea71c60976588408017bcd50355dad0131627f2c295c2",
     "status": "new"
   }
 ]
