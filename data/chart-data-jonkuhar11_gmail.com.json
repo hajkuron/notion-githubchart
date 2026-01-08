@@ -7329,11 +7329,10 @@
     "summary": "babi",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2026-01-06",
-    "new_start": "2026-01-06T13:00:00+00:00",
-    "new_end": "2026-01-06T14:15:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "e94933d9c1ad81244adc49779700b10b95f5940d14a1754d1953cc8fff323788",
-    "version_id": "d37ba9fe7f5ac0ff6f946903a1ff7ca00be872cf5255337bd8a40774d94969aa",
-    "status": "new"
+    "version_id": "d37ba9fe7f5ac0ff6f946903a1ff7ca00be872cf5255337bd8a40774d94969aa"
   }
 ]
