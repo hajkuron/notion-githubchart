@@ -3395,12 +3395,11 @@
     "summary": "pull",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2026-01-08",
-    "new_start": "2026-01-08T05:15:00+00:00",
-    "new_end": "2026-01-08T06:15:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "3c790b54b956e9b7b37f7a4c3259172f3ad1bc7009e08cba3a6df4ceb9fdf870",
-    "version_id": "5c05d4f8aa302d0706cf7c0667457fef644a5e6eb4d14ab465660369aaa33262",
-    "status": "new"
+    "version_id": "5c05d4f8aa302d0706cf7c0667457fef644a5e6eb4d14ab465660369aaa33262"
   },
   {
     "date": "2026-01-08",
@@ -3410,11 +3409,25 @@
     "summary": "basket",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2026-01-08",
-    "new_start": "2026-01-08T19:00:00+00:00",
-    "new_end": "2026-01-08T20:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "cd64a8e6706d625e8fbede1e363fc1db7adb677e5666ef4ff1fd5ed24bed8a73",
-    "version_id": "b378379c1a4f44db02ce55e5ca298817b3f91f3f2a13a160d3182a25a546ab02",
+    "version_id": "b378379c1a4f44db02ce55e5ca298817b3f91f3f2a13a160d3182a25a546ab02"
+  },
+  {
+    "date": "2026-01-09",
+    "start": "2026-01-09T05:15:00+00:00",
+    "end": "2026-01-09T06:15:00+00:00",
+    "value": 1,
+    "summary": "upper whole",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2026-01-09",
+    "new_start": "2026-01-09T05:15:00+00:00",
+    "new_end": "2026-01-09T06:15:00+00:00",
+    "id": "964075764d6e1c6e2908f09a243985d205b3ae5c5ec8e9d17d44ab2587db8977",
+    "version_id": "977f0fa82c82f256e2d5587fd8f21df2428c1118def15859fe0a9b91b498052a",
     "status": "new"
   }
 ]

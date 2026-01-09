@@ -1407,11 +1407,10 @@
     "summary": "work",
     "description": "(No description)",
     "calendar_name": "Work creative clicks",
-    "new_date": "2026-01-08",
-    "new_start": "2026-01-08T07:00:00+00:00",
-    "new_end": "2026-01-08T12:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "514e27b5a23fd0570d24df0e484d7d0b5aa2f678908952782c5a1632ed9f1120",
-    "version_id": "d81b64638c8c08e919198d6d2ff1598798d94bd569ed5d0306098d486e29aebb",
-    "status": "new"
+    "version_id": "d81b64638c8c08e919198d6d2ff1598798d94bd569ed5d0306098d486e29aebb"
   }
 ]

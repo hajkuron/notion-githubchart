@@ -203,11 +203,10 @@
     "summary": "learning",
     "description": "(No description)",
     "calendar_name": "Learning",
-    "new_date": "2026-01-08",
-    "new_start": "2026-01-08T16:30:00+00:00",
-    "new_end": "2026-01-08T17:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "4e74af1c09e87dab3c2c739b318261f19573ba61767a7ca014213efe472880b1",
-    "version_id": "a2ac1d02bc7a7edfc00ac7a7853f552df07e1895ee119b2e2a7eb194d32791e0",
-    "status": "new"
+    "version_id": "a2ac1d02bc7a7edfc00ac7a7853f552df07e1895ee119b2e2a7eb194d32791e0"
   }
 ]
