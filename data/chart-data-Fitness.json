@@ -3423,11 +3423,25 @@
     "summary": "upper whole",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2026-01-09",
-    "new_start": "2026-01-09T05:15:00+00:00",
-    "new_end": "2026-01-09T06:15:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "964075764d6e1c6e2908f09a243985d205b3ae5c5ec8e9d17d44ab2587db8977",
-    "version_id": "977f0fa82c82f256e2d5587fd8f21df2428c1118def15859fe0a9b91b498052a",
+    "version_id": "977f0fa82c82f256e2d5587fd8f21df2428c1118def15859fe0a9b91b498052a"
+  },
+  {
+    "date": "2026-01-10",
+    "start": "2026-01-10T05:15:00+00:00",
+    "end": "2026-01-10T06:15:00+00:00",
+    "value": 1,
+    "summary": "full",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2026-01-10",
+    "new_start": "2026-01-10T05:15:00+00:00",
+    "new_end": "2026-01-10T06:15:00+00:00",
+    "id": "37905fcaa9430a28a47a440999ee07a0ea8ebe7c83c0eb8ee1a0c9d9b757fed6",
+    "version_id": "c480bb35bc0022c1f80054a37e573a8e4c060b4e2bf81a8d3c1c5874dbc891a6",
     "status": "new"
   }
 ]
