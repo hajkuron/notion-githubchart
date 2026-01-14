@@ -2224,5 +2224,20 @@
     "new_end": "",
     "id": "460b42b5639957afcf3a54684b5e2418f7e4bba81d2c46b9ce9094d65e374692",
     "version_id": "75b5475d50abe5f902881031bd5048cbb5ccde507f9d9c2883c11d8b87de4a12"
+  },
+  {
+    "date": "2026-01-13",
+    "start": "2026-01-13T08:30:00+00:00",
+    "end": "2026-01-13T12:00:00+00:00",
+    "value": 1,
+    "summary": "module 2",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2026-01-13",
+    "new_start": "2026-01-13T08:30:00+00:00",
+    "new_end": "2026-01-13T12:00:00+00:00",
+    "id": "fa1d1cbbefebbb37aa875dd28ab0da4f55d648b381e68496cf747a8238f34677",
+    "version_id": "600a548a93e960c8d1ee94c20e3ac6a234acc84f368363cdb3b8d14f8ff8b404",
+    "status": "new"
   }
 ]

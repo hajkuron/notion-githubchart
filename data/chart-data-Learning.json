@@ -208,5 +208,20 @@
     "new_end": "",
     "id": "4e74af1c09e87dab3c2c739b318261f19573ba61767a7ca014213efe472880b1",
     "version_id": "a2ac1d02bc7a7edfc00ac7a7853f552df07e1895ee119b2e2a7eb194d32791e0"
+  },
+  {
+    "date": "2026-01-13",
+    "start": "2026-01-13T15:00:00+00:00",
+    "end": "2026-01-13T16:00:00+00:00",
+    "value": 1,
+    "summary": "claude code",
+    "description": "(No description)",
+    "calendar_name": "Learning",
+    "new_date": "2026-01-13",
+    "new_start": "2026-01-13T15:00:00+00:00",
+    "new_end": "2026-01-13T16:00:00+00:00",
+    "id": "32a9f2b96f26ef7092562f80eb133dd2374810f97980fdf191c55c2fc520110f",
+    "version_id": "b2f98f1505f189d6d93c938bb1d77a045ff8bc78f718ab28ca39e5420fdc4574",
+    "status": "new"
   }
 ]
