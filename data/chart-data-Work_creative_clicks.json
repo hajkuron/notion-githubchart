@@ -1412,5 +1412,20 @@
     "new_end": "",
     "id": "514e27b5a23fd0570d24df0e484d7d0b5aa2f678908952782c5a1632ed9f1120",
     "version_id": "d81b64638c8c08e919198d6d2ff1598798d94bd569ed5d0306098d486e29aebb"
+  },
+  {
+    "date": "2026-01-20",
+    "start": "2026-01-20T07:00:00+00:00",
+    "end": "2026-01-20T11:00:00+00:00",
+    "value": 1,
+    "summary": "creative clicks",
+    "description": "(No description)",
+    "calendar_name": "Work creative clicks",
+    "new_date": "2026-01-20",
+    "new_start": "2026-01-20T07:00:00+00:00",
+    "new_end": "2026-01-20T11:00:00+00:00",
+    "id": "b49b6e615753cfa6a9c1daba7d495a920921e2995c6ad243f91996a408c527ba",
+    "version_id": "84d95ee37883b1e6b5ced3910f1caaa3e06def5a464885df6636cd2f86f284d1",
+    "status": "new"
   }
 ]

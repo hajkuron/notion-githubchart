@@ -2238,5 +2238,49 @@
     "new_end": "",
     "id": "fa1d1cbbefebbb37aa875dd28ab0da4f55d648b381e68496cf747a8238f34677",
     "version_id": "600a548a93e960c8d1ee94c20e3ac6a234acc84f368363cdb3b8d14f8ff8b404"
+  },
+  {
+    "date": "2026-01-19",
+    "start": "2026-01-19T09:30:00+00:00",
+    "end": "2026-01-19T13:00:00+00:00",
+    "value": 1,
+    "summary": "work",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
+    "id": "cdac2f635cf062a9a768528d9e5cf269612607a40237e9d9daadd280717602c9",
+    "version_id": "aaa5ac6656058a2bafc9a1c4729a746eaaa285355fa9ae4e2683de725ccb4f6b"
+  },
+  {
+    "date": "2026-01-19",
+    "start": "2026-01-19T15:30:00+00:00",
+    "end": "2026-01-19T17:00:00+00:00",
+    "value": 1,
+    "summary": "work",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2026-01-19",
+    "new_start": "2026-01-19T15:30:00+00:00",
+    "new_end": "2026-01-19T17:00:00+00:00",
+    "id": "cdac2f635cf062a9a768528d9e5cf269612607a40237e9d9daadd280717602c9",
+    "version_id": "96b92d8337e775f648fd8c236c297b080aa6e89ee136b25a9d3bd1eab102a15d",
+    "status": "new"
+  },
+  {
+    "date": "2026-01-20",
+    "start": "2026-01-20T12:00:00+00:00",
+    "end": "2026-01-20T16:00:00+00:00",
+    "value": 1,
+    "summary": "work",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2026-01-20",
+    "new_start": "2026-01-20T12:00:00+00:00",
+    "new_end": "2026-01-20T16:00:00+00:00",
+    "id": "c56c2e1365b2dc2dadbafe151081994de4e7da93b28490999593c5050a795ab8",
+    "version_id": "dd662614ec53b05737be80f60c698595a9bb5c04c588be6a697592f0123f6698",
+    "status": "new"
   }
 ]
