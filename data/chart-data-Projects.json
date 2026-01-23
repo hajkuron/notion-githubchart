@@ -2303,11 +2303,25 @@
     "summary": "work",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2026-01-22",
-    "new_start": "2026-01-22T12:00:00+00:00",
-    "new_end": "2026-01-22T16:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "3abf92457f23db266c3948ba019b47f844061719ad5b892303b36bba726b63b5",
-    "version_id": "ab2119c9f277681a23bb7ab5513f1a0620476bc14fcf93b608ffb9133e0d6e82",
+    "version_id": "ab2119c9f277681a23bb7ab5513f1a0620476bc14fcf93b608ffb9133e0d6e82"
+  },
+  {
+    "date": "2026-01-23",
+    "start": "2026-01-23T12:00:00+00:00",
+    "end": "2026-01-23T16:00:00+00:00",
+    "value": 1,
+    "summary": "work",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2026-01-23",
+    "new_start": "2026-01-23T12:00:00+00:00",
+    "new_end": "2026-01-23T16:00:00+00:00",
+    "id": "e589bed4e9903264058076bcd262208b7321b51fb599f1522c0c6349171ed96a",
+    "version_id": "8529651ce52459124060f406c3bb91488dd8cd8191dc426bfde43d51f961858c",
     "status": "new"
   }
 ]
