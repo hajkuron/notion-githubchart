@@ -2317,11 +2317,10 @@
     "summary": "work",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2026-01-23",
-    "new_start": "2026-01-23T12:00:00+00:00",
-    "new_end": "2026-01-23T16:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "e589bed4e9903264058076bcd262208b7321b51fb599f1522c0c6349171ed96a",
-    "version_id": "8529651ce52459124060f406c3bb91488dd8cd8191dc426bfde43d51f961858c",
-    "status": "new"
+    "version_id": "8529651ce52459124060f406c3bb91488dd8cd8191dc426bfde43d51f961858c"
   }
 ]
