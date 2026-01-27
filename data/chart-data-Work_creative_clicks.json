@@ -1477,11 +1477,25 @@
     "summary": "creative clicks",
     "description": "(No description)",
     "calendar_name": "Work creative clicks",
-    "new_date": "2026-01-26",
-    "new_start": "2026-01-26T07:00:00+00:00",
-    "new_end": "2026-01-26T11:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "5c27f566e71e0466303136f7ce4b84e60fef690807d0f6b4c22a1acd54657750",
-    "version_id": "6052dcdba2641bf62cd3dada9c9d735b78a7bdf9ffc3b7896b2160d2f9661342",
+    "version_id": "6052dcdba2641bf62cd3dada9c9d735b78a7bdf9ffc3b7896b2160d2f9661342"
+  },
+  {
+    "date": "2026-01-27",
+    "start": "2026-01-27T07:00:00+00:00",
+    "end": "2026-01-27T11:00:00+00:00",
+    "value": 1,
+    "summary": "creative clicks",
+    "description": "(No description)",
+    "calendar_name": "Work creative clicks",
+    "new_date": "2026-01-27",
+    "new_start": "2026-01-27T07:00:00+00:00",
+    "new_end": "2026-01-27T11:00:00+00:00",
+    "id": "0f7c56f52df3f7b4726dfec9aa0104554582ce0f108483dc6117b0d1b4305d08",
+    "version_id": "8296ad25f6a17e6f6691ba463c533238814934bc676e4219f2c61b6d30214bdd",
     "status": "new"
   }
 ]
