@@ -3582,5 +3582,20 @@
     "new_end": "",
     "id": "d60f894cdc5302e0eb9d750532354ea22fb6181fd1af00c8a5bb198c038679db",
     "version_id": "99f78ef9e5d5c99f136436c07c0312b8106467a0b3748a470366e5218f1a8b00"
+  },
+  {
+    "date": "2026-02-06",
+    "start": "2026-02-06T06:30:00+00:00",
+    "end": "2026-02-06T07:30:00+00:00",
+    "value": 1,
+    "summary": "gym",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2026-02-06",
+    "new_start": "2026-02-06T06:30:00+00:00",
+    "new_end": "2026-02-06T07:30:00+00:00",
+    "id": "786ae39ff27c06f454943d6945a6413c675e8619fbe8d037d479db5813487aaa",
+    "version_id": "bc7c3608ab3ef2a4b52f55fe9862a61b9227fa6cf17cf05ba9ac79b3384f7d67",
+    "status": "new"
   }
 ]
