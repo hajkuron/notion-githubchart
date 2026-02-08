@@ -3596,5 +3596,20 @@
     "new_end": "",
     "id": "786ae39ff27c06f454943d6945a6413c675e8619fbe8d037d479db5813487aaa",
     "version_id": "bc7c3608ab3ef2a4b52f55fe9862a61b9227fa6cf17cf05ba9ac79b3384f7d67"
+  },
+  {
+    "date": "2026-02-08",
+    "start": "2026-02-08T19:00:00+00:00",
+    "end": "2026-02-08T21:00:00+00:00",
+    "value": 1,
+    "summary": "football",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2026-02-08",
+    "new_start": "2026-02-08T19:00:00+00:00",
+    "new_end": "2026-02-08T21:00:00+00:00",
+    "id": "15c467be9417d6c98bd6892240b3d85e5a73f000b68b28d08a2ce58dcaa997b3",
+    "version_id": "5175819fde1e1a130f735d513d4f50c6b1062d577de9609142737de3e646a656",
+    "status": "new"
   }
 ]
