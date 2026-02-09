@@ -7334,5 +7334,20 @@
     "new_end": "",
     "id": "e94933d9c1ad81244adc49779700b10b95f5940d14a1754d1953cc8fff323788",
     "version_id": "d37ba9fe7f5ac0ff6f946903a1ff7ca00be872cf5255337bd8a40774d94969aa"
+  },
+  {
+    "date": "2026-02-08",
+    "start": "2026-02-08T00:00:00+00:00",
+    "end": "2026-02-10T00:00:00+00:00",
+    "value": 1,
+    "summary": "Stay at Hotel Flachauerhof",
+    "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DMBhgtggYkt18mfCF-gHDdM3qSc7iYgdRY\n",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2026-02-08",
+    "new_start": "2026-02-08T00:00:00+00:00",
+    "new_end": "2026-02-10T00:00:00+00:00",
+    "id": "f506193ffa9efa87e9737bcf9a235f56cb5d98dcac9b37e8409f7a78a7e88396",
+    "version_id": "5e5d4c89ea8f07b6a6bba3d1fa98f9cde71f726fe85d1de3d0ff4fc9822dd818",
+    "status": "new"
   }
 ]
