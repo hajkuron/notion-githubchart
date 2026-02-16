@@ -1,2 +1,2 @@
 date,start,end,value,summary,description,calendar_name,new_date,new_start,new_end,id,version_id,status,duration,deleted
-2026-02-15,2026-02-15T19:00:00+00:00,2026-02-15T21:00:00+00:00,1.0,football,(No description),Fitness,2026-02-15,2026-02-15T19:00:00+00:00,2026-02-15T21:00:00+00:00,56b0591b1cf0d82b5714af3e7defa967c2289000ffd012b41ddb4c9b6ad4428e,7f30b84ff3ec7c1691cfd131cd3346e2206864d8a24e0c09b2e96bcdb2aaf9f3,new,120.0,False
+2026-02-15,2026-02-15T19:00:00+00:00,2026-02-15T21:00:00+00:00,1.0,football,(No description),Fitness,2026-02-15,2026-02-15T19:00:00+00:00,2026-02-15T21:00:00+00:00,56b0591b1cf0d82b5714af3e7defa967c2289000ffd012b41ddb4c9b6ad4428e,7f30b84ff3ec7c1691cfd131cd3346e2206864d8a24e0c09b2e96bcdb2aaf9f3,unchanged,120.0,False
