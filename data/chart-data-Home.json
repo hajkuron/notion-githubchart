@@ -539,11 +539,10 @@
     "summary": "Hanci\u2764\ufe0f",
     "description": "(No description)",
     "calendar_name": "Home",
-    "new_date": "2026-02-24",
-    "new_start": "2026-02-24T10:00:00+00:00",
-    "new_end": "2026-02-24T10:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "5fe45748f6750f44a4beac11261b9204ded98368fe6f7441d79a6e0218049b7d",
-    "version_id": "a9dd3c4aa335abc3db7c758587f301b8015e5ff5eaf2c9eeab179385f9a2898d",
-    "status": "new"
+    "version_id": "a9dd3c4aa335abc3db7c758587f301b8015e5ff5eaf2c9eeab179385f9a2898d"
   }
 ]
