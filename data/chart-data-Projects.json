@@ -2364,5 +2364,20 @@
     "new_end": "",
     "id": "f83f38fcf394f606108023d091cbd0e6936a8285a054abbf3484b865e0ed2b30",
     "version_id": "33999e96fd956e12f80f8f201a1c6fd6fa6dab84fa63d75f87dfa689b848930b"
+  },
+  {
+    "date": "2026-03-09",
+    "start": "2026-03-09T07:00:00+00:00",
+    "end": "2026-03-09T07:15:00+00:00",
+    "value": 1,
+    "summary": "Message boss \u2014 weekly plan",
+    "description": "Send message: what you're working on this week, days available, expected delivery. New model \u2014 stay visible.",
+    "calendar_name": "Projects",
+    "new_date": "2026-03-09",
+    "new_start": "2026-03-09T07:00:00+00:00",
+    "new_end": "2026-03-09T07:15:00+00:00",
+    "id": "8a93be45b861f659b1a75ed595e5867b783fcfb3f47ff825463499aa34f0b759",
+    "version_id": "6828e285383aedb3a3d184fccae9104fc10fb1d191873232bbbbae6f4a4f5c69",
+    "status": "new"
   }
 ]

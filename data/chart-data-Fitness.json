@@ -3666,5 +3666,20 @@
     "new_end": "",
     "id": "4e3e9fbbf15a1a01f163d227931c6b302678773e1ea6cde8aec4825cef1aa226",
     "version_id": "105c6bb536abd0dbbecbecffc65210a7c3f2973d412e0ab470cdbbd30b047d19"
+  },
+  {
+    "date": "2026-03-10",
+    "start": "2026-03-10T06:00:00+00:00",
+    "end": "2026-03-10T07:00:00+00:00",
+    "value": 1,
+    "summary": "Gym \u2014 Upper A",
+    "description": "Bench Press \u00b7 Bent Over Row \u00b7 Incline DB Press \u00b7 Cable Fly \u00b7 Bicep Curl \u00b7 Tricep Extension \u00b7 Face Pull",
+    "calendar_name": "Fitness",
+    "new_date": "2026-03-10",
+    "new_start": "2026-03-10T06:00:00+00:00",
+    "new_end": "2026-03-10T07:00:00+00:00",
+    "id": "807cf0ee8467faa6ce5c4af813994ef09b1cda35f5fb7b6fd9c0bcb10b3a074e",
+    "version_id": "1f60bdc49eb68ee57e825ec39402c8667d94d97da2dfa89f1093e0a5746542e7",
+    "status": "new"
   }
 ]
