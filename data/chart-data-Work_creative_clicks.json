@@ -1519,12 +1519,11 @@
     "summary": "Build AI Agent MVP",
     "description": "Build AI agent for Data Factory pipeline fault monitoring.\\n\\nTasks:\\n- Design fault detection logic\\n- Build agent MVP\\n- Test against pipeline\\n- Prepare for delivery tomorrow",
     "calendar_name": "Work creative clicks",
-    "new_date": "2026-03-09",
-    "new_start": "2026-03-09T07:15:00+00:00",
-    "new_end": "2026-03-09T16:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "370125989e3b188bd1804e6ea612d3301764b48c579cbcb58d357bf23689a673",
-    "version_id": "187205a41ff4429ed265510ce14e37f977916c36896c7c5e84a505921a8df72d",
-    "status": "new"
+    "version_id": "187205a41ff4429ed265510ce14e37f977916c36896c7c5e84a505921a8df72d"
   },
   {
     "date": "2026-03-10",
@@ -1534,11 +1533,10 @@
     "summary": "Finish & Deliver AI Agent",
     "description": "Tasks:\\n- Finish and test agent\\n- Deliver to Creative Clicks\\n- Send progress update to boss",
     "calendar_name": "Work creative clicks",
-    "new_date": "2026-03-10",
-    "new_start": "2026-03-10T07:30:00+00:00",
-    "new_end": "2026-03-10T15:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "9a71ea8f2f22fc887a99cada18654021891ddd8dbe2eda17b85bf5a0987da498",
-    "version_id": "c6271674c07ba4f4177f8be8a0b5c068c58db5a9f3e740500a680bdeed145efa",
-    "status": "new"
+    "version_id": "c6271674c07ba4f4177f8be8a0b5c068c58db5a9f3e740500a680bdeed145efa"
   }
 ]

@@ -3675,11 +3675,25 @@
     "summary": "Gym \u2014 Upper A",
     "description": "Bench Press \u00b7 Bent Over Row \u00b7 Incline DB Press \u00b7 Cable Fly \u00b7 Bicep Curl \u00b7 Tricep Extension \u00b7 Face Pull",
     "calendar_name": "Fitness",
-    "new_date": "2026-03-10",
-    "new_start": "2026-03-10T06:00:00+00:00",
-    "new_end": "2026-03-10T07:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "807cf0ee8467faa6ce5c4af813994ef09b1cda35f5fb7b6fd9c0bcb10b3a074e",
-    "version_id": "1f60bdc49eb68ee57e825ec39402c8667d94d97da2dfa89f1093e0a5746542e7",
+    "version_id": "1f60bdc49eb68ee57e825ec39402c8667d94d97da2dfa89f1093e0a5746542e7"
+  },
+  {
+    "date": "2026-03-11",
+    "start": "2026-03-11T06:00:00+00:00",
+    "end": "2026-03-11T07:00:00+00:00",
+    "value": 1,
+    "summary": "Gym \u2014 Lower A",
+    "description": "Squat \u00b7 Bulgarian Split Squat \u00b7 Leg Extension \u00b7 Lying Leg Curl \u00b7 Seated Calf Raise \u00b7 Tibialis Raise",
+    "calendar_name": "Fitness",
+    "new_date": "2026-03-11",
+    "new_start": "2026-03-11T06:00:00+00:00",
+    "new_end": "2026-03-11T07:00:00+00:00",
+    "id": "0553abb77acf699f45f68e58e32752c80c1aa8d0e2b3823e082c7271a66447dc",
+    "version_id": "f58c2c21069c080ad6c817fcc93ba42176ed4b2f093440c8b47d6865b66c7396",
     "status": "new"
   }
 ]
