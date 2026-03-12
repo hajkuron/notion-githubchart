@@ -3689,11 +3689,25 @@
     "summary": "Gym \u2014 Lower A",
     "description": "Squat \u00b7 Bulgarian Split Squat \u00b7 Leg Extension \u00b7 Lying Leg Curl \u00b7 Seated Calf Raise \u00b7 Tibialis Raise",
     "calendar_name": "Fitness",
-    "new_date": "2026-03-11",
-    "new_start": "2026-03-11T06:00:00+00:00",
-    "new_end": "2026-03-11T07:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "0553abb77acf699f45f68e58e32752c80c1aa8d0e2b3823e082c7271a66447dc",
-    "version_id": "f58c2c21069c080ad6c817fcc93ba42176ed4b2f093440c8b47d6865b66c7396",
+    "version_id": "f58c2c21069c080ad6c817fcc93ba42176ed4b2f093440c8b47d6865b66c7396"
+  },
+  {
+    "date": "2026-03-12",
+    "start": "2026-03-12T06:00:00+00:00",
+    "end": "2026-03-12T07:00:00+00:00",
+    "value": 1,
+    "summary": "Gym \u2014 Upper B",
+    "description": "Shoulder Press \u00b7 Pull-Ups \u00b7 Incline DB Press \u00b7 T-Bar Row \u00b7 Lateral Raise \u00b7 Hammer Curl \u00b7 Tricep Pushdown \u00b7 Chest Dips",
+    "calendar_name": "Fitness",
+    "new_date": "2026-03-12",
+    "new_start": "2026-03-12T06:00:00+00:00",
+    "new_end": "2026-03-12T07:00:00+00:00",
+    "id": "3d5b28eb8ab3a5c4d9ab695401c4c53b746a224d8021122016e9d9aff6a9ba6c",
+    "version_id": "2ca8cea45253784996f104bd0e4759f333982bc5baca698c4feff374753590ac",
     "status": "new"
   }
 ]
