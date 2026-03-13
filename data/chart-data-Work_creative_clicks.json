@@ -1519,12 +1519,11 @@
     "summary": "Build AI Agent MVP",
     "description": "Build MVP for Data Factory fault monitoring AI agent.",
     "calendar_name": "Work creative clicks",
-    "new_date": "2026-03-09",
-    "new_start": "2026-03-09T07:15:00+00:00",
-    "new_end": "2026-03-09T15:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "7ce6a9646d67d7a1d8ab2a2dead6456a8e6dc376c02c51a4e3eaee6fe5eb4504",
-    "version_id": "7c28f4349ae000bee327d5602bd4c03655662802feec022cee1274b8ce0a3e2d",
-    "status": "new"
+    "version_id": "7c28f4349ae000bee327d5602bd4c03655662802feec022cee1274b8ce0a3e2d"
   },
   {
     "date": "2026-03-10",
@@ -1534,12 +1533,11 @@
     "summary": "Finish & Deliver AI Agent",
     "description": "Finalize AI agent for Data Factory fault monitoring. Send delivery update to boss.",
     "calendar_name": "Work creative clicks",
-    "new_date": "2026-03-10",
-    "new_start": "2026-03-10T07:30:00+00:00",
-    "new_end": "2026-03-10T15:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "4dea8e8e6686eab14c3e6e6ce422954e66202c6e263f3314d20b25739ce62470",
-    "version_id": "db9a0ca33333b27e73e191fc70cac1149ade01b84af21319d98636fe96069455",
-    "status": "new"
+    "version_id": "db9a0ca33333b27e73e191fc70cac1149ade01b84af21319d98636fe96069455"
   },
   {
     "date": "2026-03-11",
@@ -1549,26 +1547,25 @@
     "summary": "Freelance \u2014 Finish agent delivery",
     "description": "Half day: wrap up and finalize AI agent. Send update to boss.",
     "calendar_name": "Work creative clicks",
-    "new_date": "2026-03-11",
-    "new_start": "2026-03-11T07:30:00+00:00",
-    "new_end": "2026-03-11T15:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "1c2b42ce7df835ac287985de6b210903ceb7f9bef9ec2fbfddb4cc9b5caa7a5a",
-    "version_id": "fe6ccd18545e9c99f5fad12f6ebe13e95e9e9ac34711dff610d5e239d6e02124",
-    "status": "new"
+    "version_id": "fe6ccd18545e9c99f5fad12f6ebe13e95e9e9ac34711dff610d5e239d6e02124"
   },
   {
     "date": "2026-03-12",
     "start": "2026-03-12T12:00:00+00:00",
     "end": "2026-03-12T16:30:00+00:00",
     "value": 1,
-    "summary": "Freelance \u2014 Wrap up",
+    "summary": "Freelance",
     "description": "Half day: finalize any remaining freelance tasks. Send end-of-week update to boss.",
     "calendar_name": "Work creative clicks",
     "new_date": "2026-03-12",
     "new_start": "2026-03-12T12:00:00+00:00",
     "new_end": "2026-03-12T16:30:00+00:00",
-    "id": "3e0921721a1695d91a7fa587f18780a1cfcdc4bf95956e0000d4615a4e88ad80",
-    "version_id": "c9efee4e0e758f439723cca307135f24901a06bf9d534607d723e6b3540f7314",
+    "id": "1fc3a4335f06630835814b3a7cd2e97958121baa1423b13af29937902a6adacd",
+    "version_id": "eb55a4dbd4930f03a3be4e1456d24333c082d77ac8b50c1e41c45743d6ee9822",
     "status": "new"
   }
 ]

@@ -2373,11 +2373,25 @@
     "summary": "Message boss \u2014 weekly plan",
     "description": "Send message to boss: days working this week, what to expect, agent delivery timeline.",
     "calendar_name": "Projects",
-    "new_date": "2026-03-09",
-    "new_start": "2026-03-09T07:00:00+00:00",
-    "new_end": "2026-03-09T07:15:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "3b454928f696a83860423d05dae2c18712833f266acfaa86f4aabaa784478d88",
-    "version_id": "763bd4417d2c8cd3a18f7767b0fcaa1810a5380ff2c1f4798b8755e40089aaac",
+    "version_id": "763bd4417d2c8cd3a18f7767b0fcaa1810a5380ff2c1f4798b8755e40089aaac"
+  },
+  {
+    "date": "2026-03-13",
+    "start": "2026-03-13T15:30:00+00:00",
+    "end": "2026-03-13T16:00:00+00:00",
+    "value": 1,
+    "summary": "Weekly update to boss",
+    "description": "Send end-of-week update to Creative Clicks boss.",
+    "calendar_name": "Projects",
+    "new_date": "2026-03-13",
+    "new_start": "2026-03-13T15:30:00+00:00",
+    "new_end": "2026-03-13T16:00:00+00:00",
+    "id": "6384bc6dfb5c0b931eb7b232310fe150e7e34a783a3f4a1bcfa0aa08cc736d65",
+    "version_id": "ff270b36e93477da368112848c465019f75a87b2a642c4dd440198fb3e2a1e72",
     "status": "new"
   }
 ]

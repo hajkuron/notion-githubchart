@@ -3703,11 +3703,25 @@
     "summary": "Gym \u2014 Upper B",
     "description": "Shoulder Press \u00b7 Pull-Ups \u00b7 Incline DB Press \u00b7 T-Bar Row \u00b7 Lateral Raise \u00b7 Hammer Curl \u00b7 Tricep Pushdown \u00b7 Chest Dips",
     "calendar_name": "Fitness",
-    "new_date": "2026-03-12",
-    "new_start": "2026-03-12T06:00:00+00:00",
-    "new_end": "2026-03-12T07:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "3d5b28eb8ab3a5c4d9ab695401c4c53b746a224d8021122016e9d9aff6a9ba6c",
-    "version_id": "2ca8cea45253784996f104bd0e4759f333982bc5baca698c4feff374753590ac",
+    "version_id": "2ca8cea45253784996f104bd0e4759f333982bc5baca698c4feff374753590ac"
+  },
+  {
+    "date": "2026-03-13",
+    "start": "2026-03-13T06:00:00+00:00",
+    "end": "2026-03-13T07:00:00+00:00",
+    "value": 1,
+    "summary": "Gym \u2014 Upper A",
+    "description": "Bench Press \u00b7 Bent Over Row \u00b7 Incline DB Press \u00b7 Cable Fly \u00b7 Bicep Curl \u00b7 Tricep Extension \u00b7 Face Pull",
+    "calendar_name": "Fitness",
+    "new_date": "2026-03-13",
+    "new_start": "2026-03-13T06:00:00+00:00",
+    "new_end": "2026-03-13T07:00:00+00:00",
+    "id": "832cfe31be3f895b144439f6fa06a957829ab0129b5079593a2ea7df1a3344cb",
+    "version_id": "8539d9ca74ed44eaf9bfc56f0c75ee0aee4f1cd00913ee2b8906ce17b41760e9",
     "status": "new"
   }
 ]

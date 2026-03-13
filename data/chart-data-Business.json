@@ -7,11 +7,25 @@
     "summary": "Visual format + Ship LM#2",
     "description": "Tasks:\\n1. Decide visual format (split-screen image vs video)\\n2. Build + test visual for LM#2\\n3. Finalize folder structure + Gumroad delivery\\n4. Post LM#2 on LinkedIn",
     "calendar_name": "Business",
-    "new_date": "2026-03-12",
-    "new_start": "2026-03-12T07:30:00+00:00",
-    "new_end": "2026-03-12T11:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "b8bf90c12b817135c20b293da699576c43628f70523f1a598710a9c361d03049",
-    "version_id": "81f469e7f70a295cb19affd186e50109c4aa4591c614f55f9652ee14cb29e496",
+    "version_id": "81f469e7f70a295cb19affd186e50109c4aa4591c614f55f9652ee14cb29e496"
+  },
+  {
+    "date": "2026-03-13",
+    "start": "2026-03-13T07:30:00+00:00",
+    "end": "2026-03-13T15:30:00+00:00",
+    "value": 1,
+    "summary": "Automate visual pipeline + Ideation system + Ship LM#3",
+    "description": "Tasks:\\n1. Automate visual generation into workflow generator\\n2. Build lean ideation system (trending \u2192 workflow idea)\\n3. Generate LM#3 using the system\\n4. Post LM#3 on LinkedIn",
+    "calendar_name": "Business",
+    "new_date": "2026-03-13",
+    "new_start": "2026-03-13T07:30:00+00:00",
+    "new_end": "2026-03-13T15:30:00+00:00",
+    "id": "35ab866074c3c0e5d2b7c4013f5c1e4c1915243930861590a25fc647d6ff9d27",
+    "version_id": "94534650901eeafa32fa59049ac652657857664b818e1e40172e570834175095",
     "status": "new"
   }
 ]
