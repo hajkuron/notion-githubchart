@@ -21,11 +21,25 @@
     "summary": "Automate visual pipeline + Ideation system + Ship LM#3",
     "description": "Tasks:\\n1. Automate visual generation into workflow generator\\n2. Build lean ideation system (trending \u2192 workflow idea)\\n3. Generate LM#3 using the system\\n4. Post LM#3 on LinkedIn",
     "calendar_name": "Business",
-    "new_date": "2026-03-13",
-    "new_start": "2026-03-13T07:30:00+00:00",
-    "new_end": "2026-03-13T15:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "35ab866074c3c0e5d2b7c4013f5c1e4c1915243930861590a25fc647d6ff9d27",
-    "version_id": "94534650901eeafa32fa59049ac652657857664b818e1e40172e570834175095",
+    "version_id": "94534650901eeafa32fa59049ac652657857664b818e1e40172e570834175095"
+  },
+  {
+    "date": "2026-03-14",
+    "start": "2026-03-14T09:00:00+00:00",
+    "end": "2026-03-14T13:00:00+00:00",
+    "value": 1,
+    "summary": "Business \u2014 Overflow / Catch-up",
+    "description": "Weekend work session. Pick up any unfinished tasks from the week.",
+    "calendar_name": "Business",
+    "new_date": "2026-03-14",
+    "new_start": "2026-03-14T09:00:00+00:00",
+    "new_end": "2026-03-14T13:00:00+00:00",
+    "id": "385b18327b96f053efbdb44885d8452cb65b2a690f9ee9e6391368c1c7720d2c",
+    "version_id": "3f2e0d490de46a586f2397699facd98965cd8e38b69586a8ffa9c48ff1e34f5a",
     "status": "new"
   }
 ]

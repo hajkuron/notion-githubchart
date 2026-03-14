@@ -1561,11 +1561,10 @@
     "summary": "Freelance",
     "description": "Half day: finalize any remaining freelance tasks. Send end-of-week update to boss.",
     "calendar_name": "Work creative clicks",
-    "new_date": "2026-03-12",
-    "new_start": "2026-03-12T12:00:00+00:00",
-    "new_end": "2026-03-12T16:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "1fc3a4335f06630835814b3a7cd2e97958121baa1423b13af29937902a6adacd",
-    "version_id": "eb55a4dbd4930f03a3be4e1456d24333c082d77ac8b50c1e41c45743d6ee9822",
-    "status": "new"
+    "version_id": "eb55a4dbd4930f03a3be4e1456d24333c082d77ac8b50c1e41c45743d6ee9822"
   }
 ]
