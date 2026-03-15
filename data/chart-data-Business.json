@@ -35,11 +35,25 @@
     "summary": "Business \u2014 Overflow / Catch-up",
     "description": "Weekend work session. Pick up any unfinished tasks from the week.",
     "calendar_name": "Business",
-    "new_date": "2026-03-14",
-    "new_start": "2026-03-14T09:00:00+00:00",
-    "new_end": "2026-03-14T13:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "385b18327b96f053efbdb44885d8452cb65b2a690f9ee9e6391368c1c7720d2c",
-    "version_id": "3f2e0d490de46a586f2397699facd98965cd8e38b69586a8ffa9c48ff1e34f5a",
+    "version_id": "3f2e0d490de46a586f2397699facd98965cd8e38b69586a8ffa9c48ff1e34f5a"
+  },
+  {
+    "date": "2026-03-15",
+    "start": "2026-03-15T12:00:00+00:00",
+    "end": "2026-03-15T16:00:00+00:00",
+    "value": 1,
+    "summary": "Business \u2014 Overflow / Catch-up",
+    "description": "Weekend work session. Pick up any unfinished tasks from the week.",
+    "calendar_name": "Business",
+    "new_date": "2026-03-15",
+    "new_start": "2026-03-15T12:00:00+00:00",
+    "new_end": "2026-03-15T16:00:00+00:00",
+    "id": "a931293bef3b4a57cb33ad241bcf91020699f973f4a2ed011fae36e6be060c81",
+    "version_id": "ec37d5ce5b008840e898ae0071bd9385c8e4c9c1d8dbbb1de4b41ac0d8f6885a",
     "status": "new"
   }
 ]

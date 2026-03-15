@@ -3722,5 +3722,20 @@
     "new_end": "",
     "id": "832cfe31be3f895b144439f6fa06a957829ab0129b5079593a2ea7df1a3344cb",
     "version_id": "8539d9ca74ed44eaf9bfc56f0c75ee0aee4f1cd00913ee2b8906ce17b41760e9"
+  },
+  {
+    "date": "2026-03-15",
+    "start": "2026-03-15T09:00:00+00:00",
+    "end": "2026-03-15T11:00:00+00:00",
+    "value": 1,
+    "summary": "Football",
+    "description": "Weekly Sunday football group. Competitive, high cardio.",
+    "calendar_name": "Fitness",
+    "new_date": "2026-03-15",
+    "new_start": "2026-03-15T09:00:00+00:00",
+    "new_end": "2026-03-15T11:00:00+00:00",
+    "id": "eaa01bef35b85d1ae2e91d6bd02a614264849d0802a19e0afa21b0378dd7e186",
+    "version_id": "b851ff1afcabac3b8facc1138fac8ffde3062e5ba73a4868aac359a8910ccdda",
+    "status": "new"
   }
 ]
