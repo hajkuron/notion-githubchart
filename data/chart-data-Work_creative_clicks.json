@@ -1566,5 +1566,20 @@
     "new_end": "",
     "id": "1fc3a4335f06630835814b3a7cd2e97958121baa1423b13af29937902a6adacd",
     "version_id": "eb55a4dbd4930f03a3be4e1456d24333c082d77ac8b50c1e41c45743d6ee9822"
+  },
+  {
+    "date": "2026-03-16",
+    "start": "2026-03-16T08:00:00+00:00",
+    "end": "2026-03-16T11:00:00+00:00",
+    "value": 1,
+    "summary": "CC \u2014 Publish agent UI + share with team",
+    "description": "Publish the AI agent UI so co-workers can use it. Share with the team.",
+    "calendar_name": "Work creative clicks",
+    "new_date": "2026-03-16",
+    "new_start": "2026-03-16T08:00:00+00:00",
+    "new_end": "2026-03-16T11:00:00+00:00",
+    "id": "7acf9884f820280c8d2e9a3d1d1d61aeb665267a6af1cbece72b22798bec0fab",
+    "version_id": "0213c704f27534c47285435bead304b48c31003f72c1f7b9ae21b93e002e2103",
+    "status": "new"
   }
 ]

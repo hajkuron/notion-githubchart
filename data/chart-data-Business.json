@@ -49,11 +49,25 @@
     "summary": "Business \u2014 Overflow / Catch-up",
     "description": "Weekend work session. Pick up any unfinished tasks from the week.",
     "calendar_name": "Business",
-    "new_date": "2026-03-15",
-    "new_start": "2026-03-15T12:00:00+00:00",
-    "new_end": "2026-03-15T16:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "a931293bef3b4a57cb33ad241bcf91020699f973f4a2ed011fae36e6be060c81",
-    "version_id": "ec37d5ce5b008840e898ae0071bd9385c8e4c9c1d8dbbb1de4b41ac0d8f6885a",
+    "version_id": "ec37d5ce5b008840e898ae0071bd9385c8e4c9c1d8dbbb1de4b41ac0d8f6885a"
+  },
+  {
+    "date": "2026-03-16",
+    "start": "2026-03-16T12:00:00+00:00",
+    "end": "2026-03-16T18:00:00+00:00",
+    "value": 1,
+    "summary": "LM#2 \u2014 Visual + Post",
+    "description": "Finish LM#2 visual. Write post copy. Publish on LinkedIn. Move immediately to LM#3 when done.",
+    "calendar_name": "Business",
+    "new_date": "2026-03-16",
+    "new_start": "2026-03-16T12:00:00+00:00",
+    "new_end": "2026-03-16T18:00:00+00:00",
+    "id": "5efa8ee58a06b179c3d85c6bdccafed2284cde3ca1c902ad6f8e85117ad1d408",
+    "version_id": "1e3d04edff6102896cae6534d51ea5cd0d291284ba2c0b3b4d5a2220b0d31aac",
     "status": "new"
   }
 ]
