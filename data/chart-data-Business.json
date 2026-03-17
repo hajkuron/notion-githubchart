@@ -56,18 +56,18 @@
     "version_id": "ec37d5ce5b008840e898ae0071bd9385c8e4c9c1d8dbbb1de4b41ac0d8f6885a"
   },
   {
-    "date": "2026-03-16",
-    "start": "2026-03-16T12:00:00+00:00",
-    "end": "2026-03-16T18:00:00+00:00",
+    "date": "2026-03-17",
+    "start": "2026-03-17T11:00:00+00:00",
+    "end": "2026-03-17T17:00:00+00:00",
     "value": 1,
     "summary": "LM#2 \u2014 Visual + Post",
     "description": "Finish LM#2 visual. Write post copy. Publish on LinkedIn. Move immediately to LM#3 when done.",
     "calendar_name": "Business",
-    "new_date": "2026-03-16",
-    "new_start": "2026-03-16T12:00:00+00:00",
-    "new_end": "2026-03-16T18:00:00+00:00",
-    "id": "5efa8ee58a06b179c3d85c6bdccafed2284cde3ca1c902ad6f8e85117ad1d408",
-    "version_id": "1e3d04edff6102896cae6534d51ea5cd0d291284ba2c0b3b4d5a2220b0d31aac",
+    "new_date": "2026-03-17",
+    "new_start": "2026-03-17T11:00:00+00:00",
+    "new_end": "2026-03-17T17:00:00+00:00",
+    "id": "3b07f4320a37cf37db3267f9c986b25751fdb3da98179368a80ae1ce292cb733",
+    "version_id": "7d714c09fd17ad37204ccd82eea9ee4354b5549aae4d4e2845ae44d9248ea246",
     "status": "new"
   }
 ]
