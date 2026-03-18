@@ -1575,12 +1575,11 @@
     "summary": "CC \u2014 Publish agent UI + share with team",
     "description": "Publish the AI agent UI so co-workers can use it. Share with the team.",
     "calendar_name": "Work creative clicks",
-    "new_date": "2026-03-17",
-    "new_start": "2026-03-17T07:45:00+00:00",
-    "new_end": "2026-03-17T10:45:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "5f6114cd6d76355ae18244931096a1947c599bb514ef78292d3489143a2f4999",
-    "version_id": "88c165f4b7875a8463741692119b44685d7c1679738a474eeac08a3b856b8019",
-    "status": "new"
+    "version_id": "88c165f4b7875a8463741692119b44685d7c1679738a474eeac08a3b856b8019"
   },
   {
     "date": "2026-03-17",
@@ -1590,11 +1589,25 @@
     "summary": "CC \u2014 Daily check-in",
     "description": "(No description)",
     "calendar_name": "Work creative clicks",
-    "new_date": "2026-03-17",
-    "new_start": "2026-03-17T17:15:00+00:00",
-    "new_end": "2026-03-17T18:15:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "0c3d84c42f7f792525f3e673ffe479741a641a35b46e8a5251995d37da593576",
-    "version_id": "ecada83f496991a6fc1c128579b61dd8ce4d194b852ded198f9c71e2c03ead3c",
+    "version_id": "ecada83f496991a6fc1c128579b61dd8ce4d194b852ded198f9c71e2c03ead3c"
+  },
+  {
+    "date": "2026-03-18",
+    "start": "2026-03-18T16:00:00+00:00",
+    "end": "2026-03-18T17:00:00+00:00",
+    "value": 1,
+    "summary": "CC \u2014 Daily check-in",
+    "description": "(No description)",
+    "calendar_name": "Work creative clicks",
+    "new_date": "2026-03-18",
+    "new_start": "2026-03-18T16:00:00+00:00",
+    "new_end": "2026-03-18T17:00:00+00:00",
+    "id": "6d634319bf10f413122d7238078d9315142302f1cff2346e1c9ea00fa33c81c8",
+    "version_id": "3fbdda2dfbc380155d9803eef0a83f542d9ba489a3c80c052af89d7a906978f7",
     "status": "new"
   }
 ]
