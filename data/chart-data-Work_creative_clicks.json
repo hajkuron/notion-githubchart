@@ -1603,11 +1603,25 @@
     "summary": "CC \u2014 Daily check-in",
     "description": "(No description)",
     "calendar_name": "Work creative clicks",
-    "new_date": "2026-03-18",
-    "new_start": "2026-03-18T16:00:00+00:00",
-    "new_end": "2026-03-18T17:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "6d634319bf10f413122d7238078d9315142302f1cff2346e1c9ea00fa33c81c8",
-    "version_id": "3fbdda2dfbc380155d9803eef0a83f542d9ba489a3c80c052af89d7a906978f7",
+    "version_id": "3fbdda2dfbc380155d9803eef0a83f542d9ba489a3c80c052af89d7a906978f7"
+  },
+  {
+    "date": "2026-03-19",
+    "start": "2026-03-19T16:00:00+00:00",
+    "end": "2026-03-19T17:00:00+00:00",
+    "value": 1,
+    "summary": "CC \u2014 Daily check-in",
+    "description": "(No description)",
+    "calendar_name": "Work creative clicks",
+    "new_date": "2026-03-19",
+    "new_start": "2026-03-19T16:00:00+00:00",
+    "new_end": "2026-03-19T17:00:00+00:00",
+    "id": "d084b16bf29760c9ed711b5036ea24ee4c126c3b262405115044720757c2844a",
+    "version_id": "110ebd61a5c0973b0ad6a15a145819909a6233a11f13c0b0c402dec0be9c24ca",
     "status": "new"
   }
 ]
