@@ -91,12 +91,11 @@
     "summary": "LM#4 \u2014 Generate + Visual + Post",
     "description": "Use workflow generator to build LM#4. Create visual. Write post copy. Publish on LinkedIn.",
     "calendar_name": "Business",
-    "new_date": "2026-03-19",
-    "new_start": "2026-03-19T08:00:00+00:00",
-    "new_end": "2026-03-19T12:15:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "2bdb8f8bed4ab77316ad9294f7ba49d1a38f8a5866fb20191968dd58446c8a04",
-    "version_id": "361aee0e4cd7289585bc07da8da481059e724149cfe49d5578f2b53a37b3b411",
-    "status": "new"
+    "version_id": "361aee0e4cd7289585bc07da8da481059e724149cfe49d5578f2b53a37b3b411"
   },
   {
     "date": "2026-03-19",
@@ -106,11 +105,25 @@
     "summary": "Ideation System \u2014 Build",
     "description": "Build ideation pipeline with Claude Code: trending scrape \u2192 workflow idea output \u2192 feeds generator. Target: 20+ idea backlog running.",
     "calendar_name": "Business",
-    "new_date": "2026-03-19",
-    "new_start": "2026-03-19T12:15:00+00:00",
-    "new_end": "2026-03-19T16:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "2fcb91432ff6f4b48c16d27e6d874ed1e73eaa36911cd70cb5fd0bda03bfd03b",
-    "version_id": "48c75909c4248dc1fb34f5ff4d0242cae15e5362b6b7df25f9a7d617f20a4430",
+    "version_id": "48c75909c4248dc1fb34f5ff4d0242cae15e5362b6b7df25f9a7d617f20a4430"
+  },
+  {
+    "date": "2026-03-20",
+    "start": "2026-03-20T08:00:00+00:00",
+    "end": "2026-03-20T15:00:00+00:00",
+    "value": 1,
+    "summary": "Ideation System \u2014 Finish + Auto-DM Delivery",
+    "description": "Finish ideation system. Build LinkedIn auto-DM delivery: comment \u2192 DM \u2192 Gumroad link, no manual intervention.",
+    "calendar_name": "Business",
+    "new_date": "2026-03-20",
+    "new_start": "2026-03-20T08:00:00+00:00",
+    "new_end": "2026-03-20T15:00:00+00:00",
+    "id": "6d504952596968a2a70a07c0a74cfc286560424e04f884e955c66904025a2970",
+    "version_id": "bf016a4491595c83de89fe2b8ff5be3e9e1d314524f36fcf489280df8ebaf1e6",
     "status": "new"
   }
 ]
