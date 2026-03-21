@@ -1631,11 +1631,10 @@
     "summary": "CC \u2014 Daily check-in",
     "description": "(No description)",
     "calendar_name": "Work creative clicks",
-    "new_date": "2026-03-20",
-    "new_start": "2026-03-20T16:00:00+00:00",
-    "new_end": "2026-03-20T17:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "9f047332a6eb671aaad1ba9c2bbac4e874f446c2f00eb7db03d716de114a15bc",
-    "version_id": "764c0c77f66eddab232e51578be1ba40a5af1ad11b2c4412793da3427e2dcf48",
-    "status": "new"
+    "version_id": "764c0c77f66eddab232e51578be1ba40a5af1ad11b2c4412793da3427e2dcf48"
   }
 ]

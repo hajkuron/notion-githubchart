@@ -119,11 +119,25 @@
     "summary": "Ideation System \u2014 Finish + Auto-DM Delivery",
     "description": "Finish ideation system. Build LinkedIn auto-DM delivery: comment \u2192 DM \u2192 Gumroad link, no manual intervention.",
     "calendar_name": "Business",
-    "new_date": "2026-03-20",
-    "new_start": "2026-03-20T08:00:00+00:00",
-    "new_end": "2026-03-20T15:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "6d504952596968a2a70a07c0a74cfc286560424e04f884e955c66904025a2970",
-    "version_id": "bf016a4491595c83de89fe2b8ff5be3e9e1d314524f36fcf489280df8ebaf1e6",
+    "version_id": "bf016a4491595c83de89fe2b8ff5be3e9e1d314524f36fcf489280df8ebaf1e6"
+  },
+  {
+    "date": "2026-03-21",
+    "start": "2026-03-21T08:00:00+00:00",
+    "end": "2026-03-21T16:00:00+00:00",
+    "value": 1,
+    "summary": "Business \u2014 Overflow / Buffer",
+    "description": "Overflow day. Finish anything incomplete. If everything is done \u2014 start Step 7 (offer page).",
+    "calendar_name": "Business",
+    "new_date": "2026-03-21",
+    "new_start": "2026-03-21T08:00:00+00:00",
+    "new_end": "2026-03-21T16:00:00+00:00",
+    "id": "bc314ffc99b405942ef69ed620e725926baf9ecc4b9e2d31a0fb9fd35efd3a34",
+    "version_id": "91cfbf45bea5300b4661c568ff1ba6638deff0d5708a7393111047285e2bdb95",
     "status": "new"
   }
 ]
