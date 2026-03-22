@@ -133,11 +133,25 @@
     "summary": "Business \u2014 Overflow / Buffer",
     "description": "Overflow day. Finish anything incomplete. If everything is done \u2014 start Step 7 (offer page).",
     "calendar_name": "Business",
-    "new_date": "2026-03-21",
-    "new_start": "2026-03-21T08:00:00+00:00",
-    "new_end": "2026-03-21T16:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "bc314ffc99b405942ef69ed620e725926baf9ecc4b9e2d31a0fb9fd35efd3a34",
-    "version_id": "91cfbf45bea5300b4661c568ff1ba6638deff0d5708a7393111047285e2bdb95",
+    "version_id": "91cfbf45bea5300b4661c568ff1ba6638deff0d5708a7393111047285e2bdb95"
+  },
+  {
+    "date": "2026-03-22",
+    "start": "2026-03-22T09:00:00+00:00",
+    "end": "2026-03-22T16:00:00+00:00",
+    "value": 1,
+    "summary": "Week Review + Next Week Prep",
+    "description": "Review what shipped this week. Update Memory.md and Roadmap. Plan final push week to March 25 deadline.",
+    "calendar_name": "Business",
+    "new_date": "2026-03-22",
+    "new_start": "2026-03-22T09:00:00+00:00",
+    "new_end": "2026-03-22T16:00:00+00:00",
+    "id": "18229b1db03292a5498c36914edd4290ab3170d9633343638a7d1e0559bceb17",
+    "version_id": "8795380940ebd984601570f34a3f9f486f31b42f6fc0aef09611db2eafda7470",
     "status": "new"
   }
 ]
