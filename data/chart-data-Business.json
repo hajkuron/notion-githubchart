@@ -152,5 +152,20 @@
     "new_end": "",
     "id": "18229b1db03292a5498c36914edd4290ab3170d9633343638a7d1e0559bceb17",
     "version_id": "8795380940ebd984601570f34a3f9f486f31b42f6fc0aef09611db2eafda7470"
+  },
+  {
+    "date": "2026-03-25",
+    "start": "2026-03-25T08:00:00+00:00",
+    "end": "2026-03-25T15:00:00+00:00",
+    "value": 1,
+    "summary": "Business \u2014 Post LM#2 + Build Ideation System",
+    "description": "1. Post LM#2 on LinkedIn (30 min)\n2. Build ideation system: scrape trending \u2192 research \u2192 ranked idea output \u2192 feeds workflow generator (6h)",
+    "calendar_name": "Business",
+    "new_date": "2026-03-25",
+    "new_start": "2026-03-25T08:00:00+00:00",
+    "new_end": "2026-03-25T15:00:00+00:00",
+    "id": "dd06cc0721d76f8285ae15808b7cd6b5ac92377afadb6e9fac528ea4e0f27061",
+    "version_id": "62ee319212df0461e2fc06eadff94e254045d232556f79ab5a19571a9a0e9736",
+    "status": "new"
   }
 ]
