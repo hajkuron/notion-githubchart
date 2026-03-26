@@ -161,11 +161,25 @@
     "summary": "Business \u2014 Post LM#2 + Build Ideation System",
     "description": "1. Post LM#2 on LinkedIn (30 min)\n2. Build ideation system: scrape trending \u2192 research \u2192 ranked idea output \u2192 feeds workflow generator (6h)",
     "calendar_name": "Business",
-    "new_date": "2026-03-25",
-    "new_start": "2026-03-25T08:00:00+00:00",
-    "new_end": "2026-03-25T15:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "dd06cc0721d76f8285ae15808b7cd6b5ac92377afadb6e9fac528ea4e0f27061",
-    "version_id": "62ee319212df0461e2fc06eadff94e254045d232556f79ab5a19571a9a0e9736",
+    "version_id": "62ee319212df0461e2fc06eadff94e254045d232556f79ab5a19571a9a0e9736"
+  },
+  {
+    "date": "2026-03-26",
+    "start": "2026-03-26T08:00:00+00:00",
+    "end": "2026-03-26T16:00:00+00:00",
+    "value": 1,
+    "summary": "Business \u2014 LM#3 + LM#4 Generate + Post",
+    "description": "09:00\u201313:00 LM#3 \u2014 generate workflow + demo + visual + post\n13:00\u201317:00 LM#4 \u2014 generate workflow + demo + visual + post",
+    "calendar_name": "Business",
+    "new_date": "2026-03-26",
+    "new_start": "2026-03-26T08:00:00+00:00",
+    "new_end": "2026-03-26T16:00:00+00:00",
+    "id": "746681a713a73b1f40fd5d6956644b84c953dbf21e151edb74987f856c0fd6cd",
+    "version_id": "325c64d29a57e5f6ba8025269e01a276d32f72f4f3e8b316709445e66d8945af",
     "status": "new"
   }
 ]
