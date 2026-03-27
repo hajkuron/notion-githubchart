@@ -3829,11 +3829,25 @@
     "summary": "Gym",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2026-03-26",
-    "new_start": "2026-03-26T06:00:00+00:00",
-    "new_end": "2026-03-26T07:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "05b314e36a9168fc8004fbea8050cf1bd4f363d97e798bae14088a9d4a17fb7a",
-    "version_id": "ba3c01bb7326e72fa9af68e3a8e1dc11360035feafceaa7fcf961ecac09a6685",
+    "version_id": "ba3c01bb7326e72fa9af68e3a8e1dc11360035feafceaa7fcf961ecac09a6685"
+  },
+  {
+    "date": "2026-03-27",
+    "start": "2026-03-27T06:00:00+00:00",
+    "end": "2026-03-27T07:30:00+00:00",
+    "value": 1,
+    "summary": "Gym",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2026-03-27",
+    "new_start": "2026-03-27T06:00:00+00:00",
+    "new_end": "2026-03-27T07:30:00+00:00",
+    "id": "83a759288f3010c62315f59d5bd1e2f9a13403c5bc4971dd775821415204549a",
+    "version_id": "f51a4ebf2333c300d144098affff6c6e55c3ff21b2743ac50addee0da2f4861c",
     "status": "new"
   }
 ]
