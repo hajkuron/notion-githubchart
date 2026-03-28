@@ -189,11 +189,10 @@
     "summary": "Business \u2014 Auto-DM + Phase 1 Complete",
     "description": "09:00\u201311:00 Auto-DM setup + test (comment \u2192 DM \u2192 Gumroad)\n11:00\u201313:00 Connect ideation \u2192 generator \u2192 posting pipeline\n13:00\u201314:00 Phase 1 full review \u2014 confirm all checkboxes done\nPHASE 1 COMPLETE BY EOD",
     "calendar_name": "Business",
-    "new_date": "2026-03-27",
-    "new_start": "2026-03-27T08:00:00+00:00",
-    "new_end": "2026-03-27T15:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "a5b598ec3c10596ff47e4a7a9c7ec8f6e0e04c2910f217767416249b6765fff4",
-    "version_id": "854d44c60bc9343fab71d9d8724ca20e1f9367d591837f082da9c46f36f96b88",
-    "status": "new"
+    "version_id": "854d44c60bc9343fab71d9d8724ca20e1f9367d591837f082da9c46f36f96b88"
   }
 ]
