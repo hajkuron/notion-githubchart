@@ -2,7 +2,7 @@
   warnings.warn(eol_message.format("3.9"), FutureWarning)
 /opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/google/auth/__init__.py:54: FutureWarning: You are using a Python version 3.9 past its end of life. Google will update google-auth with critical bug fixes on a best-effort basis, but not with any other fixes or features. Please upgrade your Python version, and then update google-auth.
   warnings.warn(eol_message.format("3.9"), FutureWarning)
-/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/google/api_core/_python_version_support.py:246: FutureWarning: You are using a non-supported Python version (3.9.25). Google will not post any further updates to google.api_core supporting this Python version. Please upgrade to the latest Python version, or at least Python 3.10, and then update google.api_core.
+/opt/hostedtoolcache/Python/3.9.25/x64/lib/python3.9/site-packages/google/api_core/_python_version_support.py:234: FutureWarning: You are using a non-supported Python version (3.9.25). Google will not post any further updates to google.api_core supporting this Python version. Please upgrade to the latest Python version, or at least Python 3.10, and then update google.api_core.
   warnings.warn(message, FutureWarning)
 Successfully connected to Google Calendar.
 Calendar ID: 429tulplr1r73mtmiho2h8ttv990uk9p@import.calendar.google.com, Name: Home
@@ -16,7 +16,7 @@ Calendar ID: 6c79752aa115392f94e22af271b66006926f2048ea758f51e3f61f32485b9d3b@gr
 Found 8 calendars.
 Fetched 40 events from calendar: Home
 Fetched 276 events from calendar: Fitness
-Fetched 525 events from calendar: jonkuhar11@gmail.com
+Fetched 527 events from calendar: jonkuhar11@gmail.com
 Fetched 120 events from calendar: Work creative clicks
 Fetched 4 events from calendar: Jon in Hana
 Fetched 17 events from calendar: Learning

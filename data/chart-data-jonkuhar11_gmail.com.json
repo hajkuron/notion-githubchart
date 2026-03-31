@@ -7348,5 +7348,35 @@
     "new_end": "",
     "id": "f506193ffa9efa87e9737bcf9a235f56cb5d98dcac9b37e8409f7a78a7e88396",
     "version_id": "5e5d4c89ea8f07b6a6bba3d1fa98f9cde71f726fe85d1de3d0ff4fc9822dd818"
+  },
+  {
+    "date": "2026-03-30",
+    "start": "2026-03-30T07:00:00+00:00",
+    "end": "2026-03-30T10:00:00+00:00",
+    "value": 1,
+    "summary": "CC Work",
+    "description": "Creative Clicks freelance work \u2014 morning block",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2026-03-30",
+    "new_start": "2026-03-30T07:00:00+00:00",
+    "new_end": "2026-03-30T10:00:00+00:00",
+    "id": "ea234b02cd29a5d53232ac5e0bcc7b58c1d010b77c21e86cfc1374f497796447",
+    "version_id": "597f28eb86e6404c421e3f8c5a88ffb342570c58a7b9f05bea4257c29c58afbd",
+    "status": "new"
+  },
+  {
+    "date": "2026-03-30",
+    "start": "2026-03-30T10:00:00+00:00",
+    "end": "2026-03-30T16:00:00+00:00",
+    "value": 1,
+    "summary": "Finalize Ideation System",
+    "description": "Go through ideation system, tweak to liking, finalize end-to-end. Phase 1 Step 3.",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2026-03-30",
+    "new_start": "2026-03-30T10:00:00+00:00",
+    "new_end": "2026-03-30T16:00:00+00:00",
+    "id": "0de00fafe45efb0d24bb5813028aee1efa0eaae4d42d8aad54e6cb7700923a95",
+    "version_id": "c1e3f2cbc919a3c9daee90284f9bc8da2ff9fa798f1c04d3ad70194f3c0df7c4",
+    "status": "new"
   }
 ]
