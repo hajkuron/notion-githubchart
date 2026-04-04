@@ -7469,12 +7469,11 @@
     "summary": "Phase 1 Complete \u2014 Connect Pipeline + Review",
     "description": "Connect ideation \u2192 generator \u2192 posting pipeline (2h). Phase 1 full review \u2014 confirm every checkbox done (1h). Phase 1 COMPLETE.",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2026-04-03",
-    "new_start": "2026-04-03T07:00:00+00:00",
-    "new_end": "2026-04-03T10:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "89aa134ef3600f84e33e7923b5199201a6cc2e283b06f3a9722d860c1e5d7fdb",
-    "version_id": "dea5ecb4253ee37884a3c6118604c85e238f3994deb025878dc3afdfb88dac62",
-    "status": "new"
+    "version_id": "dea5ecb4253ee37884a3c6118604c85e238f3994deb025878dc3afdfb88dac62"
   },
   {
     "date": "2026-04-03",
@@ -7484,11 +7483,25 @@
     "summary": "CC Work",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2026-04-03",
-    "new_start": "2026-04-03T15:00:00+00:00",
-    "new_end": "2026-04-03T17:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "b7a3f638552b9d51e63584a643a654061186e945b25a50564759287fa73cd1da",
-    "version_id": "6df70e4020212c6f5b4cb1e4889871b10d1e4db712134cdd94bc08015de85658",
+    "version_id": "6df70e4020212c6f5b4cb1e4889871b10d1e4db712134cdd94bc08015de85658"
+  },
+  {
+    "date": "2026-04-04",
+    "start": "2026-04-04T05:00:00+00:00",
+    "end": "2026-04-04T06:30:00+00:00",
+    "value": 1,
+    "summary": "Gym",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2026-04-04",
+    "new_start": "2026-04-04T05:00:00+00:00",
+    "new_end": "2026-04-04T06:30:00+00:00",
+    "id": "2d9bded59c17d0b431cbbf1714f040c7e2510a4f61bf01bdf23b395ac363f18f",
+    "version_id": "139b4ee0ea5ba20fcec494bdd9532d3cec6a6a939581e898e087ef246bf44913",
     "status": "new"
   }
 ]
