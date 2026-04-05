@@ -7497,11 +7497,25 @@
     "summary": "Gym",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2026-04-04",
-    "new_start": "2026-04-04T05:00:00+00:00",
-    "new_end": "2026-04-04T06:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "2d9bded59c17d0b431cbbf1714f040c7e2510a4f61bf01bdf23b395ac363f18f",
-    "version_id": "139b4ee0ea5ba20fcec494bdd9532d3cec6a6a939581e898e087ef246bf44913",
+    "version_id": "139b4ee0ea5ba20fcec494bdd9532d3cec6a6a939581e898e087ef246bf44913"
+  },
+  {
+    "date": "2026-04-05",
+    "start": "2026-04-05T05:00:00+00:00",
+    "end": "2026-04-05T06:30:00+00:00",
+    "value": 1,
+    "summary": "Gym",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2026-04-05",
+    "new_start": "2026-04-05T05:00:00+00:00",
+    "new_end": "2026-04-05T06:30:00+00:00",
+    "id": "9e0469c279932b5b839c1ff68a45143f06f96b5aeb45e42bce47dd391dba58d5",
+    "version_id": "38fae1c970215ff823d794403c6414d78ccd318e4cd5275a52ffd48488463b5f",
     "status": "new"
   }
 ]
