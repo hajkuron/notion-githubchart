@@ -7511,11 +7511,10 @@
     "summary": "Gym",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2026-04-05",
-    "new_start": "2026-04-05T05:00:00+00:00",
-    "new_end": "2026-04-05T06:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "9e0469c279932b5b839c1ff68a45143f06f96b5aeb45e42bce47dd391dba58d5",
-    "version_id": "38fae1c970215ff823d794403c6414d78ccd318e4cd5275a52ffd48488463b5f",
-    "status": "new"
+    "version_id": "38fae1c970215ff823d794403c6414d78ccd318e4cd5275a52ffd48488463b5f"
   }
 ]
