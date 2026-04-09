@@ -3885,12 +3885,11 @@
     "summary": "gym",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2026-04-07",
-    "new_start": "2026-04-07T05:00:00+00:00",
-    "new_end": "2026-04-07T06:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "30b55e4b2f34ddf7c836d29c7f46e58337b641a712a20fafceb31ec98e51097d",
-    "version_id": "16edbcf4e3c5021366a1320bad70422f7bb87293f120d0824422cc794bc07639",
-    "status": "new"
+    "version_id": "16edbcf4e3c5021366a1320bad70422f7bb87293f120d0824422cc794bc07639"
   },
   {
     "date": "2026-04-08",
@@ -3900,11 +3899,25 @@
     "summary": "gym",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2026-04-08",
-    "new_start": "2026-04-08T05:00:00+00:00",
-    "new_end": "2026-04-08T06:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "65fa74e51a3accb8245b8bc10bf8d8dfce2a9376424a569b76db5507d56cba36",
-    "version_id": "c99d69ef47a461f472233a6aa796c99797c246029b9f0cf4ec6777c7f066ab26",
+    "version_id": "c99d69ef47a461f472233a6aa796c99797c246029b9f0cf4ec6777c7f066ab26"
+  },
+  {
+    "date": "2026-04-09",
+    "start": "2026-04-09T05:00:00+00:00",
+    "end": "2026-04-09T06:00:00+00:00",
+    "value": 1,
+    "summary": "gym",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2026-04-09",
+    "new_start": "2026-04-09T05:00:00+00:00",
+    "new_end": "2026-04-09T06:00:00+00:00",
+    "id": "0e6af1b83c38d8c75362e9b097147d86773d0d74905e8b084a2ab8fe295ba1d5",
+    "version_id": "5b924ad04453673cc80f436b3e9538f605c4f440ecd869912672d09f1ba70143",
     "status": "new"
   }
 ]

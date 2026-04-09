@@ -203,12 +203,11 @@
     "summary": "business",
     "description": "(No description)",
     "calendar_name": "Business",
-    "new_date": "2026-04-07",
-    "new_start": "2026-04-07T07:30:00+00:00",
-    "new_end": "2026-04-07T14:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "f31ab5021f017dec710762a92d6023df4b060204d40cdd31eaaaf573a5c3bc62",
-    "version_id": "8144114de0746214ee07ded7470df9ff575a9c59810a44cd39ba2f6a463a9758",
-    "status": "new"
+    "version_id": "8144114de0746214ee07ded7470df9ff575a9c59810a44cd39ba2f6a463a9758"
   },
   {
     "date": "2026-04-08",
@@ -218,11 +217,25 @@
     "summary": "business",
     "description": "(No description)",
     "calendar_name": "Business",
-    "new_date": "2026-04-08",
-    "new_start": "2026-04-08T12:00:00+00:00",
-    "new_end": "2026-04-08T15:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "dc955feda790016605a963b6d894894516168b98743966fd904a84f0d7895f06",
-    "version_id": "76f339a7025fb4b6b8d572dde5fc8c89820b9bf96cb9e4809b2fe5aa7b428e57",
+    "version_id": "76f339a7025fb4b6b8d572dde5fc8c89820b9bf96cb9e4809b2fe5aa7b428e57"
+  },
+  {
+    "date": "2026-04-09",
+    "start": "2026-04-09T09:15:00+00:00",
+    "end": "2026-04-09T15:00:00+00:00",
+    "value": 1,
+    "summary": "business",
+    "description": "(No description)",
+    "calendar_name": "Business",
+    "new_date": "2026-04-09",
+    "new_start": "2026-04-09T09:15:00+00:00",
+    "new_end": "2026-04-09T15:00:00+00:00",
+    "id": "980f6c8d7d8234cd9946dd8c6129e0b8f09bd703ab52ef49b40fad268032a2f8",
+    "version_id": "32997fff2dc3b3793c0776202897558295b31d64bc8a4c708d3d20f345cf1f5e",
     "status": "new"
   }
 ]
