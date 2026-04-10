@@ -231,11 +231,25 @@
     "summary": "business",
     "description": "(No description)",
     "calendar_name": "Business",
-    "new_date": "2026-04-09",
-    "new_start": "2026-04-09T09:15:00+00:00",
-    "new_end": "2026-04-09T15:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "980f6c8d7d8234cd9946dd8c6129e0b8f09bd703ab52ef49b40fad268032a2f8",
-    "version_id": "32997fff2dc3b3793c0776202897558295b31d64bc8a4c708d3d20f345cf1f5e",
+    "version_id": "32997fff2dc3b3793c0776202897558295b31d64bc8a4c708d3d20f345cf1f5e"
+  },
+  {
+    "date": "2026-04-10",
+    "start": "2026-04-10T12:00:00+00:00",
+    "end": "2026-04-10T15:00:00+00:00",
+    "value": 1,
+    "summary": "business",
+    "description": "(No description)",
+    "calendar_name": "Business",
+    "new_date": "2026-04-10",
+    "new_start": "2026-04-10T12:00:00+00:00",
+    "new_end": "2026-04-10T15:00:00+00:00",
+    "id": "d8c740e143f7ee4b77cda3f405bed56c8972adba52ee3829d5e9e36f810b903c",
+    "version_id": "e8fb25e76db1727f302df7e9a2c51a906030042c52908214562ba742a1693d36",
     "status": "new"
   }
 ]

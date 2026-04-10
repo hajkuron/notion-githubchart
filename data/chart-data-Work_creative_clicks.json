@@ -1701,11 +1701,25 @@
     "summary": "CC",
     "description": "(No description)",
     "calendar_name": "Work creative clicks",
-    "new_date": "2026-04-09",
-    "new_start": "2026-04-09T06:30:00+00:00",
-    "new_end": "2026-04-09T09:15:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "d016088d2f179385de29ba96db4b645c0b9152988726a16eff14fb9d2da794e3",
-    "version_id": "58ce1903a443459bc957675e77d1b121c7471bf64d51b0cd272c64b3bfc5adc7",
+    "version_id": "58ce1903a443459bc957675e77d1b121c7471bf64d51b0cd272c64b3bfc5adc7"
+  },
+  {
+    "date": "2026-04-10",
+    "start": "2026-04-10T06:30:00+00:00",
+    "end": "2026-04-10T12:00:00+00:00",
+    "value": 1,
+    "summary": "CC",
+    "description": "(No description)",
+    "calendar_name": "Work creative clicks",
+    "new_date": "2026-04-10",
+    "new_start": "2026-04-10T06:30:00+00:00",
+    "new_end": "2026-04-10T12:00:00+00:00",
+    "id": "c40e9de00281d7e7d7178a2eab9f2a6fceadb13c0211a60de126404f85818c1a",
+    "version_id": "a44688ae9cb7b6777aefeb950f710f312386038d0bd391f220f0747af4a68e05",
     "status": "new"
   }
 ]
