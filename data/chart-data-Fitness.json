@@ -3927,11 +3927,10 @@
     "summary": "gym",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2026-04-10",
-    "new_start": "2026-04-10T05:00:00+00:00",
-    "new_end": "2026-04-10T06:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "7107dd9e07da04bcc79df4b3b522d9d95f9392452bb1e1c8bb946c0b2398206b",
-    "version_id": "2053c1df72125c23600c929f87c069db363dc721965aaef5d53cd1b03c013362",
-    "status": "new"
+    "version_id": "2053c1df72125c23600c929f87c069db363dc721965aaef5d53cd1b03c013362"
   }
 ]

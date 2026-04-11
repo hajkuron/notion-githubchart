@@ -1715,11 +1715,10 @@
     "summary": "CC",
     "description": "(No description)",
     "calendar_name": "Work creative clicks",
-    "new_date": "2026-04-10",
-    "new_start": "2026-04-10T06:30:00+00:00",
-    "new_end": "2026-04-10T12:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "c40e9de00281d7e7d7178a2eab9f2a6fceadb13c0211a60de126404f85818c1a",
-    "version_id": "a44688ae9cb7b6777aefeb950f710f312386038d0bd391f220f0747af4a68e05",
-    "status": "new"
+    "version_id": "a44688ae9cb7b6777aefeb950f710f312386038d0bd391f220f0747af4a68e05"
   }
 ]
