@@ -259,11 +259,10 @@
     "summary": "business",
     "description": "(No description)",
     "calendar_name": "Business",
-    "new_date": "2026-04-11",
-    "new_start": "2026-04-11T05:00:00+00:00",
-    "new_end": "2026-04-11T09:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "b8ae9c657ca3bb9a619d20de33dc3bd552d1242355523662233532504307655c",
-    "version_id": "10efc165026e0c9b412f88f04ee8f8c09feb6a6c4e56149f4a90ca76734f08f1",
-    "status": "new"
+    "version_id": "10efc165026e0c9b412f88f04ee8f8c09feb6a6c4e56149f4a90ca76734f08f1"
   }
 ]
