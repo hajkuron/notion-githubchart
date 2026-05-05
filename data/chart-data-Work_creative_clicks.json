@@ -1720,5 +1720,35 @@
     "new_end": "",
     "id": "c40e9de00281d7e7d7178a2eab9f2a6fceadb13c0211a60de126404f85818c1a",
     "version_id": "a44688ae9cb7b6777aefeb950f710f312386038d0bd391f220f0747af4a68e05"
+  },
+  {
+    "date": "2026-05-04",
+    "start": "2026-05-04T13:00:00+00:00",
+    "end": "2026-05-04T13:15:00+00:00",
+    "value": 1,
+    "summary": "cc invoice + yearly thing",
+    "description": "(No description)",
+    "calendar_name": "Work creative clicks",
+    "new_date": "2026-05-04",
+    "new_start": "2026-05-04T13:00:00+00:00",
+    "new_end": "2026-05-04T13:15:00+00:00",
+    "id": "26b742ed0eac2ef09c4b2b8078db61f344fd3ada6cb007c1e3fa83f814937fcb",
+    "version_id": "bf5ed859629f10f1ea3a45e9906771e6c3210cc73b5e8293ce9eaf0acb3e89cf",
+    "status": "new"
+  },
+  {
+    "date": "2026-05-05",
+    "start": "2026-05-05T06:30:00+00:00",
+    "end": "2026-05-05T10:00:00+00:00",
+    "value": 1,
+    "summary": "CC",
+    "description": "(No description)",
+    "calendar_name": "Work creative clicks",
+    "new_date": "2026-05-05",
+    "new_start": "2026-05-05T06:30:00+00:00",
+    "new_end": "2026-05-05T10:00:00+00:00",
+    "id": "1c8d967572d4506ca7a4485d630da7c36b8c879909759182043cc5ead32ff25c",
+    "version_id": "da30c77261afe290f59b7969bac1624d53b8e7a8e295bca6b6daa578bf77d964",
+    "status": "new"
   }
 ]
