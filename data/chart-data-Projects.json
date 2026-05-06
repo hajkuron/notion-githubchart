@@ -2401,12 +2401,11 @@
     "summary": "shorts project",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2026-05-04",
-    "new_start": "2026-05-04T11:00:00+00:00",
-    "new_end": "2026-05-04T13:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "67baee2c11520776577e4f771c569a1d1fffe0dcfe96ab8caa1a506e5baef7ff",
-    "version_id": "21cb739d22df6939bd4c673fdebd0be69a7a6bb98081d3deba419197877349c0",
-    "status": "new"
+    "version_id": "21cb739d22df6939bd4c673fdebd0be69a7a6bb98081d3deba419197877349c0"
   },
   {
     "date": "2026-05-04",
@@ -2416,12 +2415,11 @@
     "summary": "jentix setup email campaign",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2026-05-04",
-    "new_start": "2026-05-04T13:15:00+00:00",
-    "new_end": "2026-05-04T14:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "0027d88d3d2b77e2d5066a3d8516a9c9724dc2f33e56a4eefd2c458da6d07956",
-    "version_id": "56827a1ff44cef23f04ffd79b8f7dabe172d76c890f909d9d620120bc57f6cf7",
-    "status": "new"
+    "version_id": "56827a1ff44cef23f04ffd79b8f7dabe172d76c890f909d9d620120bc57f6cf7"
   },
   {
     "date": "2026-05-05",
@@ -2431,11 +2429,25 @@
     "summary": "shorts project",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2026-05-05",
-    "new_start": "2026-05-05T10:00:00+00:00",
-    "new_end": "2026-05-05T13:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "e3e26ebb65b67af7195e45ac42804e026420bdbabbf853226fe0428ccb97dca5",
-    "version_id": "0f6bd93b3bc1af38f4e1ccfd145f9b0817f33537991026029a96ac21dda8709a",
+    "version_id": "0f6bd93b3bc1af38f4e1ccfd145f9b0817f33537991026029a96ac21dda8709a"
+  },
+  {
+    "date": "2026-05-06",
+    "start": "2026-05-06T10:00:00+00:00",
+    "end": "2026-05-06T13:00:00+00:00",
+    "value": 1,
+    "summary": "shorts project",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2026-05-06",
+    "new_start": "2026-05-06T10:00:00+00:00",
+    "new_end": "2026-05-06T13:00:00+00:00",
+    "id": "75a4c8b947235e25150ffad7425f1f7ddff3c28f98556e349ab4eca859b1b5c2",
+    "version_id": "a8f0ffbafffc33e6919fa7ad2d07292bb14aa68afaf145790a0133894efab8a5",
     "status": "new"
   }
 ]

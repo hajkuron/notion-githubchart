@@ -7525,11 +7525,25 @@
     "summary": "cook",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2026-05-04",
-    "new_start": "2026-05-04T16:00:00+00:00",
-    "new_end": "2026-05-04T17:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "31a972bb03a6e3d211491a20b7d07fe728021d7408957fd0a8e1a534003a19c1",
-    "version_id": "2712d1e3c56b40a99da6c4cb4f7f0102ce794d5075b155241544c7566a7637fa",
+    "version_id": "2712d1e3c56b40a99da6c4cb4f7f0102ce794d5075b155241544c7566a7637fa"
+  },
+  {
+    "date": "2026-05-06",
+    "start": "2026-05-06T18:00:00+00:00",
+    "end": "2026-05-06T20:00:00+00:00",
+    "value": 1,
+    "summary": "tekma",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2026-05-06",
+    "new_start": "2026-05-06T18:00:00+00:00",
+    "new_end": "2026-05-06T20:00:00+00:00",
+    "id": "2fb45a4b434b167fd2802e7c49490b65b0c7f5425211e369da21c3ddb7e4d7db",
+    "version_id": "ed78eb3cdd44a71988d2bc962ab40c1195ad8c532abce4055d46e10021de3b96",
     "status": "new"
   }
 ]
