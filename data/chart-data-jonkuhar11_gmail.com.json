@@ -7539,11 +7539,10 @@
     "summary": "tekma",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2026-05-06",
-    "new_start": "2026-05-06T18:00:00+00:00",
-    "new_end": "2026-05-06T20:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "2fb45a4b434b167fd2802e7c49490b65b0c7f5425211e369da21c3ddb7e4d7db",
-    "version_id": "ed78eb3cdd44a71988d2bc962ab40c1195ad8c532abce4055d46e10021de3b96",
-    "status": "new"
+    "version_id": "ed78eb3cdd44a71988d2bc962ab40c1195ad8c532abce4055d46e10021de3b96"
   }
 ]
