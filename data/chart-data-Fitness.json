@@ -4039,11 +4039,10 @@
     "summary": "gym lower a",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2026-05-08",
-    "new_start": "2026-05-08T04:30:00+00:00",
-    "new_end": "2026-05-08T05:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "7c4160317cc4f16e7185ba989216362b8bddef4d2091169be03c06369cc32470",
-    "version_id": "213198047925e67b3492b5e8ce397db33b62662eeddd2da1b92d100d996cb5b8",
-    "status": "new"
+    "version_id": "213198047925e67b3492b5e8ce397db33b62662eeddd2da1b92d100d996cb5b8"
   }
 ]

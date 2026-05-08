@@ -2457,11 +2457,10 @@
     "summary": "shorts project",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2026-05-07",
-    "new_start": "2026-05-07T10:00:00+00:00",
-    "new_end": "2026-05-07T13:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "6ec093ec5b2c3478aaa7ce9641807a98430e9566dc9146bdd332063b0c72fe47",
-    "version_id": "994b5801178848923a3a9c426a872dfdf5a83da61781e45038d2cd47e49a2b31",
-    "status": "new"
+    "version_id": "994b5801178848923a3a9c426a872dfdf5a83da61781e45038d2cd47e49a2b31"
   }
 ]
