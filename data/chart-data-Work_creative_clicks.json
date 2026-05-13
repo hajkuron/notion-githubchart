@@ -1790,5 +1790,20 @@
     "new_end": "",
     "id": "3c1a4cac558183d5b2b0842a92f8d28f8a21e18e883b298975b953e6f00d68a0",
     "version_id": "63660e27c72e5a78c0c3b5899756bbbb3330ae5696448d0524c7e99b9dbfc6af"
+  },
+  {
+    "date": "2026-05-12",
+    "start": "2026-05-12T07:30:00+00:00",
+    "end": "2026-05-12T10:00:00+00:00",
+    "value": 1,
+    "summary": "CC work",
+    "description": "(No description)",
+    "calendar_name": "Work creative clicks",
+    "new_date": "2026-05-12",
+    "new_start": "2026-05-12T07:30:00+00:00",
+    "new_end": "2026-05-12T10:00:00+00:00",
+    "id": "98ab586987ba1c41f17f4f1f6ddda5d7bba5e14890677cb3f607ae72203f5459",
+    "version_id": "7fa456a23531134a05e83142de41231dc873597944e72ddab039a602fa5fe1cb",
+    "status": "new"
   }
 ]
