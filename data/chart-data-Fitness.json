@@ -4067,12 +4067,11 @@
     "summary": "gym",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2026-05-12",
-    "new_start": "2026-05-12T12:00:00+00:00",
-    "new_end": "2026-05-12T13:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "ae53af226719e5697a801641476c7f743a28fe95317d1410213eaa5aedf763c7",
-    "version_id": "a7ecf471a71d5bfda3a0ba3b3d58a603e7d7cd21caac5f4263e97effc9a92d21",
-    "status": "new"
+    "version_id": "a7ecf471a71d5bfda3a0ba3b3d58a603e7d7cd21caac5f4263e97effc9a92d21"
   },
   {
     "date": "2026-05-13",
@@ -4082,12 +4081,11 @@
     "summary": "football",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2026-05-13",
-    "new_start": "2026-05-13T07:45:00+00:00",
-    "new_end": "2026-05-13T15:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "3e8c83735c826df4c57b85443d82ea358094f629aeec7400559618060794bdb7",
-    "version_id": "be3ac0c58a38a1e6f8833c33a05350ab63fef63da59d51266773394368d48af6",
-    "status": "new"
+    "version_id": "be3ac0c58a38a1e6f8833c33a05350ab63fef63da59d51266773394368d48af6"
   },
   {
     "date": "2026-05-14",
@@ -4097,11 +4095,25 @@
     "summary": "gym",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2026-05-14",
-    "new_start": "2026-05-14T04:30:00+00:00",
-    "new_end": "2026-05-14T05:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "377ff217006fc0b4822925b9366be4844c602e086a8ad150026b4af26bc754c8",
-    "version_id": "212a2ca8bd2b5429880c5bda144c8b0b8d33dabec19d5bbf5994199e621f5da5",
+    "version_id": "212a2ca8bd2b5429880c5bda144c8b0b8d33dabec19d5bbf5994199e621f5da5"
+  },
+  {
+    "date": "2026-05-15",
+    "start": "2026-05-15T04:30:00+00:00",
+    "end": "2026-05-15T05:30:00+00:00",
+    "value": 1,
+    "summary": "gym",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2026-05-15",
+    "new_start": "2026-05-15T04:30:00+00:00",
+    "new_end": "2026-05-15T05:30:00+00:00",
+    "id": "26ab64a4365b670cb5b33f0fee0458a5bed0aa4fd14dafae709bd4410710dbb3",
+    "version_id": "c5e21f4038995631f9c9275cb9880286df97cd41cd272fd0499a760b40fb2ce3",
     "status": "new"
   }
 ]
