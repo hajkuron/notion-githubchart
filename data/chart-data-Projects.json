@@ -2490,5 +2490,20 @@
     "new_end": "",
     "id": "1942f3a42d10a8d1242b7a2572ce913c98715662725563256631de21793fae2f",
     "version_id": "31e05bbd8836dab296a8de8e2c317ea6c253cb7267831dd5a8edfe2802725dc3"
+  },
+  {
+    "date": "2026-05-19",
+    "start": "2026-05-19T12:00:00+00:00",
+    "end": "2026-05-19T14:00:00+00:00",
+    "value": 1,
+    "summary": "shorts project",
+    "description": "v.0 finished\nuploading to an account",
+    "calendar_name": "Projects",
+    "new_date": "2026-05-19",
+    "new_start": "2026-05-19T12:00:00+00:00",
+    "new_end": "2026-05-19T14:00:00+00:00",
+    "id": "d255b8b2c752f6fcc73b9c67bdfc3aa70bb77c0cb780edb135828e4a17e6ddc4",
+    "version_id": "ba771fcd897f8eda9ffa48b63a24d58ae769fbc4a68ea9464dea4b7bd589fede",
+    "status": "new"
   }
 ]

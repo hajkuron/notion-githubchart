@@ -1818,5 +1818,35 @@
     "new_end": "",
     "id": "586ed15f4ca3000b5ac49725bd9e42960df5652f1a0d5797c5a7abf4d6b57e0d",
     "version_id": "350dbaa97819fcaa61725035924cb014f833a8314076ca2a59d9de977fdea152"
+  },
+  {
+    "date": "2026-05-18",
+    "start": "2026-05-18T06:00:00+00:00",
+    "end": "2026-05-18T13:00:00+00:00",
+    "value": 1,
+    "summary": "CC",
+    "description": "(No description)",
+    "calendar_name": "Work creative clicks",
+    "new_date": "2026-05-18",
+    "new_start": "2026-05-18T06:00:00+00:00",
+    "new_end": "2026-05-18T13:00:00+00:00",
+    "id": "894a221ae2f0b93cbeb6393a29e3119dee96d43b09ebf51cdc8b1dac9f1ea61b",
+    "version_id": "7a843d9a6fdd8aeedd1a36009fb6662f8822b8353b6a7b7563c38c9acd7bca62",
+    "status": "new"
+  },
+  {
+    "date": "2026-05-19",
+    "start": "2026-05-19T06:00:00+00:00",
+    "end": "2026-05-19T09:00:00+00:00",
+    "value": 1,
+    "summary": "CC",
+    "description": "(No description)",
+    "calendar_name": "Work creative clicks",
+    "new_date": "2026-05-19",
+    "new_start": "2026-05-19T06:00:00+00:00",
+    "new_end": "2026-05-19T09:00:00+00:00",
+    "id": "f507ffd3f2d3dbb53720098b4cf47703d6805c556fa804ccc3c822bf1524cd1d",
+    "version_id": "c6533557f9fa7938db10fcff143a67439f6369ac9aa7123a5d46a67aef6067d8",
+    "status": "new"
   }
 ]
