@@ -4179,11 +4179,10 @@
     "summary": "gym",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2026-05-21",
-    "new_start": "2026-05-21T04:30:00+00:00",
-    "new_end": "2026-05-21T05:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "904b6adf0863594382eeffc50000752e54496075f50309342a8725bb318be385",
-    "version_id": "f6a01b58eba6996522262f431d5f8d5e56e57bdbf8458de8131d09b021f1342c",
-    "status": "new"
+    "version_id": "f6a01b58eba6996522262f431d5f8d5e56e57bdbf8458de8131d09b021f1342c"
   }
 ]

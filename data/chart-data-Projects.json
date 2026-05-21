@@ -2499,12 +2499,11 @@
     "summary": "course",
     "description": "v.0 finished\nuploading to an account",
     "calendar_name": "Projects",
-    "new_date": "2026-05-19",
-    "new_start": "2026-05-19T07:30:00+00:00",
-    "new_end": "2026-05-19T09:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "e0ff5f9acb8e0f980b8f94ffd41c2b3ff6ec70fc605c65ac8de52be5dd79ceb7",
-    "version_id": "68a5341909270682f80974afb8337a9b6f7375484941a978e63ecb2b1aabad2f",
-    "status": "new"
+    "version_id": "68a5341909270682f80974afb8337a9b6f7375484941a978e63ecb2b1aabad2f"
   },
   {
     "date": "2026-05-19",
