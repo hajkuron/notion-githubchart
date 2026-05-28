@@ -259,11 +259,10 @@
     "summary": "video",
     "description": "(No description)",
     "calendar_name": "Learning",
-    "new_date": "2026-05-26",
-    "new_start": "2026-05-26T15:30:00+00:00",
-    "new_end": "2026-05-26T16:15:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "9c7899924299ef8a62d53c690eea033e0cdac412c7fa20bbb345814e762a9fc2",
-    "version_id": "91a539161403527bc690bfbb17c47a0735729095dc5d06cffee18ad56ae4c84c",
-    "status": "new"
+    "version_id": "91a539161403527bc690bfbb17c47a0735729095dc5d06cffee18ad56ae4c84c"
   }
 ]
