@@ -1897,11 +1897,10 @@
     "summary": "cc",
     "description": "(No description)",
     "calendar_name": "Work creative clicks",
-    "new_date": "2026-05-28",
-    "new_start": "2026-05-28T07:00:00+00:00",
-    "new_end": "2026-05-28T11:55:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "6c0ce68f7454e2895305da1b5428319429eb06d78084981a6e7bffdc03ae5b2f",
-    "version_id": "d9adc44eda9203c61da12073d3f01d748682c36112811002104a0b8dd19d0096",
-    "status": "new"
+    "version_id": "d9adc44eda9203c61da12073d3f01d748682c36112811002104a0b8dd19d0096"
   }
 ]

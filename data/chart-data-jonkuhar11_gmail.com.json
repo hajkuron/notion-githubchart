@@ -7572,5 +7572,20 @@
     "new_end": "",
     "id": "aae7dbe5eaf58b140bd8ffeebdf32112caae6d3886eca6fc7d16e6f84145e3e3",
     "version_id": "976e0e7c2b140ece462e935d8d3f379af2275a7879d397f4ba1d34f12848a6c3"
+  },
+  {
+    "date": "2026-05-29",
+    "start": "2026-05-29T12:00:00+00:00",
+    "end": "2026-05-29T13:00:00+00:00",
+    "value": 1,
+    "summary": "alja letalisce",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2026-05-29",
+    "new_start": "2026-05-29T12:00:00+00:00",
+    "new_end": "2026-05-29T13:00:00+00:00",
+    "id": "13b9df3cf0a30d66ec268ed5fe3ad00057b3455cde3560e5ba21b196e7623b63",
+    "version_id": "5a40e6927e03cf1af542ceb4e57530d103283d9efcf657c99df6439f37590bed",
+    "status": "new"
   }
 ]
