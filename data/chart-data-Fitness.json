@@ -4235,11 +4235,10 @@
     "summary": "football",
     "description": "(No description)",
     "calendar_name": "Fitness",
-    "new_date": "2026-05-31",
-    "new_start": "2026-05-31T14:00:00+00:00",
-    "new_end": "2026-05-31T15:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "da964d4d3e1b26e7cb3836c5a814e7ffac99d3e11f5ff48d75d68e58b1f822b1",
-    "version_id": "c231f93e945f98665ad363521c140eac9abffdbb3ef9d9ce413534dc773fc809",
-    "status": "new"
+    "version_id": "c231f93e945f98665ad363521c140eac9abffdbb3ef9d9ce413534dc773fc809"
   }
 ]
