@@ -2588,5 +2588,20 @@
     "new_end": "",
     "id": "d83d1fb3bbc1a38f71962527cd546ad7612bffeed855332666030a671f120e26",
     "version_id": "7af8e86d8c08673572c1a1bc39ce6ac9a846aefb422813ee9ee686e1bcf48e63"
+  },
+  {
+    "date": "2026-06-03",
+    "start": "2026-06-03T12:30:00+00:00",
+    "end": "2026-06-03T15:00:00+00:00",
+    "value": 1,
+    "summary": "eddie site meeting + implement",
+    "description": "(No description)",
+    "calendar_name": "Projects",
+    "new_date": "2026-06-03",
+    "new_start": "2026-06-03T12:30:00+00:00",
+    "new_end": "2026-06-03T15:00:00+00:00",
+    "id": "9a33cd29896cf91a38ea5a6a419b563ff9fd9f0cc225b94db1dd29c9591067c2",
+    "version_id": "aa4bdf14833014a07999e952be9aaf68dceb944df386dd5e99424cb8d1a41f96",
+    "status": "new"
   }
 ]
