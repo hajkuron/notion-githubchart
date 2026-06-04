@@ -2597,11 +2597,10 @@
     "summary": "eddie site meeting + implement",
     "description": "(No description)",
     "calendar_name": "Projects",
-    "new_date": "2026-06-03",
-    "new_start": "2026-06-03T12:30:00+00:00",
-    "new_end": "2026-06-03T15:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "9a33cd29896cf91a38ea5a6a419b563ff9fd9f0cc225b94db1dd29c9591067c2",
-    "version_id": "aa4bdf14833014a07999e952be9aaf68dceb944df386dd5e99424cb8d1a41f96",
-    "status": "new"
+    "version_id": "aa4bdf14833014a07999e952be9aaf68dceb944df386dd5e99424cb8d1a41f96"
   }
 ]
