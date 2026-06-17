@@ -595,11 +595,10 @@
     "summary": "Zobar",
     "description": "(No description)",
     "calendar_name": "Home",
-    "new_date": "2026-06-16",
-    "new_start": "2026-06-16T06:00:00+00:00",
-    "new_end": "2026-06-16T07:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "95a5e39cd9a68c8138d253d50269fa7e72706710a23276e8c4ac9437792532ae",
-    "version_id": "0ae7dc3c9b431803bd48559ca018710e754bd58579985f4244e095e12a2a8468",
-    "status": "new"
+    "version_id": "0ae7dc3c9b431803bd48559ca018710e754bd58579985f4244e095e12a2a8468"
   }
 ]
