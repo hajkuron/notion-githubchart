@@ -7600,5 +7600,20 @@
     "new_end": "",
     "id": "353d8d07eda5fc9c040a964e45173389d644bf1782d86ce53eab514941ffdc89",
     "version_id": "ab5cb4be921e7dc1f18b765aa20eed04f25b3baa92408d30252bfbd682ed64b5"
+  },
+  {
+    "date": "2026-06-25",
+    "start": "2026-06-25T07:00:00+00:00",
+    "end": "2026-06-25T10:00:00+00:00",
+    "value": 1,
+    "summary": "klima",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2026-06-25",
+    "new_start": "2026-06-25T07:00:00+00:00",
+    "new_end": "2026-06-25T10:00:00+00:00",
+    "id": "7888d6c9028e69069e68450bdcee6cb70e9ae32edd798a0c96f3446224cab0aa",
+    "version_id": "628e7e5c1c28dfcc3fd73da675e66180d9b1b59da27e52a69000cfd2d258d942",
+    "status": "new"
   }
 ]
