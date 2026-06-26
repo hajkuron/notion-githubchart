@@ -7609,11 +7609,10 @@
     "summary": "klima",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2026-06-25",
-    "new_start": "2026-06-25T07:00:00+00:00",
-    "new_end": "2026-06-25T10:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "7888d6c9028e69069e68450bdcee6cb70e9ae32edd798a0c96f3446224cab0aa",
-    "version_id": "628e7e5c1c28dfcc3fd73da675e66180d9b1b59da27e52a69000cfd2d258d942",
-    "status": "new"
+    "version_id": "628e7e5c1c28dfcc3fd73da675e66180d9b1b59da27e52a69000cfd2d258d942"
   }
 ]
