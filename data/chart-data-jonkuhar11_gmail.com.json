@@ -7623,12 +7623,11 @@
     "summary": "watch",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2026-07-02",
-    "new_start": "2026-07-02T08:45:00+00:00",
-    "new_end": "2026-07-02T10:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "ed9810fd5d8e9381ffced755bfccb5bcb668826435898be4063aad1f234c14e9",
-    "version_id": "1295db9d6b4ae076edd97bcfb6ff48142150d6092b3dba82e066cbb6a330f91a",
-    "status": "new"
+    "version_id": "1295db9d6b4ae076edd97bcfb6ff48142150d6092b3dba82e066cbb6a330f91a"
   },
   {
     "date": "2026-07-02",
@@ -7638,12 +7637,11 @@
     "summary": "call",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2026-07-02",
-    "new_start": "2026-07-02T10:00:00+00:00",
-    "new_end": "2026-07-02T10:15:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "f4b38d69a27faa660986d2b064f7a2de792f38c93295b72029da33abd20be641",
-    "version_id": "28ac1d5b209d9a850bb66977c67559bd7749276e8ee089f70ef8aa8f09b4d269",
-    "status": "new"
+    "version_id": "28ac1d5b209d9a850bb66977c67559bd7749276e8ee089f70ef8aa8f09b4d269"
   },
   {
     "date": "2026-07-02",
@@ -7653,12 +7651,11 @@
     "summary": "murgle, paket print, auto, ferma scetka, naroci interior",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2026-07-02",
-    "new_start": "2026-07-02T10:15:00+00:00",
-    "new_end": "2026-07-02T12:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "84776c563e0338644533fd9939133a029d06d87db587f7ebb1e00e94c73e59c8",
-    "version_id": "f726fadcef9c9e530184c4bec315776863a060d98a990fc1981f2ba5768c1e70",
-    "status": "new"
+    "version_id": "f726fadcef9c9e530184c4bec315776863a060d98a990fc1981f2ba5768c1e70"
   },
   {
     "date": "2026-07-02",
@@ -7668,12 +7665,11 @@
     "summary": "work",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2026-07-02",
-    "new_start": "2026-07-02T12:30:00+00:00",
-    "new_end": "2026-07-02T17:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "134e3a7172dc51c8cea91e4aec05ffd91a9b15079359c983b21acca053067ea1",
-    "version_id": "a5c09210414ff9d56b88b7c1b376c3cad5c33fb79fde9f0613d19518a0a380bf",
-    "status": "new"
+    "version_id": "a5c09210414ff9d56b88b7c1b376c3cad5c33fb79fde9f0613d19518a0a380bf"
   },
   {
     "date": "2026-07-02",
@@ -7683,11 +7679,10 @@
     "summary": "basket, tekma",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2026-07-02",
-    "new_start": "2026-07-02T17:30:00+00:00",
-    "new_end": "2026-07-02T20:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "25fa01a497af6f40f409f1672d6400c97cb6b6e8f9b8a491855b5d8982aa510a",
-    "version_id": "ae1d5dd89bfc4a1fa3e95045ba4f1cc149cb196ab808b385578ca73744bc9c73",
-    "status": "new"
+    "version_id": "ae1d5dd89bfc4a1fa3e95045ba4f1cc149cb196ab808b385578ca73744bc9c73"
   }
 ]
