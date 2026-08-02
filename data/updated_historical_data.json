@@ -142693,5 +142693,20 @@
     "id": "065fb5622d49fd99841a6f4f2e4a1caf2a98b0b522551df3fb006eb7714665e1",
     "version_id": "ad8c75aa593395203175da2d637bca7b5a4171a5f8d0fa542bde1f145c04ef5a",
     "status": "unchanged"
+  },
+  {
+    "date": "2026-08-03",
+    "start": "2026-08-03T00:00:00+00:00",
+    "end": "2026-08-04T00:00:00+00:00",
+    "value": 1,
+    "summary": "Happy birthday!",
+    "description": "(No description)",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2026-08-03",
+    "new_start": "2026-08-03T00:00:00+00:00",
+    "new_end": "2026-08-04T00:00:00+00:00",
+    "id": "c73c99f1c538e9c9724be91ab5106e8402f4c38c528031db4a521dd26c209325",
+    "version_id": "0bac28f0c20e7b8adec47475d464c35567ad1e6d96479f6cc2730dde23e11f71",
+    "status": "new"
   }
 ]
