@@ -7847,11 +7847,10 @@
     "summary": "Happy birthday!",
     "description": "(No description)",
     "calendar_name": "jonkuhar11@gmail.com",
-    "new_date": "2026-08-03",
-    "new_start": "2026-08-03T00:00:00+00:00",
-    "new_end": "2026-08-04T00:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "c73c99f1c538e9c9724be91ab5106e8402f4c38c528031db4a521dd26c209325",
-    "version_id": "0bac28f0c20e7b8adec47475d464c35567ad1e6d96479f6cc2730dde23e11f71",
-    "status": "new"
+    "version_id": "0bac28f0c20e7b8adec47475d464c35567ad1e6d96479f6cc2730dde23e11f71"
   }
 ]
