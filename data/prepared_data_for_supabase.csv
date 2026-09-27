@@ -1,5 +1,10 @@
 date,start,end,value,summary,description,calendar_name,new_date,new_start,new_end,id,version_id,status,duration,deleted
-2026-09-05,2026-09-05T19:05:00+00:00,2026-09-05T20:55:00+00:00,1.0,Flight to Ljubljana (KL 1991),"To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
+2026-09-24,2026-09-24T09:00:00+00:00,2026-09-24T09:00:00+00:00,1.0,Hanci❤️,(No description),Home,2026-09-24,2026-09-24T09:00:00+00:00,2026-09-24T09:00:00+00:00,e4256747d2e2972c2871f6fb7e4670aa8573e1e85523678aa3ea21fbec7f9c0e,c681abcad1b71b52ed13f0efa4f5e8af16ab471213ac578b3f032e3d2813291b,new,0.0,False
+2026-09-22,2026-09-22T00:00:00+00:00,2026-09-28T00:00:00+00:00,1.0,Stay at Tiga Studios - Modernes Studio mit privatem Pool,"To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
 
-This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DOD3mr_h8tcMTAiivajKWtys8A4jqdY1iM
-",jonkuhar11@gmail.com,2026-09-05,2026-09-05T19:05:00+00:00,2026-09-05T20:55:00+00:00,7d643d12b3807cd0e82576e250eb2b3957334100a6436260f48d460ff934d695,4c952034010d89247756ccdcbeebf785043b22f18251d1fe7ff2086f7493f027,unchanged,110.0,False
+This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DOgFAXeXbD_tq4RNvLKLMrUaP2NTwnmCwc
+",jonkuhar11@gmail.com,2026-09-22,2026-09-22T00:00:00+00:00,2026-09-28T00:00:00+00:00,bf17f0f917ffd3eceb24bc1ff82a2a3d57b31fa89382967733e5c49bfc9c19fc,a6b569c6b5ff4141498b426c18d38a1bc360c57b4b591bb2cf3b5e640b286626,new,8640.0,False
+2026-09-27,2026-09-27T02:35:00+00:00,2026-09-27T03:20:00+00:00,1.0,Flight to Denpasar (IW 1849),"To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
+
+This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DNSZ-YZJqD3QiBh4TSJRl8xbTNbtlttrB4
+",jonkuhar11@gmail.com,2026-09-27,2026-09-27T02:35:00+00:00,2026-09-27T03:20:00+00:00,8855f1adfa26d3d004a92474444260096cd6de74421e163830d51d4520a1542d,7a1bd2ca071b0ddec86bb8de460d445af657b4ea10c053d49804f9a81faf43a7,new,45.0,False
