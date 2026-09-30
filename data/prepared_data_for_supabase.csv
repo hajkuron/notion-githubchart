@@ -1,6 +1,9 @@
 date,start,end,value,summary,description,calendar_name,new_date,new_start,new_end,id,version_id,status,duration,deleted
-2026-09-24,2026-09-24T09:00:00+00:00,2026-09-24T09:00:00+00:00,1.0,Hanci❤️,(No description),Home,2026-09-24,2026-09-24T09:00:00+00:00,2026-09-24T09:00:00+00:00,e4256747d2e2972c2871f6fb7e4670aa8573e1e85523678aa3ea21fbec7f9c0e,c681abcad1b71b52ed13f0efa4f5e8af16ab471213ac578b3f032e3d2813291b,unchanged,0.0,False
 2026-09-27,2026-09-27T02:35:00+00:00,2026-09-27T03:20:00+00:00,1.0,Flight to Denpasar (IW 1849),"To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
 
 This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DNSZ-YZJqD3QiBh4TSJRl8xbTNbtlttrB4
 ",jonkuhar11@gmail.com,2026-09-27,2026-09-27T02:35:00+00:00,2026-09-27T03:20:00+00:00,8855f1adfa26d3d004a92474444260096cd6de74421e163830d51d4520a1542d,7a1bd2ca071b0ddec86bb8de460d445af657b4ea10c053d49804f9a81faf43a7,unchanged,45.0,False
+2026-09-30,2026-09-30T12:45:00+00:00,2026-10-01T01:45:00+00:00,1.0,Flight to İstanbul (TK 67),"To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar
+
+This event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DPyL-1UAslU7yHRMiB_ehAZWHsVfywaSkA
+",jonkuhar11@gmail.com,2026-09-30,2026-09-30T12:45:00+00:00,2026-10-01T01:45:00+00:00,94dacd4fbf94a29fdab5acce3be675e0495a90f43ae1129b06ead61abb2bb973,bb9964a894f3a8d8c622acb2f638296579879478bf375b7432bfa472d1e20a58,new,780.0,False
