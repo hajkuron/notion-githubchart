@@ -301,11 +301,10 @@
     "summary": "work",
     "description": "(No description)",
     "calendar_name": "Business",
-    "new_date": "2026-10-03",
-    "new_start": "2026-10-03T08:30:00+00:00",
-    "new_end": "2026-10-03T10:30:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "9d34027b3fafd213f8eca031c3c10b60351a7f7d56b812f7b4619c6c0052ded1",
-    "version_id": "7e569447f312d0cb72b8b5f69a011d1999593af8f22bda961b6f0418788f4b1e",
-    "status": "new"
+    "version_id": "7e569447f312d0cb72b8b5f69a011d1999593af8f22bda961b6f0418788f4b1e"
   }
 ]
