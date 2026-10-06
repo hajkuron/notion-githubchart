@@ -306,5 +306,20 @@
     "new_end": "",
     "id": "9d34027b3fafd213f8eca031c3c10b60351a7f7d56b812f7b4619c6c0052ded1",
     "version_id": "7e569447f312d0cb72b8b5f69a011d1999593af8f22bda961b6f0418788f4b1e"
+  },
+  {
+    "date": "2026-10-06",
+    "start": "2026-10-06T12:30:00+00:00",
+    "end": "2026-10-06T15:00:00+00:00",
+    "value": 1,
+    "summary": "New Event",
+    "description": "(No description)",
+    "calendar_name": "Business",
+    "new_date": "2026-10-06",
+    "new_start": "2026-10-06T12:30:00+00:00",
+    "new_end": "2026-10-06T15:00:00+00:00",
+    "id": "624815b16393c1bb04c6f336a878b02485ed914ff79e699b33746f33450595d4",
+    "version_id": "5936eb01f20bba77af4380e7358dcf6cd0612f77e66dd73a73be244a8119d515",
+    "status": "new"
   }
 ]

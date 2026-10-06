@@ -123270,6 +123270,21 @@
     "status": "unchanged"
   },
   {
+    "date": "2026-10-06",
+    "start": "2026-10-06T12:30:00+00:00",
+    "end": "2026-10-06T15:00:00+00:00",
+    "value": 1,
+    "summary": "New Event",
+    "description": "(No description)",
+    "calendar_name": "Business",
+    "new_date": "2026-10-06",
+    "new_start": "2026-10-06T12:30:00+00:00",
+    "new_end": "2026-10-06T15:00:00+00:00",
+    "id": "624815b16393c1bb04c6f336a878b02485ed914ff79e699b33746f33450595d4",
+    "version_id": "5936eb01f20bba77af4380e7358dcf6cd0612f77e66dd73a73be244a8119d515",
+    "status": "new"
+  },
+  {
     "date": "2024-09-10",
     "start": "2024-09-10T06:30:00+00:00",
     "end": "2024-09-10T07:30:00+00:00",
@@ -127995,6 +128010,21 @@
     "status": "unchanged"
   },
   {
+    "date": "2026-10-06",
+    "start": "2026-10-06T04:30:00+00:00",
+    "end": "2026-10-06T05:30:00+00:00",
+    "value": 1,
+    "summary": "gym",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2026-10-06",
+    "new_start": "2026-10-06T04:30:00+00:00",
+    "new_end": "2026-10-06T05:30:00+00:00",
+    "id": "e1bd5a5b54af3532869bd2dd87fd4b5b2b1201d0087b3e5defe398919ba22e62",
+    "version_id": "6ff18b77b4d997fb545ecd6cf3f28af47540fd647838aa13932ca5fa36e11c05",
+    "status": "new"
+  },
+  {
     "date": "2024-09-17",
     "start": "2024-09-17T06:00:00+00:00",
     "end": "2024-09-17T13:00:00+00:00",
@@ -130243,6 +130273,21 @@
     "id": "b6332cc573532a1f7acc29a9ee0f3e8f14cac8105b63dd345a97f3519984c8a8",
     "version_id": "d7c91d09e576c9e2d1f7d3d7ed10778977a8a92a02aec1741555a9767c1bf788",
     "status": "unchanged"
+  },
+  {
+    "date": "2026-10-06",
+    "start": "2026-10-06T06:30:00+00:00",
+    "end": "2026-10-06T11:00:00+00:00",
+    "value": 1,
+    "summary": "CC",
+    "description": "(No description)",
+    "calendar_name": "Work creative clicks",
+    "new_date": "2026-10-06",
+    "new_start": "2026-10-06T06:30:00+00:00",
+    "new_end": "2026-10-06T11:00:00+00:00",
+    "id": "be83c272137aa2c2e1fe379480aceb425da063371ef98fd88079638ede02a15b",
+    "version_id": "d3e5f424860b20bf4c6d06481a8752336330727b28081ca6b5d62461376277ad",
+    "status": "new"
   },
   {
     "date": "2024-09-23",
