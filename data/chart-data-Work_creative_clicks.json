@@ -1986,5 +1986,20 @@
     "new_end": "",
     "id": "be83c272137aa2c2e1fe379480aceb425da063371ef98fd88079638ede02a15b",
     "version_id": "d3e5f424860b20bf4c6d06481a8752336330727b28081ca6b5d62461376277ad"
+  },
+  {
+    "date": "2026-10-09",
+    "start": "2026-10-09T06:00:00+00:00",
+    "end": "2026-10-09T10:00:00+00:00",
+    "value": 1,
+    "summary": "CC work",
+    "description": "(No description)",
+    "calendar_name": "Work creative clicks",
+    "new_date": "2026-10-09",
+    "new_start": "2026-10-09T06:00:00+00:00",
+    "new_end": "2026-10-09T10:00:00+00:00",
+    "id": "4233cf257881deadb9e8c9edb04878fb38981b86481a1857b17eaa8026a1ae21",
+    "version_id": "cb1d4964b1649a8d0ae629afe1d8802e299a6d46e87c9e62d23a64fc7d4381a0",
+    "status": "new"
   }
 ]

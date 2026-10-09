@@ -4282,5 +4282,20 @@
     "new_end": "",
     "id": "e1bd5a5b54af3532869bd2dd87fd4b5b2b1201d0087b3e5defe398919ba22e62",
     "version_id": "6ff18b77b4d997fb545ecd6cf3f28af47540fd647838aa13932ca5fa36e11c05"
+  },
+  {
+    "date": "2026-10-08",
+    "start": "2026-10-08T04:30:00+00:00",
+    "end": "2026-10-08T05:30:00+00:00",
+    "value": 1,
+    "summary": "gym",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2026-10-08",
+    "new_start": "2026-10-08T04:30:00+00:00",
+    "new_end": "2026-10-08T05:30:00+00:00",
+    "id": "33c6b536a8fcbbbc19c5f360276e9d57c282e9f08353434b5ec97069e7d5c200",
+    "version_id": "65a05d07d6ab63dd71a66ac4dcce53ee7856420b80714f3297a915dc6db3b24d",
+    "status": "new"
   }
 ]
