@@ -2000,5 +2000,50 @@
     "new_end": "",
     "id": "4233cf257881deadb9e8c9edb04878fb38981b86481a1857b17eaa8026a1ae21",
     "version_id": "cb1d4964b1649a8d0ae629afe1d8802e299a6d46e87c9e62d23a64fc7d4381a0"
+  },
+  {
+    "date": "2026-10-12",
+    "start": "2026-10-12T09:00:00+00:00",
+    "end": "2026-10-12T12:00:00+00:00",
+    "value": 1,
+    "summary": "New Event",
+    "description": "(No description)",
+    "calendar_name": "Work creative clicks",
+    "new_date": "2026-10-12",
+    "new_start": "2026-10-12T09:00:00+00:00",
+    "new_end": "2026-10-12T12:00:00+00:00",
+    "id": "73b266b6e25fd48c460695a4fd5eac66a2c6c2ff410c09d16f1877d439ef67b5",
+    "version_id": "66bde7dcc75e53c7dd9e75a8a41a40cc43fadbc33af89edbfca4e876780894fa",
+    "status": "new"
+  },
+  {
+    "date": "2026-10-13",
+    "start": "2026-10-13T06:00:00+00:00",
+    "end": "2026-10-13T09:00:00+00:00",
+    "value": 1,
+    "summary": "New Event",
+    "description": "(No description)",
+    "calendar_name": "Work creative clicks",
+    "new_date": "2026-10-13",
+    "new_start": "2026-10-13T06:00:00+00:00",
+    "new_end": "2026-10-13T09:00:00+00:00",
+    "id": "69627d740e74b62568602da88df072cdbe7b2dc97730d0c38830cbf66d478695",
+    "version_id": "92a12c88a3a241db841bffe04591dbdbdf6177454bd5f4ce3f70e4154b3c80f7",
+    "status": "new"
+  },
+  {
+    "date": "2026-10-14",
+    "start": "2026-10-14T06:00:00+00:00",
+    "end": "2026-10-14T09:00:00+00:00",
+    "value": 1,
+    "summary": "New Event",
+    "description": "(No description)",
+    "calendar_name": "Work creative clicks",
+    "new_date": "2026-10-14",
+    "new_start": "2026-10-14T06:00:00+00:00",
+    "new_end": "2026-10-14T09:00:00+00:00",
+    "id": "37dc4398ea7851a2b5b39f8b6edb91b31ca96c48c2d9903b99dd50020ab603bd",
+    "version_id": "c34f73d29a05dd2b385f52094e57676beea35e962cc14acc06307ca72e0a9f60",
+    "status": "new"
   }
 ]

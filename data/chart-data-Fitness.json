@@ -4296,5 +4296,35 @@
     "new_end": "",
     "id": "33c6b536a8fcbbbc19c5f360276e9d57c282e9f08353434b5ec97069e7d5c200",
     "version_id": "65a05d07d6ab63dd71a66ac4dcce53ee7856420b80714f3297a915dc6db3b24d"
+  },
+  {
+    "date": "2026-10-13",
+    "start": "2026-10-13T05:00:00+00:00",
+    "end": "2026-10-13T06:00:00+00:00",
+    "value": 1,
+    "summary": "gym",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2026-10-13",
+    "new_start": "2026-10-13T05:00:00+00:00",
+    "new_end": "2026-10-13T06:00:00+00:00",
+    "id": "f7e414d62517dc84d8566393a23755067a276b7fd506dc0ba10163587c5cb608",
+    "version_id": "208ca0acb14a460337aea6ebdeca89be9df04a6d4ebb1d26a1e1603a43ee13a8",
+    "status": "new"
+  },
+  {
+    "date": "2026-10-14",
+    "start": "2026-10-14T05:00:00+00:00",
+    "end": "2026-10-14T06:00:00+00:00",
+    "value": 1,
+    "summary": "gym",
+    "description": "(No description)",
+    "calendar_name": "Fitness",
+    "new_date": "2026-10-14",
+    "new_start": "2026-10-14T05:00:00+00:00",
+    "new_end": "2026-10-14T06:00:00+00:00",
+    "id": "cf5c0bd2b5cc0cae1577e6ab3a677d992996282169cd881e1dd6f2cad06b4126",
+    "version_id": "1d65b528e6e8060ec5cd64bbde908ac8ce0426d40fdb9d437396d7ebd6cbef98",
+    "status": "new"
   }
 ]
