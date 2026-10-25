@@ -679,11 +679,10 @@
     "summary": "Hanci\u2764\ufe0f",
     "description": "(No description)",
     "calendar_name": "Home",
-    "new_date": "2026-10-24",
-    "new_start": "2026-10-24T09:00:00+00:00",
-    "new_end": "2026-10-24T09:00:00+00:00",
+    "new_date": "",
+    "new_start": "",
+    "new_end": "",
     "id": "aaf2675c697243f7f8a7552406a7d899af9ea86567a11d6941201a2393338335",
-    "version_id": "19e142b764a14fdf7a56f4697cd1c6d37092810982be1458d0fb43a2f56bd309",
-    "status": "new"
+    "version_id": "19e142b764a14fdf7a56f4697cd1c6d37092810982be1458d0fb43a2f56bd309"
   }
 ]
