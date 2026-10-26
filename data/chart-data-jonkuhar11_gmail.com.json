@@ -7978,5 +7978,20 @@
     "new_end": "",
     "id": "b7c84a6ffbecb8625e1a4319cb010d32a8ba5b5be682bfbcf3ed2029ddcd198c",
     "version_id": "973972e2ad0a23e645843473297566840c0d575ae1510fe05f18f035ff0b3f41"
+  },
+  {
+    "date": "2026-10-26",
+    "start": "2026-10-26T09:30:00+00:00",
+    "end": "2026-10-26T10:30:00+00:00",
+    "value": 1,
+    "summary": "Mo\u0161ko stri\u017eenje dolgi lasje",
+    "description": "&#128205;: Igri\u0161ka ulica 14, 1000 Ljubljana",
+    "calendar_name": "jonkuhar11@gmail.com",
+    "new_date": "2026-10-26",
+    "new_start": "2026-10-26T09:30:00+00:00",
+    "new_end": "2026-10-26T10:30:00+00:00",
+    "id": "d2940522c324686c7731936312e90791897e2c5bd3e3976c66f2d106a10f2541",
+    "version_id": "ad1eb9097107a3d02dde8866b249a96aabe60fc7ac24d79626119dc8b9770bc3",
+    "status": "new"
   }
 ]
