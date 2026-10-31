@@ -684,5 +684,20 @@
     "new_end": "",
     "id": "aaf2675c697243f7f8a7552406a7d899af9ea86567a11d6941201a2393338335",
     "version_id": "19e142b764a14fdf7a56f4697cd1c6d37092810982be1458d0fb43a2f56bd309"
+  },
+  {
+    "date": "2026-10-30",
+    "start": "2026-10-30T00:00:00+00:00",
+    "end": "2026-10-31T00:00:00+00:00",
+    "value": 1,
+    "summary": "Date",
+    "description": "(No description)",
+    "calendar_name": "Home",
+    "new_date": "2026-10-30",
+    "new_start": "2026-10-30T00:00:00+00:00",
+    "new_end": "2026-10-31T00:00:00+00:00",
+    "id": "c681c87db45d7753c31b42a70bbfbed0f21b56a26fb2fd1cfdb46a089d01cd2e",
+    "version_id": "0a5b694a64db084ce93a723031c9cdd049c731d626fafe8567d922705abf4157",
+    "status": "new"
   }
 ]
